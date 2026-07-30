@@ -1,16 +1,18 @@
-# frontend/Dockerfile - NURU Frontend (Gradio)
-FROM python:3.11-slim
+FROM node:20-slim
 
 WORKDIR /app
 
-RUN pip install --no-cache-dir gradio==6.20.0 "requests>=2.31.0"
+COPY frontend/package*.json ./
 
-COPY frontend/ ./frontend/
+RUN npm ci
 
-EXPOSE 7860
+COPY frontend/ ./
 
-ENV PYTHONUNBUFFERED=1 \
-    API_URL=http://backend:8080 \
-    GRADIO_PORT=7860
+ENV NEXT_PUBLIC_API_URL=http://backend:8080
+ENV PORT=3000
 
-CMD ["python", "-m", "frontend.gradio_app"]
+EXPOSE 3000
+
+RUN npm run build
+
+CMD ["npm", "start"]

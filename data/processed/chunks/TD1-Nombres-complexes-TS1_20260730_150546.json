@@ -1,0 +1,366 @@
+{
+  "source": "data/raw/exercices/TD1-Nombres-complexes-TS1.pdf",
+  "timestamp": "2026-07-30T15:05:46.150561",
+  "chunks": [
+    {
+      "text": "Mousty classe TS1                                                                  Mr Gueye\nNombres complexes",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Nombres complexes",
+        "serie": "TS1",
+        "source": "data/raw/exercices/TD1-Nombres-complexes-TS1.pdf",
+        "filename": "TD1-Nombres-complexes-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "22175af6586466ed",
+        "difficulty_level": "basic",
+        "chunk_category": "course"
+      },
+      "start_line": 2,
+      "end_line": 3
+    },
+    {
+      "text": "Exercice 1 :\n1z et\n2z sont deux nombre complexes tel que :\n1-Ecrire sous forme exponentielle\n1z et\n2z .\n2-En déduire la forme algébrique des nombres complexes suivants :\n1 2\nz z ;\n; ( )",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Nombres complexes",
+        "serie": "TS1",
+        "source": "data/raw/exercices/TD1-Nombres-complexes-TS1.pdf",
+        "filename": "TD1-Nombres-complexes-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "22175af6586466ed",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 39,
+      "end_line": 48
+    },
+    {
+      "text": "Exercice2 :\nSoit\n= !\n1-Determiner le module et un argument de z et\n,z .\n2-Ecrire\nsous forme algébrique, puis sous forme trigonométrique.\n3-En déduire les valeurs exactes de  cos12\n!  et   sin12\n! .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Nombres complexes",
+        "serie": "TS1",
+        "source": "data/raw/exercices/TD1-Nombres-complexes-TS1.pdf",
+        "filename": "TD1-Nombres-complexes-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "22175af6586466ed",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 65,
+      "end_line": 74
+    },
+    {
+      "text": "Exercice3\n1-Soit z un nombre complexe de module 1 et d argument  ! :montrer que\n2cos\n.Démontrer que\n! \"\n2cos\n2-Soit la suite  (\nn IN\n! définie par :\n= + et\nIN z\n! \"\n= #\na-Montrer que la suite réelle  (\nn IN\n! est une suite géométrique.Preciser sa raison et son\npremier terme.\nb-Exprimer arg\nnz en fonction de n, puis\nnz en fonction de\n0z et n.\nc-Peut –on trouver n pour que\nnz soit réel ? Imaginaire pur ?\n3-Soit\n1 cos\ncos2\n....cos\ncos\n= +\nsin\nsin 2\n...sin\nsin\n= \"\nCalculer A\net en déduire A et B.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Nombres complexes",
+        "serie": "TS1",
+        "source": "data/raw/exercices/TD1-Nombres-complexes-TS1.pdf",
+        "filename": "TD1-Nombres-complexes-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "22175af6586466ed",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 163,
+      "end_line": 198
+    },
+    {
+      "text": "Exercice 4\nSoit\n8 3\n= !\n1- a-Donner la forme trigonométrique de z.\nb-Determiner  les racines carrées de z.\n2-Calculer\n3-Preciser les valeurs exactes de\ncos\nsin\n! .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Nombres complexes",
+        "serie": "TS1",
+        "source": "data/raw/exercices/TD1-Nombres-complexes-TS1.pdf",
+        "filename": "TD1-Nombres-complexes-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "22175af6586466ed",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 230,
+      "end_line": 240
+    },
+    {
+      "text": "Exercice5 :\nSoit le complexe\n1-On pose\n! =\n! =\na-Demontrer que\n+ = et en déduire que  ! et  ! sont solutions   de l\néquation\n! = ( )\nb-Exprimer ! en fonction de\ncos 5\nc-Resoudre dans ! l équation  ( )\nE et en déduire la valeur de\ncos 5\n! .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Nombres complexes",
+        "serie": "TS1",
+        "source": "data/raw/exercices/TD1-Nombres-complexes-TS1.pdf",
+        "filename": "TD1-Nombres-complexes-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "22175af6586466ed",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 292,
+      "end_line": 306
+    },
+    {
+      "text": "Exercice6\nPour tout\n, soit\nsin\n........\nsin\nsin\na) Posons\nsin\ncos\nDonner une expression simple de la\nsomme\n......\nDéterminer la partie réelle et la partie imaginaire de cette somme\nEn déduire l’égalité\ntan\nb) Quelle est la limite de la suite\n# $",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Nombres complexes",
+        "serie": "TS1",
+        "source": "data/raw/exercices/TD1-Nombres-complexes-TS1.pdf",
+        "filename": "TD1-Nombres-complexes-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "22175af6586466ed",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 368,
+      "end_line": 385
+    },
+    {
+      "text": "EXERCICE7\nSoit n >0 ;   ! \" ]\n; on considère les expressions\ncos\n! + cos 2 ! cos2! +……..+cos p ! cos p! +…….+cosn ! cos n!\ncos\n' =\n! sin! + cos 2 ! sin2!+……+ cos p !  sin p! +……..+ cosn ! sin n!\nOn pose\nMontrer queT n est la somme des n premiers termes d’une suite géométrique complexe dont\non donnera le premier terme et la raison .\nEn déduire une expression simple deT n , puis deS nen fonction n et ! (on montera que\nsin\nsin\ncos",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Nombres complexes",
+        "serie": "TS1",
+        "source": "data/raw/exercices/TD1-Nombres-complexes-TS1.pdf",
+        "filename": "TD1-Nombres-complexes-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "22175af6586466ed",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 418,
+      "end_line": 432
+    },
+    {
+      "text": "EXERCICE8\nDans l’ensemble C des nombres complexes, on considère l’équation\n1°) préliminaire : quel est le terme constant du polynôme P de la variable\ncomplexe\nsont des nombres complexes\ndonnées ?\n2°) a) Montrer que l’équation (E) admet une solution réelle notée z1et une solution\nimaginaire pour notée z2\nb) Vérifier\n= 2\nest une solution de l’équation (E)\nc) Déterminer alors la solution restantez4de (E)\nd) Montrer que\nest un nombre réel\n3°) Soient\netM 4les points du plan d’affixes respectives\na) Montrer que ces 4 points sont cocycliques\nb) Déterminer la mesure de l’angle oriente (\nc) En déduire l’affixez0 du centre du cercle passant par les points",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Nombres complexes",
+        "serie": "TS1",
+        "source": "data/raw/exercices/TD1-Nombres-complexes-TS1.pdf",
+        "filename": "TD1-Nombres-complexes-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "22175af6586466ed",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 575,
+      "end_line": 593
+    },
+    {
+      "text": "Exercice :\nZ désigne le nombre complexe :\ncos\nsin\n1. Vérifie que\nz ! = . En déduire la relation\n+ +\n2. a.  Exprimer\nz z\nz sous forme trigonométrique.\nb.  Démontrer les égalités :\n2cos 5\n2cos 5\n3. Utiliser les résultats des 1° et 2° pour trouver une relation entre\ncos 5\n! et\ncos 5\n! puis\nmontrer que\ncos 5\n! est racine de l’équation :\n! = . En déduire la valeur de\ncos 5\n! .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Nombres complexes",
+        "serie": "TS1",
+        "source": "data/raw/exercices/TD1-Nombres-complexes-TS1.pdf",
+        "filename": "TD1-Nombres-complexes-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "22175af6586466ed",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 655,
+      "end_line": 678
+    },
+    {
+      "text": "Exercice :\n1. Ecrire sous leur forme trigonométrique, les solutions de l’équation :\nz =\n2. Soit\n\" \"\n# $ . Exprimer, en fonction de ! , la solution de l’équation d’inconnue z :\n3. Résolvez dans ! l’équation :\n# = $\n4. Développez et ordonnez l’expression : (\npuis résolvez dans ! :\n= .\n5. Déduisez des questions précédentes la valeur de tan 5\n! .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Nombres complexes",
+        "serie": "TS1",
+        "source": "data/raw/exercices/TD1-Nombres-complexes-TS1.pdf",
+        "filename": "TD1-Nombres-complexes-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "22175af6586466ed",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 736,
+      "end_line": 748
+    },
+    {
+      "text": "Exercice :\n1. Résoudre dans ! l’équation ( )\nE :\n4 2\n! +\net écrire les solutions sous forme\ntrigonométrique.\n2. Vérifier que 2\nest une solution de ( )\nE . En déduire les solutions de ( )\nE sous\nforme algébrique.\n3. Déduire de ce qui précède les valeurs exactes de\ncos 12\n! et\nsin 12\n! .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Nombres complexes",
+        "serie": "TS1",
+        "source": "data/raw/exercices/TD1-Nombres-complexes-TS1.pdf",
+        "filename": "TD1-Nombres-complexes-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "22175af6586466ed",
+        "chunk_type": "exercice",
+        "competences": [
+          "résoudre"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 764,
+      "end_line": 780
+    },
+    {
+      "text": "Exercice :\nOn considère le polynôme P défini par : ( )\n63.\nP Z\n1. Calculer (\nP i\net (\n, puis montrer qu’il existe un polynôme du second degré\nà coefficients réels, que l’on déterminera, tel que pour tout Z !! , on ait\n( )(\n) ( )\nP Z\nQ Z\n2. Résoudre dans l’ensemble des nombres complexes ! : ( )\nP Z = .\n3. Placer dans le plan complexe rapporté à un repère orthonormal (\n; ,\nO u v\n! !\nles points A,\nB, C et D d’affixes respectives\n= !\n= +\n, puis\nmontrer que ces quatre points sont sur un même cercle.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Nombres complexes",
+        "serie": "TS1",
+        "source": "data/raw/exercices/TD1-Nombres-complexes-TS1.pdf",
+        "filename": "TD1-Nombres-complexes-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "22175af6586466ed",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "résoudre"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 835,
+      "end_line": 859
+    },
+    {
+      "text": "Exercice :\n1) Exprimer 1 cos2!\nen fonction de sin! et exprimer sin 2! en fonction de sin! et\ncos! .\n2 2\n! !\n$ % &\n, résoudre dans ! :  (\n2 1 cos2\n2 sin2\n+ = .\n3) Calculer le module et un argument de chacune des solutions\n1z et\n2z dans le cas où\nl’équation admet deux solutions distinctes.\nSoit\n( )\nz et\net (\n; ,\nO i j\n! !\nun repère orthonormé.\n4) a) Montrer que le triangle\nOM M est isocèle.\nb) Trouver ! pour que le triangle\nOM M soit rectangle.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Nombres complexes",
+        "serie": "TS1",
+        "source": "data/raw/exercices/TD1-Nombres-complexes-TS1.pdf",
+        "filename": "TD1-Nombres-complexes-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "22175af6586466ed",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "résoudre"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 893,
+      "end_line": 919
+    }
+  ]
+}

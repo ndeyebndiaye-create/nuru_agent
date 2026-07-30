@@ -183,7 +183,10 @@ export async function generateStudentQuiz(payload: {
       difficulty: payload.difficulty || 'intermediate'
     }),
   });
-  if (!res.ok) throw new Error("Erreur lors de la génération du quiz");
+  if (!res.ok) {
+    const err = await res.json().catch(() => ({}));
+    throw new Error(err.detail || "Erreur lors de la génération du quiz");
+  }
   return res.json();
 }
 
@@ -202,7 +205,10 @@ export async function generateStudentExercise(payload: {
       num_questions: 1
     }),
   });
-  if (!res.ok) throw new Error("Erreur lors de la génération de l'exercice");
+  if (!res.ok) {
+    const err = await res.json().catch(() => ({}));
+    throw new Error(err.detail || "Erreur lors de la génération de l'exercice");
+  }
   return res.json();
 }
 

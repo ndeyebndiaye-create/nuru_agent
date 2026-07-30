@@ -91,27 +91,20 @@ def _build_rag_context(chapitre: str, classe: str, serie: Optional[str] = None,
 
 # ─────────────────────────────────────────── Gemini client
 def _call_gemini(prompt: str) -> str:
-    """Appelle Gemini API ou fallback sur Ollama si la clé manque."""
+    """Appelle Gemini API."""
     api_key = os.getenv("GEMINI_API_KEY", "")
     if not api_key:
-        logger.warning("GEMINI_API_KEY manquante, utilisation de Ollama en fallback.")
-        from backend.app.llm.ollama_client import OllamaClient
-        model_name = os.getenv("OLLAMA_MODEL", "llama3.2:1b")
-        llm = OllamaClient(model=model_name)
-        return llm.generate(prompt)
+        raise ValueError("GEMINI_API_KEY manquante.")
 
     try:
         import google.generativeai as genai
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel("gemini-1.5-flash")
+        model = genai.GenerativeModel("gemini-3.1-pro-preview")
         response = model.generate_content(prompt)
         return response.text or ""
     except Exception as e:
-        logger.warning(f"Erreur Gemini ({e}), utilisation de Ollama en fallback.")
-        from backend.app.llm.ollama_client import OllamaClient
-        model_name = os.getenv("OLLAMA_MODEL", "llama3.2:1b")
-        llm = OllamaClient(model=model_name)
-        return llm.generate(prompt)
+        logger.error(f"Erreur Gemini: {e}")
+        raise ValueError(f"Erreur de l'API Gemini: {e}")
 
 
 # ─────────────────────────────────────────── Prompts

@@ -15,18 +15,18 @@ _llm_client = None
 
 
 def get_llm():
-    """Retourne le client LLM (Ollama local), en le créant si nécessaire.
+    """Retourne le client LLM (Gemini API), en le créant si nécessaire.
 
-    Ne lève jamais d'exception : si Ollama est indisponible, le client
-    retourne lui-même des réponses de secours (voir OllamaClient._fallback_response).
+    Ne lève jamais d'exception : si l'API est indisponible, le client
+    retourne lui-même des réponses de secours (voir GeminiClient._fallback_response).
     """
     global _llm_client
     if _llm_client is None:
         try:
-            from backend.app.llm.ollama_client import OllamaClient
+            from backend.app.llm.gemini_client import GeminiClient
 
-            model = os.getenv("OLLAMA_MODEL", "llama3.2:1b")
-            _llm_client = OllamaClient(model=model)
+            model = os.getenv("LLM_MODEL", "gemini-1.5-pro")
+            _llm_client = GeminiClient(model=model)
         except Exception as exc:  # noqa: BLE001
             logger.error("❌ Impossible d'initialiser le client LLM: %s", exc)
             _llm_client = None

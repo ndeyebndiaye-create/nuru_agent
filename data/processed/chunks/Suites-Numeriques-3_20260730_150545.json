@@ -1,0 +1,311 @@
+{
+  "source": "data/raw/exercices/Suites-Numeriques-3.pdf",
+  "timestamp": "2026-07-30T15:05:45.926133",
+  "chunks": [
+    {
+      "text": "TS1                                                                                                                                      M.NDOYE\nSérie d’exercices\n: suites numériques",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/Suites-Numeriques-3.pdf",
+        "filename": "Suites-Numeriques-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "4bb54af1ce9e9bc2",
+        "difficulty_level": "basic",
+        "chunk_category": "course"
+      },
+      "start_line": 4,
+      "end_line": 6
+    },
+    {
+      "text": "Exercice 1\n1)Pour tout\nn \n, on pose\nu n\na)Montrer que\nest une suite arithmétique.\nb)On pose\n...\nCalculer Sn en\nfonction de n.\n2) La suite \nest définie par :\nu 0 \npour tout\nn \na)Démontrer que la suite \ndéfinie par\n, pour tout\nn \n, est une suite\ngéométrique.\nb)Exprimer wn puis vn en fonction de n.\nc)Calculer en fonction de n les sommes\n...\n...\nd)Soit \ndéfinie par\n, déterminer\n...",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/Suites-Numeriques-3.pdf",
+        "filename": "Suites-Numeriques-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "4bb54af1ce9e9bc2",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 119,
+      "end_line": 148
+    },
+    {
+      "text": "Exercice 2\n1)On considère la suite \ndéfinie par\nu 0 \net, pour\ntout\nn \n...\nMontrer que \nest une suite arithmétique.\n2)Déterminer la raison et le premier terme w1 de la site\ngéométrique croissante \nsachant que :",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/Suites-Numeriques-3.pdf",
+        "filename": "Suites-Numeriques-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "4bb54af1ce9e9bc2",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 207,
+      "end_line": 219
+    },
+    {
+      "text": "Exercice 3\nLa suite  \nest définie par :\nEn supposant que\npour tout\nn \nv n \non définit la suite \npar\nMontrer que \nest arithmétique. En\ndéduire wn puis vn en fonction de n",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/Suites-Numeriques-3.pdf",
+        "filename": "Suites-Numeriques-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "4bb54af1ce9e9bc2",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 268,
+      "end_line": 279
+    },
+    {
+      "text": "Exercice 4\nOn considère la somme\n...\n, a et b réels.\nEtablir que\nest arithmétique, donner la raison et le\npremier terme. Application\n1)Calculer la somme des carrés des n premiers termes de la\nsuite\n2)La somme des carrés des n premiers termes d’une suite\ngéométrique est\n...\nDéterminer cette suite.\n3)Quelles conditions sur a, b, c, d pour que\nsoit somme des carrés de termes\nd’une suite arithmétique.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/Suites-Numeriques-3.pdf",
+        "filename": "Suites-Numeriques-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "4bb54af1ce9e9bc2",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 351,
+      "end_line": 366
+    },
+    {
+      "text": "Exercice 5\n1) Démontrer que la suite v définie par\nv 0 \net, si\nn \nest strictement croissante et\nmajorée par 3.\n2) Démontrer que la suite t définie par\nt 0 \net, si\nn \nest bornée.\n3) Montrer que la suite \ntelle que\nest convergente.\n4) Montrer que la suite \ntelle que\nest divergente.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/Suites-Numeriques-3.pdf",
+        "filename": "Suites-Numeriques-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "4bb54af1ce9e9bc2",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 420,
+      "end_line": 437
+    },
+    {
+      "text": "Exercice 6\n: Algorithme de Newton\nOn désigne par C la courbe représentative sur \n2 \n1) Description de l’algorithme\nSoit\n2 \nun point de C fixé. On construit par\nrécurrence une suite M0, M1, …, Mn, … de points de C,\nd’abscisses x0x1, …xn, …de la manière suivante :\nM0 est donné.\nxn+1 est l’abscisse du point d’intersection de l’axe (Ox)\net de la sécante (AMn).\nIllustrer graphiquement cet algorithme avec\n0 \nQuelles remarques peut-on faire sur la suite \n2) Explicitation de la suite \nMontrer que la suite \nest définie par la donnée de x0 et\nla relation de récurrence\n3) Convergence – Rapidité de convergence\na)Prouver que\nb)En déduire que :\nc)On remplace a par xn dans la relation (R). vérifier que\n('f",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/Suites-Numeriques-3.pdf",
+        "filename": "Suites-Numeriques-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "4bb54af1ce9e9bc2",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 552,
+      "end_line": 576
+    },
+    {
+      "text": "Exercice 7\nOn considère la suit u de premier terme\nu 0 \net définie\npour tout entier positif n par la relation de récurrence :\n1)a) Montrer que pour tout entier n strictement positif\nn \nb) Etudier le sens de variation de la suite u.\nc) En déduire que la suit u converge. Déterminer sa limite.\n2)a) Montrer que pou tout nombre réel x de l’intervalle\ncos\ncos\nb) Montrer que pour tout entier naturel n\ncos\nc) Retrouver ainsi la limite de la suite u.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/Suites-Numeriques-3.pdf",
+        "filename": "Suites-Numeriques-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "4bb54af1ce9e9bc2",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 633,
+      "end_line": 647
+    },
+    {
+      "text": "Exercice 8\nOn considère les deux suites de nombres réels, (un) et (vn)\ndéfinies par :\nsin\n...\nsin\nsin\n...\na. Démontrer que la suite (vn) converge vers 2\n1 .\nb.a) Démontrer que chacune des trois fonctions numériques\nde variable réelle :\nsin\ncos\nsin\nne prend que des valeurs positives ou nulles sur\nl’intervalle \n. On pourra utiliser les\nvariations de chacune de ces trois fonctions.\nb)Justifier que pour tout entier\nn \n...\nc)Déduire de a) et b) l’inégalité :\npour tout entier naturel non nul.\nd)Démontrer que la suite (un) est convergente; quelle est\nsa limite?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/Suites-Numeriques-3.pdf",
+        "filename": "Suites-Numeriques-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "4bb54af1ce9e9bc2",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 745,
+      "end_line": 770
+    },
+    {
+      "text": "Exercice 9\nOn rappelle que la partie entière d’un réel x est le plus\ngrand entier n inférieur ou égal à x. cet entier est\ncaractérisé par l’encadrement :\nOn note souvent E(x) la partie entière de x, de sorte que\n1) Démontrer que pour tout réel x, on a :\n\nb)Pour tout\n2) Pour tout\n\n\ncalculer\n3) Pour x réel fixé, on définit une suite (un) par :\n...\nEncadrer un et en déduire la limite de la suite (un).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/Suites-Numeriques-3.pdf",
+        "filename": "Suites-Numeriques-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "4bb54af1ce9e9bc2",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 873,
+      "end_line": 887
+    },
+    {
+      "text": "Exercice 10\nPour tout\non pose :\n...\n1) .\na) Comparer au mieux\nb) Démontrer que la suite (An) est croissante, convergente\nvers une limite (on dit souvent « somme »)\nS \nc) Démontrer aussi :\nA n\n2) On pose\nOn sait déjà que\nBn \n, et\npuisque\nlim\nn \nla suite (Bn) fournit également des\napproximation de S.\na) Démontrer que les suites (An) et (Bn) sont adjacentes.\nb) Calculer\nB10 Comparer avec la valeur de la\nlimite admise :",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/Suites-Numeriques-3.pdf",
+        "filename": "Suites-Numeriques-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "4bb54af1ce9e9bc2",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 948,
+      "end_line": 971
+    }
+  ]
+}

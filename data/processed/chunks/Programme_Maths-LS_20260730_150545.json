@@ -1,0 +1,840 @@
+{
+  "source": "data/raw/cours/Programme_Maths-LS.pdf",
+  "timestamp": "2026-07-30T15:05:45.343547",
+  "chunks": [
+    {
+      "text": "Office du Baccalauréat – Université Cheikh Anta Diop, BP 5005 Dakar Fann, Dakar, Sénégal\nSite Internet : www.officedubac.sn / https://extrantsbac.ucad.sn/\nREPUBLIQUE DU SENEGAL\nUn Peuple – Un But – Une Foi\nMINISTERE DE L’ENSEIGNEMENT SUPERIEUR, DE LA RECHERCHE ET DE L’INNOVATION\nOFFICE DU BACCALAUREAT\nPROGRAMME D’ENSEIGNEMENT\nNIVEAU TERMINALE\nSENEGAL\nMise en ligne par l’office du Baccalauréat\nhttps://officedubac.sn/\nProgrammes de mathématiques du premier cycle – Séries L - Année 2006\nPROGRAMME\nDE MATHEMATIQUES\nSERIES L\nProgrammes de mathématiques du premier cycle – Séries L - Année 2006\nCLASSE DE TERMINALE L\nINTRODUCTION\nLes mathématiques sont essentiellement, pour l’élève de la série L, un objet\nd’apprentissage au service d’autres disciplines. Donner du sens aux concepts doit\nêtre le défi permanent à relever dans l’enseignement - apprentissage des\nmathématiques dans ces classes. Le sens se mesure, à ce niveau, surtout par la\nprise en charge de problèmes courants du champ de leur centre d’intérêt. Ce\nterrain est propice à faire participer efficacement l’enseignement des\nmathématiques à l’installation de compétences citoyennes.\nS’approprier une situation, traiter et argumenter, communiquer des résultats,\nstructurer et généraliser sont des compétences générales qui seront développées.\nA la fin de la classe de Terminale L, l’élève devrait avoir amélioré ses\ncompétences dans les domaines cités plus haut en convoquant à bon escient les\noutils mis à sa disposition .\nOn fera appel autant que possible aux perspectives historiques des mathématiques,\nce qui permettra de mieux situer l'origine, l'utilisation et le développement de\ncertains concepts.\nL'enseignement des mathématiques, tout en s'effectuant en rapport avec les\nautres disciplines doit partir d'activités de la vie courante.\nÀ partir d'exemples simples on fera appel à l'intuition, à l'imagination et au sens\ndu raisonnement des élèves pour mathématiser les situations, contrôler les\ndifférentes étapes et exploiter judicieusement les résultats.\nCe programme vise d'abord à mobiliser, à consolider et à approfondir les capacités\net les outils acquis en classe de première.\nOn fera appel pour une meilleure compréhension de certaines notions, aux\nschémas, diagrammes, tableaux et représentations graphiques.\nLes exemples et contre-exemples seront des supports de premier choix pour\npréciser et fixer les définitions, théorèmes et autres notions.\nL'utilisation de la machine à calculer doit être maîtrisée par les élèves.\nL'horaire hebdomadaire est de 3 heures.\nProgrammes de mathématiques du premier cycle – Séries L - Année 2006\nContenus\nCommentaires\nCompétences exigibles\nALGÈBRE.\nI - COMPOSITIONS\nDES\nAPPLICATIONS.\nOn traitera la composition\ndes applications sur des",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "calculer"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "difficulty_level": "advanced",
+        "chunk_category": "course"
+      },
+      "start_line": 18,
+      "end_line": 73
+    },
+    {
+      "text": "exemples simples.\nReconnaître et calculer\ngof(x).\nI I\nFACTORISATION\nDES POLYNÔMES\n1°- Méthode de\nHörner.\n2°- Etude des signes.\nDiviser un polynôme P(x)\npar un polynôme Q(x) avec\nd°P ≥ d°Q et d°P ≤ 4.\nDiviser P(x) par (x - a)\nlorsque P(a) = 0.\nDiviser P(x) par (x - a) puis\nle quotient q(x) par\n(x - b) lorsque P(a) = 0 et\nP(b) = 0.\nFactoriser un polynôme\nEtudier le signe d’un\npolynôme, d’une fonction\nrationnelle.\nPROBABILITÉ\nI –\nDENOMBREMENT\nConsolider les notions vues\nen Première, faire beaucoup\nde schémas que l’on pourra\nutiliser pour mettre en\névidence le cardinal de la\nréunion, de l’intersection et\ndu complémentaire\nd’ensembles finis\nII - PROBABILITE.\nEpreuve ou expérience\naléatoire, univers,\névénements.",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "calculer",
+          "factoriser"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "exemple",
+        "difficulty_level": "advanced",
+        "chunk_category": "example"
+      },
+      "start_line": 75,
+      "end_line": 111
+    },
+    {
+      "text": "Propriétés.\nHypothèse\nd'équiprobabilité\nDans le cas\nd’équiprobabilité, Si A est\nun événement d'un univers\np(A) =\nCard\nCardA\nLe professeur traitera des",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "exigibles",
+          "exigibles",
+          "exigibles",
+          "exigibles",
+          "exigibles"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 116,
+      "end_line": 125
+    },
+    {
+      "text": "exemples de non\néquiprobabilité dans des cas\nsimples où les probabilités\ndes évènements\nélémentaires sont données\nCalculer une probabilité\nd'événements sachant que les\névénements élémentaires\nsont équiprobables\nCalculer la probabilité d’un\névènement dans le cas de\nnon équiprobabilité\nProgrammes de mathématiques du premier cycle – Séries L - Année 2006\nContenus\nCommentaires\nCompétences exigibles\nSTATISTIQUE\nAjustement linéaire.\n1) Coefficient de\ncorrélation.\n2) Méthode des\nmoindres carrés :\ndroite de régression de\nY en X.\n3) Interprétation et\nutilisation.\nDiverses représentations\ngraphiques sont vivement\nrecommandées.\nRappels sur les\nreprésentations des points\nM(x,y) tels que\nax + by + c = 0 (droite).\nOn ne fera aucune\ndémonstration de formule.\nOn partira d'exemples (ou\nd'exercices) pour\ngénéraliser.\nDéterminer la droite de\nrégression de Y en X.\nCalculer et interpréter le\ncoefficient de corrélation.\nFaire une prévision à partir\nde l'équation de la droite de\nrégression\nANALYSE\nI - LIMITE -\nCONTINUITÉ\n1) Calcul sur\nles limites.\n2) Continuité.\na) Continuité en\nun point.\nb) Continuité\nsur un intervalle\nconsolidera\nles\nnotions\nintuitives\nacquises en classe de\npremière. Aucune théorie\nne sera faite sur les\nlimites et la continuité.\nOn parlera des cas\nd'indétermination et l'on\nmontrera comment lever\nune indétermination. Les\nlimites à gauche ou à\ndroite seront traitées dans\nles cas suivants :\nlim\n(c ≠ 0) ;\nlim\navec                              ;\nOn rappellera que f est\ncontinue en x0 si f(x0)\nexiste et\nlim\nf(x) = f(x0).\nCalculer les limites, trouver les\nensembles de définition et de continuité\nde f dans les cas suivants\nf(x) ∈\navec a, b, c, d, e, f des réels.\nProgrammes de mathématiques du premier cycle – Séries L - Année 2006\nContenus\nCommentaires\nCompétences exigibles\nOn admettra que l'image\nd'un intervalle I par une\nfonction continue est un\nintervalle f(I).\nII-\nDÉRIVABILI\n1) Nombre\ndérivé et\ninterprétation\ngéométrique.\n2) Théorèmes\nsur les\nfonctions\ndérivées.\n3) Théorèmes à\nadmettre\na) (gof)'(x) =\nf '(x) x g'[f(x)]\nb)f(x) =\nax + b\nalors\nf '(x) =\n2 ax + b\navec x> - b\n4) Utilisations\nde la dérivée.\nSens\nvariation\n• Equation de\nla tangente\n• Notion de\nbijection\nDans le cas où\nf(x) = ax + b on montrera\nque l'ensemble de",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "exemple",
+        "difficulty_level": "advanced",
+        "chunk_category": "example"
+      },
+      "start_line": 198,
+      "end_line": 320
+    },
+    {
+      "text": "théorèmes : Si f est\ndéfinie continue,\nstrictement croissante\n(strictement décroissante)\nsur I alors f réalise une\nbijection de I sur f(I) ;\nf dérivable telle que\nf ‘(x) >0 (ou f ‘(x) < 0)\nsur I alors f réalise une\nbijection de I sur f(I).\nOn remarquera que pour\nles fonctions :\nf(x) =\non a f ’(x) =  (\nTrouver les ensembles de dérivabilité de\nf telle que : f(x) ∈\nTrouver une équation de la tangente en\nun point M0 à une courbe donnée par\nson équation.\nMontrer en se référant à un tableau de\nvariation que f est une bijection.\nProgrammes de mathématiques du premier cycle – Séries L - Année 2006\nContenus\nCommentaires\nCompétences exigibles\nIII -ÉTUDE\nFONCTION.\n1)Parité -\nEléments de\nsymétrie\n2)Branches\nInfinies :\nAsymptotes -\nBranches\nparaboliques\n3)Etude et\nreprésentation\ngraphique.\n• Polynômes\nde degré n\navec n ≤ 4.\n• Fonctions\nrationnelles.\n•Fonctions\nirrationnelles.\nReprésentations\ndes fonctions\naffines par\nmorceaux.\nLe professeur apprendra\naux élèves à utiliser les\néléments de symétrie s'il\ny en a.\nIl pourra donner les",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "montrer"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "theoreme",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 372,
+      "end_line": 425
+    },
+    {
+      "text": "propriétés : Ω (a,b) est\ncentre de symétrie de la\ncourbe Cf si : x∈Df,\n2a - x ∈ Df, et\nf(2a - x) +f(x) = 2b.\nLa droite x = a est axe de\nsymétrie si x ∈ Df,\n2a - x ∈ Df, et\nf(2a - x) - f(x) = 0.\nLa recherche de\nl'asymptote oblique\npourra être faite en\npassant par la division\neuclidienne avec\nd°N(x) - d°D(x) = 1.\nDans les autres cas, on\nmontrera que\nf x\nax b\na±∞\nlim\n( ) (\n) = 0\nsi l'équation de\nl'asymptote est donnée\npar\ny = ax + b, on parlera de\nbranches infinies lorsque\nf(x)∈\nax4+bx3+cx2+dx+e ;\nax+\nOn s'intéressera aux\npolynômes de degré 2 ;\nde degré 3, de degré 4\nconnaissant au moins une\nracine de sa dérivée.\nSe limiter aux fonctions\ntelles que\nf(x) =\noù a,\nb, c, d, e, f sont réels.\nMontrer qu'un point est centre de\nsymétrie d'une courbe.\nMontrer qu'une droite est axe de\nsymétrie d'une courbe.\nTrouver l'équation d'une asymptote\noblique lorsqu'elle existe.\nEtudier et représenter f telle que f(x)∈\navec a, b, c, d, e, f des réels.\nEcrire\nsans les symboles de la\nvaleur absolue.\nProgrammes de mathématiques du premier cycle – Séries L - Année 2006\n100\nContenus\nCommentaires\nCompétences exigibles\n•Fonction\nvaleur absolue\nde f :| f | :\nx a|f (x)|\nOn étudiera des fonctions\nde la forme\nf(x) =\nax+\n, a et b\nétant des réels.\nFaire la représentation\ngraphique des fonctions\naffines par morceaux.\nEcrire\nsans les\nsymboles de la valeur\nabsolue.\nOn pourra à partir du\ntracé de f, tracer la\ncourbe représentative de\nf .\n4)Résolutions\nalgébriques et\ngraphiques\nd'équations\nd'inéquations.\nf(x) * y\navec\n* ∈{ = ; ≤ ; ≥ ;\n< ; >}\nCette partie sera\nl'occasion de consolider\nles acquis sur la\nrésolution des équations,\ndes inéquations du\npremier ou second degré\net des systèmes\nd'équations ou\nd'inéquations\ncorrespondants. Les\nensembles de validité\nseront scrupuleusement\nrespectés.\nOn insistera sur\nl'interprétation graphique\ndes résultats.\nPour les autres cas de\nrésolution graphique, on\nse limitera aux fonctions\nf telles que :\nf(x) ∈\n{ax4 + bx3 + cx2 + dx + e\nax+\na, b, c, d, e, f étant des\nréels\nRésoudre des équations, des\ninéquations, des systèmes d'équations et\nd'inéquations du premier ou du second\ndegré.\nRésoudre graphiquement f(x) * y\navec * ∈{ = ; ≤ ; ≥ ; < ; >}\nProgrammes de mathématiques du premier cycle – Séries L - Année 2006\n101\nContenus\nCommentaires\nCompétences exigibles\nV -\nFONCTION\nLOGARITHM\nE NÉPÉRIEN.\n1) Etude de\nla fonction ln.\na) Définition.\nb) Propriétés.\nc) représenta-\ntion graphique.\nEquations -\nInéquations -\nSystèmes\nd'équations ou\nd'inéquations\nsur ln.\n3) Etude\ndes fonctions\nfaisant\nintervenir ln.\nEnsemble de",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "montrer",
+          "résoudre",
+          "tracer"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "theoreme",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 525,
+      "end_line": 668
+    },
+    {
+      "text": "définition,\nlimites,\ncontinuité,\nparité, dérivée,\ntableau de\nvariations,\nintersections\navec les axes de\ncoordonnées,\nbranches\ninfinies,\nreprésentation\ns graphiques\nOn pourra admettre qu'il\nexiste une fonction f\nappelée logarithme\nnépérien et notée ln\ndérivable sur IR*+ qui a\npour fonction dérivée la\nfonction x a x\n1 , et qui\ns'annule en 1. En outre\non admettra la propriété\nfondamentale ln(ab) =\nlna + lnb (a>0 et b>0)\npour en déduire les autres",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "exigibles",
+          "exigibles",
+          "exigibles",
+          "exigibles",
+          "exigibles"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "definition",
+        "difficulty_level": "intermediate",
+        "chunk_category": "concept"
+      },
+      "start_line": 669,
+      "end_line": 694
+    },
+    {
+      "text": "propriétés.\nAttirer l'attention de\nl'élève sur le domaine de\nvalidité de\ntransformations qui  n'est\npas forcément celui de",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "exigibles",
+          "exigibles",
+          "exigibles",
+          "exigibles",
+          "exigibles"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 695,
+      "end_line": 700
+    },
+    {
+      "text": "définition des\nexpressions initiales\nOn définira le logarithme\ndécimal par\nlog x =\nEtudier et représenter graphiquement f\ntelle que :\n1°- f(x)∈ {ln x ;\nx ; x\n; x ln x ;\nln x2 ; (lnx)2 ; x2 ln x ; ln x ;\nln(ax2 + bx + c) ; ln(\n)} où  a, b, c\net d sont réels.\n2°- f soit une fonction simple faisant\nintervenir ln (x)\nRésoudre des équations et des\ninéquations sur ln\nProgrammes de mathématiques du premier cycle – Séries L - Année 2006\n102\nContenus\nCommentaires\nCompétences exigibles\nVI - FONCTION\nEXPONENTIELLE\n1) Etude de la fonction\nexponentielle.\na) Définition.\nb) Propriétés.\nc) Représentation\ngraphique.\n2) Equations -\nInéquations - Systèmes\nd'équations ou\nd'inéquations faisant\nintervenir la\nfonction exponentielle\n3)Etude des fonctions\nfaisant intervenir la\nfonction exponentielle.\nEnsemble de définition,\nlimites, continuité,\nparité, dérivée, tableau de\nvariations,\nintersections avec les axes\nde coordonnées,\nbranches infinies,\nreprésentations graphiques.\nln :      IR*+ → IR  est  bijective,\nelle admet donc\nx a lnx\nune bijection réciproque\nexp : IR → IR*+\nx a exp(x)\nRappels sur les puissances.\nOn montrera que exp(x) peut\nse mettre sous la forme ex\nEtudier et représenter\ngraphiquement f telle\nque:\n1°- f(x) ∈\n{ ex ;\nx ; x ex }\n2°- f soit une\nfonction simple faisant\nintervenir la fonction\nexponentielle.\nConnaître et utiliser les\nformules :\nPour tout réel X\nstrictement positif,\na) lnX = Y si et\nseulement si X = eY.\nb) X = elnX\nc) Pour tout réel Y,\nY = ln eY\nRésoudre des équations\net des inéquations sur\nexponentielle.\nVII- SUITES\nNUMÉRIQUES.\n1)Suites arithmétiques.\n2)Suites géométriques.\n3)Convergence\nd'une\nsuite géométrique.\n4)Compléments sur les\nsuites.\nDéfinir et reconnaître une\nsuite arithmétique ou une\nsuite géométrique.\nCalculer Un en fonction du\npremier terme et de la raison\navec n t 1.\nCalculer la somme des n\npremiers termes d'une suite\narithmétique ou géométrique.\nMontrer qu'une suite\ngéométrique est convergente\nCalculer la somme des n\npremiers termes d'une suite\nDéfinir et reconnaître\nune suite arithmétique\nou une suite\ngéométrique.\nCalculer Un en fonction\ndu premier terme et de\nla raison avec n t 1.\nCalculer la somme des\nn premiers termes d'une\nsuite arithmétique ou\ngéométrique.\nMontrer qu'une suite\ngéométrique est\nProgrammes de mathématiques du premier cycle – Séries L - Année 2006\n103\nContenus\nCommentaires\nCompétences exigibles\nDétermination d'une suite\npar le terme\ngénéral, un terme d'indice\ndonné et une\nformule de récurrence.\nRaisonnement par\nrécurrence.\nSens de variation d'une\nsuite.\nConvergence d'une suite.\narithmétique ou géométrique.\nMontrer qu'une suite\ngéométrique est convergente\nRésoudre des problèmes\nconcrets.\nOn insistera sur l'importance\ndes suites arithmétique et\ngéométrique dans certains",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "calculer",
+          "montrer",
+          "résoudre"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "definition",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 725,
+      "end_line": 861
+    },
+    {
+      "text": "problèmes de géographie de\nmathématique financière etc...\nCe sera l'occasion d'introduire\npar des exemples simples la\nnotion de raisonnement par\nrécurrence.\nconvergente.\nDéterminer une suite\npar l'expression de son\nterme général.\nDéterminer une suite\npar un terme d'indice\ndonné et une forme de\nrécurrence.\nEtudier le sens de\nvariation d'une suite.\nEtudier la convergence\nd'une suite\nVIII - CALCUL\nINTÉGRAL\n1. Primitives\n2. Propriétés\n3. Primitives de fonctions\nusuelles\nx a 0 ; x a a ;\nx a ax ; x a axn ;\n2 ;\n; x\n4.Intégrales de fonctions :",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "déterminer"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 881,
+      "end_line": 909
+    },
+    {
+      "text": "Définition et propriétés\n5. Calcul d'aires\nÀ partir d'exemples simples,\nfamiliariser les élèves avec\nquelques problèmes afférents\nau calcul intégral.\nCalculer les\nprimitives des\nfonctions\nusuelles\nCalculer\nl’intégrale\nd’une fonction\nsur un segment\nCalculer une\naire\nOffice du Baccalauréat – Université Cheikh Anta Diop, BP 5005 Dakar Fann, Dakar, Sénégal\nSite Internet : www.officedubac.sn / https://extrantsbac.ucad.sn/\nREPUBLIQUE DU SENEGAL\nUn Peuple – Un But – Une Foi\nMINISTERE DE L’ENSEIGNEMENT SUPERIEUR, DE LA RECHERCHE ET DE L’INNOVATION\nOFFICE DU BACCALAUREAT\nPROGRAMME D’ENSEIGNEMENT\nNIVEAU TERMINALE\nSENEGAL\nMise en ligne par l’office du Baccalauréat\nhttps://officedubac.sn/\nProgrammes de mathématiques du second cycle – Terminales S1 et S3 - Année 2006\nTERMINALES S1 et S3\nProgrammes de mathématiques du second cycle – Terminales S1 et S3 - Année 2006\nINTRODUCTION GENERALE\nCe programme est destinŽ aux classes de Terminales S1 et S3 L'horaire\nhebdomadaire de ces classes est de 9  heures\nOutre les nombres complexes, les syst•mes d'Žquations linŽaires, les suites\nnumŽriques, les fonctions numŽriques, le calcul intŽgral, les Žquations\ndiffŽrentielles, la gŽomŽtrie plane et la gŽomŽtrie dans l'espace, il comporte les\nprobabilitŽs, les courbes planes et l'arithmŽtique.\nTous ces th•mes, dont certains ont ŽtŽ dŽjˆ vus en Premi•re, seront introduits ˆ\npartir de nombreuses activitŽs permettant d'investir des outils plus ou moins\nŽprouvŽs que l'on affinera au fur et ˆ mesure selon des mŽthodes spŽcifiques\nindiquŽes dans le programme pour atteindre les objectifs assignŽs.\nLe rŽsultat de l'enseignement de chaque chapitre s'Žvaluera selon des compŽtences\nexigibles bien dŽfinies en rapport avec un contenu bien spŽcifiŽ. Les\ncommentaires appropriŽs permettront de cerner les dŽfinitions, les thŽor•mes dans\nleurs ŽnoncŽs et dans leur admission ou leur dŽmonstration.\nD'une mani•re gŽnŽrale, l'introduction d'une notion par la thŽorie est vivement\ndŽconseillŽe. Il sera souvent fait appel ˆ l'expŽrience scientifique de l'Žl•ve et aux\nprobl•mes des autres disciplines pour dŽcloisonner l'enseignement des\nmathŽmatiques.\nË la fin de l'Žtude de chaque chapitre, il est recommandŽ de faire la synth•se en\nrevenant sur les outils, les mŽthodes et les compŽtences exigibles et d'Žtendre leur\nchamp d'application.\nLa nouveautŽ de ce programme de Terminale S1S3 rŽsulte dans la rŽintroduction\nde l'ArithmŽtique. Elle concerne l'Žtude des entiers naturels et des entiers relatifs\ndont une connaissance pratique a ŽtŽ faite dans les classes du premier cycle. Il\ns'agira d'Žtendre et d'approfondir ces connaissances par l'introduction des\ncongruences et l'Žtude des syst•mes de numŽration dont les applications sont\nnombreuses en informatique.\nCe programme ouvre des perspectives intŽressantes pour la prŽparation aux Žtudes\nsupŽrieures.\nProgrammes de mathématiques du second cycle – Terminales S1 et S3 - Année 2006\nPROBABILITƒS.\nPour introduire la notion de probabilitŽ, on s'appuiera essentiellement sur\nl'observation statistique dans des cas simples et les stabilitŽs de frŽquence qui s'en\ndŽgagent. Ë travers quelques expŽriences alŽatoires simples, on introduira la\nnotion d'espace probabilisŽ en donnant la dŽfinition axiomatique de la probabilitŽ.\nOn s'attachera en introduction ˆ faire l'historique de la naissance des probabilitŽs\net ˆ montrer leur importance actuelle dans pratiquement tous les secteurs de la vie\nmoderne.\nContenus\nCommentaires\nCompŽtences exigibles\nƒvŽnements,\nŽvŽnements\nŽlŽmentaires,\nŽvŽnements\nincompatibles,\nŽvŽnements contraires.\nRŽunion et intersection\nde deux ŽvŽnements.\nProbabilitŽ d'un\nŽvŽnement.\nCas d'ŽquiprobabilitŽ.\nProbabilitŽ\nconditionnelle d'un\nŽvŽnement par rapport\nˆ un ŽvŽnement de\nprobabilitŽ non nulle.\nIndŽpendance de deux\nŽvŽnements.\nFormule des\nprobabilitŽs totales.\nProbabilitŽ produit.\nVariables alŽatoires :\nloi de probabilitŽ,\nespŽrance\nmathŽmatique,\nvariance, Žcart-type,\nfonction de rŽpartition.\nExpŽriences\nsuccessives : Žpreuve\nde Bernouilli.\nDistribution binomiale.\nOn dŽfinira la probabilitŽ d'un\nŽvŽnement comme Žtant un\nrŽel de l'intervalle [0, 1] tel\nque :\nla probabilitŽ de\nl'ŽvŽnement certain ½ est\n1, celle de l'ŽvŽnement\nimpossible ¯ est 0.\nSi A1, A2, ....., An sont des\nŽvŽnements deux ˆ deux\ndisjoints, la probabilitŽ\nde l'ŽvŽnement\nA1∪A2∪A3∪ ... ∪An est la\nsomme des probabilitŽs\nde chacun des ŽvŽnements\nA1, A2, A3, ... , An.\nEn particulier : la probabilitŽ\nd'un ŽvŽnement est la somme\ndes probabilitŽs des\nŽvŽnements ŽlŽmentaires qui le\ncomposent.\nFormule des probabilitŽs\ntotales :\nƒtant donnŽs des ŽvŽnements\nB1, B2, ...Bn constituant une\npartition de ½, pour tout\nŽvŽnement A,\np(A) =.\nUtiliser dans la rŽsolution\ndes probl•mes :\n− la probabilitŽ d'un\nŽvŽnement ou d'une\nrŽunion d'ŽvŽnements.\n− La probabilitŽ\nconditionnelle d'un\nŽvŽnement par rapport\nˆ un ŽvŽnement de\nprobabilitŽ non nulle.\n− la formule des\nprobabilitŽs totales.\n− l'indŽpendance de\ndeux ŽvŽnements.\n_ DŽterminer la loi de\nprobabilitŽ d'une variable\nalŽatoire.\n_ Calculer l'espŽrance, la\nvariance et l'Žcart type\nd'une variable alŽatoire.\n_ DŽterminer et reprŽsenter\nla fonction de rŽpartition\nd'une variable alŽatoire.\n_ Conna”tre et utiliser la loi\nbinomiale.\nProgrammes de mathématiques du second cycle – Terminales S1 et S3 - Année 2006\nALGƒBRE.\nContenus\nCommentaires\nCompŽtences exigibles\nI) NOMBRES COMPLEXES\nL'introduction des nombres complexes est l'occasion de donner un bref aper•u\nhistorique de l'Žvolution du concept de nombre. En plus de leur intŽr•t\nalgŽbrique, les nombres complexes fournissent des outils pour la trigonomŽtrie et\nl'Žtude des configurations gŽomŽtriques planes.\nPrŽsentation de lÕensemble C des\nnombres complexes ;\n• partie rŽelle, partie imaginaire\n• nombres complexes conjuguŽs\n• notations : Re(z), Im(z), z.\nReprŽsentation gŽomŽtrique ;\nimage d'un nombre complexe,\naffixe d'un point, d'un vecteur.\nModule,\n• module d'un produit,\n• inŽgalitŽ triangulaire.\nArgument d'un nombre complexe\nnon nul.\n• Notation  rÊeÊiθ\n• Relation  eix.eix' = e i (x + x')\n¥ application ˆ la trigonomŽtrie ;\n¥ formule de Moivre.\nRacines carrŽes, racines n-i•mes\nd'un nombre complexeÊ;\ninterprŽtation gŽomŽtrique des\nracines n-i•mes.\n¥ On admettra\nlÕexistence de\n⊄ prŽsentŽ\ncomme\nprolongement\nde IR. On\ndŽfinira\nlÕaddition et la\nmultiplication\ndans C et on\nmettra en\nŽvidence la\nstructure de\ncorps de\n(⊄, +, *) en\nŽtablissant\ndirectement les\npropriŽtŽs.\n¥ DŽterminer les\ndiffŽrentes Žcritures d'un\nnombre complexe :\nalgŽbrique,\ntrigonomŽtrique,\nexponentielle.\n¥ InterprŽter le module et\nl'argument de zA - zB et\ndans des probl•mes de\ndistance (mŽthode\nanalytique et gŽomŽtrique)\net des probl•mes d'angles\n(alignement, cocyclicitŽ).\nConna”tre et utiliser les\nformules d'Euler :\ncos θ = (\nθ +\nsin θ = (\nθ −\n¥ Conna”tre et utiliser les\nformules de Moivre et du\nbin™me de Newton.\n¥ DŽterminer et interprŽter\ngŽomŽtriquement les\nracines ni•mes  dÕun nombre\ncomplexe non nul\nSuite gŽomŽtrique (zn),\nz ∈ C .\nTransformation de\n1 + z + z2 + .......+ zn .\nApplication ˆ la trigonomŽtrie.\nTransformation de  p cosx + q sinx\n[(par p + iq = reix )].\n¥ Cette partie\nsur les suites se\ntraitera  en\ntravaux dirigŽs.\n¥ Transformer\np cos(x) + q sin(x) o• p et\nq sont des rŽels.\n¥ RŽsoudre\np cos(x) + q sin(x) = r o•\np, q et r sont des rŽels.\n¥ RŽsoudre des Žquations\ndu 2nd degrŽ dans C.\nProgrammes de mathématiques du second cycle – Terminales S1 et S3 - Année 2006\nContenus\nCommentaires\nCompŽtences exigibles\nRŽsolution des Žquations du\nsecond degrŽ dans C et d'Žquations\ns'y ramenant.\nConversion de produits\nd'expressions trigonomŽtriques en\nsomme et inversement.",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "definition",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 985,
+      "end_line": 1244
+    },
+    {
+      "text": "Exemples de linŽarisation de\npolyn™mes trigonomŽtriques et de\nmise en oeuvre de la formule de\nMoivre.\nApplication de C  dans C :\nz a z + z0 ; z a az ;\nz a eiθz  ; z a az + z0    z0 ∈ C,\na ∈ C,   θ ∈ IR .\n¥ On se\nbornera, dans la\nlinŽarisation ˆ\ndes exposants\npeu ŽlevŽs :\nn ² 5.\n¥ LinŽariser un polyn™me\ntrigonomŽtrique\n(degrŽ ² 5).\n¥ RŽsoudre une Žquation\ndu 3•me degrŽ connaissant\nune racine.\n¥ Utiliser, dans la\nrŽsolution de probl•mes de\ngŽomŽtrie, les applications\nde C dans C :\nz a z + z0 ; z a az ;\nz a eiθz  ; z a az + z0\nz0 ∈ C,  a ∈ C,   θ ∈ IR .\nII ARITHMƒTIQUE.\nDiviseurs d'un entier -\nMultiples d'un\nentier relatif.\nNombres premiers et\ndŽcomposition d'un entier\nnaturel en produit de facteurs\npremiers.\nPGCD - PPCM.de plusieurs\nentiers.\nThŽor•me de Gauss - IdentitŽ\nde Bezout.\nDivision euclidienne dans IN\net dans ZZÊ  .\nAlgorithme d'Euclide.\nSyst•me de numŽration ˆ base\ndix, ˆ base deux, ˆ base cinq, ˆ\nbase seize.\nCongruence modulo n.\n¥ La\ndŽmonstration\nde ces\nthŽor•mes\npourra se faire\nmais n'est pas\nexigŽe.\n¥ On pourra\nutiliser le Petit\nThŽor•me de\nFermat : Soit p\nun nombre\npremier, pour\ntout ŽlŽment\nentier naturel\nnon nul x, on\na :\nx p ≡ x [p].\n¥ On entrainera\nles Žl•ves ˆ\nŽcrire un\nnombre dans\nun syst•me de\nnumŽration ˆ\nbase donnŽe\n¥ DŽcomposer un entier en\nproduit de facteurs\npremiers.\n¥ DŽterminer le PPCM de\nplusieurs entiers.\n¥ DŽterminer le PGCD de\nplusieurs entiers.\n¥ RŽsoudre dans Z des\nŽquations du type\nax + by = c o• a, b et c\nsont des entiers naturels.\n¥ Utiliser les congruences\npour rŽsoudre des\nprobl•mes dÕarithmŽtique.\nProgrammes de mathématiques du second cycle – Terminales S1 et S3 - Année 2006\nANALYSE.\nI- SUITES NUMƒRIQUES.\nLe programme se place dans le cadre des suites dŽfinies pour tout entier naturel. On\nremarquera que les notions et rŽsultats s'Žtendent sans changement au cas des suites\ndŽfinies ˆ partir d'un certain rang. Pour la convergence, il est demandŽ de ne pas insister\nsur les dŽfinitions par (ε, N) et (A, N).\nContenus\nCommentaires\nCompŽtences\nexigibles\n1) Rappels et complŽments.\nSuites croissantes,\ndŽcroissantes, monotones,\npŽriodiques, suites bornŽes.\nLimite d'une suite.\nƒnoncŽs de comparaison :\n¥ Si, ˆ partir d'un certain rang,\nXn ³ Un et si\n= +∞, alors             = +∞\n¥ Si, ˆ partir d'un certain rang,\nxn−\n² Un  et si\n= 0,  alors            = L\n¥ Si, ˆ partir d'un certain rang,\nXn ² Yn et si\n= L  et                = L' ,\nalors L ² L'.\n¥ Si, ˆ partir d'un certain rang,\nUn ² Xn ² Vn et  si\n=              = L,\nalors                 = L.\n2) OpŽrations sur les limitesÊ:\n¥ Limite d'une somme, d'un\nproduit, d'un quotient, d'une\nracine carrŽe.\n¥ Les premiers ŽlŽments ont\nŽtŽ mis en place en premi•re\n(croissance, dŽcroissance,\nmonotonie, pŽriodicitŽ,\nlimites). Il s'agira de donner\naux Žl•ves des activitŽs o• ils\nferont fonctionner les acquis\nde premi•re.\n¥ Pour l'Žtude de la monotonie\net l'obtention de majoration\nou de minoration, on\nentra”nera les Žl•ves ˆ\nexploiter la variation des\nfonctions, et sur des exemples\nsimples, le raisonnement par\nrŽcurrence.\n¥ L'objectif principal est\nd'apprendre aux Žl•ves ˆ\nmettre en oeuvre les rŽsultats\nde ce paragraphe pour la\nrecherche de limites sur des",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "exigibles",
+          "exigibles",
+          "exigibles",
+          "exigibles",
+          "exigibles"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "exemple",
+        "difficulty_level": "advanced",
+        "chunk_category": "example"
+      },
+      "start_line": 1258,
+      "end_line": 1399
+    },
+    {
+      "text": "exemples simples. On mettra\nen valeur la signification\nintuitive de ces rŽsultats et on\nsoulignera  leur commoditŽ ˆ\ntravers l'Žtude de quelques",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "exigibles",
+          "exigibles",
+          "exigibles",
+          "exigibles",
+          "exigibles"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "exemple",
+        "difficulty_level": "basic",
+        "chunk_category": "example"
+      },
+      "start_line": 1400,
+      "end_line": 1404
+    },
+    {
+      "text": "exemples adŽquats.\n¥ Les ŽnoncŽs relatifs aux\nopŽrations couvrent ˆ la fois\nle cas des limites finies et\ncelui des limites infinies. Les\ncas d'indŽtermination sans\nindication de mŽthode sont en\ndehors du programme.\n¥ Utiliser le\nraisonnement par\nrŽcurrence dans\nl'Žtude des suites.\n¥ ƒtudier le sens de\nvariation d'une suite.\n¥ Majorer ou minorer\nune suite.\n¥ DŽmontrer qu'une\nsuite est convergente.\n¥ Etudier le cas\nparticulier o• la suite\nest du type\nUn+1 = f(Un) o• f est\nune fonction continue\n¥ ReprŽsenter\ngraphiquement une\nsuite.\n¥ Conjecturer le\ncomportement d'une\nsuite ˆ partir de la\ncalculatrice ou de la\nreprŽsentation\ngraphique..\nlim\nlim\nlim\nlim\nlim\nlim\nlim\nlim\nlim\nProgrammes de mathématiques du second cycle – Terminales S1 et S3 - Année 2006\nContenus\nCommentaires\nCompŽtences exigibles\n¥ Image d'une suite par une\nfonction : Žtant donnŽ une\nfonction f dŽfinie et continue\nsur un intervalle I et une suite\n(Un) de points de I,\nsi              = L et\n= a (L et a fini ou non)\nalors :                =a.\n¥Toute suite croissante (resp.\ndŽcroissante) et majorŽe\n(resp. minorŽe) converge.\n¥ Suites de rŽfŽrence :\nLimite et comparaison des\ncomportements des suites :\nln (n) ; ( an ) ; (n α ), a rŽel\nstrictement positif, α rŽel.\n¥ Cet ŽnoncŽ, condensŽ pour\nfavoriser la mŽmorisation,\nrecouvre plusieurs cas qu'il\nconvient de distinguer\nclairement et d'illustrer ˆ\nl'aide d'exemplesÊ;\nl'introduction de la droite\nnumŽrique achevŽe est hors\nprogramme.\n¥ Les suites de rŽfŽrences\nsont ˆ traiter en relation\navec l'Žtude correspondante\npour les fonctions. On\nenrichit ici le tableau des\nsuites de rŽfŽrence introduit\nen premi•re, afin d'Žlargir le\nchamp d'Žtude du\ncomportement asymptotique\ndes suites.\nII- FONCTIONS\nNUMƒRIQUES.\n1) Limites et continuitŽ.\nCourbes asymptotes.\nRaccordement de fonctions.\nLimite de fonctions\ncomposŽes.\nContinuitŽ de la bijection et\nsa rŽciproque.\nImage d'un intervalle par une\nfonction continue.\nThŽor•me des valeurs\nintermŽdiaires.\n¥ On Žtudiera les thŽor•mes\nde comparaison sur les\nlimites. On s'intŽressera\nparticuli•rement au\ncas des fonctions monotones\nbornŽes.\n¥ On fera l'Žtude\nsystŽmatique de la\ndŽtermination d'une droite\nasymptote ˆ une courbe.\n¥ ThŽor•me admis : Pour\ntout triplet (a,b,l) de IR 3, si\na f x\nlim\n( )= b et\nb g y\nlim ( )= l\nalors\na gof x\nlim\n( )= l\n¥ L'image f(I) d'un intervalle\nfermŽ bornŽ I (ou segment)\npar une fonction continue sur\nI est un intervalle fermŽ\nbornŽ.\n¥ DŽterminer des\nasymptotes ˆ une\ncourbe.\n¥ DŽmontrer qu'une\nfonction f est une\nbijection d'un\nintervalle I sur un\nintervalle J.\n¥ Construire la courbe\nreprŽsentative d'une\nfonction rŽciproque.\n¥ Encadrer x0",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "montrer",
+          "construire"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "exemple",
+        "difficulty_level": "advanced",
+        "chunk_category": "example"
+      },
+      "start_line": 1460,
+      "end_line": 1590
+    },
+    {
+      "text": "solution de l'Žquation\nf(x) = 0.\n¥ DŽterminer la limite\nde la fonction\ncomposŽe de deux\nfonctions.\n¥ DŽmontrer la\ncontinuitŽ d'une\nlim\nf(x)\nlim\nf(Un)\nlim\nProgrammes de mathématiques du second cycle – Terminales S1 et S3 - Année 2006\nContenus\nCommentaires\nCompŽtences exigibles\n¥ On Žtudiera des\nfonctions dont\nl'expression n'est pas\nexplicitŽe (Žquation\nfonctionnelle)\nfonction en la\ndŽcomposant en fonctions\ncontinues.\n2) DŽrivation.\nComplŽments sur les\nfonctions dŽrivŽes.\nThŽor•me de la dŽrivŽe d'une\nfonction composŽe de\nfonctions dŽrivables.\nThŽor•me sur la fonction\ndŽrivŽe de la rŽciproque d'une\nfonction dŽrivable strictement\nmonotone de dŽrivŽe non\nnulle.\nThŽor•me des accroissements\nfinis (admis) :\nf Žtant une fonction dŽfinie et\ncontinue sur [a,b] et dŽrivable\nsur ]a, b[, il existe au moins\nun rŽel c de ]a, b[ tel que\nf ' (c) =\n)a(f\nThŽor•me du prolongement de\nla dŽrivŽeÊ: Si f est continue\nsur [a,b] et dŽrivable sur ]a, b[\net si\na f\nlim\n'( )\n, alors f\nest dŽrivable ˆ droite en a et a\npour dŽrivŽe le rŽel l\nInŽgalitŽ des accroissements\nfinis.\nDŽrivŽes successives.\nDŽrivŽes successives de\nquelques fonctions simples\nx a sin x ; x a cos x ;\nx a ex\n3) Application ˆ l'Žtude des\nfonctions.\nFonctions rationnelles.\nFonctions irrationnelles.\nFonctions trigonomŽtriques.\n¥ Il s'agit de dŽterminer et\nde consolider la notion de\ndŽrivŽe, de l'Žtendre ˆ la\ncomposŽe de deux\nfonctions dŽrivables et de\nl'utiliser dans l'Žtude des\nvariations d'une fonction.\n¥ S'assurer que l'Žl•ve\nma”trise toutes les\nopŽrations de dŽrivation\nvues en 1•re .\nInsister sur la\nsignification des\nnotations\ng[f(x)](gof)' (x) =\ng' [f(x)] . f '(x)\nPrŽciser les termes de la\nrelation\n(f -1)' (x) =\nf['f\n¥ S'assurer que l'Žl•ve\nreconna”t les conditions\nnŽcessaires d'application\nde ces thŽor•mes de\nl'inŽgalitŽ des\naccroissements finis.\n¥ Il s'agit de montrer que\nl'opŽration de dŽrivation\nd'une fonction peut se\npoursuivre plusieurs fois.\n¥ En relation avec les\nautres disciplines montrer\nl'intŽr•t de ces\n¥ Calculer la dŽrivŽe de la\ncomposŽe de deux\nfonctions dŽrivables.\n¥ Calculer la dŽrivŽe de la\nfonction rŽciproque d'une\nfonction bijective\ndŽrivable.\n¥ Utiliser la formule des\naccroissements finis.\n¥ Utiliser l'inŽgalitŽ des\naccroissements finis.\n¥ Calculer la dŽrivŽe\nseconde, tierce d'une\nfonction simple.\n¥ Calculer la dŽrivŽe\nn-i•me de sinx, cosx, ex\n¥ ReprŽsenter\ngraphiquement les\nfonctions citŽes dans le\nprogramme.\n¥ Conna”tre et utiliser les\nlimites suivantes :\nlim\n=+∞ÊÊ;ÊÊ\nlim\n= 0\nSi α > 0,\nlim\n= 0  et\nlim\n.ln\nProgrammes de mathématiques du second cycle – Terminales S1 et S3 - Année 2006\nContenus\nCommentaires\nCompŽtences exigibles\nFonction logarithme nŽpŽrien.\nFonction exponentielle\nnŽpŽrienne.\nFonction puissance.\nFonctions composŽes des\nfonctions ci-dessus.\nCroissance comparŽe de\nfonctions.\ncalculs sur des exemples\nsimples.\n¥ La fonction\nexponentielle de base a,\na ∈ IR*+ -{1} et la\nfonction logarithme de\nbase a seront introduites\npar\nloga x =\nax = e xln a .\nIII- CALCUL  INTƒGRAL.\n1. IntŽgrale d'une fonction sur\nun segment.\nDŽfinition.\nInterprŽtation gŽomŽtrique de\nl'intŽgrale.\n2. PropriŽtŽs de l'intŽgrale.\nLinŽaritŽ.\nRelation de Chasles.\nPositivitŽ.\nIntŽgration et inŽgalitŽ.\nInŽgalitŽ de la moyenne.\nValeur moyenne d'une\nfonction.\n3. Techniques de calcul de\nl'intŽgrale.\nIntŽgration par parties.\nIntŽgration de produits et de\npuissances de fonctions\ntrigonomŽtriques.\nChangement de variables.\n4. Application de l'intŽgration.\nObtention d'encadrement ˆ\nl'aide d'intŽgrales.\nMŽthode de calcul de valeurs\napprochŽes d' intŽgrales.\nCalcul d'ŽlŽments physiques ˆ\nl'aide du calcul intŽgral.\nf Žtant une fonction\ncontinue sur un intervalle\nI contenant un point a, la\nfonction\nx  a ∫\n)t(f\nest l'unique\nprimitive de f sur I\nprenant la valeur 0 au\npoint a. Dans l'Žtude du\ncalcul intŽgral, on mettra\nen valeur les\ninterprŽtations graphiques\n(en termes d'aires) de\nnombreux rŽsultats :\nrelation de Chasles,\nintŽgration et inŽgalitŽs.\n¥ Seuls les changements\nde variables affines sont\nexigibles ˆ l'examen.\n¥Utilisation du calcul\nintŽgral pour l'obtention\nd'encadrements de\nfonctions.\nMŽthode des rectangles,\ndes trap•zes, des\ntangentes. ¥ Calcul d'aires\nplanes, de volumes en\nprŽcisant les unitŽs\nutilisŽes.\n¥ Calculer l'aire d'un\ndomaine plan.\n¥ Utiliser les propriŽtŽs de\nl'intŽgrale dans la\nrŽsolution de probl•mes.\n¥ Ma”triser les techniques\nde calcul intŽgral au\nprogramme.\nProgrammes de mathématiques du second cycle – Terminales S1 et S3 - Année 2006\nContenus\nCommentaires\nCompŽtences exigibles\nIV- ƒQUATIONS\nDIFFƒRENTIELLES.\nRŽsolution de l'Žquation\nhomog•ne du premier ordre.\nRŽsolution de l'Žquation\nhomog•ne du second ordre :\nrecherche de solutions ˆ\nl'aide de l'Žquation\ncaractŽristique",
+      "chunk_type": "solution",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "solution",
+        "difficulty_level": "advanced",
+        "chunk_category": "solution"
+      },
+      "start_line": 1670,
+      "end_line": 1900
+    },
+    {
+      "text": "Exemples de rŽsolution\nd'une Žquation diffŽrentielle\nlinŽaire avec second membre\ndu premier ordre ˆ\ncoefficients constants.",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "exigibles",
+          "exigibles",
+          "exigibles",
+          "exigibles",
+          "exigibles"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "exemple",
+        "difficulty_level": "basic",
+        "chunk_category": "example"
+      },
+      "start_line": 1901,
+      "end_line": 1905
+    },
+    {
+      "text": "Exemples de rŽsolution\nd'une Žquation diffŽrentielle\ndu second ordre ˆ\ncoefficients constants avec\nun second membre de la\nforme\nA cos αt  +  B sin αt.\n¥ L'introduction pourra se\nfaire par l'Žquation\nf ' = kf\n¥ L' existence et l' unicitŽ\nde la solution vŽrifiant\ndes conditions initiales\ndonnŽes seront admises.\n¥ En relation avec\nl'enseignement des\nsciences\nphysiques(mŽcanique du\npoint, circuits\nŽlectriques. on Žtudiera\nquelques exemples\nsimples satisfaisant ˆ une\nloi d'Žvolution et ˆ une\ncondition initiale, afin de\nmettre en Žvidence\ncertains phŽnom•nes\nphysiques\n(amortissement,\noscillation.)\n¥ RŽsoudre une Žquation\ndiffŽrentielle linŽaire\nhomog•ne du premier\nordre ˆ coefficients\nconstants.\n¥ RŽsoudre une Žquation\ndiffŽrentielle linŽaire\nhomog•ne du second ordre\nˆ coefficients constants.\nProgrammes de mathématiques du second cycle – Terminales S1 et S3 - Année 2006\nGÉOMÉTRIE.\nContenus\nCommentaires\nCompŽtences exigibles\nGÉOMÉTRIE PLANE.\n1) Calculs barycentriques.\nEtude des fonctions :\n1) M a                     ; αi  rŽel.\n2) M a                      ; αi  rŽel.\nApplications affines :\nconservation du barycentre.\nImages d'ensembles de points.\n2) GŽomŽtrie plane.\nPoints cocycliques.\nRappels et complŽments sur les\nisomŽtries.\nSimilitudes directes planes\nTriangles directement\nsemblables.\n¥ Donner des",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "exigibles",
+          "exigibles",
+          "exigibles",
+          "exigibles",
+          "exigibles"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "exemple",
+        "difficulty_level": "advanced",
+        "chunk_category": "example"
+      },
+      "start_line": 1910,
+      "end_line": 1968
+    },
+    {
+      "text": "exemples\nd'applications ne\nconservant pas le\nbarycentre.\n¥ On pourra parler\ndes applications\nlinŽaires associŽes\nsans trop s'y\nŽtendre.\nOn montrera que les\nisomŽtries sont des\napplications affines\nconservant le\nbarycentre.\n¥ Ces rappels se\nferont au travers\nd'exercices de\ndŽmonstration, de\nconstructions\ngŽomŽtriques et de\nrecherche de lieux\ngŽomŽtriques.\n¥ Les similitudes\npourront •tre\nŽtudiŽes en rapport\navec les nombres\ncomplexes.\n¥ Etablir la formule rŽduite\ndes expressions\net les utiliser dans la\nrŽsolution de probl•mes.\n¥ Utiliser les propriŽtŽs des\napplications affines pour\nfaire des dŽmonstrations.\n¥ DŽterminer et reprŽsenter\nles lignes de niveau\n(modulo 2Π) ou\n(mod 2Π)\n¥ DŽmontrer que quatre\npoints sont cocycliques.\n¥ DŽterminer l'image d'une\nfigure simple par une\nsimilitude.\n¥ DŽterminer une\nsimilitude et ses ŽlŽments\ncaractŽristiques.\n¥ ƒtudier une similitude\ndonnŽe par son expression\ncomplexe.\n¥ DŽcomposer une\nsimilitude.\n¥ Utiliser les crit•res de\nsimilitude de triangles\ndans des rŽsolutions de\nprobl•mes.\n= α\ni MA\n= α\ni MA\n= α\ni MA\n= α\ni MA\nMA MB\n) =α\nProgrammes de mathématiques du second cycle – Terminales S1 et S3 - Année 2006\nContenus\nCommentaires\nCompŽtences exigibles\nGÉOMÉTRIE DANS\nL'ESPACE.\nI) PRODUIT VECTORIEL -\nPRODUIT MIXTE.\n1) Orientation de l'espace.\nRep•res orthonormaux directs,\nindirects.\n2) Produit vectoriel :\nDŽfinition - Notation.\nPropriŽtŽs.\nExpression analytique dans un\nrep•re orthonormŽ directe\n3) Produit mixte de trois\nvecteurs :\nDŽfinition Notation\nExpression analytique dans une\nbase orthonormale\nII)  TRANSFORMATIONS\nELEMENTAIRES DE\nL'ESPACE.\nTranslations.\nHomothŽties.\nRŽflexions par rapport ˆ un plan.\nRotation autour d'un axe.Ê:\ndŽfinitionÊ, rotation induite\nDemi-tour autour d'un axe D ou\nsymŽtrie d'axe D.\nComposition de deux rŽflexions\npar rapport ˆ des plans sŽcants\nou parall•les.\nDŽcompositions d'une rotation\nen deux rŽflexions.\nDŽcomposition d'une translation\nen deux rŽflexions.\n¥ Aucune thŽorie de\nl'orientation n'est au\nprogramme. On\ns'appuiera sur des",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "montrer"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "exemple",
+        "difficulty_level": "advanced",
+        "chunk_category": "example"
+      },
+      "start_line": 1998,
+      "end_line": 2104
+    },
+    {
+      "text": "exemples de la vie\ncourante pour montrer\nl'insuffisance de\nl'orientation du plan :\nl'orientation d'un cercle\nvu d'en haut ou d'en\nbas, le champ\nŽlectromagnŽtique ...\n¥ On Žtudiera des",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "montrer"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "exemple",
+        "difficulty_level": "basic",
+        "chunk_category": "example"
+      },
+      "start_line": 2105,
+      "end_line": 2113
+    },
+    {
+      "text": "exemples d'utilisation\nde ces applications\npour la dŽtermination\nd'ensemble de points.\n¥ Calculer l'aire d'un\ntriangle, d'un\nparallŽlogramme.\n¥ DŽterminer un vecteur\nnormal ˆ un plan.\n¥ DŽterminer  une\nŽquation d'un plan.\n¥ DŽmontrer que :\n- des vecteurs sont\ncolinŽaires.\n- des points sont alignŽs.\n- des points sont\ncoplanaires.\n¥ Calculer la distance :\n- d'un point ˆ une droite.\n- de deux droites.\n¥ Calculer le produit\nmixte de trois vecteurs.\n¥ Calculer le volume d'un\ntŽtra•dre d'un\nparallŽlŽpip•de.\n¥ Construire le\ntransformŽ d'un point par\nl'une de ces applications.\n¥ Conna”tre et utiliser\nleurs propriŽtŽs pour\ndŽmontrer l'alignement,\nle parallŽlisme,\nl'orthogonalitŽ et pour\ncalculer des longueurs.\nProgrammes de mathématiques du second cycle – Terminales S1 et S3 - Année 2006\nContenus\nCommentaires\nCompŽtences exigibles\nCOURBES PLANES.\nI) NOTIONS DE\nCOURBES\nPARAMETREES.\nCourbes dŽfinies en rep•re\northonormal par\nt a\n)t(\navec\n)t(\n= x(t). i + y(t).\nVecteur dŽrivŽÊ:\ninterprŽtation cinŽmatique,\nvecteur vitesse, tangente.\nVecteur accŽlŽrationÊ;\nŽtude de la trajectoireÊ;\nŽtude du mouvement.",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "calculer",
+          "montrer",
+          "construire"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "exemple",
+        "difficulty_level": "advanced",
+        "chunk_category": "example"
+      },
+      "start_line": 2123,
+      "end_line": 2177
+    },
+    {
+      "text": "ExemplesÊ: cerclesÊ,\ncyclo•desÊ:\net astro•des :\nII) CONIQUES.\nDŽfinition par foyer et\ndirectrice :\nSommet, centre, Žquation\ncartŽsienne rŽduite.\nGŽnŽration bifocale de\nl'ellipse et de l'hyperbole.\nƒquation de l'hyperbole\nrapportŽe ˆ ses\nasymptotes.\nƒquations paramŽtriques.\nTangente en un point\nd'une conique.\n¥ On introduira les courbes\nparamŽtrŽes ˆ partir de\nprobl•mes de lieux\ngŽomŽtriquesÊ; aucune Žtude\ndes fonctions vectorielles\nn'est au programme. Le\nvecteur dŽrivŽ est dŽfini par\nses coordonnŽes x'(t), y'(t).\n¥ Pour la notion de tangente,\non se limitera au cas o• le\nvecteur dŽrivŽ n'est pas nul.\nL'Žtude des branches\ninfinies est hors programme.\n¥ Pour les coniques, on fera\nl'Žtude de la ligne de niveau\nMF = e.\n¥ On donnera des exemples\nde transformations  d'un\ncercle en ellipse par affinitŽ\northogonale, de tracŽ de\nlieux gŽomŽtriques ˆ l'aide\nd'une reprŽsentation\nparamŽtrique.\n• Déterminer la tangente à\nune courbe paramétrée.\nReprésenter une courbe\nparamétrée.\n• Déterminer une équation\ncartésienne ou paramétrique\nd'une conique.\n• Déterminer la nature et les\néléments d'une conique\nconnaissant une équation\ncartésienne ou\nparamétrique.\n• Tracer la tangente en un\npoint d'une conique.\n• Représenter\ngraphiquement une conique.\n\ncos\n)t(y\nsin\n= a\n)t(\n\nsin\n)t(\ncos\n)t(\nOffice du Baccalauréat – Université Cheikh Anta Diop, BP 5005 Dakar Fann, Dakar, Sénégal\nSite Internet : www.officedubac.sn / https://extrantsbac.ucad.sn/\nREPUBLIQUE DU SENEGAL\nUn Peuple – Un But – Une Foi\nMINISTERE DE L’ENSEIGNEMENT SUPERIEUR, DE LA RECHERCHE ET DE L’INNOVATION\nOFFICE DU BACCALAUREAT\nPROGRAMME D’ENSEIGNEMENT\nNIVEAU TERMINALE\nSENEGAL\nMise en ligne par l’office du Baccalauréat\nhttps://officedubac.sn/\nProgrammes de mathématiques du second cycle – Terminales S2 et S4 - Année 2006\nTERMINALE S2 et S4\nProgrammes de mathématiques du second cycle – Terminales S2 et S4 - Année 2006\nINTRODUCTION GENERALE\nLe programme des classes  de Terminales S2 et S4 s'inscrit dans la continuitŽ de\nla rŽforme des programmes entreprise depuis 1990 ˆ partir de la 6•me. En\nconsŽquence, il prend en compte les changements adoptŽs dans les classes\nprŽcŽdentes et se situe dans l'esprit de l'harmonisation des programmes de\nMathŽmatiques.\nCe programme est prŽvu pour cinq heures de cours par semaine. Le programme\nest formulŽ en termes de contenus. Ces contenus sont assortis de commentaires.\nLes compŽtences exigibles,  sur lesquelles l'Žl•ve doit •tre ŽvaluŽ, compl•tent ce\nprogramme.\nLes classes de Terminales S2 et S4 sont des classes  ˆ vocation scientifique\ntournŽe vers les sciences expŽrimentales. En consŽquence, l'analyse et la gestion\ndes donnŽes y prennent une place prŽpondŽrante.\nL'acquisition par les Žl•ves d'un raisonnement rigoureux et d'une bonne ma”trise\ntechnique des outils mathŽmatiques doit se faire sans exc•s de formalisme et\nd'abstraction : les savoir faire sont privilŽgiŽs sur les savoirs thŽoriques.\nL'introduction d'une nouvelle notion par des activitŽs prŽparatoires sera toujours\nprivilŽgiŽe sur une approche thŽorique. On donnera du sens ˆ toute dŽmarche\nmathŽmatique afin de ne pas la dŽconnecter de la rŽalitŽ.\nLe raisonnement constitue un objectif majeur dans la formation. La formulation\ndes dŽmonstrations et la comprŽhension des ŽnoncŽs (particuli•rement en\ndŽnombrement) feront l'objet d'une Žtude soignŽe. Une liaison maths-fran•ais est\nsouhaitable.\nL'approche historique, quand elle est possible, sera encouragŽe pour donner ˆ\nl'Žl•ve une ouverture sur la  culture mathŽmatique.\nDe nombreux concepts mathŽmatiques seront utilisŽs dans les autres disciplines\nparticuli•rement en Sciences Physiques. Ce sera l'occasion au travers d'une\ncollaboration interdisciplinaire de dŽcloisonner l'enseignement.\nLes exercices seront pris, autant que possible, dans le domaine socioculturel de\nl'Žl•ve.\nProgrammes de mathématiques du second cycle – Terminales S2 et S4 - Année 2006\nANALYSE.\nLe programme d'analyse porte essentiellement sur les fonctions numŽriques.\nL'objectif principal est d'exploiter la dŽrivation et l'intŽgration pour l'Žtude globale\net locale des fonctions usuelles et des fonctions qui s'en dŽduisent de mani•re\nsimple. Quelques probl•mes d'importance majeure fournissent un terrain pour\ncette Žtude : Žtude de variations, recherche d'extrema, rŽsolution d'Žquations et\nd'inŽquations, calcul de grandeurs gŽomŽtriques.\nQuelques notions sur les suites compl•tent le programme d'analyse dans le seul\nbut  de permettre l'Žtude de situations discr•tes sur des exemples simples.\nLes activitŽs sur les suites et les fonctions ne sauraient se borner ˆ des exercices\nportant sur des exemples donnŽs ˆ priori, il convient aussi d'Žtudier des situations\nissues de l'alg•bre, de la gŽomŽtrie, des sciences physiques, des sciences de la vie\net de la terre, des sciences Žconomiques et des sciences humaines.\nContenus\nCommentaires\nCompétences exigibles\nI) FONCTIONS\nNUMƒRIQUES.\n1) Rappels et ComplŽments.\n- Rappels sur la continuitŽ .\n- ThŽor•me des valeurs\nintermŽdiaires (admis).\n- Fonction rŽciproque d'une\nfonction continue et\nstrictement monotone sur un\nintervalleÊ: existence   et continuitŽ\n(admises), monotonie,\nreprŽsentation graphique.\n-Etude des branches infinies\n-ThŽor•mes de comparaison des\nlimites\n-Limite d'une fonction composŽe :\na et l Žtant deux  rŽels, si\na f x\nlim ( )= b et g est continue en\nb,alors\na gof x\nlim\n( )= g(b).\n-ComposŽe de deux fonctions\ncontinues.\n2) DŽrivŽes et primitives.\n- DŽrivation d'une fonction\ncomposŽe de deux fonctions\ndŽrivables. Applications aux\nProlonge-ment\npar continuitŽ.\nOn recherchera\nsur des exemples\nune valeur\napprochŽe d'un\nzŽro d'une\nfonction continue.\nSur des exemples,\ndŽterminer, quand\ncela est possible,\nl'expression de\nf -1 (x).\n¥ La dŽrivation de la\nrŽciproque (lorsque\ncela est possible)\npourra •tre traitŽe et\nutilisŽe dans la suite\ndu cours.\nDŽterminer l'image\nd'un intervalle par une\nfonction continue.\nUtiliser le thŽor•me\ndes valeurs\nintermŽdiaires pour\nrechercher une valeur\napprochŽe d'un zŽro\nd'une fonction\ncontinue.\nJustifier l'existence, la\ncontinuitŽ et la\nmonotonie d'une\nfonction rŽciproque.\nReprŽsenter la\nfonction rŽciproque\nd'une fonction\nbijective donnŽe ˆ\npartir de la\nreprŽsentation de cette\nderni•re.\nCalculer la limite d'une\nfonction composŽe gof\nen un point a lorsque f\nProgrammes de mathématiques du second cycle – Terminales S2 et S4 - Année 2006\nContenus\nCommentaires\nCompétences exigibles\nfonctions du type fa    a ∈ Q\n- Dérivation de la réciproque d'une\nfonction dérivable monotone et de\ndérivée non nulle.\nadmet une limite b en\na et lorsque g est\ncontinue en b.\nJustifier la continuitŽ\nde la composŽe de\ndeux fonctions\ncontinues.\nJustifier la dŽrivabilitŽ\net calculer la dŽrivŽe\nd'une fonction\ncomposŽe\n- DŽrivŽes successives.\n- Points dÕinflexionÊ:\nDŽfinitionÊ:On dit que la courbe\nde f admet un point dÕinflexion\ndÕabscisse\n0x si la courbe y traverse\nsa tangente .\nThŽor•meÊ:Si f est deux fois\ndŽrivable sur un intervalle ouvert I\ncontenant\n0x et si f Õ sÕannule en\nchangeant de signe en\n0x alors le\npoint de la courbe dÕabscisse\n0x est\nun point dÕinflexion.\n-ThŽor•me admis :\nSi lim '( )\na f\n= (l rŽel fini ou pas)\nalors lim\n( )\n( )\nf x\nf a\n- Primitives d'une fonction\ncontinue sur un intervalle :\n- DŽfinition, existence\n(admise),ensemble des primitives\nd'une fonction continue, propriŽtŽ\ndes primitives, primitives de\nfonctions usuelles,  primitives des\nfonctions du type (g'of).f'.\n- InŽgalitŽ des accroissements finis\nOn utilisera les\nnotations f',\nf\",....et, en\nliaison avec la\nphysique, on\nintroduira les\nnotations dx\ndf et\nOn se limitera ˆ\ndes calculs\nsimples, on\ndonnera les\nindications\nnŽcessaires\npour les\ntransformations\nŽventuelles.\nConna”tre les\nnotations f ', f\", ...,\nf(n).\nCalculer les dŽrivŽes\nsuccessives.\nConna”tre les\nprimitives des\nfonctions usuelles.\nDŽterminer les\nprimitives des\nfonctions usuelles et\ndu type\n(g'of).f ' , f n .f' ,\nn ∈ Q-{ -1}\nSavoir utiliser\nl’inégalité des\naccroissements finis\nProgrammes de mathématiques du second cycle – Terminales S2 et S4 - Année 2006\nContenus\nCommentaires\nCompétences exigibles\n3) Fonctions usuelles\n• Exemples d’étude de\nfonctions polynômes,\nrationnelles et\ntrigonométriques.\n• Fonctions\npuissances :  x\navec a entier ou\nrationnel.\n• Fonction logarithme\nnépérien : ensemble de",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "tracer"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "exemple",
+        "difficulty_level": "advanced",
+        "chunk_category": "example"
+      },
+      "start_line": 2268,
+      "end_line": 2568
+    },
+    {
+      "text": "définition, propriétés\nalgébriques, continuité,\nlimites, dérivée,\nreprésentation\ngraphique.\n• Fonction\nexponentielle :\nensemble de définition,",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "exigibles",
+          "exigibles",
+          "exigibles",
+          "exigibles",
+          "exigibles"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "definition",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 2569,
+      "end_line": 2576
+    },
+    {
+      "text": "propriétés algébriques,\ncontinuité, limites,\ndérivée, primitive,\nreprésentation\ngraphique.\nLa fonction logarithme\nnŽpŽrien, notŽ ln, est la\nprimitive  sur ]0, _∞[ de\nla fonction  [x a x\n1 ] qui\ns'annule en 1.\nEn liaison avec la\nphysique, on introduira le\nlogarithme dŽcimal, notŽ\nlog.\nLa fonction exponentielle\nest dŽfinie comme\nfonction rŽciproque de la\nfonction logarithme\nnŽpŽrien, et sera notŽe\n[ x a exp(x) ]. On\ndŽmontrera aussi que\nexp(x) = ex.\nOn s'intŽressera aux\nlimites usuelles ci-\ndessous Ê:\nlim\nln( );Ê\n→+∞\nlim ln( )\n→+∞\nlim\nlim ln(\nlim\na Žtant un\nrationnel strictement\npositif\nConna”tre et utiliser\nles limites (  a est un\nrationnel strictement\npositif )\nlim\nln( );Ê\n→+∞\nlim ln( );\n→+∞\nlim\nlim ln(\nlim\n. lim\nx e\n→−∞\nn  est un entier naturel non\nnul.\n• Déterminer les\nprimitives  des\nfonctions du type\n(exp o f).f ' ,  f\nf '\nProgrammes de mathématiques du second cycle – Terminales S2 et S4 - Année 2006\nII) SUITES NUMERIQUES\nLes suites numŽriques seront ŽtudiŽes sur des exemples et leur introduction sera faite\nsans thŽorie. On pourra y consolider le raisonnement par rŽcurrence.\nContenus\nCommentaires\nCompŽtences\n-ComplŽments\nsur les suites\narithmŽtiques,\nsur les suites\ngŽomŽtriques\net sur les suites\nrŽcurrentes.\n-ThŽor•mes sur\nla convergence\ndes suites\nmonotones\nbornŽes\n(admis).\n-Limite d'une\nsuite du type\nUn+1 = f(Un)\n• Des rappels sur les suites\nseront faits sur des exemples.\n• Suites rŽcurrentes:\nun+1= f(un), o• f est continue.\nOn reprŽsentera ces suites pour\nfaire appara”tre la convergence\nou la divergence.\n• On admettra les thŽor•mes\nsuivants :\n- Si (Un)  converge vers L et si f\nest une fonction continue en L\nalors (f(Un)) converge vers f(L).\n-Soit (Un) une suite dŽfinie par la\nrelation   Un+1= f(Un). Si  Un\nconverge vers L et si f est continue\nen L alors L est solution de\nl'Žquation      x = f(x).\n• Conna”tre et utiliser les\nthŽor•mes sur la\nconvergence des suites\nmonotones bornŽes.\n• DŽterminer le sens de\nvariation, la convergence,\net la limite d'une suite de\ntype Un+1= f (Un), avec f\ncontinue.\n• ReprŽsenter graphiquement\nune suite de type\nUn+1= f (Un), avec f\ncontinue.\nIII) CALCUL INTƒGRAL\nLe calcul intégral sera l'occasion d'effectuer des recherches de primitives, en particulier\ndans le but de déterminer des aires de surfaces ou de volumes de solides. L'aspect\npratique sera toujours présent.\nContenus\nCommentaires\nCompŽtences\nexigibles\n-IntŽgrale d'une fonction\ncontinue sur un intervalle [a, b] :\ndŽfinition, notation.\nLinŽaritŽ.\nRelation de Chasles.\n-IntŽgrale et inŽgalitŽs :\nsi f est positive sur [a, b],\nalors                       est positive.\nsi f ² g sur [a, b] ,\nalors                   ≤\nsi pour tout x de\n[a, b],  m ² f(x) ² M, alors\nSi F est une primitive\nde f sur [a,b], alors\n= F(b) - F(a)\nInterprŽtation graphique.\nOn pourra traiter des",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "theoreme",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 2660,
+      "end_line": 2796
+    },
+    {
+      "text": "exemples de calcul\nd'une valeur approchŽe\nd'une intŽgrale, mais\naucune connaissance\nsur les mŽthodes\nusuelles de calcul de\nvaleur approchŽe d'une\nintŽgrale n'est exigible.\nOn fera calculer des\nvolumes du type\n• Conna”tre et\nutiliser les\npropriŽtŽs de\nl'intŽgrale.\n• Calculer une\nintŽgrale ˆ l'aide\nd'une primitive\nou d'une\nintŽgration par\nparties.\n• Calculer des\naires planes et\ndes volumes du\ntype\nV =.\nS )\nProgrammes de mathématiques du second cycle – Terminales S2 et S4 - Année 2006\nContenus\nCommentaires\nCompŽtences\nexigibles\nm(b-a)   ²                    ² M(b- a).\n- IntŽgration par parties.\n- Calcul d'aires et de volumes.\nV =                     o• S(z) est\nl'aire de la section plane du\nsolide considŽrŽ.\nOn fera des calculs de\nmoment dÕinertie et de\ncentre dÕinertie.\nOn donnera ˆ lÕŽl•ve la\nformuleÊ:\nÊ                     pour les cas\no• on fait tourner une portion\nde la courbe de f autour de\nlÕaxe des abscisses.\nIV) ƒQUATIONS DIFFƒRENTIELLES LINƒAIRES.\nAucune thŽorie gŽnŽrale ne sera faite, l'objectif  de cette partie est de savoir rŽsoudre les\nŽquations diffŽrentielles.\nL'utilisation des Žquations diffŽrentielles en Sciences Physiques est un champ intŽres-\nsant pour la recherche d'activitŽs prŽparatoires ou d'exercices.\nContenus\nCommentaires\nCompŽtences\nexigibles\n¥ ƒquation diffŽrentielle\nlinŽaire homog•ne du premier\nordre ˆ coefficients constants:\nexistence et unicitŽ de la",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "calculer"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "exemple",
+        "difficulty_level": "advanced",
+        "chunk_category": "example"
+      },
+      "start_line": 2845,
+      "end_line": 2903
+    },
+    {
+      "text": "solution vŽrifiant une condition\ninitiale donnŽe.\n¥ ƒquation diffŽrentielle\nlinŽaire homog•ne du second\nordre ˆ coefficients constants :\nexistence et unicitŽ (admises)\nde la solution vŽrifiant des\nconditions initiales donnŽes.\n-Equation diffŽrentielle linŽaire\ndu premier et du second ordre ˆ\ncoefficients constants avec\nsecond membre\nOn donnera toujours une\nindication pour la\ndŽtermination dÕune solution\nparticuli•re.\nEn liaison avec\nl'enseignement des sciences\nphysiques (mŽcanique,\nŽlectricitŽ...), on Žtudiera sur\ndes exemples simples des\nphŽnom•nes continus\nsatisfaisant ˆ une loi\nd'Žvolution et ˆ une condition\ninitiale, afin de mettre en\nŽvidence certains\nphŽnom•nes (amortissement,\noscillation...) ;  aucune\nconnaissance des lois\nphysiques sur ces questions\nn'est exigible des Žl•ves en\nmathŽmatique.\nRŽsoudre les\nŽquations\ndiffŽrentielles\nlinŽaires\nhomog•nes du\npremier et du\nsecond ordre ˆ\ncoefficients\nconstants.\nRŽsoudre les\nŽquations\ndiffŽrentielles\nlinŽaires du\npremier et du\nsecond ordre ˆ\ncoefficients\nconstants avec\nsecond membre.\nS )\nd x\nf )\nProgrammes de mathématiques du second cycle – Terminales S2 et S4 - Année 2006\nORGANISATION DE DONNEES\nI) STATISTIQUES.\nLes statistiques ont une place de plus en plus grande dans les sciences\nexpŽrimentales, l'Žconomie et la vie courante. Ceci explique leur importance en sŽrie\nS2. Leur introduction sera faite ˆ partir d'exemples concrets. On pourra  organiser une\nenqu•te qui sera exploitŽe en cours.\nContenus\nCommentaires\nCompŽtences exigibles\n¥ SŽries ˆ deux variables.\n¥ MŽthode des moindres\ncarrŽs.\n¥ Coefficient de\ncorrŽlation linŽaire\n• La dŽtermination\ndes Žquations des\ndroites de\nrŽgression pourra\n•tre  traitŽe en",
+      "chunk_type": "solution",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "exigibles",
+          "exigibles",
+          "exigibles",
+          "exigibles",
+          "exigibles"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "solution",
+        "difficulty_level": "advanced",
+        "chunk_category": "solution"
+      },
+      "start_line": 2946,
+      "end_line": 3018
+    },
+    {
+      "text": "exemples n'ayant\naucun support rŽel.\n• Conna”tre et utiliser les\nformules de la corrŽlation et\nde la rŽgression linŽaire.\n• DŽterminer  le coefficient\nde corrŽlation linŽaire et les\nŽquations des droites de\nrŽgression.\n• InterprŽter le coefficient de\ncorrŽlation linŽaire.\n• Utiliser les droites de\nrŽgression pour faire des\nprŽvisions.\nII) PROBABILITƒS.\nLes acquis de Premi•re sur le dŽnombrement seront consolidŽs sous forme d'exercices\nvariŽs tirŽs de situations rŽelles.\nLes probabilitŽs constituent  un chapitre important dont les applications pratiques sont\nnombreuses (en mŽdecine, Žconomie, pharmacie). En consŽquence, on veillera ˆ\nrendre ce cours attrayant par le choix judicieux d'activitŽs prŽparatoires et d'exercices.\nOn veillera ˆ faire ressortir le lien naturel entre les statistiques et les probabilitŽs. Seul\nfigure au programme le cas o• l'ensemble des ŽvŽnements ŽlŽmentaires est fini.\nContenus\nCommentaires\nCompŽtences exigibles\n¥ Notion de probabilitŽ.\n¥ ProbabilitŽ d'un\nŽvŽnement.\n¥ ProbabilitŽ de\nl'ŽvŽnement contraire.\n¥ ProbabilitŽ de la\nrŽunion de deux\nŽvŽnements\nincompatibles ou non.\n¥ Cas de\nl'ŽquiprobabilitŽ.\n¥ ProbabilitŽ\nconditionnelle :\n- DŽfinition,\n• Le vocabulaire\nprobabiliste\n(univers,\nŽvŽnement,\nŽvŽnement\nŽlŽmentaire,...) sera\nintroduit ˆ partir\nd'Žpreuves\nalŽatoires simples.\n• On pourra traiter\ndes probl•mes tirŽs\nde la mŽdecine\n(tests mŽdicaux).\n• Conna”tre le vocabulaire\nprobabiliste.\n• Calculer la probabilitŽ d'un\nŽvŽnement.\n• Conna”tre et utiliser les\nformules des probabilitŽs au\nprogramme.\n• Calculer la probabilitŽ\nconditionnelle d'un\nŽvŽnement.\n• Montrer que deux\nŽvŽnements sont\nindŽpendants.\nUtiliser la formule des\nProgrammes de mathématiques du second cycle – Terminales S2 et S4 - Année 2006\nContenus\nCommentaires\nCompŽtences exigibles\n- ƒvŽnements\nindŽpendants.\n- Formule des\nprobabilitŽs totales.\n¥ Notion de variable\nalŽatoire :\nDŽfinition,\nVocabulaire, Notation\nP(X=x)\n¥ Fonction de\nrŽpartition\nF(x) = P(X ² x).\n¥ EspŽrance, variance,\nŽcart type d'une\nvariable alŽatoire.\n¥ Loi binomiale.\n• Les variables\nalŽatoires seront\nintroduites ˆ partir\nd'exemples.\n• Exemple de schŽma\nde Bernouilli.\n• On introduira la loi\nbinomiale sur un",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "exemple",
+        "difficulty_level": "advanced",
+        "chunk_category": "example"
+      },
+      "start_line": 3030,
+      "end_line": 3123
+    },
+    {
+      "text": "exemple d'Žpreuves\nrŽpŽtŽes\nindŽpendantes.\nprobabilitŽs totales pour\nrŽsoudre des probl•mes.\n• DŽterminer la loi de\nprobabilitŽ d'une variable\nalŽatoire.\n• Calculer l'espŽrance, la\nvariance et l'Žcart-type\nd'une variable alŽatoire.\n• DŽterminer et reprŽsenter la\nfonction de rŽpartition d'une\nvariable alŽatoire.\n• Conna”tre la formule de la\nloi binomiale et lÕutiliser\npour rŽsoudre des\nprobl•mes.\nALGÈBRE ET GÉOMÉTRIE.\nLes rŽsultats d'alg•bre et de gŽomŽtrie vus dans les classes prŽcŽdentes ne feront\npas l'objet de rappels. Cependant, ils seront utilisŽs d•s que l'occasion se\nprŽsentera en particulier sur les nombres complexes qui constituent la seule\nnouveautŽ de cette partie. Il est conseillŽ de faire un rappel historique sur\nlÕŽvolution des nombres, des entiers naturels aux complexes.\nContenus\nCommentaires\nCompétences exigibles\nUne construction de C est pas recommandŽe. L'introduction des nombres complexes\nfournit des outils pour la trigonomŽtrie et pour l'Žtude de configurations gŽomŽtriques\nplanes.\n¥ DŽfinition ; forme\nalgŽbrique.\n¥ Somme, produit,\nquotient de deux nombres\ncomplexes.\n¥ ConjuguŽ d'un nombre\ncomplexe : dŽfinition,\npropriŽtŽs.\n¥ Forme trigonomŽtrique :\n- module et argument ;\n- dŽfinition et propriŽtŽs.\n• Un nombre complexe z est\nun nombre qui peut s'Žcrire\nsous la forme\nz = a + i b o• a et b sont des\nrŽels et i un nombre tel\nque i2 = -1\n• Notation eiθ = cosθ + i sinθ\n• Les élèves doivent savoir\ninterpréter le module et\nl'argument de zA - zB.\n• Conna”tre les\ndiffŽrentes formes\nd'un nombre\ncomplexe et leurs\nnotations.\n• Conna”tre et utiliser\nles propriŽtŽs du\nconjuguŽ.\n• Conna”tre et utiliser\nles propriŽtŽs du\nmodule et d' un\nargument d'un\nProgrammes de mathématiques du second cycle – Terminales S2 et S4 - Année 2006\nContenus\nCommentaires\nCompŽtences exigibles\n¥ InterprŽtation\ngŽomŽtrique : affixe d'un\npoint, d'un vecteur.\n¥ Applications ˆ l'Žtude\ndes similitudes planes\ndirectes ; ŽlŽments\ncaractŽristiques.\n¥ Formule de Moivre,\nracines ni•mes  dÕun rŽel\npositif, dÕun complexe.\n¥ RŽsolution d'Žquations\ndu second degrŽ ˆ\ncoefficients complexes,",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "calculer"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "exemple",
+        "difficulty_level": "advanced",
+        "chunk_category": "example"
+      },
+      "start_line": 3128,
+      "end_line": 3207
+    },
+    {
+      "text": "exemples de factorisation\nde polyn™mes.\n• Compléments de\ntrigonométrie : exemples\nd'utilisation des nombres\ncomplexes pour établir\ndes formules et pour\nlinéariser des expressions\ntrigonométriques.\n• Utilisation des nombres\ncomplexes pourÊ:\n- dŽmontrer l'alignement\nde 3 points.\n- comparer des longueurs.\n- dŽterminer la nature\nd'une configuration\ngŽomŽtrique ou d'une\ntransformation\ngŽomŽtrique.\n• Il s'agit d'Žtudier des\napplications du type :\nM(z) a M'(a z + b)\navec a - 0\n• On pourra donner des",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "montrer"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "exemple",
+        "difficulty_level": "intermediate",
+        "chunk_category": "example"
+      },
+      "start_line": 3208,
+      "end_line": 3231
+    },
+    {
+      "text": "exemples de rŽsolution\nd'Žquation du 2nd degrŽ ˆ\ncoefficients complexes.\n• Les formules ainsi obtenues\nn'ont pas à être\nmémorisées.\n• L’élève doit savoir\ninterpréter le module et\nl’argument d’un quotient.\nnombre complexe.\n• Utiliser les\nnombres\ncomplexes pour\nrŽsoudre des\nprobl•mes de\ngŽomŽtrie.\n• DŽterminer les\nŽlŽments\ncaractŽristiques\nd'une similitude\nplane directe.\n• Conna”tre et utiliser\nles formules\nd'Euler et la\nformule de Moivre.\n• LinŽariser des\nexpressions\ntrigonomŽtriques.\n• DŽterminer les\nracines ni•mes de\nl'unitŽ.\n• Résoudre dans C\nles équations du\n2nd degré à\ncoefficients\ncomplexes.",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/Programme_Maths-LS.pdf",
+        "filename": "Programme_Maths-LS.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "competences": [
+          "résoudre"
+        ],
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "ad0b8fa379a8802e",
+        "chunk_type": "exemple",
+        "difficulty_level": "advanced",
+        "chunk_category": "example"
+      },
+      "start_line": 3232,
+      "end_line": 3267
+    }
+  ]
+}

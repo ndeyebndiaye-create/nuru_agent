@@ -43,7 +43,7 @@ def main():
         "langgraph",
         "sqlalchemy",
         "psycopg",
-        "ollama",
+        "google.generativeai",
         "requests",
     ]
     

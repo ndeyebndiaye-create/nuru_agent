@@ -1,5 +1,5 @@
 """
-API NURU - Orchestrateur multi-agents LangGraph + RAG + LLM local (Ollama)
+API NURU - Orchestrateur multi-agents LangGraph + RAG + LLM (Gemini API)
 
 Ce module assemble l'application FastAPI complète :
 - /chat            : chatbot élève, passe par le graphe LangGraph complet
@@ -108,12 +108,12 @@ async def root():
 @app.post("/chat/simple")
 async def chat_simple(message: str = Query(...)):
     """Mode dégradé : RAG + LLM direct, sans passer par les agents
-    LangGraph. Utile pour tester rapidement Qdrant/Ollama isolément."""
+    LangGraph. Utile pour tester rapidement Qdrant/Gemini isolément."""
     from backend.app.rag.vector_indexer import HybridRetriever, VectorIndexerConfig
-    from backend.app.llm.ollama_client import OllamaClient
+    from backend.app.llm.gemini_client import GeminiClient
 
-    model_name = os.getenv("OLLAMA_MODEL", "llama3.2:1b")
-    llm = OllamaClient(model=model_name)
+    model_name = os.getenv("LLM_MODEL", "gemini-1.5-pro")
+    llm = GeminiClient(model=model_name)
     retriever = HybridRetriever(VectorIndexerConfig.from_env())
 
     try:

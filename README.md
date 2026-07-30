@@ -1,482 +1,631 @@
-# 🌟 NURU — Guide complet d'exécution (étape par étape)
+# 🌟 NURU — Tuteur IA pour les Mathématiques Terminale S1/S2
 
-Tuteur IA multi-agents (LangGraph) pour les Mathématiques Terminale S1, programme sénégalais.
+Tuteur pédagogique intelligent basé sur **LangGraph** (multi-agents), **RAG** (Qdrant Cloud),
+**Gemini API** (LLM) et **Next.js 16** (interface web).
 
-Ce guide part de zéro (dossier dézippé) jusqu'à l'interface web fonctionnelle, en local
-puis en déploiement (Docker / Hugging Face Spaces). Exécute les étapes **dans l'ordre**,
-sans en sauter — chaque étape vérifie que la précédente a fonctionné.
-
-> ⚠️ **Si tu vois le message "🤖 NURU (Mode hors-ligne)"** dans l'interface (écran jaune),
-> ça veut dire que le frontend Gradio n'arrive pas à joindre l'API FastAPI. Va directement
-> à la section [🩺 Dépannage : Mode hors-ligne](#-dépannage--mode-hors-ligne) après avoir
-> lu les étapes 0 à 5.
+> Programme Mathématiques — Terminale S1/S2/S3, Sénégal.
 
 ---
 
-## 📋 Sommaire
+## 🏗️ Architecture
 
-- [Étape 0 — Prérequis](#étape-0--prérequis)
-- [Étape 1 — Installation](#étape-1--installation)
-- [Étape 2 — Configuration (.env)](#étape-2--configuration-env)
-- [Étape 3 — Lancer les bases de données (Qdrant, Postgres)](#étape-3--lancer-les-bases-de-données)
-- [Étape 4 — Lancer le LLM local (Ollama)](#étape-4--lancer-le-llm-local-ollama)
-- [Étape 5 — Pipeline d'ingestion documentaire](#étape-5--pipeline-dingestion-documentaire)
-- [Étape 6 — Lancer l'API (agents LangGraph)](#étape-6--lancer-lapi-agents-langgraph)
-- [Étape 7 — Lancer l'interface (frontend)](#étape-7--lancer-linterface-frontend)
-- [Étape 8 — Tester le système de bout en bout](#étape-8--tester-le-système-de-bout-en-bout)
-- [Étape 9 — Déploiement (Docker)](#étape-9--déploiement-docker)
-- [Étape 10 — Déploiement (Hugging Face Spaces)](#étape-10--déploiement-hugging-face-spaces)
-- [🩺 Dépannage : Mode hors-ligne](#-dépannage--mode-hors-ligne)
-- [Structure du projet](#structure-du-projet)
+```
+┌──────────────────────────────────────────────────────────────┐
+│  Navigateur                                                  │
+│  http://localhost:3000  (Next.js 16 + React 19 + Tailwind)  │
+└──────────────────────┬───────────────────────────────────────┘
+                       │  fetch / REST JSON
+┌──────────────────────▼───────────────────────────────────────┐
+│  Backend FastAPI  —  http://localhost:8080                   │
+│                                                              │
+│  LangGraph StateGraph                                        │
+│  Planner → Retriever → Cours / Exercices / Quiz              │
+│          → Verifier → Progression                            │
+│                                                              │
+│  Gemini API (google-generativeai)   ←   LLM                  │
+│  Qdrant Cloud (qdrant-client)       ←   RAG (2 635 points)   │
+│  SymPy                              ←   calcul symbolique    │
+│  SQLite / PostgreSQL                ←   mémoire élève        │
+└──────────────────────────────────────────────────────────────┘
+```
+
+### Stack
+
+| Couche | Technologie | Version |
+|---|---|---|
+| Frontend | Next.js, React, TypeScript, TailwindCSS | 16 / 19 / 5 / 4 |
+| Backend API | FastAPI, Uvicorn | ≥0.110 / ≥0.27 |
+| Orchestration IA | LangGraph, LangChain Core | ≥0.2 / ≥0.3 |
+| LLM | Google Gemini API (`gemini-1.5-pro`) | ≥0.4 |
+| Base vectorielle | Qdrant Cloud | client==1.18.0 |
+| Embeddings | sentence-transformers | ≥2.2 |
+| Calcul symbolique | SymPy | ≥1.12 |
+| Mémoire élève | SQLite (défaut) ou PostgreSQL | SQLAlchemy ≥2.0 |
+| Parsing PDF | PyMuPDF | ≥1.23 |
 
 ---
 
-## Étape 0 — Prérequis
+## 📁 Structure du projet
 
-À installer avant de commencer :
+```
+nuru_agent_nbn/
+│
+├── backend/
+│   └── app/
+│       ├── agents/
+│       │   ├── graph.py              # LangGraph StateGraph (flux principal)
+│       │   ├── orchestrator.py       # Point d'entrée des requêtes
+│       │   ├── planner.py            # Détection d'intention (cours/quiz/exercice)
+│       │   ├── retriever_agent.py    # Retrieval RAG sur Qdrant
+│       │   ├── cours_agent.py        # Génération d'explications de cours
+│       │   ├── exercices_agent.py    # Génération d'exercices
+│       │   ├── quiz_agent.py         # Génération + correction de quiz QCM
+│       │   ├── verifier_agent.py     # Vérification pédagogique des réponses
+│       │   ├── evaluation_agent.py   # Scoring et analyse des résultats
+│       │   ├── progression_agent.py  # Mise à jour de la maîtrise par notion
+│       │   ├── llm_utils.py          # Singleton GeminiClient
+│       │   ├── config.py             # Prompts système des agents
+│       │   └── state.py              # Schéma d'état LangGraph (TypedDict)
+│       │
+│       ├── api/
+│       │   ├── main.py               # Assemblage FastAPI + routers
+│       │   ├── routes/
+│       │   │   ├── chat.py           # /chat/  (LangGraph complet)
+│       │   │   ├── generate.py       # /generate/content  /generate/chat  /generate/chapitres
+│       │   │   ├── evaluation.py     # /evaluation/quiz  /evaluation/exercice
+│       │   │   ├── health.py         # /health
+│       │   │   ├── auth.py           # /auth/register  /auth/login
+│       │   │   ├── student.py        # /student/dashboard/:id
+│       │   │   ├── teacher.py        # /teacher/students/:id  /teacher/class-stats/:id
+│       │   │   ├── parent.py         # /parent/students/:id
+│       │   │   └── admin.py          # /admin/stats  /admin/users
+│       │   ├── models/
+│       │   │   ├── requests.py       # Schémas Pydantic des requêtes
+│       │   │   └── responses.py      # Schémas Pydantic des réponses
+│       │   └── dependencies/
+│       │       └── containers.py     # Injection de dépendances (singletons)
+│       │
+│       ├── llm/
+│       │   └── gemini_client.py      # Client Gemini API (temperature, system_prompt)
+│       │
+│       ├── memory/
+│       │   ├── db.py                 # SQLAlchemy engine + session factory
+│       │   ├── models.py             # ORM : users, students, interactions, mastery, badges
+│       │   ├── student_profile.py    # CRUD profil élève
+│       │   ├── teacher_profile.py    # CRUD profil enseignant
+│       │   └── auth_service.py       # Authentification + gestion des rôles
+│       │
+│       ├── rag/
+│       │   ├── document_parser/      # PDF → Markdown (PyMuPDF, Nougat optionnel)
+│       │   ├── chunker/              # Découpage pédagogique des documents
+│       │   ├── metadata_extractor/   # Extraction et enrichissement des métadonnées
+│       │   └── vector_indexer/       # Embeddings + indexation Qdrant
+│       │
+│       └── tools/
+│           ├── math_tools.py         # Calcul symbolique SymPy (dériver, intégrer, résoudre)
+│           └── sandbox.py            # Évaluation sécurisée de code Python
+│
+├── frontend/
+│   └── src/
+│       ├── app/                      # Next.js App Router
+│       │   ├── page.tsx              # Accueil
+│       │   ├── layout.tsx            # Layout racine
+│       │   ├── matieres/             # Catalogue des matières
+│       │   │   └── mathematiques/    # Catalogue Maths Terminale
+│       │   ├── cours/[id]/           # Lecteur de cours dynamique
+│       │   ├── exercices/[id]/       # Exercices interactifs
+│       │   ├── quiz/[id]/            # Quiz adaptatif
+│       │   ├── progression/          # Tableau de bord élève (XP, maîtrise, badges)
+│       │   ├── defis/                # Défis et challenges
+│       │   ├── recherche/            # Recherche dans la base documentaire
+│       │   ├── enseignant/           # Espace enseignant
+│       │   ├── parent/               # Espace parent
+│       │   └── admin/                # Back-office admin
+│       │       ├── utilisateurs/
+│       │       ├── publications/
+│       │       ├── generation-ia/
+│       │       ├── centre-ia/
+│       │       ├── journal-audit/
+│       │       └── scheduler/
+│       │
+│       ├── components/
+│       │   ├── ai/
+│       │   │   ├── Chatbot.tsx              # Chat IA (RAG + Gemini)
+│       │   │   └── NuruAssistantDrawer.tsx  # Panel assistant latéral
+│       │   ├── auth/
+│       │   │   └── AuthModal.tsx            # Connexion / Inscription
+│       │   ├── layout/
+│       │   │   ├── Navbar.tsx
+│       │   │   └── Sidebar.tsx
+│       │   └── math/
+│       │       ├── MathRenderer.tsx         # Rendu KaTeX inline
+│       │       └── MarkdownViewer.tsx       # Markdown + KaTeX + GFM
+│       │
+│       ├── context/
+│       │   └── AuthContext.tsx       # État d'authentification global
+│       ├── lib/
+│       │   └── api.ts                # Fonctions fetch vers le backend FastAPI
+│       └── types/
+│           └── index.ts              # Types TypeScript partagés
+│
+├── data/
+│   ├── raw/
+│   │   ├── cours/                    # 23 PDFs — Terminale S1/S2
+│   │   └── exercices/                # TDs organisés par chapitre
+│   └── processed/                   # Markdown extraits (générés par ingest)
+│
+├── scripts/
+│   ├── init_env.sh                  # Crée .env depuis .env.example
+│   ├── check_env.py                 # Vérifie les variables d'environnement
+│   ├── check_setup.py               # Vérifie les imports Python
+│   ├── ingest_pipeline.py           # Pipeline PDF → Qdrant (principal)
+│   ├── ingest_config.py             # Configuration du pipeline
+│   └── ingest_utils.py              # Utilitaires du pipeline
+│
+├── tests/                           # Suite pytest (78 tests)
+├── logs/                            # api.log, frontend.log (générés au runtime)
+│
+├── run_api.sh                       # Lance le backend FastAPI
+├── run_frontend.sh                  # Lance le frontend Next.js
+├── run_all.sh                       # Lance API + Frontend ensemble
+├── run_ingest.sh                    # Lance le pipeline d'ingestion
+├── run_tests.sh                     # Lance la suite de tests
+│
+├── Dockerfile                       # Image Docker backend (python:3.11-slim)
+├── frontend/Dockerfile              # Image Docker frontend (node:20-slim)
+├── docker-compose.yml               # Qdrant, PostgreSQL, backend, frontend
+├── requirements.txt                 # Dépendances Python
+└── .env                             # Variables d'environnement (non versionné)
+```
 
-| Outil | Version | Vérifier avec |
+---
+
+## ⚙️ Prérequis
+
+| Outil | Version minimale | Vérification |
 |---|---|---|
 | Python | 3.10+ | `python3 --version` |
 | pip | récent | `pip --version` |
-| Docker (recommandé) | récent | `docker --version` |
-| Ollama (LLM local) | dernière | `ollama --version` |
+| Node.js | 18+ | `node --version` |
+| npm | 9+ | `npm --version` |
+| Docker | récent | `docker --version` |
 | Git | — | `git --version` |
-
-Si tu n'as pas Docker, tu peux quand même tout lancer en local (les sections l'indiquent),
-mais Docker simplifie énormément Qdrant/Postgres.
 
 ---
 
-## Étape 1 — Installation
+## 🚀 Installation
+
+### 1. Cloner le projet
 
 ```bash
-# 1. Se placer dans le dossier du projet (celui qui contient requirements.txt)
-cd NURU
+git clone <url-du-repo>
+cd nuru_agent_nbn
+```
 
-# 2. Créer un environnement virtuel Python
+### 2. Environnement Python
+
+```bash
 python3 -m venv venv
-source venv/bin/activate        # Linux/Mac
-# venv\Scripts\activate         # Windows
-
-# 3. Installer les dépendances
+source venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-**Vérification :**
+Vérification des imports :
 ```bash
-python -c "import langgraph, sympy, sqlalchemy, fastapi; print('✅ Dépendances OK')"
+python scripts/check_setup.py
 ```
-Si ça affiche `✅ Dépendances OK` sans erreur, passe à l'étape suivante.
+
+### 3. Dépendances Node.js (frontend)
+
+```bash
+cd frontend
+npm install
+cd ..
+```
 
 ---
 
-## Étape 2 — Configuration (.env)
+## 🔧 Configuration
+
+### Créer le fichier `.env`
 
 ```bash
-bash scripts/init_env.sh
+cp .env .env.backup   # facultatif — sauvegarde l'existant
 ```
 
-Ça crée un fichier `.env` à la racine. Édite-le et renseigne :
+Édite `.env` à la racine avec tes valeurs :
 
-```bash
-# Qdrant (base vectorielle RAG)
-QDRANT_URL=http://localhost:6333        # ou ton URL Qdrant Cloud
-QDRANT_API_KEY=                         # vide si Qdrant local
+```dotenv
+# ─── Qdrant Cloud ─────────────────────────────────────────────
+QDRANT_URL=https://<ton-cluster>.europe-west6-0.gcp.cloud.qdrant.io
+QDRANT_API_KEY=<ta-cle-qdrant>
 QDRANT_COLLECTION=nuru_maths
 
-# Mémoire élève (PostgreSQL) — laisse vide pour utiliser SQLite automatiquement
-DATABASE_URL=
+# ─── Qdrant local via Docker (alternative) ────────────────────
+# QDRANT_URL=http://localhost:6333
+# QDRANT_API_KEY=
+# QDRANT_COLLECTION=nuru_maths
 
-# LLM local (Ollama)
-OLLAMA_MODEL=llama3.2:1b
+# ─── LLM Gemini API ───────────────────────────────────────────
+GEMINI_API_KEY=<ta-cle-gemini>       # https://aistudio.google.com/
+LLM_MODEL=gemini-1.5-pro
 
+# ─── Mémoire élève ────────────────────────────────────────────
+DATABASE_URL=                        # vide = SQLite automatique
+
+# ─── Backend ──────────────────────────────────────────────────
+PORT=8080
+
+# ─── Frontend ─────────────────────────────────────────────────
+NEXT_PUBLIC_API_URL=http://localhost:8080
+
+# ─── Général ──────────────────────────────────────────────────
 LOG_LEVEL=INFO
 DEBUG=True
 ENVIRONMENT=development
 ```
 
-**Vérification :**
+Vérification :
 ```bash
 python scripts/check_env.py
+# QDRANT_URL, QDRANT_COLLECTION et GEMINI_API_KEY doivent afficher ✅
 ```
-Toutes les variables obligatoires Qdrant doivent afficher ✅. `DATABASE_URL` peut
-rester vide (repli SQLite automatique).
 
 ---
 
-## Étape 3 — Lancer les bases de données
+## 🗄️ Bases de données
 
-### Option A — Avec Docker (recommandé, le plus simple)
+### Option A — Qdrant Cloud (recommandé, déjà configuré)
+
+La collection `nuru_maths` est déjà indexée avec **2 635 points**.
+Il suffit de renseigner `QDRANT_URL` et `QDRANT_API_KEY` dans `.env`. Aucun service local à démarrer.
+
+### Option B — Qdrant + PostgreSQL via Docker
 
 ```bash
 docker compose up -d qdrant postgres
-```
-
-Vérifie que tout tourne :
-```bash
 docker compose ps
 ```
-Tu dois voir `qdrant` et `postgres` avec le statut `Up`.
 
-- Qdrant : http://localhost:6333/dashboard
-
-### Option B — Sans Docker
-
-- Qdrant : `pip install qdrant-client` puis lance le binaire Qdrant localement, ou utilise
-  un cluster **Qdrant Cloud** gratuit et mets son URL/clé dans `.env`.
-- PostgreSQL : optionnel — si tu ne le configures pas, la mémoire élève utilise
-  automatiquement un fichier SQLite local (`nuru_student_memory.db`), rien à faire.
-
-**Vérification :**
+Vérifications :
 ```bash
-curl http://localhost:6333/collections     # doit répondre en JSON, pas une erreur de connexion
+# Qdrant
+curl http://localhost:6333/collections
+
+# PostgreSQL
+docker compose logs postgres | tail -5
 ```
+
+> **SQLite** : si `DATABASE_URL` est vide dans `.env`, la mémoire élève
+> utilise automatiquement `nuru_student_memory.db` à la racine — rien à faire.
 
 ---
 
-## Étape 4 — Lancer le LLM local (Ollama)
+## 📦 Pipeline d'ingestion documentaire
+
+> À lancer uniquement si tu ajoutes de nouveaux PDFs ou si tu utilises Qdrant local vide.
+
+Place tes PDFs dans `data/raw/cours/` et `data/raw/exercices/`, puis :
 
 ```bash
-# Terminal séparé, à garder ouvert
-ollama serve
-```
-
-Dans un autre terminal, télécharge le modèle utilisé par NURU :
-```bash
-ollama pull llama3.2:1b
-```
-
-**Vérification :**
-```bash
-curl http://localhost:11434/api/tags        # doit lister llama3.2:1b
-```
-
-> 💡 Si Ollama n'est pas lancé, NURU continue de fonctionner en mode dégradé (les agents
-> Cours/Exercices utilisent alors des gabarits texte au lieu du LLM), mais sans génération
-> pédagogique riche. Pour la démo/soutenance, Ollama doit tourner.
-
----
-
-## Étape 5 — Pipeline d'ingestion documentaire
-
-Place tes PDF (cours, exercices, annales) dans `data/raw/cours/` et `data/raw/exercices/`,
-puis lance le pipeline complet (extraction → nettoyage → chunking → embeddings → Qdrant) :
-
-```bash
+source venv/bin/activate
 bash run_ingest.sh
 ```
 
-Ce script :
-1. Vérifie que des PDF existent dans `data/raw/`.
-2. Exécute `python -m scripts.ingest_pipeline`.
-
-**Options utiles :**
-```bash
-python -m scripts.ingest_pipeline --help            # affiche les options disponibles
-python -m scripts.ingest_pipeline --limit 1         # limite le traitement à un fichier
-python -m scripts.ingest_pipeline --force           # réingère même les fichiers déjà traités
+Le pipeline exécute :
+```
+PDF → PyMuPDF (parsing) → nettoyage → chunking pédagogique
+    → sentence-transformers (embeddings) → Qdrant (indexation)
 ```
 
-**Vérification :**
+Options :
 ```bash
-python scripts/test_vector_indexer.py   # confirme que Qdrant contient des documents
+# Tester sur 1 fichier
+python -m scripts.ingest_pipeline --limit 1
+
+# Forcer la réingestion de tous les fichiers
+python -m scripts.ingest_pipeline --force
+
+# Afficher toutes les options
+python -m scripts.ingest_pipeline --help
 ```
+
+Logs d'ingestion disponibles dans `data/ingestion_logs/pipeline.log`.
 
 ---
 
-## Étape 6 — Lancer l'API (agents LangGraph)
+## ▶️ Lancer l'application
+
+### Option 1 — Tout en une commande
 
 ```bash
+source venv/bin/activate
+bash run_all.sh
+```
+
+Ce script :
+1. Tue les processus existants sur les ports 8080 et 3000
+2. Lance le backend FastAPI en arrière-plan → `logs/api.log`
+3. Lance le frontend Next.js en arrière-plan → `logs/frontend.log`
+
+```
+✅ NURU est en cours d'exécution !
+🎨 Application Web : http://localhost:3000
+📚 Swagger API    : http://localhost:8080/docs
+```
+
+### Option 2 — Terminaux séparés (recommandé en développement)
+
+**Terminal 1 — Backend FastAPI :**
+```bash
+source venv/bin/activate
 bash run_api.sh
 ```
 
-Ou directement :
-```bash
-python -m backend.app.api.main
-```
-
-**Ce que tu dois voir dans le terminal :**
+Sortie attendue :
 ```
 ================================================================================
 🚀 NURU - Agent Tuteur IA (LangGraph multi-agents)
 ================================================================================
-📍 API: http://localhost:8080
-📚 Docs: http://localhost:8080/docs
+📍 API    : http://localhost:8080
+📚 Docs   : http://localhost:8080/docs
 ================================================================================
 ```
 
-**Vérification (dans un autre terminal) :**
+**Terminal 2 — Frontend Next.js :**
 ```bash
-curl http://localhost:8080/health
-# {"status": "healthy", ...}
-
-curl -X POST http://localhost:8080/chat/ \
-  -H "Content-Type: application/json" \
-  -d '{"message": "Explique-moi les nombres complexes"}'
-```
-
-Tu dois recevoir un JSON avec une clé `"response"` contenant une explication (pas un
-message d'erreur). Ouvre aussi http://localhost:8080/docs pour explorer toutes les
-routes (Swagger UI généré automatiquement par FastAPI).
-
-**Ne passe pas à l'étape 7 tant que cette étape n'est pas verte.** C'est la cause la plus
-fréquente du "Mode hors-ligne" à l'écran.
-
----
-
-## Étape 7 — Lancer l'interface (frontend)
-
-Dans un **nouveau terminal** (laisse l'API tourner dans l'autre) :
-
-```bash
-source venv/bin/activate     # si pas déjà actif dans ce terminal
 bash run_frontend.sh
 ```
 
-Ou directement :
-```bash
-export API_URL=http://localhost:8080   # doit correspondre au port de l'étape 6
-python -m frontend.gradio_app
+Sortie attendue :
 ```
-
-**Ce que tu dois voir :**
+▲ Next.js 16.2.12
+- Local:   http://localhost:3000
+- Network: http://0.0.0.0:3000
 ```
-🚀 NURU - Interface Finale
-📍 http://localhost:7860 (onglets Espace Élève / Espace Enseignant intégrés)
-```
-
-Ouvre **http://localhost:7860** dans ton navigateur (deux onglets : 🎓 Espace Élève et 👩🏾‍🏫 Espace Enseignant).
-
-### Ou lancer API + frontend ensemble en une commande
-
-```bash
-bash run_all.sh
-```
-(lance l'API en arrière-plan, attend qu'elle réponde, puis lance le frontend — logs dans
-`logs/api.log` et `logs/frontend.log`)
 
 ---
 
-## Étape 8 — Tester le système de bout en bout
+## 🔍 Vérifications
 
-Dans l'onglet 🎓 Espace Élève (http://localhost:7860), essaie dans l'ordre :
-
-1. **Cours** : *"Explique-moi la dérivabilité"* → doit renvoyer une explication (pas le
-   message jaune "Mode hors-ligne").
-2. **Exercice** : *"Génère-moi un exercice sur la dérivabilité"* → doit renvoyer un énoncé.
-3. **Quiz** : *"Crée-moi un quiz sur les suites numériques"* → doit renvoyer des questions.
-4. **Calcul** : *"Dérive la fonction x^2 + 3x"* → doit renvoyer `2x + 3` calculé par SymPy
-   (visible dans la réponse ou dans `math_tool_result` si tu regardes `/docs`).
-
-Tu peux aussi lancer la suite de tests automatisés :
+### API backend
 ```bash
+# Santé
+curl http://localhost:8080/health
+
+# Chat IA (RAG + Gemini)
+curl -X POST http://localhost:8080/generate/chat \
+  -H "Content-Type: application/json" \
+  -d '{"message": "Explique-moi la dérivabilité", "classe": "Terminale"}'
+
+# Génération de cours
+curl -X POST http://localhost:8080/generate/content \
+  -H "Content-Type: application/json" \
+  -d '{"classe": "Terminale", "serie": "S1", "chapitre": "Nombres complexes", "content_type": "cours"}'
+
+# Génération de quiz
+curl -X POST http://localhost:8080/generate/content \
+  -H "Content-Type: application/json" \
+  -d '{"classe": "Terminale", "chapitre": "Dérivabilité", "content_type": "quiz", "num_questions": 3}'
+
+# Chapitres disponibles
+curl http://localhost:8080/generate/chapitres
+```
+
+### Frontend
+Ouvre **http://localhost:3000** et navigue vers :
+
+| URL | Description |
+|---|---|
+| `/` | Page d'accueil |
+| `/matieres/mathematiques` | Catalogue des chapitres Maths |
+| `/cours/[id]` | Lecteur de cours (RAG + Gemini) |
+| `/quiz/[id]` | Quiz adaptatif avec correction |
+| `/exercices/[id]` | Exercices avec feedback IA |
+| `/progression` | Tableau de bord élève (XP, badges, maîtrise) |
+| `/enseignant` | Espace enseignant |
+| `/parent` | Espace parent |
+| `/admin` | Back-office administrateur |
+
+### Swagger UI interactif
+Disponible sur **http://localhost:8080/docs** — toutes les routes testables directement dans le navigateur.
+
+---
+
+## 📋 Routes API
+
+| Méthode | Route | Description |
+|---|---|---|
+| `GET` | `/health` | Santé de l'API |
+| `POST` | `/generate/chat` | Chat IA (RAG + Gemini) |
+| `POST` | `/generate/content` | Génère cours / exercices / quiz |
+| `GET` | `/generate/chapitres` | Liste des chapitres indexés |
+| `POST` | `/chat/` | Chat via LangGraph complet (multi-agents) |
+| `GET` | `/chat/progression/:user_id` | Historique de progression |
+| `GET` | `/chat/badges/:user_id` | Badges gamification |
+| `GET` | `/chat/competency-map/:user_id` | Carte des compétences |
+| `POST` | `/evaluation/quiz` | Correction et scoring de quiz |
+| `POST` | `/evaluation/exercice` | Correction d'exercice |
+| `POST` | `/auth/register` | Inscription (élève / enseignant / parent) |
+| `POST` | `/auth/login` | Connexion |
+| `GET` | `/student/dashboard/:id` | Tableau de bord élève |
+| `GET` | `/teacher/students/:id` | Élèves d'un enseignant |
+| `GET` | `/teacher/class-stats/:id` | Statistiques de classe |
+| `GET` | `/parent/students/:id` | Élèves d'un parent |
+| `GET` | `/admin/stats` | Statistiques globales |
+| `GET` | `/admin/users` | Liste des utilisateurs |
+
+---
+
+## 🧪 Tests
+
+```bash
+source venv/bin/activate
 bash run_tests.sh
 ```
 
+Résultat attendu : **78 tests réussis**, 1 ignoré, quelques avertissements Pydantic (sans impact).
+
+Tests disponibles dans `tests/` :
+
+| Fichier | Couverture |
+|---|---|
+| `test_quiz_agent_unit.py` | Quiz Agent |
+| `test_planner_unit.py` | Planner Agent |
+| `test_math_tools_unit.py` | Outils SymPy |
+| `test_qdrant_filters_unit.py` | Filtres Qdrant |
+| `test_auth_and_roles.py` | Authentification et rôles |
+| `test_integration.py` | Tests d'intégration |
+| `test_chunker_unit.py` | Chunker pédagogique |
+| `test_parser_unit.py` | Parser PDF |
+| `test_metadata_unit.py` | Extracteur de métadonnées |
+| `test_quiz_state_integration.py` | État de session quiz |
+
+Tests de composants RAG (scripts isolés) :
+```bash
+python scripts/test_vector_indexer.py    # Vérifie Qdrant + 2 635 points
+python scripts/test_chunker.py
+python scripts/test_parser.py
+```
+
 ---
 
-## Étape 9 — Déploiement (Docker)
-
-Le fichier Compose déclare Qdrant, PostgreSQL, le backend et le frontend. L'instruction
-obsolète qui copiait un dossier racine `config/` absent a été retirée du `Dockerfile`.
-Le build complet n'a toutefois pas été exécuté pendant l'audit final, et le Qdrant local
-peut être vide si les données validées se trouvent sur Qdrant Cloud. Pour la
-démonstration Windows, utilise de préférence le mode hybride décrit dans
-`COMMANDES_LANCEMENT_WINDOWS.md`.
-
-Commande déclarative du stack par défaut :
+## 🐳 Déploiement Docker
 
 ```bash
+# Build et lancement de tous les services
 docker compose up -d --build
+
+# Vérification
+docker compose ps
 ```
 
-Cette commande vise `qdrant`, `postgres`, `backend` (API sur le port 8080) et
-`frontend` (interface Gradio sur le port 7860). Ollama ne démarre pas par défaut : le
-service est placé derrière le profil `ollama-docker`.
+Services démarrés :
 
-Pour utiliser explicitement Ollama en conteneur, active son profil puis télécharge le
-modèle une seule fois :
-```bash
-docker compose --profile ollama-docker up -d ollama
-docker compose exec ollama ollama pull llama3.2:1b
-```
+| Service | Image | Port | Notes |
+|---|---|---|---|
+| `qdrant` | `qdrant/qdrant:latest` | 6333 | Base vectorielle locale (si pas Qdrant Cloud) |
+| `postgres` | `postgres:16` | 5433→5432 | Mémoire élève persistante |
+| `backend` | Build depuis `Dockerfile` | 8080 | FastAPI + LangGraph |
+| `frontend` | Build depuis `frontend/Dockerfile` | 3000 | Next.js |
 
-**Vérification :**
-```bash
-docker compose ps                          # tous les services "Up"
-curl http://localhost:8080/health           # API
-curl http://localhost:7860                  # Frontend (doit répondre en HTML)
-```
-
-Ouvre http://localhost:7860 — c'est le même comportement qu'en local, mais tout
-tourne dans des conteneurs isolés, prêt à être poussé sur un serveur (VPS, etc.).
-
-**Pour arrêter :**
-```bash
-docker compose down          # arrête tout
-docker compose down -v       # arrête tout ET supprime les données (Qdrant/Postgres)
-```
-
----
-
-## Étape 10 — Déploiement (Hugging Face Spaces)
-
-Pour une démo publique rapide (soutenance, portfolio), déploie l'API sur un Space Docker :
-
-1. Crée un compte sur https://huggingface.co puis un nouveau Space :
-   **New Space → Docker → nom "nuru-api"**.
-2. Pousse le code du dossier `backend/` + `Dockerfile` + `requirements.txt` sur ce Space
-   (via `git push`, comme un dépôt Git classique) :
-
-   ```bash
-   git remote add hf https://huggingface.co/spaces/<ton-compte>/nuru-api
-   git push hf main
-   ```
-
-3. Dans **Settings → Variables and secrets** du Space, ajoute les mêmes variables que ton
-   `.env` (QDRANT_URL, QDRANT_API_KEY, DATABASE_URL, OLLAMA_MODEL...).
-
-   > ⚠️ Ollama en local ne fonctionne pas sur HF Spaces gratuit (pas de modèle lourd
-   > persistant facilement). Deux options :
-   > - Utiliser un Space payant avec GPU + Ollama installé dans le Dockerfile.
-   > - Remplacer temporairement le LLM local par une API compatible OpenAI hébergée
-   >   (ex: un endpoint Hugging Face Inference), en adaptant `backend/app/llm/ollama_client.py`.
-
-4. HF Spaces construit automatiquement l'image à partir du `Dockerfile` (le `PORT` est géré
-   automatiquement, `main.py` lit déjà `os.getenv("PORT", 8080)`).
-
-5. Fais de même pour l'interface (`frontend/`) dans un second Space Docker
-   ("nuru-frontend"), avec la variable `API_URL` pointant vers l'URL publique du premier
-   Space (ex: `https://<ton-compte>-nuru-api.hf.space`).
-
-**Vérification :** ouvre l'URL publique du Space frontend (`https://<ton-compte>-nuru-frontend.hf.space/eleve`).
-
----
-
-## 🩺 Dépannage : Mode hors-ligne
-
-Si l'interface affiche l'encadré jaune **"🤖 NURU (Mode hors-ligne)"**, c'est que la requête
-`POST {API_URL}/chat/` a échoué (timeout, connexion refusée, ou erreur 500). Vérifie dans
-l'ordre :
-
-1. **L'API tourne-t-elle vraiment ?**
-   ```bash
-   curl http://localhost:8080/health
-   ```
-   Si ça ne répond pas → retourne à l'**Étape 6**, regarde le terminal de l'API pour
-   l'erreur exacte (souvent : Qdrant injoignable au démarrage — c'est normal, l'API
-   dégrade gracieusement, mais vérifie qu'il n'y a pas de `Traceback` bloquant).
-
-2. **`API_URL` du frontend pointe-t-il vers le bon port ?**
-   Le frontend lit la variable d'environnement `API_URL` (défaut `http://localhost:8080`).
-   Si ton API tourne sur un autre port, relance le frontend avec :
-   ```bash
-   export API_URL=http://localhost:8080
-   python -m frontend.gradio_app
-   ```
-
-3. **Utilises-tu bien la version à jour du code ?**
-   Si le message d'erreur affiché mentionne `backend/app/api/main_local.py` (chemin qui
-   n'existe pas dans cette version), c'est que tu exécutes une **ancienne copie** du
-   projet. Utilise le zip mis à jour (`NURU_updated.zip`) et relance depuis l'**Étape 1**
-   avec un environnement virtuel propre :
-   ```bash
-   rm -rf venv
-   python3 -m venv venv && source venv/bin/activate
-   pip install -r requirements.txt
-   ```
-
-4. **Le format de la requête est-il correct ?**
-   L'API attend un `POST /chat/` avec un corps JSON `{"message": "...", "session_id": "..."}`
-   (et non plus des paramètres d'URL `?message=...`, format utilisé avant cette mise à jour).
-   Teste directement :
-   ```bash
-   curl -X POST http://localhost:8080/chat/ \
-     -H "Content-Type: application/json" \
-     -d '{"message": "test"}'
-   ```
-   Si cette commande fonctionne mais pas l'interface, le problème vient du frontend
-   (vérifie `frontend/gradio_app.py`, fonction `_post()`, doit envoyer `json=...`).
-
-5. **Regarde les logs.**
-   Si tu utilises `run_all.sh` :
-   ```bash
-   tail -50 logs/api.log
-   tail -50 logs/frontend.log
-   ```
-
----
-
-## Structure du projet
-
-```
-NURU/
-├── backend/app/
-│   ├── agents/          # Planner, Retriever, Cours, Exercices, Quiz, Verifier,
-│   │                     # Evaluation, Progression + graph.py (LangGraph StateGraph)
-│   ├── tools/            # math_tools.py (SymPy), sandbox.py (exécution restreinte)
-│   ├── memory/           # mémoire élève (SQLAlchemy, PostgreSQL/SQLite)
-│   ├── rag/               # ingestion, chunking, vector_indexer (Qdrant)
-│   ├── llm/               # client Ollama
-│   └── api/                # FastAPI (routes chat/evaluation/health, containers.py = DI)
-├── frontend/               # interface Gradio (gradio_app.py) — onglets Élève/Enseignant
-├── data/raw/               # PDF sources (cours/, exercices/)
-├── scripts/                # ingestion, tests, vérifications d'environnement
-├── tests/                  # tests unitaires/intégration
-├── run_api.sh / run_frontend.sh / run_all.sh / run_ingest.sh / run_tests.sh
-├── Dockerfile              # image API
-├── frontend/Dockerfile     # image interface
-├── docker-compose.yml      # Qdrant, Postgres, API, frontend + profil Ollama optionnel
-├── delete_file/            # quarantaine réversible des anciens artefacts
-└── CHANGELOG_UPDATE.md      # détail des 3 dernières étapes implémentées (LangGraph, outils math, mémoire élève)
-```
-
----
-
-## 🆕 Mise à jour majeure : Gradio, Espace Enseignant, Badges, Nougat
-
-Cette version ajoute :
-
-- **Interface Gradio** (`frontend/gradio_app.py`) remplaçant le prototype Flask, avec deux
-  onglets : 🎓 **Espace Élève** (Tableau de bord, Cours, Exercices, Quiz, Progression, Carte
-  des compétences, Profil) et 👩🏾‍🏫 **Espace Enseignant** (connexion séparée, génération de
-  cours, suivi des élèves liés, statistiques de classe).
-- **Authentification enseignant** (`backend/app/memory/teacher_profile.py` +
-  `POST /teacher/register`, `POST /teacher/login`, `POST /teacher/link-student`,
-  `GET /teacher/{teacher_id}/students`) — mot de passe haché (jamais stocké en clair).
-- **Badges** (gamification) — attribués automatiquement après chaque exercice/quiz
-  (premier exercice, 10 exercices, 50 exercices, score parfait, notion maîtrisée), visibles
-  dans l'onglet Profil.
-- **Carte des compétences** — construite à partir de la maîtrise par notion
-  (`ConceptMastery`) enregistrée dans la mémoire élève, affichée dans
-  l'onglet dédié de l'Espace Élève.
-- **Nougat OCR** (`backend/app/rag/document_parser/nougat_adapter.py`) — extraction
-  prioritaire pour les PDF mathématiques (formules, LaTeX). **Optionnel** : si
-  `nougat-ocr` n'est pas installé (paquet lourd, GPU recommandé), le pipeline retombe
-  automatiquement sur PyMuPDF, sans planter.
-
-> 💡 Pour activer réellement Nougat (extraction de formules), installe séparément :
-> `pip install nougat-ocr torch` (idéalement avec un GPU — sur CPU, l'extraction est lente).
-> Sans cette installation, le pipeline d'ingestion fonctionne quand même via PyMuPDF.
-
----
-
-## Récapitulatif express (une fois tout configuré)
+> `GEMINI_API_KEY` est injecté automatiquement depuis ton `.env` dans le conteneur backend.
 
 ```bash
-# Terminal 1
-docker compose up -d qdrant postgres
-ollama serve
+# Logs en temps réel
+docker compose logs -f backend
+docker compose logs -f frontend
 
-# Terminal 2
-source venv/bin/activate
-bash run_ingest.sh          # une seule fois, ou quand tu ajoutes des PDF
+# Arrêter sans perdre les données
+docker compose down
 
-# Terminal 3
-bash run_all.sh              # lance API + interface
+# Arrêter ET supprimer les volumes (⚠️ efface les données Qdrant/Postgres)
+docker compose down -v
+```
+
+---
+
+## 🩺 Dépannage
+
+### Le frontend affiche une erreur de connexion API
+
+```bash
+# 1. L'API tourne-t-elle ?
+curl http://localhost:8080/health
+
+# 2. Vérifier les logs
+tail -50 logs/api.log
+
+# 3. Relancer manuellement avec la bonne URL
+NEXT_PUBLIC_API_URL=http://localhost:8080 npm run dev --prefix frontend
+```
+
+### La génération IA ne répond pas
+
+```bash
+# Vérifier la clé Gemini
+python scripts/check_env.py
+
+# Tester directement
+curl -X POST http://localhost:8080/generate/chat \
+  -H "Content-Type: application/json" \
+  -d '{"message": "test", "classe": "Terminale"}'
+```
+
+### Qdrant inaccessible
+
+```bash
+# Tester Qdrant Cloud
+curl -H "api-key: $QDRANT_API_KEY" "$QDRANT_URL/collections"
+
+# Ou Qdrant local Docker
+curl http://localhost:6333/collections
+```
+
+### Erreur d'import Python
+
+```bash
+# Vérifier les modules installés
+python scripts/check_setup.py
+
+# Réinstaller si nécessaire
+pip install -r requirements.txt
+```
+
+### Port déjà utilisé
+
+```bash
+# Libérer le port 8080
+fuser -k 8080/tcp
+
+# Libérer le port 3000
+fuser -k 3000/tcp
+```
+
+---
+
+## 🔐 Rôles utilisateurs
+
+| Rôle | Accès |
+|---|---|
+| **élève** | Chat IA, cours, exercices, quiz, progression, badges, défis |
+| **enseignant** | Tout élève + suivi des élèves liés, stats de classe, génération de cours |
+| **parent** | Consultation du tableau de bord de l'enfant |
+| **admin** | Back-office complet : utilisateurs, stats, logs, génération IA |
+
+---
+
+## 📊 État du projet
+
+| Composant | Statut |
+|---|---|
+| Backend FastAPI + LangGraph | ✅ Fonctionnel |
+| LLM Gemini API | ✅ Intégré |
+| RAG Qdrant Cloud | ✅ 2 635 points indexés |
+| Frontend Next.js 16 | ✅ En développement actif |
+| Mémoire élève SQLite | ✅ Fonctionnel |
+| PostgreSQL (optionnel) | ✅ Supporté via Docker |
+| Suite de tests pytest | ✅ 78 tests validés |
+| Docker Compose | ✅ Configuré |
+
+---
+
+## ⚡ Récapitulatif express
+
+```bash
+# 1. Installer les dépendances
+python3 -m venv venv && source venv/bin/activate
+pip install -r requirements.txt
+cd frontend && npm install && cd ..
+
+# 2. Configurer (remplir GEMINI_API_KEY dans .env)
+python scripts/check_env.py
+
+# 3. Lancer (tout-en-un)
+bash run_all.sh
 
 # Navigateur
-http://localhost:7860
+# http://localhost:3000       → Application
+# http://localhost:8080/docs  → Swagger API
 ```

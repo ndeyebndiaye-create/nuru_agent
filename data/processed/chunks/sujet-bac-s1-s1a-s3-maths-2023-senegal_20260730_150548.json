@@ -1,0 +1,123 @@
+{
+  "source": "data/raw/cours/sujet-bac-s1-s1a-s3-maths-2023-senegal.pdf",
+  "timestamp": "2026-07-30T15:05:48.439698",
+  "chunks": [
+    {
+      "text": "Université Cheikh Anta Diop de Dakar\n□□♦nn\nOFFICE DU BACCALAUREAT\nE-mail ; office®ucad.edu.su\nsite web ; officedubac.sn\n2023GS21NA0124\nDurée : 4 heures\nSéries : S1-S1A-S3 - Coef. 8\nEpreuve du 1er groupe\nMATHEMATIQUES\nLes calculatrices électroniques non imprimantes avec entrée unique par clavier sont autorisées. Les\ncalculatrices permettant d'afficher des formulaires ou des tracés de courbe sont interdites. Leur\nutilisation sera considérée comme une fraude\n(Cf. Circulaire n0 5990/OB/DIR. du 12 08 1998).",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "sujet",
+        "serie": "s1",
+        "annee": "2023",
+        "source": "data/raw/cours/sujet-bac-s1-s1a-s3-maths-2023-senegal.pdf",
+        "filename": "sujet-bac-s1-s1a-s3-maths-2023-senegal.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "1d4b7305ddb38d79",
+        "difficulty_level": "intermediate",
+        "chunk_category": "course"
+      },
+      "start_line": 2,
+      "end_line": 15
+    },
+    {
+      "text": "EXERCICE 1\n(04 points)\nDans le plan complexe rapporté à un repère orthonormé direct (0 ; ïT, Ë*)\nd'unité graphique 1 cm, on considère les points A, B, C e{ D d'affixes respectives\n= 1,ZB = l-iV3, Zc et ZD =4.\n1. Soit / la similitude plane directe qui transforme A en C cl D en fi.\na. Déterminer les éléments géométriques caractéristiques de /.\nb. Déterminer l'image (C) du cercle (C) de centre A et de rayon 6 par /.\n2. On considère la courbe (£) d'équation : x2 + ^y2 = 16.\n(0,5 pt)\n(0,25 pt)\na. Déterminer la nature et les éléments caractéristiques (excentricité, axes, directrices, foyers, et\nsommets) de (£). (0,75 pt)\nb. Déterminer l'équation de la tangente (T) à (£) au point £\"(2, 3). (0,25 pt)\nc. Tracer soigneusement (£) et (T). (0,5 pt)\n3. On considère la courbe (f) d'équation : 15x2 + IBy2 — BxyVB — 768 = 0.\na. Montrer que (f) est l'image réciproque de (£) par /. (0,75 pt)\nb. En déduire que (f) est une conique dont on déterminera la nature et les éléments caractéristiques\n(excentricité, axes, directrices, foyers, et sommets). (0,75 pt)\nc. Tracer soigneusement (f) sur la même figure que (£). (0,25 pt)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "sujet",
+        "serie": "s1",
+        "annee": "2023",
+        "source": "data/raw/cours/sujet-bac-s1-s1a-s3-maths-2023-senegal.pdf",
+        "filename": "sujet-bac-s1-s1a-s3-maths-2023-senegal.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "1d4b7305ddb38d79",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 16,
+      "end_line": 35
+    },
+    {
+      "text": "EXERCICE 2\n(05 points)\n1. Une urne contient quinze (15) jetons indiscernables au toucher sur lesquels on a inscrit des entiers\nnaturels en base 2, 5,16 et 10.\nL'urne contient :\n> deux (02) jetons portant le nombre a = 1001 2,\n> quatre (04) jetons portant le nombre b = 431 5,\n> six (06) jetons portant le nombre c = 7E6 16,\n> trois (03)jetons portant le nombre d = 2023.\na. Déterminer les écritures des nombres a, b et c dans la base décimale. (0,75 pt)\nb. Déterminer le reste dans la division euclidienne par 7 de chacun des nombres inscrits sur les\njetons. (01 pt)\n1/13\nhttps://groupe-reussite.fr/cours-particuliers/maths/tous-niveaux/france/\nMATHEMATIQUES 2023GS21NA0124\nSéries : S1-S1A-S3\nEpreuve du 1er groupe\n2. On pose Sn = 2n + ^ + 6n où n est un entier naturel.\na. Démontrer que ^6n = 3[7]. (0,75 pt)\nb. Déterminer le reste de la division euclidienne de 52023 par 7. (0,5 pt)\n3. L'urne précédente est utilisée dans un jeu dont la règle est la suivante :\nLe joueur tire un jeton, note le numéro et le remet dans l'urne avant de procéder à un second tirage.\nPour chaque tirage, le joueur gagnera un nombre de points égal au reste, dans la division euclidienne par\n7, du nombre inscrit sur le jeton.\nSoit X la variable aléatoire associée au nombre de points obtenus par le joueur à l'issue des deux tirages.\na. Déterminer la loi de probabilité de X. (01 pt)\nb. Calculer son espérance mathématique E (X). (0,5 pt)\nc. Calculer la probabilité d'avoir un gain qui dépasse l'espérance. (0,5 pt)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "sujet",
+        "serie": "s1",
+        "annee": "2023",
+        "source": "data/raw/cours/sujet-bac-s1-s1a-s3-maths-2023-senegal.pdf",
+        "filename": "sujet-bac-s1-s1a-s3-maths-2023-senegal.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "1d4b7305ddb38d79",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 39,
+      "end_line": 66
+    },
+    {
+      "text": "PROBLEME (11 points)\nLe plan est muni d'un repère orthonormé (O ; T,f) d'unité graphique 3 cm.\nPARTIE A (02,5 pts)\nOn considère la fonction fm à variable réelle définie par : fm(x) = ^ In où m est un paramètre\nréel non nul. On note la courbe représentative de fm dans le repère (O ; T,f).\n1. Déterminer le domaine de définition Drn de fm. (0,25 pt)\n2. a. Montrer que fm est impaire. (0,25 pt)\nb. Calculer les limites de fm aux bornes de Dm- (0,5 pt)\nc. Montrer que pour tout réel m non nul, on a : Vx G Dm, /(-m) (x) = —/m (x)- ( 0,25 pt)\n3. On suppose dans cette question que m est un réel strictement positif.\na. Etudier les variations de fm. (0,5 pt)\nb. Montrer que fm réalise une bijection de Dm sur un intervalle J à préciser. (0,25 pt)\nc. Soit (fm)'1 la bijection réciproque de fm. Définir (fm) ~1. (0,5 pt)\nPARTIE B (02,25 points)\n1. Dresser le tableau de variations de f1. (0,25 pt)\n2. Soit (T) la tangente à (Cf) au point d'abscisse 0.\nEtudier la position de (CV) par rapport à (T). (01 pt)\n3. Construire dans le même repère (CV) et (T). (0,5 pt)\n4. On note Cq-j-i la courbe représentative de (A)-1 dans le plan muni du repère (0 ; T,f).\nPar quelles transformations du plan obtient-on les courbes Cj-i) et Cq-j-i à partir de (Cf) ? (On ne\ndemande pas de les construire). (0,5 pt)\n2/13\nhttps://groupe-reussite.fr/cours-particuliers/maths/tous-niveaux/france/\nMATHEMATIQUES\n2023GS21NA0124\nSéries : S1-S1A-S3\nEpreuve du 1er groupe\nPARTIE C (03,5 points)\n1. Soit O une primitive de (/i)-1 sur E.\na. Démontrer que O 0 /i est une primitive de la fonction x i-> ^//(x) sur] —1,1[. (0,25 pt)\nb. Démontrer alors que pour tous réels a et b appartenant à l'intervalle ]—1,1[, on a :\ni/ria)\n3^i)~1(t)dt = fa 10,5 pt)\nc. En déduire que pour tout réel x appartenant à l'intervalle ]—1,1[, on a :\nfo^CAr'codt = j; tA'codt. (0,25 pt)\n2. Soit x un élément de ] — 1,1 [.\na. Démontrer quet/i'COdt =—iln(l — x2). (0,5 pt)\nb. En déduire que pour tout élément y de M, Jo\ny(/i)~1(t)dt = In —j. (0,5 pt)\nc. Calculer alors l'aire c/Z, en cm2, de la partie du plan délimitée par la courbe (C^-i) de (/i)_1 ,\nles droites d'équations x = 0 et x = 1 et l'axe des abscisses. (0,5pt)\n3. Soit x un réel et A le point de (C^-i) d'abscisse InVz-.\na. Montrer qu' on a : ((/i)_1(x))' = 1 — ((/i)_1(x))2. (0,5 pt)\nb. En déduire le volume du solide engendré par la rotation de l'arc 04 de (C^-i) autour de l'axe\ndes abscisses. (0,5 pt)\nPARTIE D (02,75 points)\nSoit x un nombre réel.\nPour tout entier naturel n non nul, on pose : Fn(x) = f* j dt.\n1. a. Montrer que V x G E+, Vn G N*, on a : 0 < Fn(x) < x((/1)_1(x))ri. (0,5 pt)\nb. En déduire, pour tout réel positif x fixé, la limite de Fn(x). (0,5 pt)\n2. a. Montrer que : V n G N* , Fn+2(x) = Fn(x) - ^^(/i • (0,5 pt)\nb. En déduire que : V n G N*, ^(x) = x — Y,p=i (j—■—j\") (/i_1(x) j . (0,5 pt)\n3. a. Montrer que pour tout réel x appartenant à [0,1 [ et pour tout entier naturel non nul,\nx+ix3 + -+i^Ix2n 1 =/i(x)-F2ri(/1(x)). (0,5 pt)\nb. En déduire lim {- H—4 h- \\———V (0,25 pt)\nn -> H-œ VS 3x33 (2n - itxS2\"-1/ v '\n3/13\nhttps://groupe-reussite.fr/cours-particuliers/maths/tous-niveaux/france/",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "sujet",
+        "serie": "s1",
+        "annee": "2023",
+        "source": "data/raw/cours/sujet-bac-s1-s1a-s3-maths-2023-senegal.pdf",
+        "filename": "sujet-bac-s1-s1a-s3-maths-2023-senegal.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "1d4b7305ddb38d79",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 70,
+      "end_line": 127
+    }
+  ]
+}

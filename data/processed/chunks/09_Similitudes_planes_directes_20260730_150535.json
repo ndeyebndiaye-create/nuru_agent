@@ -1,0 +1,29 @@
+{
+  "source": "data/raw/cours/09_Similitudes_planes_directes.pdf",
+  "timestamp": "2026-07-30T15:05:35.950372",
+  "chunks": [
+    {
+      "text": "Définitions\n— Les composées d’une homothétie et d’une rotation sont des similitudes directes.\n— Les rotations, les homothéties et leurs composées sont des similitudes à centre.\n— La composée de deux similitudes de rapports k et k′ est une similitude de rapport kk′.\n— Si s = h ◦r est la composée d’une homothétie de rapport k > 0 et d’une rotation r(Ω, θ),\non dit que s est la similitude de rapport k, d’angle θ et de centre Ω, notée s(Ω, k, θ).\nExpression complexe\nToute similitude directe s admet une écriture complexe z′ = az + b (a̸ = 0).\n— si a = 1 : s est la translation de vecteur⃗u(b) ;\n— si a ∈R∗\n+ \\ {1} : s est l’homothétie de rapport a et de centre Ωdéfini par zΩ= azΩ+ b ;\n— si a ∈C\\R et |a| = 1 : s est la rotation d’angle θ = arg a et de centre Ωtel que zΩ=\n1 −a ;\n— si a ∈C \\ R et |a|̸ = 1 : s est la similitude s\n\u0000Ω, |a|, arg a\n\u0001, avec zΩ=\n1 −a, et s =\nh(Ω, |a|) ◦r(Ω, arg a) :\nz′ = k eiθz + b,\nk = |a|, θ = arg a.\nRéciproque et composition\nLa similitude s(Ω, k, θ) d’écriture z′ −zΩ= k eiθ(z −zΩ) a pour réciproque\ns−1 = s\nΩ, 1\nk, −θ\nPour s1 = s(Ω, k1, θ1) et s2 = s(Ω, k2, θ2), la composée s1 ◦s2 s’écrit z′ = k1k2 ei(θ1+θ2)z + α :\n— si θ1 + θ2 ≡0 (2π) et k1k2̸ = 1 : s1 ◦s2 est une homothétie de rapport k1k2 ;\n— si θ1 + θ2̸ ≡0 (2π) et k1k2 = 1 : c’est une rotation d’angle θ1 + θ2 ;\n— si θ1 + θ2̸ ≡0 (2π) et k1k2̸ = 1 : c’est une similitude de rapport k1k2 et d’angle θ1 + θ2.\nCaractérisation et propriétés\nSoit s = s(Ω, k, θ), M, N de points images M′, N′.\ns(M) = M′ ⇐⇒\nΩM′ = k ΩM\n\u0000−−→\nΩM, −−→\nΩM′\u0001 = θ [2π],\n\u0000−−→\nMN,\n−−−→\nM′N′\u0001 = θ [2π],\nM′N′ = k MN.\n— Toute similitude de rapport k se décompose en une homothétie de rapport k et un dépla-\ncement.\n— Les similitudes conservent les barycentres, les angles orientés, le parallélisme et la\nperpendicularité.\n— L’image d’une figure est une figure de même nature.\nCours d’après Sunudaara — Similitudes planes directes — Terminale S. Figures extraites\nautomatiquement du PDF source.",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/09_Similitudes_planes_directes.pdf",
+        "filename": "09_Similitudes_planes_directes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "4971f026447bfa86",
+        "chunk_type": "definition",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 17,
+      "end_line": 64
+    }
+  ]
+}

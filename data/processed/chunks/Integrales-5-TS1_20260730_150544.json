@@ -1,0 +1,436 @@
+{
+  "source": "data/raw/exercices/Integrales-5-TS1.pdf",
+  "timestamp": "2026-07-30T15:05:44.858720",
+  "chunks": [
+    {
+      "text": "TS1                                                                                                                                                                             M.NDOYE\nSérie d’exercices sur le calcul intégral",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrales-5-TS1.pdf",
+        "filename": "Integrales-5-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "fe318f361831f701",
+        "difficulty_level": "basic",
+        "chunk_category": "course"
+      },
+      "start_line": 2,
+      "end_line": 3
+    },
+    {
+      "text": "Exercice1\nCalculer les intégrales I suivantes :\nI=∫1\nx 1\nt4 e\nt3 dt\n; b)\nI=∫0\n1+cos2 x etan xdx\nI=∫2\n3 ln x2\n;   d)\nI=∫ln2\nln3\n(1−e−x\n1+e−x)dx\nI=∫0\nt2+2t+1\n;   f)\nI=∫0\n√(x2+1)\n3 dx\nI=∫0\n(3+2t )4 dt\n;  h)\nI=∫e\nx ln x\nI=∫π\n2 tan x\n2 ln (1+cos x)dx\n;  j)\nI=∫0\nsin xsin2xdx\nI=∫0\n2 (cos5 x−3cosx sin x )dx\nI=∫0\n4 (tan x+tan3x )dx\nI=∫1\n|x−2|\n( x2−4 x)\n2 dx\nI=∫0\n(√2t+1+\n√t+5)dt",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrales-5-TS1.pdf",
+        "filename": "Integrales-5-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "fe318f361831f701",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 42,
+      "end_line": 85
+    },
+    {
+      "text": "Exercice 2\nCalculer les intégrales en faisant un changement de variable.\nI=∫1\nt2√a+t dt\navec\n>0   b)\nI=∫0\n√t+1\nc) I= ∫1\nt√1+t2dt",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrales-5-TS1.pdf",
+        "filename": "Integrales-5-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "fe318f361831f701",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 95,
+      "end_line": 104
+    },
+    {
+      "text": "Exercice 3\nCalculer en utilisant une ou des intégrations par parties.\na) I= ∫0\nx2cos xdx\n; b)\nI=∫1\nx lnt\nt2 dt\n;  c) I=\ncos2t\nd) I= ∫1\n(1+t)ln tdt\n; e) I= ∫1\nx2ln xdx\nf) I= ∫0\n(x2−x+1)e2 xdx\n;g) I= ∫1\nln(t+√t2+1)dt\nI=∫0\n2t cos2t sintdt\n;  i)\nI=∫−π\nex2\nsin xdx",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrales-5-TS1.pdf",
+        "filename": "Integrales-5-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "fe318f361831f701",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 121,
+      "end_line": 144
+    },
+    {
+      "text": "Exercice 1\nOn considère les intégrales :\nI=∫\ncos4 xdxet J=∫\nsin4 xdx.\n1) Montrer que I peut s’écrire :\nI=∫\ncosx (cosx−cosx sin2 x)dx .\n2) A l’aide d’une intégrale par parties,  montrer que :\nI=∫\nsin2xdx−1\n3 J .\n3) Montrer de même que :\nJ=∫\ncos2 xdx−1\n3 I .\n4) Montrer que :\nI+J= 3π\n4 et J−I=0.\n5) En déduire les valeurs de I et J.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrales-5-TS1.pdf",
+        "filename": "Integrales-5-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "fe318f361831f701",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 155,
+      "end_line": 174
+    },
+    {
+      "text": "Exercice 2\n2) Montrer quecos3x=cosx(cos2x−2sin\n2 x)\n3) Pour tout nϵIN, on pose :\nSn (θ )=ln(2cos θ\n3−1)+ln(2cos θ\n2−1)+…+ln(2cos θ\nn−1)\n, avec θ appartenant à l’intervalle¿ – π\n3 ; π\n3 ¿\na) CalculerSn (θ ), après avoir montré son existence.\nb) CalculerS (θ)=lim Sn (θ).\nc) CalculerS' (θ). En déduire la valeur de l’intégrale\nI= 1\n−tan(\n2)dθ.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrales-5-TS1.pdf",
+        "filename": "Integrales-5-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "fe318f361831f701",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 183,
+      "end_line": 199
+    },
+    {
+      "text": "Exercice 4\n1) Calculer, à l’aide d’une aire connue, l’intégrale :\nI=∫\n√9−x2\n2) En déduire la valeur chacune des intégrales :\nJ=∫\n(x+√9−x2)dx et L=∫\n(√9−x2−3)dx\n3) Soit\nM=∫\n3+√9−x\n2 dx.\nCalculer M +L et en déduire que M=−L.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrales-5-TS1.pdf",
+        "filename": "Integrales-5-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "fe318f361831f701",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 212,
+      "end_line": 224
+    },
+    {
+      "text": "Exercice 5\n1) On pose, pour tout entier naturel n non nul :\nI n= 1\nn!∫\n(1−x)\nndx\na) A l’aide d’une intégration par parties, calculer I1.\nb) Prouver que, pour tout entier naturel n non nul :\n0≤I n≤1\nn!∫\ne−x dx .\nEn déduire\nlim\nn→+∞I n.\n2) Montrer en utilisant une intégration par parties, que pour\ntout entier naturel non nul:\nan+1=an+ (−1)\nn+1\n(n+1)! .\na) Démontrer par récurrence que, pour tout entier naturel\nnon nul :\nan= 1\ne +(−1)\nnI n.\nb) En déduire lim\nn→+∞an.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrales-5-TS1.pdf",
+        "filename": "Integrales-5-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "fe318f361831f701",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 229,
+      "end_line": 254
+    },
+    {
+      "text": "Exercice 6\nPour tout n≥1on pose :\nI n=\nn+1n!∫\n(1−t )\n2 dt .\n1) A l’aide d’une intégration par parties, calculer  I 1.\n2) Démontrer que pour tout entier natureln≥1on a :\nI n+1=I n−\n2n+1 (n+1)!\n3) En déduire par récurrence que pour tout naturel n≥1 :\n√e=1+ 1\n2 . 1\n1! +…+ 1\n2n . 1\nn! +I n.\n4) Montrer que l’on peut trouver une constante A telle que :\n0≤I n≤\n2nn! A .\n(On pourra déterminer A en majorant sur l’intervalle[0;1]la\nfonction :t :→(1−t )\n2).\nEn déduire la limite quand n tend vers l’infini de :\nun=1+ 1\n2 . 1\n1!+…+ 1\n2n . 1\nn! .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrales-5-TS1.pdf",
+        "filename": "Integrales-5-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "fe318f361831f701",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 265,
+      "end_line": 292
+    },
+    {
+      "text": "Exercice 7\nN désigne un entier strictement positif fixé. On se propose\nde calculer l’intégrale :\nI=∫\n|sin (nt )|.\nPour ceci on commence par étudier le signe de sin(nt) sur\nl’intervalle [0; π ]\n1) Soit un entier k≥0 et soit l’intervalle\nJ k=[k π\nn ,(k+1) π\nn].\na) t désignant un élément deJ k, donner un encadrement du\nréel nt.\nb) En déduire que sin(nt)  garde un signe constant lorsque t\ndécritJk. Préciser ce signe lorsquek=2l, puis lorsque\nk=2l+1 avec l∈∈.\nc) Calculer\nk π\n(k+1) π\n|sin (nt )|dt .\n2) Calculer l’intégrale\nI=∫\n|sin (nt )|.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrales-5-TS1.pdf",
+        "filename": "Integrales-5-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "fe318f361831f701",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 300,
+      "end_line": 322
+    },
+    {
+      "text": "Problème 1\nPour kϵIN, on associe la fonction fk définie sur IR par :\nf 0=\n√x2+1\net f k=\n√x2+1\n2) . Soit k≥1.\na) Etudier les variations de fk suivant les valeurs de k.\nb) Etudier, suivant les valeurs de k,\nlim\nx→+∞f k (x)et lim\nx→+∞\nf k(x)\nEn déduire les branches infinies de Ck en+∞et en−∞.\nc) Montrer que fk admet deux points fixes.\n3) Soit (I k)k ∈∈¿¿ la suite réelle définie par :\nI k=∫\nf k (x)dx\na) Soit F la fonction définie sur IR par\nF (x)=ln( x+√x\n2+1).\nMontrer que F est une primitive de f0. En déduire la valeur\nde I0.\nb) Calculer I1.\nc) Pour k ≥ 2, montrer que :\nk I k=√2−(k−1)I k−2.\nEn déduire I2 et I3.\nd) Etudier la limite de Ik lorsque k tend vers +∞.\n4) Soit u0 un réel tel que0<u0<1. Par récurrence on\nconstruit la suite infinie  (un)n∈∈¿ ¿ définie par, pour k≠0, u1 =\nfk(u0) et un = fk(un-1) si n≥1.\na) Montrer que la suite (un) est décroissante.\nb) Pour k ≥ 2 montrer que (un)est majorée par une suite\ngéométrique convergeant vers 0.\n5) Pour tout kϵIN, on considère la fonction gk de[0;1] vers\n[0; 1\n√2] définie par gk (x)=f k (x) pour toutxϵ [0;1].\na) Montrer que gk admet une bijection réciproque gk\n−1.\nb) Représenter graphiquement gk\n−1 pourk=1,2,3.\nc) Exprimer g1\n−1 etg2\n−1.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrales-5-TS1.pdf",
+        "filename": "Integrales-5-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "fe318f361831f701",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 330,
+      "end_line": 373
+    },
+    {
+      "text": "Problème 2\nLes questions 1) et 2) sont indépendantes.\nPour tout n de ¿\n¿, on considère l’intégrale\nI n=∫\n(lnx )\nndx .\n1) Démontrer que pour tout x dans l’intervalle¿1,e¿ et\npour tout n entier naturel, on a :\n(lnx)\nn−(lnx)\nn+1>0.\n2) En déduire que la suite (I n)n∈∈¿¿ est décroissante.\n3) Calculer I 1, à l’aide d’une intégration par parties.\n4) Démontrer à l’aide d’une intégration par parties que, pour\ntout nϵ ¿\nI n+1=e−(n+1)In\n5) En déduire I2, I3 et  I4. Donner les valeurs exactes,\nexprimées en fonction de e, et les valeurs approchées à\n−3près par défaut.\n6) Démontrer que, pour toutnϵ ¿\n¿, I n≥0.\n7) Démontrer que, pour toutnϵ ¿\n¿, (n+1)In≤e.\n8) En déduire la limite deI n.\n9) Déterminer la valeur de n I n+(In+In+1)en déduire la\nlimite den I n.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrales-5-TS1.pdf",
+        "filename": "Integrales-5-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "fe318f361831f701",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 381,
+      "end_line": 407
+    },
+    {
+      "text": "Problème 3\nPour n entier naturel non nul, soit fn la fonction définie sur\nI=¿ par :\nf n (x)= x\nn! e\n−x .\nSoit a un élément non nul fixe dans I, pour tout entier\nnaturel n, on pose :\nI n (a)=∫\nf n (x)dx .\n1) Calculer I 0 (a).\n2) Montrer que, pour tout x de I et pour tout n de¿\n¿on a :\nn (x )=f n−1(x )−f n (x)et f n (0)=0\nEn déduire que, pour toutn≥1:\nI n (a)−I n−1 (a)=−a\nn! e\n−a.\n3) En déduire que pour tout n>0,\nI n (a)=1−(∑\nk=0\nk !)e\n−a.\n4) Dans cette question on pose a=1. On appelle (un) la\nsuite numérique définie pour tout n∈∈¿ par :\nun=1−(∑\nk=0\nk !)e\n−1=∫\nf n (x)dx .\nOn Cn la courbe représentative de fn dans le repère\northonormal R (unité 4 cm).\na) Montrer que pour tout entier naturel n,un≥0 et donner\nune interprétation géométrique de un.\nb) Montrer que pour tout entier naturel n, et pour tout\nx ∈[0;1]:\nf n (x)≤1\nn! x\nc) En déduire que pour tout entier naturel n on a :\n0≤un≤\n(n+1)!\nPuis la limite de un.\nd) Déduire enfin que\ne= lim\nx →+∞(∑\nk=0\nk !)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrales-5-TS1.pdf",
+        "filename": "Integrales-5-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "fe318f361831f701",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 425,
+      "end_line": 471
+    },
+    {
+      "text": "Problème 4\nOn pose, pourx>0,\nf (x )=\n(lnx )\n1) Calculer les limites de f en +∞ et 0.\n2) Calculer f\n'(x) en fonction de x. Montrer quef\n'(x) a le\nmême signe que (lnx) (2−lnx)\nDéterminer le sens de variation de f sur ¿0;+∞¿\n3) Tracer la représentation graphique (C) de f dans le plan.\n4) On pose pour p≥1,\nI p=∫\n(lnx )\ndx .\na) A l’aide d’une intégration par parties, calculer :\nI 1=∫\n(lnx)\nx2 dx .\nb) Montrer que pour tout p≥1:\nI p+1=−2\np+1\n+( p+1) IP .\nc) En déduire I2, I3 et I4.\nd) On fait tourner autour de l’axe des abscisses l’arc de\ncourbe constitué des points de (C), d’abscisses comprise\nentre 1 et e2. Le point M de (C) d’abscisse x décrit alors un\ncercle de rayon f(x). calculer le volume du solide ainsi\nengendré, en unité de volume.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrales-5-TS1.pdf",
+        "filename": "Integrales-5-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "fe318f361831f701",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 484,
+      "end_line": 512
+    },
+    {
+      "text": "Problème 5\nPour tout naturel non nul n, on pose :\nI n=∫\ntann xdx.\n1) .\na) Justifier l’existence de In.\nb) Sans calculer In, montrer que la suite (In) est une suite\ndécroissante dont tous les termes sont positifs.\n2) .\na) Pour tout entier naturel n, calculer la dérivée de la\nfonction f :x→tan\nn+1x . En déduire que, pour tout n de\nI n+I n+2= 1\nn−1 .\nb) Montrer que, pour tout n de ¿\n¿ ,\n2(n+1) ≤I n≤\nn+1\nc) En déduire la limite de la suite(In) lorsque n tend vers +∞.\nd) Calculer f (n)=I n+1−Inen fonction de n où n  ϵ ¿\n3) .\na) Calculer I2.\nb) Calculer f (2)+f (6)+f (10)+…+f (4k−2) en\nfonction de I2 et I 4 k+2, où k  ϵ ¿\nc) En déduire la limite de la somme :\n1−1\n3 + 1\n5−1\n7 +…−\n4k−1+\n4 k+1\nlorsque k tend vers +∞.\n4) .\na) Vérifier que la fonctionx→ln ⁡(cosx) est définie et\ndérivable sur l’intervalle[0; π\n4 ] et déterminer sa dérivée.\nCalculer I1.\nb) Calculer\nf (1)+f (5)+f (9 )+…+f (4 k−3)\nen fonction de I1 etI 4 k+1, où k  ϵ ¿\nc) En déduire la limite de la somme :\n1−1\n2 + 1\n3−1\n4 +…+\n2k−1−1\nlorsque k tend vers +∞.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrales-5-TS1.pdf",
+        "filename": "Integrales-5-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "fe318f361831f701",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 532,
+      "end_line": 578
+    },
+    {
+      "text": "Problème 6\nLe but de ce problème est d’étudier la limite de la suite de\nterme général :\nun= 1\n12 + 1\n22 +…+ 1\nn2 (n≥1).\nA) Expression de un à l’aide d’une intégrale\n1) Calculer l’intégrale\nJ=∫\nt 2\n2π −1)dt .\n2) On pose, pour tout k ≥1:\nK=∫\nt 2\n2π −1)cosktdt .\nA l’aide de deux intégrations par parties successives,\nmontrer queK= 1\nk2 .\n3) On pose, pour tout t de [0;π ]et n≥1:\nDn (t )=1\n2 +cost+cos (2t )+…+cos(nt ).\nDéduire des questions précédentes l’égalité :\nun= π2\n6 +∫\n2π −t)Dn (t )dt .\nB) Etude de I n=∫\nt 2\n2π −t)Dn (t )dt\n1) .\na) Vérifier que, pour tout réels a et b :\n2sinbcosa=sin (a+b)−sin (a−b).\nb) En déduire, à l’aide d’une récurrence, que pour tout\nn≥1et t ∈¿0;π ¿¿:\nDn (t )=\nsin(n+ 1\n2)t\n2sin t\nc) On considère la fonction g définie sur [0;π ]par :\ng (0)=−1et , sit≠0, g (t )=\n2π −t\n2sin t\nMontrer que g est continue en 0.\nd) Montrer que, pour tout n≥1:\nI n=∫\ng (t )sin[(n+ 1\n2)t]dt\n2) On pose, pourx ∈¿0; π\n2 ¿, h (x)=sinx\na) Montrer que h est dérivable sur¿0; π\n2 ¿ et que h\n'(x)\nest du signe de φ (x )=x−tanx .\nb) Etudier le signe de φ(x) en étudiant les variations de\nc) En déduire que la fonction h est décroissante sur\n¿0; π\n2 ¿\nd) Pour t ∈[0;π ], démontrer l’encadrement :\n2 ≤g (t )≤−1\n2 .\n3) On pose, pour tout n≥1:\nAn=∫\nsin[(n+ 1\n2)t]dt .\na) Calculer An.\nb) Montrer que, pour tout n≥1:\n2 An≤In≤π\n2 An.\nc) En déduire la limite de la suite (I n)❑\nC) Limite de la suite (un)\nConclure à l’aide des questions précédentes.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrales-5-TS1.pdf",
+        "filename": "Integrales-5-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "fe318f361831f701",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 608,
+      "end_line": 678
+    }
+  ]
+}

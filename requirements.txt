@@ -34,7 +34,7 @@ psycopg[binary]>=3.1.0  # driver PostgreSQL (retombe sur sqlite si DATABASE_URL 
 fastapi>=0.110.0
 uvicorn>=0.27.0
 pydantic>=2.6.0
-ollama>=0.2.0
+google-generativeai>=0.4.0
 requests>=2.31.0
 # nougat-ocr>=0.1.17  # DESACTIVE pour l'installation Windows locale : sa dependance
 #   transitive "pyarrow" (via datasets[vision]) n'a pas de roue precompilee pour

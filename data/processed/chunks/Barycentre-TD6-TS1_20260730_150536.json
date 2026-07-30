@@ -1,0 +1,463 @@
+{
+  "source": "data/raw/exercices/Barycentre-TD6-TS1.pdf",
+  "timestamp": "2026-07-30T15:05:36.851350",
+  "chunks": [
+    {
+      "text": "Exercice 1\nDémontrer deux tétraèdres ABCD et A’B’C’D’ ont même\ncentre de gravité si, et seulement si :⃗\nAA'+⃗BB'+⃗CC'+⃗DD'=⃗0\nEst-ce le cas lorsque les points A’, B’, C’ et D sont les\ncentres de gravité respectifs des triangles BCD, CDA, DAB\net ABC?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD6-TS1.pdf",
+        "filename": "Barycentre-TD6-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "13765498954837ce",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 7,
+      "end_line": 13
+    },
+    {
+      "text": "Exercice 2\n1) Soit E l’ensemble de points M du plan P dont les\ncoordonnées, dans un repère de P, vérifient\ny≥x\nA1(a1,b1) et A1(a2,b2)\nétant deux points de E, on\nconsidère le barycentre G de ces points affectés des\ncoefficients λ et 1−λ\n, avec\n0≤λ≤1\n. Calculer les\ncoordonnées\n(X ,Y )\nde G et montrer que G ∈\n2) .\na) Etablir par récurrence sans nouveau calcul que, si A1, A2,\n…, An appartiennent à E, leur isobarycentre appartient à\nb) On considère le cas où les points A1, A2,…, An d’abscisses\na1, a2,…, an sont sur la courbe d’équation\ny=x\nDéduire de a) l’inégalité suivante :\n(a1+a2+...+an)\n2≤n (a1\n2+a2\n2+...+an",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD6-TS1.pdf",
+        "filename": "Barycentre-TD6-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "13765498954837ce",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 22,
+      "end_line": 46
+    },
+    {
+      "text": "Exercice 3\nDans le plan P on considère un triangle équilatéral ABC. On\npose :\n‖⃗AB‖=‖⃗BC‖=‖⃗CA‖=a, a≻0.\n1) Déterminer le barycentre G du système (A, 2), (B,1), (C,\n1).\n2) Déterminer et construire l’ensemble E1 des points M du\nplan qui vérifient :\n2⃗MA2+⃗MB2+⃗MC2=2a2\n3) Déterminer et construire l’ensemble E2 des points M du\nplan qui vérifient :\n2⃗MA2+⃗MA.⃗MB+⃗MA .⃗MC=3a2",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD6-TS1.pdf",
+        "filename": "Barycentre-TD6-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "13765498954837ce",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "construire"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 50,
+      "end_line": 61
+    },
+    {
+      "text": "Exercice 4\nDans le plan P on considère un triangle rectangle ABC,\nd’hypoténuse\n[BC ]\nde longueur 2a. Soit f l’application :\nM↦⃗f ( M)=4⃗MA−⃗MB+m⃗MC , m∈IR\n1) Déterminer m pour que ⃗\nf (M)\nsoit un vecteur constant⃗\net calculer ⃗v0\nen fonction de ⃗\net⃗\n2) On prend\nm=−1\n. Démontrer que le barycentre G du\nsystème (A, 4), (B,-1), (C, -1) est symétrique par rapport\nà A du milieu I de\n[BC ]\n3) Déterminer l’ensemble :\nC={M ∈P/4⃗MA\n2−⃗MB\n2−⃗MC\n2=−4a\n(On remarquera que\nA ∈C",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD6-TS1.pdf",
+        "filename": "Barycentre-TD6-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "13765498954837ce",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 71,
+      "end_line": 95
+    },
+    {
+      "text": "Exercice 5\nSoit, dans le plan P, un carré de coté de longueur c. on\nconsidère un réel α et f α\nl’application du plan dans lui-\nmême :\nf α: P→P\nM ↦M '\n, telle que :⃗\nMM '=α⃗MA+⃗MB+⃗MC+α⃗MD.\n1) Déterminer, suivant les valeurs de\n, la nature et les\néléments caractéristiques de\nf α\n2) Déterminer, puis construire, l’ensemble E1 des points M\ndu plan P tels que :\nMA2+ MB2+MC2+MD2=4c2\n3) Déterminer, puis construire, l’ensemble E2 des points M du\nplan P tels que :\n‖⃗MA−⃗MB−⃗MC+⃗MD‖=‖⃗MA+⃗MB+⃗MC+⃗MD‖\n4) Déterminer, puis construire, l’ensemble E2 des points M\ndu plan P tels que :\n(⃗MA−⃗MB−⃗MC+⃗MD).(⃗MA+⃗MB+⃗MC+⃗MD)=2c",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD6-TS1.pdf",
+        "filename": "Barycentre-TD6-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "13765498954837ce",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 100,
+      "end_line": 121
+    },
+    {
+      "text": "Exercice 6\nABC est un triangle, on pose BC = a,  AC = b, et AB = c ;\nA’, B’, C’ les milieux respectifs des segments [BC], [AC] et\n[AB] ; G l’isobarycentre du triangle ABC.\n1) Montrer que pour tout point M du plan, on a :\nMA2+MB2+MC2=3 MG2−1\n(a2+b2+c2)\n2) En calculant de deux façons différentes\n(⃗MA+⃗MB+⃗MC)\nétablir que\nMA.⃗MA'+⃗MB.⃗MC=3MG2−1\n(a2+b2+c2)\n3) On considère les points communs aux cercles de diamètres\n[AA’] et [BC] montrer que lorsqu’ ils existent ; ils\nappartiennent à un cercle de centre G dont on donnera le\nrayon en fonction de a, b et c.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD6-TS1.pdf",
+        "filename": "Barycentre-TD6-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "13765498954837ce",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 126,
+      "end_line": 141
+    },
+    {
+      "text": "Exercice 7\nABC est un triangle et on désigne par G son centre de\ngravite. Soit ϕ et f\nles applications définies  par :\nϕ:P→IR\nM↦ϕ (G)=⃗MA.⃗MB+⃗MB.⃗MC+⃗MC .⃗MA\nf :P→IR\nM ↦f (M )=MA2+MB2+MC2\n1) Montrer que pour tout point M du plan, on a :\nϕ (M )=3MG2+ϕ (G )\nϕ (G )=−1\n2 f (G )\n2) Calculer f (G )\nen fonction de AB, AC et BC et en\ndéduire l’expression de  ϕ(M )\nen fonction de MG,\nAB, AC et BC.\nPage 1 sur 3\n3) Dans le cas particulier ou le triangle est équilatéral de coté\na, déterminer l’ensemble des points M tels que :\n4 ≤ϕ (M )≤a2",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD6-TS1.pdf",
+        "filename": "Barycentre-TD6-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "13765498954837ce",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 150,
+      "end_line": 170
+    },
+    {
+      "text": "Exercice 8\nOn considère dans un plan P un triangle équilatéral ABC de\ncote a (a\n∈IR\n1. Construire le barycentre D du système\n{( A;2),(B;−2),(C;−1)}\n2. a. Déterminer ⃗\nBA.⃗BC\nen fonction de a.\nb. Montrer que les droites (AB) et (CD) sont parallèles et\nque le triangle BCD est rectangle en B.\n3. Calculer les distances CD, BD et AD en fonction de a.\n4. Pour tout point M du plan on pose f(M) = 2MA\n- 2MB\n- MC\net on désigne par (F)\nL’ensemble des points M du plan tels que f(M) = 0.\na. Vérifier que C appartient à (F).\nb. Exprimer f(M) en fonction de MD et de a.                  c.\nDéterminer et construire (F).\n5. Pour tout point M du plan, on pose g(M) = 2⃗\nMC.⃗DB+a\na. Déterminer l’ensemble (G) des points M du plan tels que\ng(M) = a2\nb. Soit I le point d’intersection autre que C des ensembles\n(F) et (G).\nMontrer que le triangle CDI est équilatéral.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD6-TS1.pdf",
+        "filename": "Barycentre-TD6-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "13765498954837ce",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 180,
+      "end_line": 206
+    },
+    {
+      "text": "Exercice 9\nOn donne un triangle ABC rectangle en A de centre de\ngravité G et A’ le milieu de\n[BC ]\n.On pose BC = a.\na) Exprimer 4⃗GA .⃗AA '\nen fonction de a.\nb)  Exprimer GB2+GC2\nen fonction de a.\nc) En déduire que\nGA2+GB2+GC2= 2\n3 a2\nd) Déterminer l’ensemble ( E ) des points M du plan tels\nque :\nMA2+ MB2+MC2= 3\n4 a2",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD6-TS1.pdf",
+        "filename": "Barycentre-TD6-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "13765498954837ce",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 208,
+      "end_line": 223
+    },
+    {
+      "text": "Exercice 10\nABC est un triangle dont les angles sont aigus. A’, B’ et C’\nles projetés orthogonaux respectifs de A sur\n[BC ], [ AC ] et [AB]\n1) Montrer que\na) A’ est Barycentre de\n{ (B, tan { ^B¿); (C, tan { ^C¿) }\nb) B’ est Barycentre de\n{ (A, tan { ^A¿); (C, tan { ^C¿) }\nc) C’ est Barycentre de\n{ (B, tan { ^B¿); (A, tan { ^A¿) }\n2) Soit H l’orthocentre du triangle ABC  et le vecteur ⃗V\ndéfini par :⃗V=tan { ^A .⃗HA+tan { ^B¿ .⃗HB+tan { ^C¿ .⃗HC¿\na) Montrer que ⃗V\n¿⃗BC\net ⃗V\n¿⃗AB\nb) Que peut-on déduire du point H ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD6-TS1.pdf",
+        "filename": "Barycentre-TD6-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "13765498954837ce",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 226,
+      "end_line": 243
+    },
+    {
+      "text": "Exercice 11:\nSoit ABC un triangle rectangle en A, O le milieu de [BC] et\nE celui de [AB].\nOn pose\n(⃗CA ;⃗BB)=α [2 π]\n1) Montrer que\n(⃗OE;⃗OB)=(⃗OA;⃗OE)=α [2π ]\n2) En déduire que\n(⃗OA ;⃗OB)=2α [2π ]",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD6-TS1.pdf",
+        "filename": "Barycentre-TD6-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "13765498954837ce",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 244,
+      "end_line": 252
+    },
+    {
+      "text": "Exercice 12:\nA et B sont deux points du plan ;  Déterminer et\nreprésenter l’ensemble des points M du plan vérifiant :\n(⃗MA;⃗MB )=π\n[2π ]\n;              2)\n(⃗MA;⃗MB )=π\n[π ]\n3 )\n(⃗MB,⃗MA)\n= 0 [2π ]\n;   4)\n(⃗MA;⃗MB )=−π\n[2 π ]\n;           5)\n|(⃗MA;⃗MB)|=π\n[2π ]\n;       6)\n(⃗MB,⃗MA)\nπ [2π ]",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD6-TS1.pdf",
+        "filename": "Barycentre-TD6-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "13765498954837ce",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 264,
+      "end_line": 283
+    },
+    {
+      "text": "Exercice 13 :\nSoit (δ) et (ζ ) deux cercles sécants en deux points A et B .\nOn choisit un point C sur (δ) et un point D sur     (ζ ), ces\npoints étant distincts de A et B .Un point P décrit le cercle (δ)\n.La droite (PA) coupe le  cercle (ζ ) en un point Q ; lorsque P\nest en A ,on considère que la droite (PA ) est  la tangente en\nA à (δ)\n1. Montrer que (⃗BC,⃗BD)=(⃗PC,⃗QD)(π)\n.En déduire\nque (PC) et (QD) sont sécantes en un point R si et seulement\nsi C, B et D ne sont pas alignés.\n2. On suppose B, C et D non alignés. Montrer que\n(⃗RC,⃗RD)=(⃗BC,⃗BD)(π )\nEn déduire l’ensemble décrit par R quand P décrit (δ).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD6-TS1.pdf",
+        "filename": "Barycentre-TD6-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "13765498954837ce",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 284,
+      "end_line": 297
+    },
+    {
+      "text": "Exercice 14\nABC  est un triangle ;H le projeté orthogonal de A sur (BC) ;\nP et Q sont les projetés orthogonaux de H respectivement sur\nles droites (AB) et (AC).\nMontrer que :\n(⃗HA;⃗HB)=(⃗CQ;⃗CB)[π ]\npuis que\n(⃗HA;⃗HQ)=(⃗PA;⃗PQ)[π ]\nDéduisez en  que les points B ;P ;C ;Q sont cocycliques .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD6-TS1.pdf",
+        "filename": "Barycentre-TD6-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "13765498954837ce",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 300,
+      "end_line": 308
+    },
+    {
+      "text": "Exercice 15 ABC  est un triangle tel que B et C soient fixes\net A variable dans le plan  vérifiant :\n(⃗BC ;⃗BA )+(⃗CA;⃗CB)= π\n[π ]\nQuel est l’ensemble des points A ?\nSoit B’ le symétrique de B par rapport à (AC) et C’ le\nsymétrique de C par rapport à (AB). Démontrer que :\n(BB’) et (CC’) sont sécantes.\nOn note D le point d’intersection de (BB’) et (CC’). A\nquelle figure le point D appartient –il ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD6-TS1.pdf",
+        "filename": "Barycentre-TD6-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "13765498954837ce",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 313,
+      "end_line": 322
+    },
+    {
+      "text": "Exercice 16\nSoit ABC un triangle, F le point diamétralement opposé à A\nsur le cercle circonscrit au triangle ABC. Pour tout point M\nla droite passant par M et orthogonal à ( MF) coupe (AB) en\nP et (AC) en Q.\nPage 2 sur 3\n1) Montrer que :\n(⃗FP;⃗FQ)+(⃗MB;⃗MC)=(⃗AB;⃗AC) [π ]\n2) Déterminer l’ensemble des points M tels que : F, P et Q\nsoient alignés.\n3) Déterminer l’ensemble des points M tels que :\n(⃗FP;⃗FQ)=α [π ]",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD6-TS1.pdf",
+        "filename": "Barycentre-TD6-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "13765498954837ce",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 326,
+      "end_line": 337
+    },
+    {
+      "text": "Exercice 17\nABC est un triangle et M un point qui se projette\northogonalement sur (BC), (CA) et (AB) respectivement en\nP, Q et R.\nMontrer que :\n(⃗MA;⃗MR)=(⃗CA;⃗QR)[π]\nMontrer que :\n(⃗MB;⃗MR)=(⃗CB;⃗PR)[π]\nEn déduire que :\n(⃗MA;⃗MB )=(⃗CA;⃗CB)+(⃗PR;⃗QR)[π ]\nDémontrer que P, Q et R sont alignés si et seulement si\nM est sur le cercle circonscrit au triangle ABC.\n(La droite contenant les points P, Q et R est une droite\nde Simson de M relativement à ABC).\nPage 3 sur 3",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD6-TS1.pdf",
+        "filename": "Barycentre-TD6-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "13765498954837ce",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 343,
+      "end_line": 357
+    }
+  ]
+}

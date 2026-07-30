@@ -1,0 +1,355 @@
+{
+  "source": "data/raw/exercices/isométrieplane.pdf",
+  "timestamp": "2026-07-30T15:05:48.234269",
+  "chunks": [
+    {
+      "text": "Exercice 1\nDans le plan orienté muni d’un repère orthonormal direct, on considère ABC un triangle direct sur lequel on\nconstruit extérieurement trois triangles équilatéraux BCA′, ACB′ et ABC′. On considère respectivement les\npoints P, Q et R centres de gravités respectifs des triangles B CA′, ACB′ et ABC′.\nOn note a, b, c, a′, b′,\nc′, p, q et r les affixes\nrespectives des points\nA, B, C, A′, B′, C′, P, Q\net R.\nTraduire, avec les\naffixes des points\nconcernés, que C′\nest l’image de A dans\nune rotation\nd’angle de mesure\ndont on précisera\nle centre.\nMontrer que a′\n+b′ +c′ = a +b +c. En\ndéduire que p +q\n+r = a +b +c.\nEn déduire que\nles triangles ABC, A′B\n′C′ et PQR ont\nmême centre de\ngravité.\nMontrer que : 3(q\n−p) = (b′ −c) + (c −a′) +\n(a −b).\nOn admettra que,\nde même : 3(r −p) = (a\n−c) + (b −a′) + (c′\n−b).\nJustifier les égalités suivantes :\nDéduire des questions  5) et 6) que le triangle PQR est équilatéral.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrieplane.pdf",
+        "filename": "isométrieplane.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "0d9e42e97dd07b16",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 53,
+      "end_line": 87
+    },
+    {
+      "text": "Exercice\nDans le plan orienté, on considère un losange ABCD tel que AB = BC = CD = DA = 5 et \nOn désigne par I, J, K, L et O les milieux respectifs des segments [AB], [BC],[CD] , [DA] et [BD]. On note (∆) la\nmédiatrice de [AB] et (∆′) la médiatrice de [CD].\nSoit f l’isométrie du plan définie par f (A) = B, f (B) =O, f (D) = C.\nProuver que f est un antidéplacement.\nDémontrer que s’il existe un point M invariant par f, alors M est équidistant des points A, B, C, D.\nL’isométrie f admet-elle un point invariant ?\nSoit σ la symétrie orthogonale d’axe (.) et r la rotation de centre B et d’angle\nDémontrer que f = r ◦σ. A-t-on f = σ◦r ?\nSoit s1, la symétrie orthogonale d’axe (BC).\nDéterminer l’axe de la symétrie orthogonale s2, telle que r =s2 ◦ s1.\nEn déduire que f peut s’écrire sous la forme f = s1 ◦ t1, où t1 est une translation que l’on précisera.\nSoit t2 la translation de vecteur\n; on note t2\n-1 sa réciproque et on pose g = t2\n-1 ◦ f.\nDéterminer g (D), g (I), g (O). En déduire la nature précise de la transformation g.\nDémontrer que f = t2 ◦ g. A-t-on  f = g ◦ t2 ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrieplane.pdf",
+        "filename": "isométrieplane.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "0d9e42e97dd07b16",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 125,
+      "end_line": 143
+    },
+    {
+      "text": "Exercice\nLe plan P est rapporté à un repère orthonormé direct \n(unité graphique 4 cm)\nOn considère les points A, B , C , D et E d’affixes respectives :\nFaire la figure et montrer que EA = ED et que EB = EC.\nMontrer que (OE) est la médiatrice du segment [AD] et du segment [BC]\nDéterminer les points K et L images respectives de A et de B par la translation t de vecteur\nPlacer les points K et L sur la figure.\nOn considère l’application F qui à tout point M d’affixe Z associe A le point M′ d’affixe\noù Z désigne le conjugué de Z.\nJustifier l’égalité F = R ◦ S où S est la réflexion ou symétrie axiale d’axe (OI) et R une rotation dont on\nprécisera le centre et l’angle.\nMontrer que F est une réflexion dont on précisera l’axe.\nSoit G l’application qui, à tout point M d’affixe Z associe le point M′′ dont l’affixe Z′′ définie par la\nformule\nDéterminer une application T telle que G = T ◦ F. En déduire que G est un antidéplacement.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrieplane.pdf",
+        "filename": "isométrieplane.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "0d9e42e97dd07b16",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 233,
+      "end_line": 248
+    },
+    {
+      "text": "Exercice\nLe plan complexe est rapporté à un repère orthonormal direct \n(unité graphique : 2 cm).\nOn fera une figure que l’on complétera avec les différents éléments intervenant dans l’exercice.\nDans cette question on considère l’application s du plan dans lui-même, qui à tout point M d’affixe z\nassocie le point M′ d’affixe z′ = −iz.\nMontrer que s est une réflexion d’axe noté D et de vecteur directeur w d’affixe 1  -  i.\nSoit D′ la droite d’équation y = −1, on appelle s′ la réflexion d’axe D′.\nCalculer une mesure de l’angle \n. Déterminer géométriquement la composée r = s′ ◦ s.\nDéterminer l’écriture complexe de r .\nDans cette question on considère l’application p du plan dans lui-même, qui à tout point M d’affixe z\nassocie le point M′ d’affixe\nSoit le point A d’affixe z = 2+ i, déterminer l’affixe du point A1 image de A par p.\nMontrer que tout point M a son image M1 située sur la droite d’équation y = −x.\nDéfinir géométriquement, en utilisant les questions précédentes, l’application p.\nOn considère l’application f définie par f = s′ ◦ p. Construire l’image A′ du point A par f.\nMontrer que s ◦ p = p et en déduire que f = r ◦ p. Montrer que, tout point M du plan a son image par f\nsur une droite que l’on déterminera.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrieplane.pdf",
+        "filename": "isométrieplane.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "0d9e42e97dd07b16",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 284,
+      "end_line": 302
+    },
+    {
+      "text": "Exercice\nOn se place dans le plan, rapporté à un repère orthonormal direct \nOn considère l’application f qui, à tout point M d’affixe z associe le point M′ d’affixe z′ telle que :\nExprimer ( f ◦ f )(z) en fonction de z.\nMontrer que f = R◦ S, où R est une rotation et S une symétrie axiale (on déterminera les éléments\ncaractéristiques de ces deux applications R et S).\nDécomposer R à l’aide de deux symétries axiales et en déduire que f est une réflexion, dont on\ndonnera l’axe (D1).\nRéaliser une figure, en y représentant l’axe (D1) (unité graphique 2 cm).\nOn considère l’application g qui, à tout point M d’affixe z associe le point M′′ d’affixe z′′ telle que :\nDéterminer une équation de l’ensemble des points invariants de g.\nMontrer que g = T ◦ f où T est une translation (on précisera l’affixe du vecteur de la translation T).\nDécomposer la translation T à l’aide de deux symétries axiales et en déduire que g est une\nréflexion, d’axe noté (D2).\nQuelle est l’image par g du point A d’affixe\nEn déduire une construction de la droite (D2),\nqui n’utilise pas son équation, et l’illustrer en complétant la figure précédente.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrieplane.pdf",
+        "filename": "isométrieplane.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "0d9e42e97dd07b16",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 370,
+      "end_line": 386
+    },
+    {
+      "text": "Exercice\nOn suppose le plan rapporté au repère orthonormal direct \n, unité graphique 3 cm.\nPartie A\nSoit trois droites D1, D2 et D3, sécantes en  Ω et de vecteurs directeurs respectifs\nd \nsupposés unitaires et tels que \net \nOn note S1, S2 et S3 les réflexions d’axes respectifs D1, D2 et D3, et f la composée S3◦ S2 ◦S1\nTracer ces trois droites.\nDéterminer la nature et les éléments caractéristiques de la transformation r = S2 ◦S1.\nCaractériser la réflexion S telle que r = S3 ◦ S. On notera D l’axe de S et on en déterminera un point et un\nvecteur directeur d . Tracer la droite D.\nEn déduire la nature de f et ses éléments caractéristiques.\nJustifier que le point E d’affixe\nz \nest un point de la droite D.\nDéterminer les nombres complexes a et b tels que la forme complexe de f soit l’application f1 définie\nsur C par f1(z) = az +b.\nPartie B\nChoisir un point A sur D. On note B l’image de A par S1 et C l’image de B par S2 . Placer les points B et C\nDémontrer que A est l’image de C par S3.\nQue peut-on dire du point  pour le triangle ABC?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrieplane.pdf",
+        "filename": "isométrieplane.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "0d9e42e97dd07b16",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 435,
+      "end_line": 457
+    },
+    {
+      "text": "Exercice\nDans le plan orienté, on considère un triangle direct OAB, rectangle et isocèle en O. On a donc\nOn note RA et RB les rotations de centres respectifs A et B et de même angle\net SO la symétrie de centre\nOn place un point C, non situé sur la droite (AB) , on trace les carrés BEDC et ACFG directs. On a donc\net \na. Déterminer S(AO) ◦S(AB) composée des réflexions d’axes (AB) et (AO).\nb. En écrivant RB sous la forme d’une composée de deux réflexions, démontrer que RA ◦ RB = SO.\na. Déterminer l’image de E par RA ◦ RB.\nb. En déduire que O est le milieu du segment [EG].\nc. On note RF et RD les rotations de centres respectifs F et D et de même angle. Étudier l’image de C par\nla transformation RF ◦SO ◦RD. Déterminer la transformation RF ◦SO ◦RD.\nd. Placer H le symétrique de D par rapport à O.\nDémontrer que RF (H) = D. Démontrer que le triangle FOD est rectangle et isocèle en O.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrieplane.pdf",
+        "filename": "isométrieplane.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "0d9e42e97dd07b16",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 499,
+      "end_line": 512
+    },
+    {
+      "text": "Exercice\nDans le plan orienté, on considère deux points A et B et le point E tel que\n3 AB\nAE \nPour la figure, on\nprendra comme unité de longueur le centimètre et AB = 16. Cette figure sera complétée au fur et  à\nmesure. Soit un point C, distinct de A, tel que \nLa droite parallèle à (BC) passant par E coupe la droite (AC) en F. On appelle I le milieu de [BC], J le milieu de\n[EF] et D le point d’intersection des droites (EC) et (BF). On note hA l’homothétie de centre A qui transforme\nB en E et hD l’homothétie de centre D qui transforme E en C.\nDéterminer hA(C) puis hD(F).\nEn déduire la nature et les éléments caractéristiques de hD ◦hA puis de hA ◦hD.\nOn appelle E’ l’image de E par hA et E′′ l’image de E’ par hD Représenter E’, puis construire E′′ en\njustifiant la construction.\nDéterminer la nature et les éléments caractéristiques de hD ◦hA ◦hA ◦hD.\nMontrer que le quadrilatère BECE′′ est un parallélogramme.\nOn appelle (∆) l’ensemble des points M tels que \n(∆) est donc une demi-droite ouverte\nd’origine A. Pour la suite, les points A, B, E sont fixes et le point C décrit (∆). Déterminer et construire le\nlieu géométrique (∆)′′ du point E′′.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrieplane.pdf",
+        "filename": "isométrieplane.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "0d9e42e97dd07b16",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 537,
+      "end_line": 556
+    },
+    {
+      "text": "Exercice\nLe plan est muni d’un repère orthonormal direct \n. On donne le point A(6 ; 0) et le point A′(0 ; 2).\nÀ tout point M de l’axe des abscisses différent de A on associe le point M′ tel que : AM = A′M′ et\nmod\nOn admet l’existence et l’unicité de M′. On réalisera une figure avec, pour\nunité graphique 0,5 cm et pour cette figure, on prendra −4 pour abscisse de M.\nSoit M un point de l’axe des abscisses différent de A.\nPlacer le point M′ sur la figure.\nPour cette question on pourra donner une démonstration purement géométrique ou utiliser les\nnombres complexes. Démontrer qu’il existe une unique rotation, dont on précisera le centre, noté I\net l’angle, qui transforme A en A′ et M en M′. Placer I sur la figure.\nDémontrer que la médiatrice de [MM′] passe par I.\nOn veut déterminer et construire les couples de points (M, M′) vérifiant la condition supplémentaire\nMM′= 20.\nCalculer IM et démontrer qu’il existe deux couples solutions : (M1, M′1 ) et (M2, M′2 ).\nPlacer ces quatre points sur la figure.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrieplane.pdf",
+        "filename": "isométrieplane.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "0d9e42e97dd07b16",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 582,
+      "end_line": 598
+    },
+    {
+      "text": "Exercice\nSoit le repère orthonormal direct \ndu plan complexe. Les points A, B et C sont définis par leurs\naffixes respectives :\nFaire la figure en choisissant pour unité graphique 2 cm. (On placera l’origine sur la gauche de la\nfeuille).\nProuver que OAB est un triangle équilatéral direct. Soit G le centre de gravité du triangle OAB.\nDéterminer l’affixe zG de G.\nDans la suite de l’exercice, on étudie deux isométries transformant [OA] en [GC].\nSoit a et b deux nombres complexes et R l’application qui au point M d’affixe z associe le point M′\nd’affixe z′ tel que z′ = az +b.\nDéterminer a et b pour que R(O) = G et R(A) = C.\nProuver que R est une rotation dont on déterminera le centre et l’angle.\nProuver que les droites (OA) et (GC) sont perpendiculaires. Que peut-on dire des points\nG, B et C?\nConstruire, en justifiant la construction, l’image du triangle OAB par R.\nSoit a′ et b′ deux nombres complexes et f l’application qui au point M d’affixe z associe le point M′\nd’affixe z′ tel que z′ = a′z +b′.\nDéterminer a′ et b′ pour que f (O) = G et f (A) = C.\nSoit I le milieu du segment [OG]. Déterminer le point f (I). f est-elle une réflexion ?\nConstruire en justifiant la construction, l’image du triangle OAB par f.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrieplane.pdf",
+        "filename": "isométrieplane.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "0d9e42e97dd07b16",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 645,
+      "end_line": 665
+    },
+    {
+      "text": "Exercice\nLe plan est muni d’un repère orthonormal direct \n. (unité graphique : 1 cm).\nOn note A, B et C les points d’affixes respectives 2i, -1 + 4i et 5 + 2i. On considère la translation t de\nvecteur BC , la symétrie S d’axe (AB) et la transformation  f = t◦ S. On désigne par A′ et B′ les images\nrespectives de A et B par f . Calculer les affixes de A′ et B′ et placer les points A, B, C, A′ et B′ sur une\nfigure.\nOn rappelle que l’écriture complexe d’un antidéplacement est de la forme z′ = az +b où a et b sont deux\nnombres complexes et |a| = 1. À tout point M d’affixe z, f associe le point M′ d’affixe z′.\nJustifier que f est un antidéplacement et démontrer que :\nDéterminer l’ensemble des points invariants par f . La transformation f est-elle une symétrie?\nOn appelle D le point d’affixe 3 + 6i, la médiatrice de [BD] et S′ la symétrie d’axe(∆).\nMontrer que les droites(∆) et (AB) sont parallèles. Déterminer S ◦ S′.\nMontrer que f ◦S′ est la translation, notée t ′, de vecteur DC . En déduire que f = t ′ ◦S′",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrieplane.pdf",
+        "filename": "isométrieplane.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "0d9e42e97dd07b16",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 695,
+      "end_line": 708
+    },
+    {
+      "text": "Exercice\nLe plan complexe est rapporté à un repère orthonormal \n. On placera sur une même figure, qui\nsera complétée au fur et à mesure les points introduits dans le texte (unité graphique : 2 cm.)\na. Résoudre l’équation (E) :\nb. On considère les nombres complexes\net on désigne par Met N les points\nd’affixes respectives z1 et z2. Déterminer le module et l’argument de z1 et de z2 ; placer Met N sur la\nfigure.\nc. Déterminer les affixes des points Q et P images respectives de Met N par la translation de vecteur\n. Placer P et Q sur la figure. Montrer que MNPQ est un carré.\nSoit R le symétrique de P par rapport à O, E l’image de P par la rotation de centre O et d’angle\n, S\nl’image de E par l’homothétie de centre O et de rapport\n3 . Placer ces points sur la figure.\nCalculer les affixes de R et de S. Montrer que S appartient au segment [MN].\nOn pose\n2 \na. Montrer que\n2 \nb. Exprimer les affixes Z de PR et Z′ de PS en fonction de.\nc. Montrer que |Z| = |Z′| et\nZ \nd. Déduire des questions précédentes la nature du triangle PRS.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrieplane.pdf",
+        "filename": "isométrieplane.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "0d9e42e97dd07b16",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "résoudre"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 775,
+      "end_line": 798
+    }
+  ]
+}

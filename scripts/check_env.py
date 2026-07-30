@@ -28,9 +28,7 @@ def check_env():
         ("QDRANT_API_KEY", "Clé API Qdrant (optionnelle en local)", False, True),
         ("QDRANT_COLLECTION", "Nom de la collection Qdrant", True, False),
         ("DATABASE_URL", "PostgreSQL (optionnel, repli SQLite)", False, True),
-        ("OLLAMA_HOST", "URL Ollama (valeur par défaut disponible)", False, False),
-        ("OLLAMA_MODEL", "Modèle Ollama (valeur par défaut disponible)", False, False),
-        ("GEMINI_API_KEY", "Gemini (optionnel, non branché)", False, True),
+        ("GEMINI_API_KEY", "Clé API Gemini (LLM par défaut)", True, True),
     ]
     
     # Vérifier chaque variable

@@ -1,0 +1,176 @@
+{
+  "source": "data/raw/exercices/Courbes-Parametres-2.pdf",
+  "timestamp": "2026-07-30T15:05:37.393958",
+  "chunks": [
+    {
+      "text": "Exercice 1\nSoit () la courbe de représentation  paramétrique suivante\ncos\nsin\n0;2\ncos\nsin\n1) Montrer que  () est un cercle\n2) Représenter ()",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Courbes-Parametres-2.pdf",
+        "filename": "Courbes-Parametres-2.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "6ff9ea19aa7e7306",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 21,
+      "end_line": 29
+    },
+    {
+      "text": "Exercice 2(Cardioïde)\nLe plan est du repère orthonormal direct\n, ,\nO i j .\n1 cos\ncos\n1 cos\nsin\nx t\ny t\n1) En utilisant la parité et la périodicité des fonctions x(t) et y(t) réduisez l’intervalle\nd’étude et déterminer les symétriques de la courbe (C)\n2) Etudier les variations des fonctions x(t) et y(t)\n3) a) Montrer que, si t\n, la droite\nOM a pour vecteur directeur\ncos\nsin\nt i\nt j\nb) Déduisez en la tangente au pont\nM  de la courbe (C) puis tracer (C).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Courbes-Parametres-2.pdf",
+        "filename": "Courbes-Parametres-2.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "6ff9ea19aa7e7306",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 64,
+      "end_line": 85
+    },
+    {
+      "text": "Exercice 3 (Spirale logarithmique)\nSoit \n la courbe de représentation  paramétrique suivante\ncos\nsin\nx t\ny t\n1) Par quelle transformation passe t-on de\nM t à M t\net à M t\n2) Etudier les variations\n( )\n( )\nx t\ny t\npour\n0;2\n3) Construire la courbe représentative de \nconstituée des points M(t) pour\n0;2\n4) Déduisez-en  la partie de la courbe de \nconstituée des points M(t) pour\n2 ;2",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Courbes-Parametres-2.pdf",
+        "filename": "Courbes-Parametres-2.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "6ff9ea19aa7e7306",
+        "chunk_type": "exercice",
+        "competences": [
+          "construire"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 139,
+      "end_line": 161
+    },
+    {
+      "text": "Exercice 4 (courbe de lissajou)\nSoit ( )\n la courbe de représentation  paramétrique suivante\nsin\nx t\ny t\ncost\n1) Déterminer l’intervalle d’étude utile.\n2) Etudier les variations de\nx t  ;\ny t\n3) Montrer que la courbe  est inscrite dans un carré de coté 2\n4) Déterminer  les points de contact avec ce carré et les tangentes en ces points.\n5) Tracer la courbe( )",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Courbes-Parametres-2.pdf",
+        "filename": "Courbes-Parametres-2.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "6ff9ea19aa7e7306",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 180,
+      "end_line": 193
+    },
+    {
+      "text": "Exercice5 (cyloide)\nSoit \n la courbe de représentation  paramétrique suivante\n1 sin\nx t\ny t\ncost\n1) Comparer les coordonnées des points\nM t\nM t\net montrer que ces\npoints ce correspondent dans une translation. Déduisez en l’intervalle d’étude utile\n2) Etudier les variations de\nx t  ;\ny t et calculer le vecteur dérivée\nV t\n3) On suppose ici que t est non nul, montrer que la droite \nadmet un vecteur\ndirecteur\n1 cos\nsin\nu t\nt i\nt j\n.déterminer les limites des coordonnées de\nu et déduisez en la tangente en O à la courbe ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Courbes-Parametres-2.pdf",
+        "filename": "Courbes-Parametres-2.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "6ff9ea19aa7e7306",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 242,
+      "end_line": 267
+    },
+    {
+      "text": "Exercice 6\nLe plan est du repère orthonormal direct \n. On considère le cercle C de centre\nI et de rayon 1 et la droite ( ) d’équation\n. Une droite variable (D) passant par O,\ncoupe le cercle C en A. et la droite ( ) en A’.\nOn note M le point de (D) tel que\nOM \nLa courbe S, lieu des points M lorsque la droite (D) varie, est appelée Strophoïde droite.\n1) On note t la pente de la droite (D).\nMontrer que les coordonnées de M sont données par :\n2)   a. Vérifier que S admet l’axe des abscisses pour axe de symétrie.\nb. Etudier les variations des fonctions\n( )\n( )\nx t\ny t\npour\n, et\nconstruire la courbe S.\n3)  Calculer la distance de M à la droite ( ), puis la limite de cette distance lorsque\n.       Interpréter graphiquement.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Courbes-Parametres-2.pdf",
+        "filename": "Courbes-Parametres-2.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "6ff9ea19aa7e7306",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 333,
+      "end_line": 354
+    }
+  ]
+}
