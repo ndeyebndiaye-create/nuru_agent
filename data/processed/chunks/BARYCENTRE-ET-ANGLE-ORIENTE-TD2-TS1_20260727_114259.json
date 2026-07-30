@@ -1,0 +1,721 @@
+{
+  "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+  "timestamp": "2026-07-27T11:42:59.435110",
+  "chunks": [
+    {
+      "text": "MINISTERE DE L’EDUCATION                                                                                                 Année scolaire 07/08\nINSPECTION D’ACADEMIE DE ZIGUINCHOR                                                                       TS1\nLYCEE EL HADJI OMAR LAMINE BADJI\nM. FALL\n : 339916624                                                                                                                                Email :mf2@yahoo.fr",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "difficulty_level": "intermediate",
+        "chunk_category": "course"
+      },
+      "start_line": 3,
+      "end_line": 7
+    },
+    {
+      "text": "Exercice 1\nABC est un triangle, on pose BC = a,  AC = b, et AB = c ; A’, B’, C’ les milieux respectifs des segments\n[BC], [AC] et [AB] ; G l’isobarycentre du triangle ABC.\nMontrer que pour tout point M du plan, on a :\nEn calculant de deux façons différentes :\n2 , établir que\nOn considère les points communs aux cercles de diamètres [AA’] et [BC] montrer que lorsqu’ ils\nexistent ; ils appartiennent à un cercle de centre G dont on donnera le rayon en fonction de a, b et c.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 69,
+      "end_line": 76
+    },
+    {
+      "text": "Exercice 2\nABC est un triangle et on désigne par G son centre de gravite. Soit\nles applications définies  par :\nMontrer que pour tout point M du plan, on a :\nCalculer\nen fonction de AB, AC et BC et en déduire l’expression de\nen fonction\nde MG, AB, AC et BC.\nDans le cas particulier ou le triangle est équilatéral de coté a, déterminer l’ensemble des points M\ntels que :",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 175,
+      "end_line": 184
+    },
+    {
+      "text": "Exercice 3On considère dans un plan P un triangle équilatéral ABC de cote a (a\n1. Construire le barycentre D du système\n2. a. Déterminer\nBA.\nen fonction de a.\nb. Montrer que les droites (AB) et (CD) sont parallèles et que le triangle BCD est rectangle en B.\n3. Calculer les distances CD, BD et AD en fonction de a.\n4. Pour tout point M du plan on pose f(M) = 2MA 2 - 2MB 2 - MC 2  et on désigne par (F)\nL’ensemble des points M du plan tels que f(M) = 0.\na. Vérifier que C appartient à (F).\nb. Exprimer f(M) en fonction de MD et de a.                  c. Déterminer et construire (F).\n5. Pour tout point M du plan, on pose g(M) = 2\na. Déterminer l’ensemble (G) des points M du plan tels que g(M) =\na .\nb. Soit I le point d’intersection autre que C des ensembles (F) et (G).\nMontrer que le triangle CDI est équilatéral.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 217,
+      "end_line": 232
+    },
+    {
+      "text": "Exercice 4On donne un triangle ABC rectangle en A de centre de gravité G et A’ le milieu de \n.On pose BC = a.\na) Exprimer\nen fonction de a.\nb)  Exprimer\nGB \nen fonction de a.\nc) En déduire que\n2 a\nd) Déterminer l’ensemble ( E ) des points M du plan tels que :\n3 a",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 266,
+      "end_line": 276
+    },
+    {
+      "text": "Exercice 5\nABC est un triangle dont les angles sont aigus. A’, B’ et C’ les projetés orthogonaux respectifs de A\nsur\nBC ,\n1) Montrer que\nPage 1 sur 6\nMINISTERE DE L’EDUCATION                                                                                                 Année scolaire 07/08\nINSPECTION D’ACADEMIE DE ZIGUINCHOR                                                                       TS1\nLYCEE EL HADJI OMAR LAMINE BADJI\nM. FALL\n : 339916624                                                                                                                                Email :mf2@yahoo.fr\na) A’ est Barycentre de\ntan\ntan\nb) B’ est Barycentre de\ntan\ntan\nc) C’ est Barycentre de\ntan\ntan\n2) Soit H l’orthocentre du triangle ABC  et le vecteur V défini par\ntan\ntan\ntan\na) Montrer que V\net V\nb) Que peut-on déduire du point H ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 353,
+      "end_line": 379
+    },
+    {
+      "text": "Exercice 6\nSoit ABC un triangle.\nDémontrer que : \nOn suppose que ABC est isocèle en A ; déterminer \nsi ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 420,
+      "end_line": 424
+    },
+    {
+      "text": "Exercice 7: Soit ABC un triangle rectangle en A, O le milieu de [BC] et E celui de [AB].\nOn pose \nMontrer que \nEn déduire que ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 461,
+      "end_line": 464
+    },
+    {
+      "text": "Exercice 8: A et B sont deux points du plan ;  Déterminer et représenter l’ensemble des points M du plan\nvérifiant :\n1) \n4) \n6 )  \nMB,\n2)  \n5) \n7)   \nMB,",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 522,
+      "end_line": 531
+    },
+    {
+      "text": "Exercice 9 :Soit (δ) et (ζ ) deux cercles sécants en deux points A et B . On choisit un point C sur (δ)\net un point D sur     (ζ ), ces points étant distincts de A et B .Un point P décrit le cercle (δ) .La droite\n(PA) coupe le  cercle (ζ ) en un point Q ; lorsque P est en A ,on considère que la droite (PA ) est  la\ntangente en A à (δ)\n1. Montrer que (\n.En déduire que (PC) et (QD) sont sécantes en un point R si et\nseulement si C, B et D ne sont pas alignés.\n2. On suppose B, C et D non alignés. Montrer que (\nEn déduire l’ensemble décrit par R quand P décrit (δ).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 556,
+      "end_line": 564
+    },
+    {
+      "text": "Exercice 10  ABC  est un triangle ;H le projeté orthogonal de A sur (BC) ; P et Q sont les projetés\northogonaux de H respectivement sur les droites (AB) et (AC).\nMontrer que : \npuis que \nDéduisez en  que les points B ;P ;C ;Q sont cocycliques .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 591,
+      "end_line": 595
+    },
+    {
+      "text": "Exercice 11  ABC  est un triangle tel que B et C soient fixes et A variable dans le plan  vérifiant :\nQuel est l’ensemble des points A ?\nSoit B’ le symétrique de B par rapport à (AC) et C’ le symétrique de C par rapport à (AB). Démontrer\nque : (BB’) et (CC’) sont sécantes.\nOn note D le point d’intersection de (BB’) et (CC’). A quelle figure le point D appartient –il ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 616,
+      "end_line": 620
+    },
+    {
+      "text": "Exercice 12 Soit ABC un triangle, F le point diamétralement opposé à A sur le cercle circonscrit au triangle\nABC. Pour tout point M la droite passant par M et orthogonal à ( MF) coupe (AB) en P et (AC) en Q.\nMontrer que : \nDéterminer l’ensemble des points M tels que : F, P et Q soient alignés.\nDéterminer l’ensemble des points M tels que : \nFP;\nPage 2 sur 6\nMINISTERE DE L’EDUCATION                                                                                                 Année scolaire 07/08\nINSPECTION D’ACADEMIE DE ZIGUINCHOR                                                                       TS1\nLYCEE EL HADJI OMAR LAMINE BADJI\nM. FALL\n : 339916624                                                                                                                                Email :mf2@yahoo.fr",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 652,
+      "end_line": 663
+    },
+    {
+      "text": "Exercice 13. ABC est un triangle et M un point qui se projette orthogonalement sur (BC), (CA) et (AB)\nrespectivement en P, Q et R.\nMontrer que : \nMontrer que : (MB, MR) = (CB, PR) [π]. \nEn déduire que : \nDémontrer que P, Q et R sont alignés si et seulement si M est sur le cercle circonscrit au triangle ABC.\n(La droite contenant les points P, Q et R est une droite de Simson de M relativement à ABC).\nPage 3 sur 6\nMINISTERE DE L’EDUCATION                                                                                                 Année scolaire 07/08\nINSPECTION D’ACADEMIE DE ZIGUINCHOR                                                                       TS1\nLYCEE EL HADJI OMAR LAMINE BADJI\nM. FALL\n : 339916624                                                                                                                                Email :mf2@yahoo.fr\nLYCEE EL HADJI OMAR LAMINE BADJI\nM. FALL\nIsométries du plan et Applications affines",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 715,
+      "end_line": 730
+    },
+    {
+      "text": "Exercice 1\nSoit ABC un triangle équilatéral tel que : \non appelle O le centre de gravité du\ntriangle. Les points I ; J ; K sont tels que :\n1) Déterminer deux nombres réels a et b tels que I soit barycentre de (A ;a) et (B ;b).\n2) En utilisant la rotation de centre O qui transforme A en B ; démontrer que O est le centre de\ngravité du triangle IJK.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 759,
+      "end_line": 765
+    },
+    {
+      "text": "Exercice 2\nABCD est un carré de centre de O tel que \n. Soit r la rotation de centre O et d’angle\n et t la translation de vecteur BC .Déterminer la nature et les éléments caractéristiques de rot.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 777,
+      "end_line": 780
+    },
+    {
+      "text": "Exercice 3\nDans le plan orienté ; on considère un triangle équilatéral ABC tel que une mesure de l’angle\n.On appelle \n le cercle circonscrit au triangle ABC. La médiatrice de [BC]\ncoupe \n en A et D, on appelle A’ le point d’intersection des droites (BD) et (AC).\n1) Démontrer que A’ est le symétrique de A par rapport à C.\n2) On désigne par\ns BD o\ns CD  ;\ns CA o\ns AB les symétries orthogonales par rapport à (BD) ; (CD) ;\n(CA) ;  (AB) respectivement.\n3) Quelle est la nature des applications suivantes :\ns BD o\ns CD  ;\ns CA o\ns AB  ? on précisera les éléments\ncaractéristiques.\n4) Soit (∆) la droite parallèle à (DC) menée par A et\ns la symétrie orthogonale par rapport à (∆).\nDémontrer que :\ns BD o\ns CD\ns DC o\ns DA        et\ns CA o\ns AB\ns DA\ns \n5) Retrouver les résultats du1) en utilisant l’application t définie par :  t =\ns BD o\ns CD o\ns CA o\ns AB  que\nl’on caractérisera.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 838,
+      "end_line": 873
+    },
+    {
+      "text": "Exercice 4\nSoit ABC un triangle rectangle et isocèle en A tel que : \n.on appelle R la rotation de\ncentre A qui transforme B en C et T la translation de vecteur AB ;on note I le milieu de [BC]\n1) Construire le point J = R(I).\n2) On  pose F1= RoT et F2 = TOR\nDéterminer F1(J) et F2(I) puis en déduire la nature et les éléments caractéristiques de F1 et F2.\n3) Soit M un point du plan M1 = F1(M) et M2 = F2(M) ;Quelle est la nature du triangle BCM1M2 ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "construire"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 884,
+      "end_line": 891
+    },
+    {
+      "text": "Exercice 5\nSoit Le plan est muni d’un repère orthonormé \n; ;\no i j  et A (2 ;0) , B(2 ;2) , C(0 ;D)\nS1 et S2 sont les orthogonales par rapport à (AC) et ( OA) et la translation de vecteur OC\nReconnaître S1oS2 ; puis ToS2oS1",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 893,
+      "end_line": 898
+    },
+    {
+      "text": "Exercice  6\nSoit Le plan est muni d’un repère orthonormé \n; ;\no i j  et I (0 ;1) , J(1 ;0)\nRI et RJ sont les rotations de centre respectifs I et J d’angle 2\n et T la translation de vecteur IJ\nReconnaître S = RI oToRJ\nPage 4 sur 6\nMINISTERE DE L’EDUCATION                                                                                                 Année scolaire 07/08\nINSPECTION D’ACADEMIE DE ZIGUINCHOR                                                                       TS1\nLYCEE EL HADJI OMAR LAMINE BADJI\nM. FALL\n : 339916624                                                                                                                                Email :mf2@yahoo.fr",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 904,
+      "end_line": 916
+    },
+    {
+      "text": "Exercice 7\nSoit ABC un triangle tel que : \net AB < AC. On appelle \n le cercle circonscrit au\ntriangle ABC et le point O son centre. Soit E le milieu  de [BC]  et P le point  [AC] tel que AB = CP. La\ndroite (OE) coupe \n en I et J tel que J et A soient sur le même AC arc du \na) Faire une figure.\nb) Quel est l’ensemble des points M du plan (P) tels que : \nc) Quel est l’ensemble des points M de (P) tels que: \net MB < MC ?\n2)   a) Justifier qu’il existe une unique rotation R tel que R(A) = P et R(B) = C.  Déterminer son centre.\nb) Démontrer que son centre est un point de \n que l’on précisera\nc) Quelle est la nature du triangle JAP ?\n3)  Déterminer l’image de B par RoSB où SB est la symétrie centrale de centre B. Déterminer la nature et les\néléments caractéristiques de RoSB.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 954,
+      "end_line": 970
+    },
+    {
+      "text": "Exercice 8\nOn considère dans le plan orienté (P) ; deux points A et B. Soit :\nRA la rotation de centre A et d’angle\net RB la rotation de centre B et d’angle 3\nPour tout point M du plan (P) ; on pose M’=RA(M) et M’’= RB(M).\nDe l’étude de RBo(RA)-1 déduisez en que pour tout point M du plan (P) le milieu du segment [M’M’’] est\nun point fixe J dont on démontrera qu’ il appartient au cercle de diamètre [AB] .\nLe but du problème est de déterminer l’ensemble des  M de (P) pour les quels M ; M’ ; M’’ sont alignés.\nPour tout point M distinct de A et B, démontrer que : \nDéduisez en l’ensemble des points M du plan (P) pour les quels M ; M’ ; M’’ sont alignés. Indication :\nOn pourra calculer dans le triangle BMM’’ : ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1016,
+      "end_line": 1026
+    },
+    {
+      "text": "Exercice 9\nOn considère trois points non alignés A, B et C. Pour tout réel α on définit l’application fα du plan dans lui-\nmême qui à tout point M associe le point M' tel que : MM'= 2α MA– α MB– MC.\nMontrer que f1 est une translation que l’on précisera.\na)  On  suppose  que  α  ≠ 1.  Montrer  que  fα admet  un  unique  point  invariant  Gα et  que :\nCGα=  k(AB+ AC), où k est un réel dépendant de α que l’on précisera.\nb) Déterminer l’ensemble des points Gα lorsque α ∈ IR \\ {1}.\nOn suppose toujours que α ≠ 1. Exprimer GαM'en fonction de GαM puis en déduire la nature de fα suivant les\nvaleurs de α. On précisera ses éléments caractéristiques",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1029,
+      "end_line": 1037
+    },
+    {
+      "text": "Exercice 10\nSoit A, B, C  trois points non alignés du plan et C’ le point défini par\n; on désigne par f\nl’application affine du plan définie par f(A) = A ;f(B) =B et f(C) = C’\nMontrer que f est une application bijective. Déterminer l’ensemble des points invariant par f.         f est –\nelle une isométrie ? Montrer que les droites parallèles à (AB) sont globalement invariantes par f\nLe point G est l’isobarycentre de A, B, C ; montrer que G’ = f(G) appartient à (BC)\nM est un point du plan. Donner une construction géométrique de M’= f(M).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1045,
+      "end_line": 1052
+    },
+    {
+      "text": "Exercice 11\nPage 5 sur 6\nMINISTERE DE L’EDUCATION                                                                                                 Année scolaire 07/08\nINSPECTION D’ACADEMIE DE ZIGUINCHOR                                                                       TS1\nLYCEE EL HADJI OMAR LAMINE BADJI\nM. FALL\n : 339916624                                                                                                                                Email :mf2@yahoo.fr\n1) O est un point du plan et u un vecteur non nul,  soit t la translation de vecteur u  h est l’homothétie de\ncentre O et de rapport k. Quelle est la nature de l’application tohot ?\nPréciser les éléments servant à la définir\n2) Le plan est muni d’un repère orthonormé \n; ;\no i j . Soit M(x, y) et M’(x’,y’) l’ application S définie par\n\nmontrer que S est une symétrie, préciser ses éléments caractéristiques",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1074,
+      "end_line": 1088
+    },
+    {
+      "text": "Exercice 12\nLe plan est muni d’un repère orthonormé \n; ;\no i j  Soit  le vecteur\n3 ;2\net f l’application du plan dans\nlui-même qui a tout point M associe le point M’ telle que :\nu OM i\ni OM u\nDonner l’expression analytique de f. En déduire que f est une application affine\nDéterminer deux points A et B tel que f(A) = A et\n( )\nOf B\n; en déduire que f est une affinité\northogonale dont on précisera l’ axe et le rapport .\nExprimer analytiquement f dans le repère \nO OA OB",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1119,
+      "end_line": 1135
+    },
+    {
+      "text": "Exercice 13\nLe plan est muni d’un repère orthonormé \n; ;\no i j  et f l’application du plan dans lui-même qui a tout point\nM associe le point M’ telle que :\n\nDémontrer que fof =Id\nDémontrer que l’ensemble des points invariant est une droite (D) que l’on déterminer.\nSoit M un point du plan et M’ son image par f\nDémontrer que le milieu de [MM’] appartient à (D)\nDémontrer que le vecteur\nMM a une direction fixe orthogonale à celle de (D)\nEn déduire la nature et les éléments caractéristiques de f.\nPage 6 sur 6",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "filename": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "d4718258c5239ec3",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1176,
+      "end_line": 1189
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "source": "data\\raw\\exercices\\schema-decisionel-denombrement-ou-analyse-combinatoire.pdf",
+  "timestamp": "2026-07-16T20:30:03.064369",
+  "chunks": [
+    {
+      "text": "SUNUMATHS                                                                   Par GUEYE,  78 101 13 43 pour toutes Remarques et suggestions\nANALYSE COMBINATOIRE OU DENOMBREMENT\nSCHEMA DECISIONNEL\nContexte : On sélectionne p éléments parmi n.\nQuestion : L’Ordre est il important ?\nOui\nNon\nQuestion : Est-ce que n=p ?\nOui\nQuestion : y’a-t-il des éléments  identiques ?\nNon\nOui\nNous avons une PERMUTATION\nsans identiques\nNombre de possibilités= n !\nNous avons une PERMUTATION avec\ndes  identiques.\nAlors il faut diviser avec le nombre\nde permutation des éléments\nrépétés\nPossibilités=\n\u0003 avec k  le produit\ndes  nombres de permutations des\néléments répétés",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Dénombrement",
+        "source": "data\\raw\\exercices\\schema-decisionel-denombrement-ou-analyse-combinatoire.pdf",
+        "filename": "schema-decisionel-denombrement-ou-analyse-combinatoire.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "c8c363c0c6e58d86",
+        "difficulty_level": "advanced",
+        "chunk_category": "course"
+      },
+      "start_line": 5,
+      "end_line": 28
+    },
+    {
+      "text": "Exemple : Quel est le nombre de\nmots qu’on peut écrire avec\nTERRESTE ?\n\u0006!  \u0007  \b!   \u0007  \u0006! \u0007  \t!\nPuisque R s’est répétée 2 fois ;\nE s’est répétée 3 fois ;\nT s’est répétée 2 fois\nEt S s’est répétée 1 fois\nDans l’exemple k=2 ! x 3 ! x 2 ! x 1 !\nNon\nNous avons alors un\nARRANGEMENT\nPossibilités =\n\u000e\u000f!\nQuestion : y’a-t-il Remise ?\nOui\nNon\nNous avons une P-LISTE\nPossibilités=\u0001\u0010\nRmq : p peut être\nsupérieur à n\nNous avons une COMBINAISON\nNombre de possibilités :\n\u0001\r\u0010\u000f! \u0010!\nTirage simultané (l’ordre est impossible)\nDonc Permutation\nTirage successif\navec remise\nTirage successif sans\nremise",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Dénombrement",
+        "source": "data\\raw\\exercices\\schema-decisionel-denombrement-ou-analyse-combinatoire.pdf",
+        "filename": "schema-decisionel-denombrement-ou-analyse-combinatoire.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "c8c363c0c6e58d86",
+        "chunk_type": "exemple",
+        "difficulty_level": "intermediate",
+        "chunk_category": "example"
+      },
+      "start_line": 34,
+      "end_line": 63
+    }
+  ]
+}

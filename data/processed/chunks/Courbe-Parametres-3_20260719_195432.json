@@ -1,0 +1,151 @@
+{
+  "source": "data/raw/exercices/Courbe-Parametres-3.pdf",
+  "timestamp": "2026-07-19T19:54:32.519980",
+  "chunks": [
+    {
+      "text": "Exercice 1\n:   Soit  (C) la courbe de représentation paramétrique :\nx (t )=1+2cost\ny (t )=tant+2sint – π\n2 <t< π\nComparer les points M (−t)et M (t). Qu’en déduisez –vous pour la  (C)\nEtudier les variations de x et y et tracer la courbe (C)\nDéterminer l’équation cartésienne de la tangente au point M(\n4 )",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Courbe-Parametres-3.pdf",
+        "filename": "Courbe-Parametres-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "f09e927c293217d3",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "tracer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 11,
+      "end_line": 19
+    },
+    {
+      "text": "Exercice 2\n:   (Spiral logarithmique)\nSoit (I) la courbe de représentation  paramétrique suivante\nx (t )=et cost\ny (t )=e\nt sint\nt ∈R\na) Etudier les variations de x et y pour t ∈[0;π]\nb) construirez la partie  correspondante, notée C de la courbe  (I)\nQuelle transformation passe t- on de  M(t) à M(t+π )  et à M(t-π )\nDéduisez-en  la partie de la courbe de (I ')constituée des points M(t) pour\nt ∈[−2π ;2 π ].\na) Déterminer un vecteur directeur ⃗u (t )de la tangente à (I)au point M(t).\nb) Déduisez en que l’angle (⃗\nOM (t ); ⃗u (t )) est indépendant du point M(t).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Courbe-Parametres-3.pdf",
+        "filename": "Courbe-Parametres-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "f09e927c293217d3",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "construire"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 25,
+      "end_line": 39
+    },
+    {
+      "text": "Exercice 3 (Courbe de Lissajous)\nSoit (g) la courbe de représentation  paramétrique suivante\nx (t )=sin 2t\ny (t )=cost t ∈IR\nDéterminer l’intervalle d’étude utile.\nEtudier les variations de x et y\nMontrer que la courbe  est inscrite dans un carré de coté 2\nDéterminer  les points de contact avec ce carré et les tangentes en ces points.\nTracer la courbe (g).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Courbe-Parametres-3.pdf",
+        "filename": "Courbe-Parametres-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "f09e927c293217d3",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 46,
+      "end_line": 54
+    },
+    {
+      "text": "Exercice 4 (cycloïde)\nSoit  (H )(H) la courbe de représentation  paramétrique suivante\nx (t )=R(t−cost)\ny (t )=R(1−sint)t ∈IR\nComparer les coordonnées des points M (t )et M (t+2π) et montrer que ces points\nce correspondent dans une translation.\nDéduisez en l’intervalle d’étude utile\nEtudier les variations des fonctions x et y  et calculer le vecteur dérivée ⃗V (t)\nOn suppose ici que t est non nul, montrer que la droite (OM (t )) admet un vecteur\ndirecteur  ⃗u (t )= 1\nt [(1−cost ) ⃗i+(sint ) ⃗j ] . Déterminer les limites des coordonnées de\n⃗u (t )et déduisez en la tangente en O à la courbe (H )\nConstruirez la courbe(H ).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Courbe-Parametres-3.pdf",
+        "filename": "Courbe-Parametres-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "f09e927c293217d3",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 61,
+      "end_line": 73
+    },
+    {
+      "text": "Exercice 9\nSoit  (O , ⃗i; ⃗j) un repère orthonormé. Un point A sur l’axe des abscisses et un point B sur\nl’axe des ordonnées sont tels queAB=1. On note M le projeté orthogonal de O sur[ AB].\nOn se propose de déterminer le lieu géométrique (C)de M lorsque A et B se déplacent,\nchacun sur son axe.\nOn note(x ; y) les coordonnées de M et t une mesure de l’angle(⃗\nAB ,−⃗i).\nMontrer que (C) est l’ensemble des points M (t )de coordonnées\nx=f (t )=sin2t.cost\ny=g(t )=cos2t. sint\nt ∈R\nPour tout réel t, comparer la position des points\nM (t )à M (t+2π ), M (t )à M (−t ), puis M (t )à M (t )et M (t )à M(\n2 −t)\nEn déduire qu’il suffit de faire l’étude pour  t ∈[O; π\n2]et de construire la partie de\ncourbe (C)correspondante.\nIndiquer les transformations qui permettent de compléter la courbe.\nEtudier les variations des fonctions f\net  g\nsur[O; π\n2].\nTracer la courbe (C) en précisant les points où la tangente est parallèle à l’un des\naxes, ainsi que les tangentes à l’origine.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Courbe-Parametres-3.pdf",
+        "filename": "Courbe-Parametres-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "f09e927c293217d3",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "tracer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 83,
+      "end_line": 106
+    }
+  ]
+}

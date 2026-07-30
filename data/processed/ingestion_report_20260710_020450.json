@@ -1,0 +1,534 @@
+{
+  "total_files": 105,
+  "processed": 103,
+  "chunks_created": 2651,
+  "indexed": 0,
+  "errors": 2,
+  "files": [
+    {
+      "name": "01_Revisions_trigonometrie.pdf",
+      "chunks": 1,
+      "status": "success"
+    },
+    {
+      "name": "12_Courbes_parametrees.pdf",
+      "chunks": 3,
+      "status": "success"
+    },
+    {
+      "name": "19_Coniques.pdf",
+      "chunks": 3,
+      "status": "success"
+    },
+    {
+      "name": "COURS-Maths-TS2-Tle-D.pdf",
+      "chunks": 194,
+      "status": "success"
+    },
+    {
+      "name": "sujet-bac-s1-s1a-s3-maths-2023-senegal.pdf",
+      "chunks": 4,
+      "status": "success"
+    },
+    {
+      "name": "Programme_Maths-LS.pdf",
+      "chunks": 29,
+      "status": "success"
+    },
+    {
+      "name": "07_Suites_numeriques.pdf",
+      "chunks": 10,
+      "status": "success"
+    },
+    {
+      "name": "08_Nombres_complexes.pdf",
+      "chunks": 23,
+      "status": "success"
+    },
+    {
+      "name": "13_Arithmetique.pdf",
+      "chunks": 6,
+      "status": "success"
+    },
+    {
+      "name": "11_Denombrement.pdf",
+      "chunks": 5,
+      "status": "success"
+    },
+    {
+      "name": "Fasicule_TS1.pdf",
+      "chunks": 230,
+      "status": "success"
+    },
+    {
+      "name": "cours-ts1-IA-SEHDIOU.pdf",
+      "chunks": 501,
+      "status": "success"
+    },
+    {
+      "name": "17_Les_angles.pdf",
+      "chunks": 3,
+      "status": "success"
+    },
+    {
+      "name": "09_Similitudes_planes_directes.pdf",
+      "chunks": 1,
+      "status": "success"
+    },
+    {
+      "name": "18_Fonctions_scalaires_vectorielles_Leibniz.pdf",
+      "chunks": 4,
+      "status": "success"
+    },
+    {
+      "name": "06_Calcul_integral.pdf",
+      "chunks": 12,
+      "status": "success"
+    },
+    {
+      "name": "Coniques.pdf",
+      "chunks": 34,
+      "status": "success"
+    },
+    {
+      "name": "Cours-TS2-Mr-Babacar-DJITTE.pdf",
+      "chunks": 300,
+      "status": "success"
+    },
+    {
+      "name": "21_Limites_Continuite.pdf",
+      "chunks": 7,
+      "status": "success"
+    },
+    {
+      "name": "FicheTS.pdf",
+      "chunks": 39,
+      "status": "success"
+    },
+    {
+      "name": "04_Fonctions_exponentielles.pdf",
+      "chunks": 7,
+      "status": "success"
+    },
+    {
+      "name": "GU_MATHS_10_OCT.pdf",
+      "chunks": 197,
+      "status": "success"
+    },
+    {
+      "name": "05_Fonctions_logarithmes.pdf",
+      "chunks": 7,
+      "status": "success"
+    },
+    {
+      "name": "20_Etude_de_fonction.pdf",
+      "chunks": 5,
+      "status": "success"
+    },
+    {
+      "name": "23_Derivation_etudes_de_fonctions.pdf",
+      "chunks": 6,
+      "status": "success"
+    },
+    {
+      "name": "10_Probabilites.pdf",
+      "chunks": 8,
+      "status": "success"
+    },
+    {
+      "name": "15_Geometrie_dans_espace.pdf",
+      "chunks": 3,
+      "status": "success"
+    },
+    {
+      "name": "22_Primitive.pdf",
+      "chunks": 3,
+      "status": "success"
+    },
+    {
+      "name": "14_Equations_differentielles.pdf",
+      "chunks": 8,
+      "status": "success"
+    },
+    {
+      "name": "03_Limites_et_continuite.pdf",
+      "chunks": 13,
+      "status": "success"
+    },
+    {
+      "name": "16_Transformations_isometries.pdf",
+      "chunks": 3,
+      "status": "success"
+    },
+    {
+      "name": "02_Derivabilite.pdf",
+      "chunks": 10,
+      "status": "success"
+    },
+    {
+      "name": "Transformation-de-l-espae-TD6.pdf",
+      "chunks": 11,
+      "status": "success"
+    },
+    {
+      "name": "Produit-Vectoriel-.pdf",
+      "chunks": 21,
+      "status": "success"
+    },
+    {
+      "name": "Problème-1-1.pdf",
+      "chunks": 1,
+      "status": "success"
+    },
+    {
+      "name": "Fasicule_TS1.pdf",
+      "chunks": 230,
+      "status": "success"
+    },
+    {
+      "name": "problemes-Syntese-2-1.pdf",
+      "chunks": 5,
+      "status": "success"
+    },
+    {
+      "name": "Devoirs-TS-1.pdf",
+      "chunks": 7,
+      "status": "success"
+    },
+    {
+      "name": "S1-2017_compots1_ljfkennedy_2.pdf",
+      "chunks": 4,
+      "status": "success"
+    },
+    {
+      "name": "S1-Composition-IA-AMB-KOLDA-2017.pdf",
+      "chunks": 7,
+      "status": "success"
+    },
+    {
+      "name": "S1-Bac-Blanc-LPA-2017.pdf",
+      "chunks": 5,
+      "status": "success"
+    },
+    {
+      "name": "S1-2017_compots1_ts3_iastlouis.pdf",
+      "chunks": 6,
+      "status": "success"
+    },
+    {
+      "name": "S1-Composition-IA-Diourbel-2017.pdf",
+      "chunks": 4,
+      "status": "success"
+    },
+    {
+      "name": "Devoirs-TS-Analyse.pdf",
+      "chunks": 4,
+      "status": "success"
+    },
+    {
+      "name": "S1-Bac-Blanc-MEMB-2017.pdf",
+      "chunks": 3,
+      "status": "success"
+    },
+    {
+      "name": "S1-2017_compots1_ljfkennedy.pdf",
+      "chunks": 4,
+      "status": "success"
+    },
+    {
+      "name": "S1-2017_compots2_iadiourbel.pdf",
+      "chunks": 4,
+      "status": "success"
+    },
+    {
+      "name": "Devoirs-TS-Divers-1.pdf",
+      "chunks": 6,
+      "status": "success"
+    },
+    {
+      "name": "S1-Bac-Blanc-LBD-2017.pdf",
+      "chunks": 4,
+      "status": "success"
+    },
+    {
+      "name": "CONIQUES-6-TS1.pdf",
+      "chunks": 9,
+      "status": "success"
+    },
+    {
+      "name": "CONIQUES-1.pdf",
+      "chunks": 8,
+      "status": "success"
+    },
+    {
+      "name": "Geometrie-Spatiale-TD5.pdf",
+      "chunks": 4,
+      "status": "success"
+    },
+    {
+      "name": "Transformation-Spatiale-Ts1-TD1.pdf",
+      "chunks": 9,
+      "status": "success"
+    },
+    {
+      "name": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+      "chunks": 21,
+      "status": "success"
+    },
+    {
+      "name": "GEOMETRIE-DANS-Lespace-TD2.pdf",
+      "chunks": 7,
+      "status": "success"
+    },
+    {
+      "name": "APPLICATION-AFF.pdf",
+      "chunks": 1,
+      "status": "success"
+    },
+    {
+      "name": "EXO-APPLICATION-AFF.pdf",
+      "chunks": 1,
+      "status": "success"
+    },
+    {
+      "name": "Calcul-Vectoriel.pdf",
+      "chunks": 17,
+      "status": "success"
+    },
+    {
+      "name": "isométrie-5.pdf",
+      "chunks": 15,
+      "status": "success"
+    },
+    {
+      "name": "Similitudes-3.pdf",
+      "chunks": 9,
+      "status": "success"
+    },
+    {
+      "name": "isométrie-du-plan-et-application-affine-from-dialla.pdf",
+      "chunks": 7,
+      "status": "success"
+    },
+    {
+      "name": "isométrieplane.pdf",
+      "chunks": 12,
+      "status": "success"
+    },
+    {
+      "name": "Barycentre-et-angles-orientés-TD3-TS1.pdf",
+      "chunks": 13,
+      "status": "success"
+    },
+    {
+      "name": "Barycentre-TD4-TS1.pdf",
+      "chunks": 8,
+      "status": "success"
+    },
+    {
+      "name": "Barycente-TD-1-TS1.pdf",
+      "chunks": 27,
+      "status": "success"
+    },
+    {
+      "name": "Barycentre-TD5-TS1-1.pdf",
+      "chunks": 7,
+      "status": "success"
+    },
+    {
+      "name": "Barycentre-TD6-TS1.pdf",
+      "chunks": 17,
+      "status": "success"
+    },
+    {
+      "name": "BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+      "chunks": 27,
+      "status": "success"
+    },
+    {
+      "name": "Barycentre-TD5-TS1.pdf",
+      "chunks": 7,
+      "status": "success"
+    },
+    {
+      "name": "Coniques-et-Equations-parametriques.pdf",
+      "chunks": 6,
+      "status": "success"
+    },
+    {
+      "name": "Courbes-Parametres-2.pdf",
+      "chunks": 6,
+      "status": "success"
+    },
+    {
+      "name": "Courbes-paramétrées-TD1-TS1.pdf",
+      "chunks": 12,
+      "status": "success"
+    },
+    {
+      "name": "Courbe-Parametres-3.pdf",
+      "chunks": 5,
+      "status": "success"
+    },
+    {
+      "name": "Equations-Differentielle-TS-.pdf",
+      "chunks": 27,
+      "status": "success"
+    },
+    {
+      "name": "Equation-Differentielle-TS1-TD.pdf",
+      "chunks": 14,
+      "status": "success"
+    },
+    {
+      "name": "TD1-Nombres-complexes-TS1.pdf",
+      "chunks": 14,
+      "status": "success"
+    },
+    {
+      "name": "Nombres-Complexe-TD1-TS1.pdf",
+      "chunks": 17,
+      "status": "success"
+    },
+    {
+      "name": "Exercices-arithmetiques-site-.pdf",
+      "chunks": 33,
+      "status": "success"
+    },
+    {
+      "name": "Denombrement-TD2-TS1.pdf",
+      "chunks": 23,
+      "status": "success"
+    },
+    {
+      "name": "schema-decisionel-denombrement-ou-analyse-combinatoire.pdf",
+      "chunks": 2,
+      "status": "success"
+    },
+    {
+      "name": "Denombrement-TD1-TS1.pdf",
+      "chunks": 11,
+      "status": "success"
+    },
+    {
+      "name": "Arithmetique.pdf",
+      "chunks": 47,
+      "status": "success"
+    },
+    {
+      "name": "Suites-Numeriques-1.pdf",
+      "chunks": 8,
+      "status": "success"
+    },
+    {
+      "name": "TD1-Suites-numeriques-TS1.pdf",
+      "chunks": 10,
+      "status": "success"
+    },
+    {
+      "name": "recueil-dannales-sur-les-suites-num.pdf",
+      "chunks": 17,
+      "status": "success"
+    },
+    {
+      "name": "Suites-Numeriques-3.pdf",
+      "chunks": 11,
+      "status": "success"
+    },
+    {
+      "name": "Probabilité-TD1-TS1.pdf",
+      "chunks": 5,
+      "status": "success"
+    },
+    {
+      "name": "TD1-Probabilite-Exercices-TS1.pdf",
+      "status": "failed",
+      "error": "Aucun chunk"
+    },
+    {
+      "name": "TD1-Probabilite-Corrige-TS1.pdf",
+      "status": "failed",
+      "error": "Aucun chunk"
+    },
+    {
+      "name": "Integrale-TD2-TS1.pdf",
+      "chunks": 15,
+      "status": "success"
+    },
+    {
+      "name": "Integrale-1S1.pdf",
+      "chunks": 4,
+      "status": "success"
+    },
+    {
+      "name": "Integrales-5-TS1.pdf",
+      "chunks": 16,
+      "status": "success"
+    },
+    {
+      "name": "INTEGRALE-TD3.pdf",
+      "chunks": 18,
+      "status": "success"
+    },
+    {
+      "name": "Integrales-7.pdf",
+      "chunks": 15,
+      "status": "success"
+    },
+    {
+      "name": "Problemes-integrales-1.pdf",
+      "chunks": 6,
+      "status": "success"
+    },
+    {
+      "name": "Integrale-TD1-TS1.pdf",
+      "chunks": 18,
+      "status": "success"
+    },
+    {
+      "name": "TD2-Fonction-exponentielle-TS1.pdf",
+      "chunks": 6,
+      "status": "success"
+    },
+    {
+      "name": "Etudes-Fonctions-Exponentielles-TS1.pdf",
+      "chunks": 5,
+      "status": "success"
+    },
+    {
+      "name": "Etude-Fonctions-derivations-7.pdf",
+      "chunks": 7,
+      "status": "success"
+    },
+    {
+      "name": "Fonction-Numeriques-TS1.pdf",
+      "chunks": 17,
+      "status": "success"
+    },
+    {
+      "name": "Etude-Fonctions-Continues.pdf",
+      "chunks": 1,
+      "status": "success"
+    },
+    {
+      "name": "Etude-Fonctions-Primitives-TD1-TS1.pdf",
+      "chunks": 10,
+      "status": "success"
+    },
+    {
+      "name": "Etude-Fonctions-Derivables.pdf",
+      "chunks": 1,
+      "status": "success"
+    },
+    {
+      "name": "TD3-Fonction-ln-TS1.pdf",
+      "chunks": 12,
+      "status": "success"
+    },
+    {
+      "name": "Etude-Fonctions-Definies-Par-intervalle.pdf",
+      "chunks": 1,
+      "status": "success"
+    }
+  ]
+}

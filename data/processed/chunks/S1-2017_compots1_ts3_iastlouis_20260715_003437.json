@@ -1,0 +1,176 @@
+{
+  "source": "data/raw/exercices/S1-2017_compots1_ts3_iastlouis.pdf",
+  "timestamp": "2026-07-15T00:34:37.496415",
+  "chunks": [
+    {
+      "text": "Composition du premier semestre\nEpreuve : mathématiques- niveau : TS1-TS3\nDurée : 4h\nL’élève traitera le problème et, au choix,  trois parmi les quatre exercices",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-2017_compots1_ts3_iastlouis.pdf",
+        "filename": "S1-2017_compots1_ts3_iastlouis.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ad74998fca443af6",
+        "difficulty_level": "basic",
+        "chunk_category": "course"
+      },
+      "start_line": 3,
+      "end_line": 6
+    },
+    {
+      "text": "EXERCICE 1 : (04 points)\nSoit ABC un triangle isocèle en A, P un point de (BC) distinct de B et de C, (𝒞)le cercle circonscrit à ABC.\nOn note  (𝒞′)le cercle passant par P et tangent à (AB) en B,. Il recoupe la droite (AP) en un point M.\nOn se propose de montrer que M est sur le cercle (𝒞)\nMontrer que :                                                                                                (2 pts)\n(BA ⃗⃗⃗⃗⃗⃗ , BM⃗⃗⃗⃗⃗⃗  ) = (PB ⃗⃗⃗⃗⃗⃗ , PM⃗⃗⃗⃗⃗⃗  )   (π)     puis\n(BA ⃗⃗⃗⃗⃗⃗ , BM⃗⃗⃗⃗⃗⃗  ) = (CB ⃗⃗⃗⃗⃗⃗ , MA⃗⃗⃗⃗⃗⃗  )   (π)\nEn déduire que les points A, B, C et M sont cocycliques.                              (2 pts)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-2017_compots1_ts3_iastlouis.pdf",
+        "filename": "S1-2017_compots1_ts3_iastlouis.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ad74998fca443af6",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 7,
+      "end_line": 14
+    },
+    {
+      "text": "EXERCICE 2 : (04 points)\nLe plan complexe est rapporté à un repère  orthonormé  (O,\nu ,\nv ).\nÀ tout point M d’affixe non nul z, on associe le point M’ d’affixe  z’ = -\nz̅ .\n1. a) Donner une relation entre les arguments de z et z’.\n(0,5 pt)\nb) En déduire que les points O, M et M’ sont alignés.                           (0,75 pt)\n2. Démontrer que    𝑧′ + 1̅̅̅̅̅̅̅̅ =\n𝑧(𝑧−1).                                                   (0,75 pt)\n3.  On nomme par A  et B les points d’affixes respectives 1 et -1.\nOn désigne par (𝒞) le cercle de  centre A contenant le point O et par (𝒞∗)\nle cercle  (𝒞) privé  de O. Dans cette question, on suppose que M appartient à (𝒞∗).\na) Justifier l’égalité : |𝑧−1| = 1.                                                            (0,5 pt)\nDémontrer que |𝑧′ + 1| = |𝑧′|.                                                            (0,75 pt)\nInterpréter géométriquement  cette  égalité.                                        (0,25 pt)\nb) En déduire une  construction  géométrique de M’\nà  partir du point M.                                                                              (0,5 pt)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-2017_compots1_ts3_iastlouis.pdf",
+        "filename": "S1-2017_compots1_ts3_iastlouis.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ad74998fca443af6",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 17,
+      "end_line": 35
+    },
+    {
+      "text": "Exercice 3 :     (4 points)\nLes questions 1.), 2.), 3.) et 4.) sont indépendantes.\n1.) Déterminer le reste de la division euclidienne de 32016  par 7.                        (0,75 pt)\n2.) Résoudre dans ℤ2 l’équation d’inconnue (x, y) : x2 + 6x = y2 + 8.                      (1 pt)\n3.) Soit a un entier naturel et 𝑎= 𝑎𝑝⋯𝑎1𝑎0 ̅̅̅̅̅̅̅̅̅̅̅̅̅̅𝑏, son écriture dans une base 𝑏≥3.\na) Montrer que 𝑎 est divisible par  𝑏−1 si et seulement si\n∑𝑎𝑘\n𝑘=0\nest divisible par 𝑏−1.                                                                           ( 𝟎, 𝟓 𝐩𝐭)\nb) En déduire une règle de divisibilité par 9 dans la base 10.                         (0,25 pt )\n4.) Dans un système de numérotation de base n, on considère les nombres :\n𝐴= 211̅̅̅̅̅,  𝐵= 312̅̅̅̅̅  et 𝐶= 133032̅̅̅̅̅̅̅̅̅̅.\na) Sachant que 𝐶= 𝐴𝐵, montrer que n divise 8. En déduire la valeur de n.   (0,75 pt)\nb) Ecrire  𝐴,  𝐵 et  𝐶 dans le système décimal.                                               ( 0,75)\nREPUBLIQUE DU DENEGAL\nMINISTERE DE L’EDUCATION NATIONALE\nINSPECTION D’ACADEMIE DE SAINT-LOUIS",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-2017_compots1_ts3_iastlouis.pdf",
+        "filename": "S1-2017_compots1_ts3_iastlouis.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ad74998fca443af6",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "résoudre"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 41,
+      "end_line": 57
+    },
+    {
+      "text": "Exercice 4 :      (04 points)\nSoit 𝑎∈ℝ+\n∗. On considère un triangle ABC du plan tel que, AB = 3a, AC = 4a et\nBC = 5a. On désigne par D le milieu de [BC].\n1. Quelle est la nature du triangle ABC ?                                                             (0,5 pt)\n2. Soit m un réel de l’intervalle 𝐼= [0,\n2] et Gm le barycentre des points A, B et C affectés\nrespectivement des coefficients 1 – 2m, m et m.\nQuel est l’ensemble des points Gm  lorsque m décrit I ?                                            (1,25 pt)\n3. Montrer que  (1 – 2m) GmA2 + m GmB2 + mGmC2 = 25 a2 m (1 – m).                      (1,25 pt)\n4. Déterminer, selon les valeurs de m,  l’ensemble ( Em ) des points M du plan tel que :\n(1 – 2m)MA2 + m MB2 + mMC2 = 25a2.                                     (1 pt)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-2017_compots1_ts3_iastlouis.pdf",
+        "filename": "S1-2017_compots1_ts3_iastlouis.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ad74998fca443af6",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 59,
+      "end_line": 70
+    },
+    {
+      "text": "PROBLEME : (08 points)\nOn désigne par n un entier supérieur ou égal à 1 et on considère les fonctions, notées fn, qui sont définies\npour x appartenant à l'intervalle [0 ; +[ par :\n{ fn(x) = xn(2lnx −1)  si x > 0\nfn(x) = 0                                         .\nLe plan est rapporté à un repère orthonormal, (unité graphique : 5 cm).\nOn note (Cn) la courbe représentative de la fonction fndans ce repère.\nPartie A : Dans cette partie n=1.\n1. a. Etudier la continuité et la dérivabilité de f1 sur [0 ; + [\n(0,75 pt)\nb.  Etudier le  sens de variation de  f1.\n(1 pt)\nc. Etudier la limite de  f1 en  + .                                                       (0,25 pt)\nd.  Préciser la tangente à (C1) au point O.                                                   (0,25 pt)\n2. Soit le point M0 d’abscisse  x0 strictement positive de (C1).\na. Montrer que la tangente en M0 à (C1) coupe l’axe  des ordonnés\nen un point T0  dont on donnera les coordonnées.                                  (0,5 pt)\nb. En déduire une construction simple de la tangente en M0 à (C1).          (0,25 pt)\n3. On désigne par A le point de (C1) d’ordonné nul, autre que O.\nTracer la tangente en A à (C1), puis tracer(C1).                                         (0,75pt)\nPartie B :  Dans cette partie on étudie la fonction fn  pour  n ≥𝟐\n1. Etudier la continuité et la dérivabilité de fn sur [0 ; + [                       (0,75 pt)\n2. Déterminer la fonction dérivée  fn′ .                                                           (0,25 pt)\n3. On désigne par xn  la valeur autre que 0, pour laquelle  fn′ s’annule.\nMontrer que pour entier n (n ≥2), on a : 1 ≤ xn < √𝑒 .                          (0,25 pt)\n4. a. Etudier la limite de  fn  en  + .                                                             (0,25 pt)\nb. Dresser, pour n ≥2, le tableau de variations de  fn ; en déduire que\npour n ≥2 , fn( xn) ≤ -1.                                                                        (1 pt)\n5. Pour tout entier naturel non nul n, on définit sur [0 ; + [ la fonction\ngn(x) = fn(x) - fn+1(x).\nEtudier le signe de  gn(x) et en déduire la position relative des courbes\n(Cn) et (Cn+1).                                                                                             (1 pt)\n6. Tracer soigneusement la courbe (C2) dans le même repère que (C1) de même que sa tangente en O.\n(  0,75 pt)\nFin de l’épreuve",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-2017_compots1_ts3_iastlouis.pdf",
+        "filename": "S1-2017_compots1_ts3_iastlouis.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ad74998fca443af6",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 71,
+      "end_line": 105
+    }
+  ]
+}

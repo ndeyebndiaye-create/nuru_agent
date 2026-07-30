@@ -1,0 +1,110 @@
+{
+  "source": "data/raw/exercices/Integrale-1S1.pdf",
+  "timestamp": "2026-07-15T00:16:57.178457",
+  "chunks": [
+    {
+      "text": "Il ne faut pas uniquement intégrer…Il faut aussi désintégrer…C’est ça la vie…C’est ça la science…C'est ça le progrés…[Eugene Ionesco]\nThème: Intégrales                                                     Page 1/2                                        Prof:B.H.Med Mahmoud",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "S1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Integrale-1S1.pdf",
+        "filename": "Integrale-1S1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "02f68a0a04828cfc",
+        "difficulty_level": "basic",
+        "chunk_category": "course"
+      },
+      "start_line": 3,
+      "end_line": 4
+    },
+    {
+      "text": "Exercice N°1\nPour chacune des questions suivantes une seule\nréponse est correcte.\nSoit\nfune fonction dérivable et positive sur l’intervalle [\n-1,1] telle que l’aire du domaine\nplan limité par la courbe de\nf, l’axe des abscisses et les droites d’équations\nx =\n- 1 et\nx =1\nest 4 unités d’aire.On peut affirmer qu’il exis\nte un réel\nc ☻ [\n- 1,1] tel que\nf ( c )=\na ) 0                               b ) 1                                     c ) 2                         d ) 4\nf est une fonction dérivable et\nf ′est continue sur [0,1] alors\n1 f ( t ) d t +\n1 tf\n′ ( t ) d t =\na )\nf (0)\nb )\nf (1)\nc )\nf (1)\nf (0)\nd )\nf (1)\nf (0)\n- 1\nx 2\nx 2 dx =\na ) 0                                                     b ) 2\nx 2\nx 2 dx\nc )\n- 1\nPo ur tout entier naturel\nn ; \n- π\n4 ( ta n x ) 2 n +1 co\ns x d x est égale:\na ) 1                                                     b ) 0                                                    c )\n- 1\nSoit\nf la fonction définie sur\n[0 ; +\n[ par\nf ( x ) =\nx 2\nt 8 d t alors:\na )\nf est positive sur\n[0 ; +\n[ b )\nf est négative sur\n[0 ; +\n[ c )\nf change de signe sur\n[0 ; +\nSoit F la fonction définie sur\n] - ; 1] par\nF ( x ) =\n- x\ntd t . Alors:\na )\n′ ( x )=\nx\nb )\n′ ( x ) =\nx\nc )\n′ ( x ) =\nx",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "S1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Integrale-1S1.pdf",
+        "filename": "Integrale-1S1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "02f68a0a04828cfc",
+        "chunk_type": "exercice",
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 41,
+      "end_line": 117
+    },
+    {
+      "text": "Exercice N°2\nSoit\nf la fonction définie sur\n[ - 1 ; +\n[ par\nf ( x ) =\n3 .\nOn a représenté sa courbe\nC ainsi que la courbe\n′ de\nla restriction de sa dérivée\nf ′ sur\n[0 ; +\ndans un repère orthonormée\n( O\n, i , j ) .\na ) Etudier la dérivabilité de\nf à droite en (\n-1). Interpréter graphiquement le résultat\nobtenu.\nLYCEE 18 JANVIER DJEBNIANA\nSérie N°12\nAS : 2018 / 2019\nThème: Intégrales\n4éme Math\nIl ne faut pas uniquement intégrer…Il faut aussi désintégrer…C’est ça la vie…C’est ça la science…C'est ça le progrés…[Eugene Ionesco]\nThème: Intégrales                                                     Page 2/2                                        Prof:B.H.Med Mahmoud\nb ) Calculer\nf ′ ( x ) pour tout\nx ☻] - 1 ; +\n[puis dresser le tableau de variations de\nf .\nCalculer l\n’ aire\nA de la partie hachurée.\na ) tracer le cercle de centre O et de rayon 1 dans le repère\nO ;\ni;\nb ) En utilisant des considérations d\n’aires, montrer que\n4 <\n- 1\n3 d x <1\nOn munit l\n’espace d\n’un repère orthonormée\nO ;\ni;\nj;\nk . Soit S le solide de révolution\nengendré par la rotation de l\n’ arc\nC autour de l\n’ axe\nO ;\n. Calculer le volume\nV de",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "S1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Integrale-1S1.pdf",
+        "filename": "Integrale-1S1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "02f68a0a04828cfc",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 145,
+      "end_line": 201
+    },
+    {
+      "text": "Exercice N°3\nSoit\nf la fonction définie sur\n[0 ; 2[ par\nf ( x ) =\n2 −x . On désigne par\nC la courbe de\ndans un repère orthonormé\n( O\n, i , j ) .\na ) Etudier la dérivabilité de\nfà droite en 0 et interpréter graphiquement le résultat\nobtenu.b ) Dresser le tableau de variation de\nf .\nc ) Etudier la position de\nC par rapport  à sa tangente au point d\n’abscisse 1.\nd ) Construire\na ) Montrer que\nf réalise une bijection de\n[0 ; 2[ sur\nb ) Expliciter\nf - 1 ( x ) pour tout\nx ☻\nc ) Construire dans le même repère la courbe\n′ de\nf - 1 .\nSoit\nA l’aire de la partie fermée limitée par\nC et C ′.\nMontrer que\nA =1−4\n1 +\n2 d x )\nSoit\nF ( x ) =\nta n x\nt 2\n1 +\nt 2 d t pour\nx ☻\n0 ; π\na ) Montrer que\nF est dérivable sur\n0 ; π\n2 et que\n′ ( x )=\ntan\n2 ( x ) .\nb ) En déduire la valeur de",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "S1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Integrale-1S1.pdf",
+        "filename": "Integrale-1S1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "02f68a0a04828cfc",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 233,
+      "end_line": 282
+    }
+  ]
+}

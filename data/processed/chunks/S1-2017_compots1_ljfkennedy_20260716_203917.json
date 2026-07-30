@@ -1,0 +1,121 @@
+{
+  "source": "data\\raw\\exercices\\S1-2017_compots1_ljfkennedy.pdf",
+  "timestamp": "2026-07-16T20:39:17.934481",
+  "chunks": [
+    {
+      "text": "JAN-2017\nI.E.F DAKAR\nTerminales S1\nCOMPOSITION DE MATHEMATIQUES 1er SEMESTRE. Durée= 4H\n✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data\\raw\\exercices\\S1-2017_compots1_ljfkennedy.pdf",
+        "filename": "S1-2017_compots1_ljfkennedy.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "9703a2dd2b52f1f2",
+        "difficulty_level": "basic",
+        "chunk_category": "course"
+      },
+      "start_line": 2,
+      "end_line": 6
+    },
+    {
+      "text": "Exercice 1. :(6 pts)\nLe plan complexe P est rapporté à un repère orthonormal direct (O, −→u , −→v ). L’unité graphique est 4cm.\nA tout point M d’aﬃxe z non nulle, on associe le point M \u0001 d’aﬃxe z\u0001 tel que z\u0001 = −1\n1.a/ Déterminer une relation entre les arguments de z et de z\u0001.\nb. En déduire que les points O, M et M \u0001 sont alignés.\n2. Démontrer que z\u0001 + 1 = 1\nz(z −1).\n3. On nomme A et B les points d’aﬃxes respectives 1 et −1. On désigne par (Γ) le cercle de centre\nA contenant le point O et par (Γ∗), le cercle cercle (Γ) privé de O. On suppose dans cette question\nque le point M ∈(Γ∗)\na. Justiﬁer l’égalité |z −1| = 1.\nDémontrer que |z\u0001 + 1| = |z\u0001|. Interpréter géométriquement cette égalité.\nb. Déduire de ce qui précède une construction géométrique du point M \u0001 à partir du point M.\n4. Le point M étant un point du plan d’aﬃxe z non réelle, on nomme M1 son symétrique par rapport\nà l’axe des réels.\na. Calculer z\u0001 + 1\nz\u0001 −1 en fonction de z. Exprimer son argument en fonction de l’angle (−−→\nM1A, −−−→\nM1B).\nb. Comparer les angles (−−→\nM1A, −−−→\nM1B) et (−−→\nMA, −−→\nMB).\nc. Démontrer que M \u0001 appartient au cercle circonscrit au triangle AMB.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data\\raw\\exercices\\S1-2017_compots1_ljfkennedy.pdf",
+        "filename": "S1-2017_compots1_ljfkennedy.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "9703a2dd2b52f1f2",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 8,
+      "end_line": 32
+    },
+    {
+      "text": "Exercice 2. :(8 pts)\nLe but de ce problème est de démontrer que e est irrationnel.\nA/Etude de la suite (Un) déﬁnie par Un = 1 + 1\n1! + 1\n2! + · · · + 1\nn!.\nOn déﬁnit la fonction fn sur R par fn(x) = e−x\u0001\n1 + x\n1! + x2\n2! + · · · + xn\n1. Calculer la dérivée f \u0001\nn de fn et démontrer que f \u0001\nn(x) = −xn\nex × 1\n2. En déduire que sur [0; 1]\n|f \u0001\nn(x)| \u0001 1\n3. Soit Fn la fonction déﬁnie sur [0; 1] par Fn(x) = 1\nn!x −fn(x).\na. Calculer F \u0001\nn et dresser le tableau de variation de Fn sur [0; 1].\nb. En déduire que sur [0; 1] on a : −1 \u0001 Fn(x) \u0001 1\nn! −Un\ne .\nc. En déduire que Un\ne −1 \u0001 1\nCellule de Mathématiques\n4. Soit Gn la fonction déﬁnie sur [0; 1] par Gn(x) = −1\nn!x + fn(x)\na. Calculer G\u0001\nn et dresser la tableau de variation de Gn sur [0; 1].\nb. En déduire que sur [0; 1] on a : −1\nn! \u0001 Un\ne −1.\n5. Déduire des questions précédentes que\n\u0003\u0003\u0003\u0003\u0003\ne −1\n\u0003\u0003\u0003\u0003\u0003 \u0001 1\nB/ On pose Vn = 1 + 1\n1! + 1\n2! + · · · + 1\nn! +\nn × n!\n1. Démontrer que la limite de (Vn) est e.\n2. Démontrer (Un) est strictement croissante et que (Vn) est décroissante .\n3. Déduire de ce qui précède que pour tout entier naturel n, Un < e < Vn.\n4. Supposons que e est rationnel, c’est-à-dire e = p\nq avec p et q entiers relatifs.\na. On pose a\nq! = 1 + 1\n1! + 1\n2! + · · · + 1\nq!.\nVériﬁer que a est un entier et de a\nq! < p\nq < a\nq! + 1\nqq!.\nb. En multipliant les deux membres de la double iniégalité par q × q!, montrer qu’on aboutit à\nune contradiction.\nc. Conclure.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data\\raw\\exercices\\S1-2017_compots1_ljfkennedy.pdf",
+        "filename": "S1-2017_compots1_ljfkennedy.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "9703a2dd2b52f1f2",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 44,
+      "end_line": 104
+    },
+    {
+      "text": "Exercice 3. : 6pts\n∀n ∈N∗, In =\ntann xdx\n1.a/ Justiﬁer l’existence de In.\nb. Sans calculer In, montrer que la suite (In) est décroissante , dont tous les termes sont positifs.\n2.a/ ∀n ∈N, calculer la dérivée de la fonction x \b−→tann+1 x.\nEn déduire que ∀n ∈N∗, In + In+2 =\nn + 1.\nb. Montrer que ∀n ∈N∗,\n2(n + 1) \u0001 In \u0001\nn + 1.\nc. En déduire la limite de la suite (In) lorsque n tend vers +∞.\nd. Calculer f(n) = In+4 −In en fonction de n, où n ∈N∗.\n3.a/ Calculer I2.\nb. Calculer f(2) + f(6) + · · · + f(4k −2) en fonction de In et I4k+2 où k ∈N∗.\nc. En déduire la limite de la somme 1 −1\n3 + 1\n5 −1\n7 + · · · −\n4k −1 +\n4k + 1 lorsque k \b−→+∞.\n4.a/ Vériﬁer que la fonction x \b−→ln(cos x) est déﬁnie et dérivable sur\n0; π\net déterminer sa dérivée.\nb. Calculer f(1) + f(5) + · · · + f(4k −3) en fonction de I1 et I4k+1, où k ∈N∗.\nc. En déduire la limite de la somme 1 −1\n2 + 1\n3 −1\n4 + · · · + −\n2k −1 −1\n2k lorsque k \b−→+∞.\nBonne Chance ! ! !\nCellule de Mathématiques",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data\\raw\\exercices\\S1-2017_compots1_ljfkennedy.pdf",
+        "filename": "S1-2017_compots1_ljfkennedy.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "9703a2dd2b52f1f2",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 118,
+      "end_line": 150
+    }
+  ]
+}

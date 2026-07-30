@@ -1,0 +1,126 @@
+{
+  "source": "data/raw/cours/20_Etude_de_fonction.pdf",
+  "timestamp": "2026-07-27T11:56:02.007761",
+  "chunks": [
+    {
+      "text": "Étude de fonction\nClasse : Terminale S\nVariations d’une fonction\nSoit f dérivable sur un intervalle I :\n— si f′ ≥0 sur I, alors f est croissante sur I ;\n— si f′ ≤0 sur I, alors f est décroissante sur I ;\n— si f′ = 0 sur I, alors f est constante sur I.\nParité\n2.1\nEnsemble de définition centré\nDf est centré si : ∀x, x ∈Df ⇒−x ∈Df.\n2.2\nFonction paire / impaire\nf est paire si Df est centré et ∀x ∈Df, f(−x) = f(x) (courbe symétrique par rapport à\n(Oy)). Ex. x 7→|x|, x 7→xn (n pair).\nf est impaire si Df est centré et ∀x ∈Df, f(−x) = −f(x) (courbe symétrique par rapport à\nO). Ex. x 7→xn (n impair).\n2.3\nAutres symétries\n— Si ∀x, f(a + x) = f(a −x) : la courbe est symétrique par rapport à l’axe x = a.\n— Si ∀x, f(a + x) + f(a −x) = 2b : la courbe est symétrique par rapport au point A(a, b).\n2.4\nPériodicité\nf est périodique s’il existe T > 0 tel que ∀x ∈Df, x + T ∈Df et f(x + T) = f(x). La\npériode est le plus petit tel T. L’étude se réduit alors à un intervalle d’une période.",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/20_Etude_de_fonction.pdf",
+        "filename": "20_Etude_de_fonction.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "92be753e1c8def70",
+        "difficulty_level": "advanced",
+        "chunk_category": "course"
+      },
+      "start_line": 4,
+      "end_line": 28
+    },
+    {
+      "text": "Exercice d’application.\n1) Montrer que x = 1\n2 est axe de symétrie de f(x) = x2 −x −2\nx2 −x + 1. 2) Montrer que W(−1; −2)\nest centre de symétrie de g(x) = x3 + 3x2 −4.\nRésolution.\n1) On vérifie f\n\u0000 1\n2 +x\n\u0001 = f\n\u0000 1\n2 −x\n\u0001 (l’expression ne dépend que de x2−x, invariant par x 7→1−x).\n2) On vérifie g(−1 + x) + g(−1 −x) = −4 = 2 × (−2).\nExtremums",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/20_Etude_de_fonction.pdf",
+        "filename": "20_Etude_de_fonction.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "92be753e1c8def70",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 30,
+      "end_line": 44
+    },
+    {
+      "text": "Propriété 1. Si f′ s’annule en a en changeant de signe, f admet un extremum en a (et f′(a) = 0).\nmax\nmin",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/20_Etude_de_fonction.pdf",
+        "filename": "20_Etude_de_fonction.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "92be753e1c8def70",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 71,
+      "end_line": 73
+    },
+    {
+      "text": "Exercice d’application.\nÉtudier la nature des extremums de f(x) = x3 + 3x2 −6x + 5 et g(x) = x + ln x.\nApplication : coût de production",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/20_Etude_de_fonction.pdf",
+        "filename": "20_Etude_de_fonction.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "92be753e1c8def70",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 75,
+      "end_line": 77
+    },
+    {
+      "text": "Exercice d’application.\nf(x) = x3 −19x2 + 130x + 100 modélise sur ]0; 16] le coût total. Le coût moyen est CM(x) =\nf(x)\nx , le coût marginal Cm(x) = f′(x). 1) Montrer que CM(x) est le coefficient directeur de\n(OA). 2) Vérifier C′\nM(x) = (x −10)(2x2 + x + 10)\net en déduire le minimum. 3) Vérifier qu’en\nx0, le coût marginal égale le coût moyen.\nRésolution.\n1) La pente de (OA) vaut f(x) −0\nx −0\n= f(x)\n= CM(x). 2) C′\nM s’annule en x = 10 (le facteur\n2x2 + x + 10 > 0) en passant de −à + : minimum en x0 = 10. 3) En ce point C′\nM(x0) = 0 donne\nf′(x0)x0 −f(x0)\n= 0, soit f′(x0) = f(x0)\n, i.e. Cm(x0) = CM(x0).\nCours d’après Sunudaara — Étude de fonction — Moussa Fall. Figures extraites automatiquement du\nPDF source.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/20_Etude_de_fonction.pdf",
+        "filename": "20_Etude_de_fonction.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "92be753e1c8def70",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 84,
+      "end_line": 104
+    }
+  ]
+}

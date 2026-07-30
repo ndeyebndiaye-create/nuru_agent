@@ -1,0 +1,19 @@
+{
+  "total_files": 2,
+  "processed": 2,
+  "chunks_created": 4,
+  "indexed": 0,
+  "errors": 0,
+  "files": [
+    {
+      "name": "01_Revisions_trigonometrie.pdf",
+      "chunks": 1,
+      "status": "success"
+    },
+    {
+      "name": "12_Courbes_parametrees.pdf",
+      "chunks": 3,
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "source": "data/raw/cours/10_Probabilites.pdf",
+  "timestamp": "2026-07-19T16:56:31.629282",
+  "chunks": [
+    {
+      "text": "Probabilités\nClasse : Terminale S\nVocabulaire\n— Univers Ω: ensemble de tous les résultats possibles d’une expérience aléatoire.\n— Événement : toute partie E ⊂Ω. Ωest l’événement certain, ∅l’événement impossible, un\nsingleton un événement élémentaire.\n— E ∪F (« E ou F »), E ∩F (« E et F »).\n— E et F sont incompatibles si E ∩F = ∅; contraires si de plus E ∪F = Ω(on note E).\n— E1, . . . , En forment une partition de Ωsi les Ei sont deux à deux disjoints et S Ei = Ω.\nProbabilité\n2.1",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Probabilités",
+        "source": "data/raw/cours/10_Probabilites.pdf",
+        "filename": "10_Probabilites.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "475cf85cc2dc3dbb",
+        "difficulty_level": "intermediate",
+        "chunk_category": "course"
+      },
+      "start_line": 4,
+      "end_line": 14
+    },
+    {
+      "text": "Définition\nUne probabilité est une application p : P(Ω) →[0, 1] vérifiant p(Ω) = 1 et p(E ∪F) =\np(E) + p(F) −p(E ∩F).\n2.2",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Probabilités",
+        "source": "data/raw/cours/10_Probabilites.pdf",
+        "filename": "10_Probabilites.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "475cf85cc2dc3dbb",
+        "chunk_type": "definition",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 15,
+      "end_line": 18
+    },
+    {
+      "text": "Propriétés\np(∅) = 0,\np(E) = 1 −p(E),\nE ∩F = ∅⇒p(E ∪F) = p(E) + p(F).\nEn cas d’équiprobabilité : p(E) = Card E\nCard Ω. Deux événements sont indépendants si p(E ∩F) =\np(E) × p(F).",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Probabilités",
+        "source": "data/raw/cours/10_Probabilites.pdf",
+        "filename": "10_Probabilites.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "475cf85cc2dc3dbb",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 19,
+      "end_line": 25
+    },
+    {
+      "text": "Exercice d’application.\nDans un jeu de 32 cartes, on tire simultanément 4 cartes. Calculer la probabilité de tirer : a)\nexactement un roi ; b) un roi de cœur ; c) exactement un roi et un cœur ; d) exactement un roi ou\nun cœur. e) Les événements a) et b) sont-ils indépendants ?\nRésolution.\nCard Ω=\n\u000032\n\u0001 = 35 960.\np(A) =\n\u0001\u000028\n\u000032\n≈0,36,\np(B) =\n\u0001\u000031\n\u000032\n≈0,12,\np(C) ≈0,17,\np(D) = p(A) + p(E) −p(A ∩E) = 0,36 + 0,45 −0,17 = 0,64. Enfin p(A ∩B) ≈0,09 ̸= p(A)p(B) ≈\n0,04 : non indépendants.\nProbabilités conditionnelles\n3.1",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Probabilités",
+        "source": "data/raw/cours/10_Probabilites.pdf",
+        "filename": "10_Probabilites.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "475cf85cc2dc3dbb",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 40,
+      "end_line": 60
+    },
+    {
+      "text": "Propriétés\np(A ∩B) = pA(B) p(A) = pB(A) p(B),\nA et B indépendants ⇐⇒pA(B) = p(B).\nFigure 1 – Arbre des probabilités (le produit des probabilités le long d’une branche donne la\nprobabilité de l’intersection).",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Probabilités",
+        "source": "data/raw/cours/10_Probabilites.pdf",
+        "filename": "10_Probabilites.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "475cf85cc2dc3dbb",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 71,
+      "end_line": 75
+    },
+    {
+      "text": "Théorème 1 (Probabilités totales). Si E1, . . . , En forment une partition de Ω, alors pour tout\névénement A :\np(A) =\ni=1\np(A ∩Ei) =\ni=1\np(A/Ei) p(Ei).\nSchéma de Bernoulli\nUne épreuve de Bernoulli a deux issues : succès S (probabilité p) et échec S (probabilité\nq = 1 −p). Un schéma de Bernoulli est la répétition de n épreuves identiques et indépendantes.\nSi X compte le nombre de succès :\np(X = k) =\npk(1 −p)n−k.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Probabilités",
+        "source": "data/raw/cours/10_Probabilites.pdf",
+        "filename": "10_Probabilites.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "475cf85cc2dc3dbb",
+        "chunk_type": "theoreme",
+        "difficulty_level": "intermediate",
+        "chunk_category": "concept"
+      },
+      "start_line": 85,
+      "end_line": 97
+    },
+    {
+      "text": "Exercice d’application.\nUne personne répond au hasard à 20 questions (une bonne réponse sur trois). Probabilité de\ntrouver a) 2 ; b) 6 ; c) au moins 2 questions ?\nRésolution.\np(S) = 1\np(X = 2) =\n\u00112\u0010\n\u001118\n≈0,014,\np(X = 6) =\n\u00116\u0010\n\u001114\n≈0,18,\np(X ≥2) = 1 −p(X = 0) −p(X = 1) ≈0,55.\nVariable aléatoire\n5.1",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Probabilités",
+        "source": "data/raw/cours/10_Probabilites.pdf",
+        "filename": "10_Probabilites.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "475cf85cc2dc3dbb",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 116,
+      "end_line": 131
+    },
+    {
+      "text": "Définition et loi\nUne variable aléatoire X associe à chaque issue un réel ; X(Ω) est l’univers image. La loi de\nprobabilité associe à chaque xi la valeur p(X = xi), présentée en tableau.\n5.2\nEspérance, variance, écart type\nE(X) =\ni=1\nxi p(X = xi),\nV (X) = E(X2) −\n\u0000E(X)\n\u00012 =\ni p(X = xi) −\n\u0000E(X)\n\u00012,\nσ(X) =\nV (X).\nLe jeu est équitable si E(X) = 0, favorable si E(X) > 0, défavorable si E(X) < 0.\nRemarque 1. Pour un schéma de Bernoulli (loi binomiale de paramètres n, p) :\nE(X) = np,\nV (X) = np(1 −p).\n5.3\nFonction de répartition\nF(x) = p(X ≤x) =\nx < x1\np1 + · · · + pk\nxk ≤x < xk+1\nx ≥xn.\nC’est une fonction en escalier, croissante de 0 à 1.\nFigure 2 – Fonction de répartition en escalier (ex. F passant par\n27, 20\n27, 26\n27, 1).\nCours d’après Sunudaara — Probabilités — Terminale S. Figures extraites automatiquement du PDF\nsource.",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Probabilités",
+        "source": "data/raw/cours/10_Probabilites.pdf",
+        "filename": "10_Probabilites.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "475cf85cc2dc3dbb",
+        "chunk_type": "definition",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 153,
+      "end_line": 186
+    }
+  ]
+}

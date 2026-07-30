@@ -1,0 +1,201 @@
+{
+  "source": "data/raw/exercices/Etude-Fonctions-derivations-7.pdf",
+  "timestamp": "2026-07-27T11:56:07.000267",
+  "chunks": [
+    {
+      "text": "Exercice 1\n1) Montrer que f  :\n( )\n1 2\nf x\nest dérivable sur \n;1\net calculer\n(' x\n2) soit la fonction définie par\n1 cos\n( )\n1 2cos\nsur l’intervalle \n;écrire   comme la composée de\ndeux fonctions dérivables et calculer\nx",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Dérivation",
+        "source": "data/raw/exercices/Etude-Fonctions-derivations-7.pdf",
+        "filename": "Etude-Fonctions-derivations-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "8dfe9d68d87ec63c",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 34,
+      "end_line": 50
+    },
+    {
+      "text": "Exercice 2\n1) Montrer que quelque soit x, y  appartenant à\n12 12\n;on a :\ncos\ncos\nx y\n2) Démontrer que pour tout réel a et b appartenant à\n0; 2\n ; on a\ntan\ntan\ncos\ncos\nb a\nb a",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Dérivation",
+        "source": "data/raw/exercices/Etude-Fonctions-derivations-7.pdf",
+        "filename": "Etude-Fonctions-derivations-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "8dfe9d68d87ec63c",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 86,
+      "end_line": 101
+    },
+    {
+      "text": "Exercice 3\n1)  Soit les fonctions et définis par\ncos\nsin\nMontrer que  et  sont indéfiniment dérivables et  que :\ncos\n et\nsin\n2)  soit f la fonction définie par\n( )\nf x\nsur l’intervalle \n2;\nCalculer\n('''\n(''\n; conjecturer\nx\net démontrer la par récurrence ;",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Dérivation",
+        "source": "data/raw/exercices/Etude-Fonctions-derivations-7.pdf",
+        "filename": "Etude-Fonctions-derivations-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "8dfe9d68d87ec63c",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 167,
+      "end_line": 185
+    },
+    {
+      "text": "Exercice 4 : Soit la fonction f définie par :\nf x\n3) Calculer la dérivée n-ième\nen utilisant la formule de Leibniz\n4) En remplaçant a par b, calculer directement la dérivée n-ième de \n5) En déduire l’ égalité :\n...",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Dérivation",
+        "source": "data/raw/exercices/Etude-Fonctions-derivations-7.pdf",
+        "filename": "Etude-Fonctions-derivations-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "8dfe9d68d87ec63c",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 236,
+      "end_line": 242
+    },
+    {
+      "text": "Exercice 5 : Soit g  la fonction définie par\nsur l’intervalle \n;1\n6) Montrer que g  est dérivable sur \n;1\net calculer\n(' x\npuis encadrer\n(' x\nsur\n0;2\n7) Déduisez en que pour tout x appartenant à\n0;2\non a :\n( )\ng x",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Dérivation",
+        "source": "data/raw/exercices/Etude-Fonctions-derivations-7.pdf",
+        "filename": "Etude-Fonctions-derivations-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "8dfe9d68d87ec63c",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 283,
+      "end_line": 298
+    },
+    {
+      "text": "Exercice 6 : On admet qu’il existe une fonction f   dérivable qui vérifie sur IR :\n'( )\nf x\ndont\nla courbe représentative  \nC passe par l’origine O du repère.\n8) déterminer une équation de la tangente \nT  à \nC  en 0.\n9) Montrer que \nC  n’admet pas une tangente parallèle à la droite \n :\n10) Justifier l’existence de la dérivée seconde\nf et montrer que\n2 f",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Dérivation",
+        "source": "data/raw/exercices/Etude-Fonctions-derivations-7.pdf",
+        "filename": "Etude-Fonctions-derivations-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "8dfe9d68d87ec63c",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 342,
+      "end_line": 356
+    },
+    {
+      "text": "Exercice 7  Soit w  une fonction  dérivable sur  \nvérifiant  :\n1 \nw x\n11) Etudier les variations de w sur l’intervalle \n12) On définie la fonction g sur l’intervalle  par\nComparer\nw et 'g puis w  et g sur \nMontrer alors que w est majorée sur \net admet une limite l en + ; vérifiant :0",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Dérivation",
+        "source": "data/raw/exercices/Etude-Fonctions-derivations-7.pdf",
+        "filename": "Etude-Fonctions-derivations-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "8dfe9d68d87ec63c",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 394,
+      "end_line": 403
+    }
+  ]
+}

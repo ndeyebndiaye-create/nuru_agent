@@ -1,0 +1,149 @@
+{
+  "source": "data/raw/exercices/Probabilité-TD1-TS1.pdf",
+  "timestamp": "2026-07-15T00:34:37.259647",
+  "chunks": [
+    {
+      "text": "Exercice 1\nOn considère une urne contenant n boules blanches et n boules noires (n entier naturel et n ≥ 4). De cette\nurne, on extrait simultanément, au hasard, quatre boules et on désigne par X la variable aléatoire qui, à\nchaque tirage, associe le nombre de boules blanches obtenues.\nDonner la loi de probabilité de X.\nMontrer que l’espérance de X est indépendante de n. Interpréter le résultat.\nCalculer : lim P(X = 2)\nn",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Probabilités",
+        "serie": "D1",
+        "source": "data/raw/exercices/Probabilité-TD1-TS1.pdf",
+        "filename": "Probabilité-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Droit",
+        "document_id": "371b176fa627e328",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 6,
+      "end_line": 13
+    },
+    {
+      "text": "Exercice 2\nOn considère deux urnes\ncontient 6 boules blanches et 4 boules noires\ncontient 8 boules blanches et 2 boules noires\nD’une de ces urnes, choisie au hasard, on extrait une boule que l’on remet dans l’urne ;\nSi la boule  est blanche, on recommence le tirage dans la même urne, si la boule est noire, on recommence\nle tirage dans l’autre urne.\nOn applique cette règle à chaque tirage et on suppose qu’à  l’ intérieur de chaque urne , les tirages sont\néquiprobables. n étant un entier naturel non nul, on note\nla probabilité  pour que le nième tirage se fasse\ndans l’urne\nCalculer\na) Dans quel cas le deuxième tirage se fait –il dans l’urne\nb) Calculer\nDémontrer que :\nDéterminer le nombre réel a tel que la suite\ndéfinie par\nsoit géométrique. Calculer\nalors\nen fonction de n et en déduire la limite de la suite\nDans quelle urne va se faire la majorité des tirages.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Probabilités",
+        "serie": "D1",
+        "source": "data/raw/exercices/Probabilité-TD1-TS1.pdf",
+        "filename": "Probabilité-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Droit",
+        "document_id": "371b176fa627e328",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 24,
+      "end_line": 44
+    },
+    {
+      "text": "EXERCICE 3 :\nPour un examen dix examinateurs ont préparé chacun deux sujets. On dispose donc de vingt sujets que l’on\nplace dans des enveloppes identiques. Deux candidats se présentent : chacun choisit au hasard deux sujets ;\nde plus les sujets choisis par le premier candidat ne seront plus disponibles pour le deuxième.\nOn note A1 l’événement : «  les deux sujets obtenus par le premier candidat provienne du même\nexaminateur » et  A2 « les deux sujets obtenus par le deuxième candidat proviennent du même\nexaminateur ».\nMontrer que la probabilité de l’événement A1 est égale à 19\n1 .\na) Calculer directement la probabilité conditionnelle P (A2 / A1).\nb) Montrer que la probabilité que les deux candidats obtiennent chacun deux sujets provenant d’un\nmême examinateur est 323\na) Calculer \nb) En remarquant que\n, calculer P(A2) puis en déduire que\n323\nSoit X la variable aléatoire égale au nombre de candidats qui ont choisi chacun deux sujets provenant\nd’un même examinateur. La variable aléatoire X prend donc les deux valeurs 0, 1 ou 2.\na) Déterminer la loi de probabilité de X.\nb) Calculer l’espérance mathématique de la variable aléatoire X.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Probabilités",
+        "serie": "D1",
+        "source": "data/raw/exercices/Probabilité-TD1-TS1.pdf",
+        "filename": "Probabilité-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Droit",
+        "document_id": "371b176fa627e328",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 91,
+      "end_line": 110
+    },
+    {
+      "text": "EXERCICE 4 :\nOn dispose de deux dés tétraédriques notés A et B. les quatre faces de chacun d’eux sont notées 1 à 4.\nLorsque l’on jette un dé, on note le numéro de la face cachée du dé (on suppose que le dé ne peut tomber\nque sur une face). Pour le dé a, les quatre numéros sont tous de la même probabilité d’être cachée. Pour le\ndé B, la probabilité Pi de noter le numéro i est proportionnelle à i.\nCalculer les probabilités P1, P2, P3, P4 pour les quatre faces de B.\nOn lance les deux dés. On note i le numéro de caché du dé A et j le numéro caché du dé B\nOn suppose les lancers indépendants ; on note P (i, j) la probabilité de noter i pour le dé A et j pour le\ndé B.\nMontrer que\nDéterminer les probabilités P (i, j) pour tous les nombres entiers i et j compris entre 1et 4.\nOn appelle Z la variable aléatoire définie par : Z (i, j) est le plus grand des nombres i et j.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Probabilités",
+        "serie": "D1",
+        "source": "data/raw/exercices/Probabilité-TD1-TS1.pdf",
+        "filename": "Probabilité-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Droit",
+        "document_id": "371b176fa627e328",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 146,
+      "end_line": 157
+    },
+    {
+      "text": "Exemple : Z (1, 2) = 2,    Z (2, 1) = 2   Z (1,1) =  1.\nQuelles sont les valeurs prises par Z ?\nDéterminer la loi de probabilité de Z et espérance mathématique E (Z).",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Probabilités",
+        "serie": "D1",
+        "source": "data/raw/exercices/Probabilité-TD1-TS1.pdf",
+        "filename": "Probabilité-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Droit",
+        "document_id": "371b176fa627e328",
+        "chunk_type": "exemple",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "example"
+      },
+      "start_line": 160,
+      "end_line": 162
+    }
+  ]
+}

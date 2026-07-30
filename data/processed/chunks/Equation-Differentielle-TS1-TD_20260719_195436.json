@@ -1,0 +1,376 @@
+{
+  "source": "data/raw/exercices/Equation-Differentielle-TS1-TD.pdf",
+  "timestamp": "2026-07-19T19:54:36.044917",
+  "chunks": [
+    {
+      "text": "Année Scolaire : 07/08\nTS1                                                                                                                         MNDOYE",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Équations différentielles",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Equation-Differentielle-TS1-TD.pdf",
+        "filename": "Equation-Differentielle-TS1-TD.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f991cbe7e36d3742",
+        "difficulty_level": "basic",
+        "chunk_category": "course"
+      },
+      "start_line": 2,
+      "end_line": 3
+    },
+    {
+      "text": "Exercice 1:\nRésoudre chacun des cas suivants et donner la solution\nparticulière  satisfaisant  aux  conditions  initiales\ndonnées.\navec\navec\navec\navec\navec\navec\navec\navec",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Équations différentielles",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Equation-Differentielle-TS1-TD.pdf",
+        "filename": "Equation-Differentielle-TS1-TD.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f991cbe7e36d3742",
+        "chunk_type": "exercice",
+        "competences": [
+          "résoudre"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 180,
+      "end_line": 191
+    },
+    {
+      "text": "Exercice 2:\nOn  considère  la  fonction  numérique  telle  que  :\nEtudier  les  variations  et  construire  sa\nreprésentation graphique C  dans un repère\northonormé  On  prendra  pour  unité  de\nlongueur 2cm\nDéterminer l’équation de la tangente au point\noù  le  dérivé  second  s’annule,  créer  cette\ntangente.\nDéterminer les constantes réelles a et b pour\nque\nfonction\ntelle\nque\nsoit une primitive de\nf .\nEn  déduire  (en\ncm )  l’aire  du  domaine\nlimite par (C), les axes de coordonnées et la\ndroite d’équation\nCette  aire  admet-elle  une  limite  quand\nII.\nSoit\nMontrer  que\nest  une  primitive  de\nCalculer en\ncm le volume engendré parla\nrotation de\ndu domaine précédemment\ndéfinie\nCe volume a-t-il une limite quand\nIII.\nIntégrer  l’équation  différentielle  :\nMontrer que la fonction  f  définie dans la\npartie  I]  est  une  solutio  particulière  de:\nEn  déduire  l’intégrale  générale  de  cette\ndernière équation",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Équations différentielles",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Equation-Differentielle-TS1-TD.pdf",
+        "filename": "Equation-Differentielle-TS1-TD.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f991cbe7e36d3742",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 311,
+      "end_line": 347
+    },
+    {
+      "text": "Exercice 3:\nDans  cet exercice  on cherche  à calculer  l’intégrale\ncos(\n[sin\nà  l’aide\nd’une equation différentielle.\nRésoudre  l’équation  :\nRésolution  de  l’équation  différentielle\nsin\ncos\nDéterminer deux réels a et b pour que la fonction\ndéfinie\npar\ncos\nsin\nsoit solution de\nf désignant une fonction numérique, on désigne\npar G  la fonction\n. Démontrer que f est",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Équations différentielles",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Equation-Differentielle-TS1-TD.pdf",
+        "filename": "Equation-Differentielle-TS1-TD.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f991cbe7e36d3742",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "résoudre"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 426,
+      "end_line": 444
+    },
+    {
+      "text": "solution de\nVérifier  que  la  solution  de\ntelle  que\nest\ncos(\nsin\nUtiliser\npour  trouver  l’ensemble  des\nprimitives F de f\nEn déduire la valeur de l’intégrale I",
+      "chunk_type": "solution",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Équations différentielles",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Equation-Differentielle-TS1-TD.pdf",
+        "filename": "Equation-Differentielle-TS1-TD.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f991cbe7e36d3742",
+        "chunk_type": "solution",
+        "difficulty_level": "basic",
+        "chunk_category": "solution"
+      },
+      "start_line": 489,
+      "end_line": 498
+    },
+    {
+      "text": "Exercice 4:\nSoit\nl’équation différentielle due second ordre:\nQuelles sont les solutions de\nQuelle est la solution de\ndont la courbe\nreprésentation C  admet au point d’abscisse\nx \na même tangente que la courbe\nreprésentative de\ny \n? On dit que C\nC sont tangentes.\nReprésenter dans un repère les tourbes C et C’\ndont vous préciser les positions relatives\nétant  un  réel  strictement  positif,  soit\nfonction définie par ;\nMontrer que\nest solution de\nSoit\nla  courbe  représentative  de\n.Apres  avoir  calcule  en  fonction  de les\ncoordonnées du point commun  a\n, montrer que ces ciguës sont tangentes en ce\npoint.\nPréciser les positions relatives de\net C",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Équations différentielles",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Equation-Differentielle-TS1-TD.pdf",
+        "filename": "Equation-Differentielle-TS1-TD.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f991cbe7e36d3742",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 576,
+      "end_line": 602
+    },
+    {
+      "text": "Exercice 5:\nSoit\nl‘équation\ndifférentielle:\ncos\nsin\n1/  Résolvez l‘équation\n2/ Déterminer les coefficients  a et b tels que la\nfonction g définie par\nsin\ncos\nest solution de\n3/ Démontrer que f est la solution de\nsi et\nseulement si\nf \nest solution de\n4/ Donner toutes les solutions de",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Équations différentielles",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Equation-Differentielle-TS1-TD.pdf",
+        "filename": "Equation-Differentielle-TS1-TD.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f991cbe7e36d3742",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 666,
+      "end_line": 683
+    },
+    {
+      "text": "Exercice 6:\ndonne\nl‘équation\ndifférentielle:\na) Résolvez\nb) Déterminer la solution particulière f de\ntelle que\nOn considère maintenant l’équation différentielle\nMontrer que la fonction  g définie sur  par\nest solution de\nc’est  –à-  dire  que  pour  tout  réel  x  ,\nCalculer\n)t(",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Équations différentielles",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Equation-Differentielle-TS1-TD.pdf",
+        "filename": "Equation-Differentielle-TS1-TD.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f991cbe7e36d3742",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 789,
+      "end_line": 801
+    },
+    {
+      "text": "Exercice 7;\nf est  la  fonction  solution  de  l‘équation\ndifférentielle\nqui vérifie\n. Déterminer\npour tout réel x.\nDéterminer les réels a et b tels que la fonction g\ndéfinie par\nsoit solution\nde  l‘équation  différentielle\nvérifie\nDéduisez-en  sans  l’intégration  par  parties  la\nvaleur des\nIntégrales:\n2 dx\n2 dx\nChercher  les  intégrales  particulières  de  ces\néquations sous la forme indiquée\ncos\nsin\ncos\ncos\nsin\ncos\ncos\nsin\ncos\nsin\nsin\ncos\nest un polynôme.\nest un polynôme",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Équations différentielles",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Equation-Differentielle-TS1-TD.pdf",
+        "filename": "Equation-Differentielle-TS1-TD.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f991cbe7e36d3742",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1044,
+      "end_line": 1075
+    },
+    {
+      "text": "Exercice 8\nEn  1990,  la  population  du  Bénin  était  d’environ\n4 750 000 d’habitants et d’environ 5 500 000 en 1995.\nOn suppose que la vitesse d’accroissement de cette\npopulation est proportionnelle au nombre d’habitants à\ncet instant.\nDans ces conditions, en quelle année la population du\nBénin sera-t-elle de 10 millions d’habitants? de 20\nmillions d’habitants ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Équations différentielles",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Equation-Differentielle-TS1-TD.pdf",
+        "filename": "Equation-Differentielle-TS1-TD.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f991cbe7e36d3742",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1076,
+      "end_line": 1084
+    },
+    {
+      "text": "Exercice 9\nUne population a une croissance instantanée relative\nconstante à tout instant t égale à 1,5 %. A l’instant 0, la\npopulation est de 3,5 millions d’habitants. Déterminer\nla population en fonction de t.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Équations différentielles",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Equation-Differentielle-TS1-TD.pdf",
+        "filename": "Equation-Differentielle-TS1-TD.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f991cbe7e36d3742",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1085,
+      "end_line": 1089
+    },
+    {
+      "text": "Exercice 10\nDans  un  pays,  la  consommation  d’un  produit  a\ndiminué\nrégulièrement,  la  variation  relative\ninstantanée à tout instant t étant de – 2 %.\nDéterminer l’expression f(t) de cette consommation en\nkg par habitant en fonction du temps t exprimé en\nannée, sachant que cette consommation est de 12 kg à\nl’instant\nt ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Équations différentielles",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Equation-Differentielle-TS1-TD.pdf",
+        "filename": "Equation-Differentielle-TS1-TD.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f991cbe7e36d3742",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1092,
+      "end_line": 1101
+    },
+    {
+      "text": "solution sur IR de l’équation différentielle (E) :\nDémontrer que pour tout entier naturel n non nul,\nla dérivée d’ordre n de f est solution de (E).\nDéterminer, parmi les primitives de f, celle qui\nest solution de (E).",
+      "chunk_type": "solution",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Équations différentielles",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Equation-Differentielle-TS1-TD.pdf",
+        "filename": "Equation-Differentielle-TS1-TD.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f991cbe7e36d3742",
+        "chunk_type": "solution",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "solution"
+      },
+      "start_line": 1133,
+      "end_line": 1137
+    },
+    {
+      "text": "Exercice 12\nLe plan est muni d’un repère (O, I, J).\nRésoudre sur IR l’équation différentielle (E) :\nOn note fk la solution vérifiant\net Ck sa\ncourbe représentative.\nSoit x0 un nombre réel.\na) Déterminer une équation de la tangente à Ck au\npoint d’abscisse x0.\nb) Démontrer  que,  lorsque  k  décrit  IR,  cette\ntangente  passe  par  un  point  fixe  dont  n\ndéterminera  les  coordonnées  en  fonction  de",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Équations différentielles",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Equation-Differentielle-TS1-TD.pdf",
+        "filename": "Equation-Differentielle-TS1-TD.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f991cbe7e36d3742",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "résoudre"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1161,
+      "end_line": 1172
+    }
+  ]
+}

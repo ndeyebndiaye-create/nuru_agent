@@ -1,0 +1,176 @@
+{
+  "source": "data\\raw\\cours\\04_Fonctions_exponentielles.pdf",
+  "timestamp": "2026-07-16T20:39:09.032652",
+  "chunks": [
+    {
+      "text": "Définition\nLa fonction ln est continue et strictement croissante sur ]0; +∞[ : c’est une bijection de ]0; +∞[\nvers R. Sa réciproque est la fonction exponentielle :\nexp(x) = ex.\n1.2",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Fonction exponentielle",
+        "source": "data\\raw\\cours\\04_Fonctions_exponentielles.pdf",
+        "filename": "04_Fonctions_exponentielles.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "80a0b4d6edd92d30",
+        "chunk_type": "definition",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 8,
+      "end_line": 12
+    },
+    {
+      "text": "Propriétés\nln x = y ⇐⇒ey = x,\nln(ex) = x,\neln x = x (x > 0),\na = b ⇐⇒ea = eb,\na ≥b ⇐⇒ea ≥eb,\nea+b = ea × eb,\ne−a = 1\nea ,\nea−b = ea\neb ,\n(ea)p = epa (p ∈Z),\ne0 = 1.\nLa fonction exponentielle est dérivable sur R et\n(ex)′ = ex,\n(eu)′ = u′ eu.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Fonction exponentielle",
+        "source": "data\\raw\\cours\\04_Fonctions_exponentielles.pdf",
+        "filename": "04_Fonctions_exponentielles.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "80a0b4d6edd92d30",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 13,
+      "end_line": 28
+    },
+    {
+      "text": "Exercice d’application.\nSimplifier A = e5 × e−3\n(e3)2\net B = ex × e2−y\ne−y+x\n+ e0.\nRésolution.\nA = e2\ne6 = e−4 =\nB = e2+x−y\nex−y\n+ 1 = e2 + 1.\nÉquations et inéquations",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Fonction exponentielle",
+        "source": "data\\raw\\cours\\04_Fonctions_exponentielles.pdf",
+        "filename": "04_Fonctions_exponentielles.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "80a0b4d6edd92d30",
+        "chunk_type": "exercice",
+        "competences": [
+          "simplifier"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 34,
+      "end_line": 46
+    },
+    {
+      "text": "Exercice d’application.\nRésoudre dans R : a) e3x + e2x −10ex + 8 = 0 ;\nb) 2ex + e−x −2 ≤0.\nRésolution.\na) En posant X = ex : X3 + X2 −10X + 8 = 0, de racines 1, 2, −4. Comme ex > 0, on garde\nex = 1 et ex = 2, d’où S = {0 ; ln 2}.\nb) 2ex + e−x −2 = 2e2x −2ex + 1\n. Le trinôme 2X2 −2X + 1 (X = ex) a ∆= −4 < 0 donc\nreste > 0 : l’inéquation est impossible, S = ∅.\nFigure 1 – Cg (ex) et Cf (ln x) symétriques par rapport à y = x ; tangentes T0 : y = x + 1 et\nT1 : y = ex.\nCourbe et compléments\nSoit g(x) = ex. On a Dg = R, g′(x) = ex > 0 (strictement croissante), et\nlim\nx→−∞ex = 0 (asymptote y = 0),\nlim\nx→+∞ex = +∞,\nlim\nx→+∞\nx = +∞\n(branche parabolique de direction (y′Oy)). Les tangentes en 0 et 1 :\nT0 : y = x + 1,\nT1 : y = ex.\nAutres limites de référence :\nlim\nx→0\nex −1\n= 1,\nlim\nx→−∞xex = 0,\nlim\nx→0 x ex = 0.\nFonctions exponentielles de base a > 0, a̸ = 1\n4.1",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Fonction exponentielle",
+        "source": "data\\raw\\cours\\04_Fonctions_exponentielles.pdf",
+        "filename": "04_Fonctions_exponentielles.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "80a0b4d6edd92d30",
+        "chunk_type": "exercice",
+        "competences": [
+          "résoudre"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 56,
+      "end_line": 89
+    },
+    {
+      "text": "Définition\nga(x) = ax = ex ln a.\n4.2\nÉtude\nDga = R et g′\na(x) = ln a · ex ln a, du signe de ln a.\n— Si a > 1 : ga strictement croissante, lim−∞= 0 (asymptote y = 0), lim+∞= +∞, branche\nparabolique de direction (y′Oy) ;\n— Si 0 < a < 1 : ga strictement décroissante, lim−∞= +∞, lim+∞= 0 (asymptote y = 0).",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Fonction exponentielle",
+        "source": "data\\raw\\cours\\04_Fonctions_exponentielles.pdf",
+        "filename": "04_Fonctions_exponentielles.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "80a0b4d6edd92d30",
+        "chunk_type": "definition",
+        "difficulty_level": "intermediate",
+        "chunk_category": "concept"
+      },
+      "start_line": 90,
+      "end_line": 98
+    },
+    {
+      "text": "Exercice d’application.\nRésoudre dans R : 1) 4x −3 × 2x+2 −26 = 0 ;\n2) 22x−1 + 3x + 4x+ 1\n2 −9 · 2x+1 = 0.\nFigure 2 – Fonctions exponentielles de base a : cas a > 1 et 0 < a < 1.\nRésolution.\n1) Avec X = 2x : X2 −12X −64 = 0, ∆′ = 100, X = −4 (rejeté) ou X = 16 = 24, donc x = 4.\nS = {4}.\n2) En regroupant, l’équation se ramène à\n2 · 4x −8 · 3x = 0, soit 5 · 4x = 16 · 3x, d’où\nx = ln 16\nln 4\n= 4 ln 2 −ln 5\n2 ln 2 −ln 3.\nFonctions puissances\n5.1",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Fonction exponentielle",
+        "source": "data\\raw\\cours\\04_Fonctions_exponentielles.pdf",
+        "filename": "04_Fonctions_exponentielles.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "80a0b4d6edd92d30",
+        "chunk_type": "exercice",
+        "competences": [
+          "résoudre"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 107,
+      "end_line": 122
+    },
+    {
+      "text": "Définition\nPour α ∈R, sur ]0; +∞[ :\nfα(x) = xα = eα ln x.\n5.2\nÉtude\nα(x) = α\nxeα ln x, du signe de α.\n— Si α < 0 : décroissante, asymptote verticale x = 0 et horizontale y = 0 ;\n— Si α > 0 : croissante, lim0+ = 0 (fα prolongeable par continuité en 0). Au point 0 : demi-\ntangente verticale si 0 < α < 1, horizontale si α > 1. En +∞: branche parabolique de\ndirection (x′Ox) si 0 < α < 1, de direction (y′Oy) si α > 1.\nCroissances comparées\nEn +∞:\nlim\nx→+∞\nxα = +∞,\nlim\nx→+∞\nln x\nxα = 0\n(α > 0),\nlim\nx→+∞\nxα = +∞(a > 1),\nlim\nx→+∞\n|P(x)| = +∞,\nlim\nx→+∞\nln x\nP(x) = 0\n(deg P ≥1).\nEn 0 :\nlim\nx→0+ xα ln x = 0 (α > 0).\nEn −∞:\nlim\nx→−∞xαex = 0 (α > 0),\nlim\nx→−∞P(x)ex = 0 (deg P ≥1).\nFigure 3 – Fonctions puissances xα : cas α > 1, 0 < α < 1 et α < 0.\nCours d’après Sunudaara — Exponentielles, puissances, croissances comparées — Terminale S. Figures\nextraites automatiquement du PDF source.",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Fonction exponentielle",
+        "source": "data\\raw\\cours\\04_Fonctions_exponentielles.pdf",
+        "filename": "04_Fonctions_exponentielles.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "80a0b4d6edd92d30",
+        "chunk_type": "definition",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 133,
+      "end_line": 175
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "source": "data\\raw\\cours\\07_Suites_numeriques.pdf",
+  "timestamp": "2026-07-16T20:39:09.084067",
+  "chunks": [
+    {
+      "text": "Définitions\nUne suite numérique est une application u : I ⊂N →R, n 7→un. Elle peut être définie :\n— de façon explicite : un = f(n) (ex. un = 2n2 + 1, vn = n2 −4\n) ;\n— de façon récurrente :\nu0 = α\nun+1 = g(un)\n, g étant la fonction associée à la suite.\nRaisonnement par récurrence\nPour montrer qu’une propriété P(n) est vraie pour tout n ≥n0 : (initialisation) vérifier\nP(n0) ; (hérédité) supposer P(n) vraie jusqu’au rang n et montrer P(n + 1).",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Suites numériques",
+        "source": "data\\raw\\cours\\07_Suites_numeriques.pdf",
+        "filename": "07_Suites_numeriques.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "2decd789c80c6130",
+        "chunk_type": "definition",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "concept"
+      },
+      "start_line": 8,
+      "end_line": 18
+    },
+    {
+      "text": "Exercice d’application.\nMontrer que ∀n ≥1, 12 + 22 + · · · + n2 = n(n + 1)(2n + 1)\nRésolution.\nInitialisation : pour n = 1, A1 = 1 et B1 = 1·2·3\n= 1. Hérédité : en supposant la formule au\nrang n,\nn+1\nk=1\nk2 = n(n + 1)(2n + 1)\n+ (n + 1)2 = (n + 1)(2n2 + 7n + 6)\n= (n + 1)(n + 2)(2n + 3)\ncar 2n2 + 7n + 6 = (n + 2)(2n + 3). La formule est donc vraie pour tout n ≥1.\nReprésentation graphique\nSi un = f(n) : on place les points isolés (n, un). Si un+1 = g(un) : on trace Cg et la droite y = x,\npuis on construit les termes « en escalier » (on part de u0 sur l’axe des abscisses, on lit u1 = g(u0)\nsur Cg, on reporte sur l’axe des abscisses via y = x, etc.).\nFigure 1 – Suite explicite (points (n, un)), valeurs sur un axe, et construction « en escalier »\nd’une suite récurrente un+1 = ln(1 + un).\nSuites majorées, minorées, bornées\n(un) est majorée si ∃M, ∀n, un ≤M ; minorée si ∃m, ∀n, un ≥m ; bornée si elle est\nmajorée et minorée (∃k > 0, |un| ≤k).\nSens de variation\n(un) est croissante si un+1 ≥un, décroissante si un+1 ≤un, constante si un+1 = un,\nstationnaire si ∃p, ∀n ≥p, un = up, périodique de période T si un+T = un.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Suites numériques",
+        "source": "data\\raw\\cours\\07_Suites_numeriques.pdf",
+        "filename": "07_Suites_numeriques.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "2decd789c80c6130",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 34,
+      "end_line": 57
+    },
+    {
+      "text": "Exercice d’application.\nÉtudier la monotonie de : a) un =\nn + 1 ;\nb) un = nn (n ≥1).\nRésolution.\na) Avec f(x) =\nx+1, f′(x) = x(x+2)\n(x+1)2 ≥0 sur R+ : (un) est croissante.\nb) un+1\n\u00001+ 1\n\u0001n(n+\n1) > 1 : (un) est strictement croissante.\nSuites arithmétiques et géométriques\n6.1\nSuites arithmétiques\n(un) est arithmétique de raison r si un+1 −un = r. Alors\nun = up + (n −p)r,\nun+1 = un + un+2\nk=p\nuk = (n −p + 1)(up + un)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Suites numériques",
+        "source": "data\\raw\\cours\\07_Suites_numeriques.pdf",
+        "filename": "07_Suites_numeriques.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "2decd789c80c6130",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 70,
+      "end_line": 89
+    },
+    {
+      "text": "Exercice d’application.\nLes suites un = 2n + 1 et un = n2\n2 sont-elles arithmétiques ?\nRésolution.\nun+1 −un = 2 (constante) : oui, r = 2. Pour la seconde, un+1 −un = 2n+1\ndépend de n : non.\n6.2\nSuites géométriques\n(vn) est géométrique de raison q ∈R∗\\ {1} si vn+1 = q vn. Alors\nvn = q n−pvp,\nn+1 = vnvn+2,\nk=p\nvk = vp\n1 −q n−p+1\n1 −q\nDe plus\nlim\nn→+∞qn =\nq > 1\nq = 1\n−1 < q < 1\nn’existe pas\nq ≤−1.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Suites numériques",
+        "source": "data\\raw\\cours\\07_Suites_numeriques.pdf",
+        "filename": "07_Suites_numeriques.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "2decd789c80c6130",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 111,
+      "end_line": 133
+    },
+    {
+      "text": "Exercice d’application.\nLes suites vn = 2n et vn = 3\n\u0000 1\n\u0001n sont-elles géométriques ?\nRésolution.\nvn+1\n= n+1\ndépend de n : non. Pour la seconde, vn+1\n= 1\n2 : oui, q = 1\nConvergence\n7.1",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Suites numériques",
+        "source": "data\\raw\\cours\\07_Suites_numeriques.pdf",
+        "filename": "07_Suites_numeriques.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "2decd789c80c6130",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 144,
+      "end_line": 155
+    },
+    {
+      "text": "Définition et propriétés\n(un) converge vers ℓsi\nlim\nn→+∞un = ℓ∈R, c’est-à-dire ∀ε > 0, ∃n0, ∀n ≥n0, |un −ℓ| ≤ε.\nSinon elle diverge.\n— Toute suite croissante majorée (resp. décroissante minorée) converge.\n— Toute suite convergente est bornée (réciproque fausse) et sa limite est unique.\n— Si un = f(n) et limx→+∞f = ℓ, alors lim un = ℓ.\n7.2\nOpérations et comparaison\nLes limites de sommes, produits, quotients se calculent comme pour les fonctions. Pour la\ncomparaison : si un ≤vn (à partir d’un rang) et les deux convergent, alors ℓ≤ℓ′ ; si lim vn = +∞\net un ≥vn, alors lim un = +∞; si |un| ≤vn et lim vn = 0, alors lim un = 0.",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Suites numériques",
+        "source": "data\\raw\\cours\\07_Suites_numeriques.pdf",
+        "filename": "07_Suites_numeriques.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "2decd789c80c6130",
+        "chunk_type": "definition",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 156,
+      "end_line": 168
+    },
+    {
+      "text": "Théorème 1 (Gendarmes). Si un ≤vn ≤wn (à partir d’un rang) et lim un = lim wn = ℓ, alors\nlim vn = ℓ.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Suites numériques",
+        "source": "data\\raw\\cours\\07_Suites_numeriques.pdf",
+        "filename": "07_Suites_numeriques.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "2decd789c80c6130",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 169,
+      "end_line": 170
+    },
+    {
+      "text": "Exercice d’application.\nDéterminer lim un pour : a) un = cos n\nb) un =\np=1\n√p ;\nc) un =\np=1\nn2 + p.\nRésolution.\na) |un| ≤1\nn →0, donc lim un = 0.\nb) √n ≤un ≤n (comparaison terme à terme), donc\nlim un = +∞.\nn2 + n ≤un ≤\nn2 + 1, les deux bornes tendent vers 0, donc lim un = 0.\n7.3\nSuites récurrentes",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Suites numériques",
+        "source": "data\\raw\\cours\\07_Suites_numeriques.pdf",
+        "filename": "07_Suites_numeriques.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "2decd789c80c6130",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 182,
+      "end_line": 198
+    },
+    {
+      "text": "Théorème 2. Soit\nu0 = α\nun+1 = f(un)\navec f continue sur I. Si ∀n, un ∈I et (un) converge vers\nℓ, alors ℓest solution de f(x) = x.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Suites numériques",
+        "source": "data\\raw\\cours\\07_Suites_numeriques.pdf",
+        "filename": "07_Suites_numeriques.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "2decd789c80c6130",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 200,
+      "end_line": 204
+    },
+    {
+      "text": "Exercice d’application.\nSoit\nu0 = 1\nun+1 = √2 + un\navec 1 ≤un ≤2. 1) Montrer que (un) est croissante. 2) En déduire\nqu’elle converge et calculer sa limite.\nRésolution.\n1) un+1 −un = −(un −2)(un + 1)\n√2 + un + un\n≥0 car un −2 ≤0 : (un) est croissante. 2) Croissante et\nmajorée par 2, donc convergente vers ℓ∈[1, 2] solution de\n2 + ℓ= ℓ, soit ℓ2 −ℓ−2 = 0, ℓ= 2.\nDonc lim un = 2.\n7.4\nSuites adjacentes\n(un) et (vn) sont adjacentes si un ≤vn, (un) croissante, (vn) décroissante et lim(vn −un) = 0.\nDeux suites adjacentes convergent vers la même limite.\nCours d’après Sunudaara — Suites numériques — Terminale S. Figures extraites automatiquement du\nPDF source.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Suites numériques",
+        "source": "data\\raw\\cours\\07_Suites_numeriques.pdf",
+        "filename": "07_Suites_numeriques.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "2decd789c80c6130",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 208,
+      "end_line": 226
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "source": "data\\raw\\cours\\15_Geometrie_dans_espace.pdf",
+  "timestamp": "2026-07-16T20:29:45.963490",
+  "chunks": [
+    {
+      "text": "Géométrie dans l’espace\nClasse : Terminale S\nDétermination de droites et de plans\nUne droite ∆est déterminée par un point et un vecteur directeur : pour A, B, M ∈(AB) ⇐⇒\n∃k, −−→\nAM = k−−→\nAB, ce qui donne une représentation paramétrique, puis cartésienne (intersection\nde deux plans).\nUn plan (P) est déterminé par trois points non alignés (ou un point et deux vecteurs). M ∈\n(ABC) ⇐⇒∃k, k′, −−→\nAM = k−−→\nAB + k′−→\nAC (équation paramétrique), d’où une équation cartésienne\nax + by + cz + d = 0.\nRemarque 1. Pour un plan ax + by + cz + d = 0, le vecteur⃗n(a, b, c) est un vecteur normal.\nPositions relatives\nDeux droites sont coplanaires ou non. Une droite et un plan sont sécants (la droite perce le\nplan) ou parallèles (∆∩P = ∅ou ∆⊂P). Deux plans sont parallèles (P = P ′ ou P ∩P ′ = ∅) ou\nsécants selon une droite.\nParallélisme et orthogonalité\n— Deux plans sont parallèles ssi leurs vecteurs normaux⃗n,⃗n′ sont colinéaires.\n— Une droite ∆est perpendiculaire à un plan P ssi elle est perpendiculaire à deux droites\nsécantes de P, ssi son vecteur directeur et⃗n sont colinéaires.\n— Deux plans sont perpendiculaires ssi⃗n ⊥⃗n′.\nProduit vectoriel\n4.1",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Géométrie dans l'espace",
+        "source": "data\\raw\\cours\\15_Geometrie_dans_espace.pdf",
+        "filename": "15_Geometrie_dans_espace.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "166d094cf825958b",
+        "difficulty_level": "advanced",
+        "chunk_category": "course"
+      },
+      "start_line": 6,
+      "end_line": 31
+    },
+    {
+      "text": "Définition\nLe produit vectoriel⃗u ∧⃗v est le vecteur :\n— nul si⃗u,⃗v sont colinéaires ;\n— sinon perpendiculaire à⃗u et⃗v, tel que (⃗u,⃗v,⃗u ∧⃗v) soit direct et\n∥⃗u ∧⃗v∥= ∥⃗u∥∥⃗v∥| sin(⃗u,⃗v)|.\n4.2",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Géométrie dans l'espace",
+        "source": "data\\raw\\cours\\15_Geometrie_dans_espace.pdf",
+        "filename": "15_Geometrie_dans_espace.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "166d094cf825958b",
+        "chunk_type": "definition",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 32,
+      "end_line": 37
+    },
+    {
+      "text": "Propriétés⃗\nu ∧⃗v = −⃗v ∧⃗u,\n(α⃗u) ∧⃗v = α(⃗u ∧⃗v),⃗\nu ∧(⃗v +⃗w) =⃗u ∧⃗v +⃗u ∧⃗w.\n4.3\nExpression en base orthonormée directe\nAvec⃗ı ∧⃗ȷ =⃗k,⃗ȷ ∧⃗k =⃗ı,⃗k ∧⃗ı =⃗ȷ :⃗\n\u0010 xy\n∧⃗v\n\u0012 x′\n=⃗ı\n−⃗ȷ\n+⃗k\n\u0012 yz′−zy′\nzx′−xz′\nxy′−yx′\nFigure 1 – Repère direct ; aire du parallélogramme ABCD.\n4.4\nApplications\nAires :\nAABD = 1\n−−→\nAB ∧−−→\nAABCD =\n−−→\nAB ∧−−→\nDistance d’un point à un plan P : ax + by + cz + d = 0 :\nd(M0, P) = |ax0 + by0 + cz0 + d|\na2 + b2 + c2\nDistance d’un point à une droite ∆(point A, directeur⃗u) :\nd(M0, ∆) =\n−−−→\nM0A ∧⃗u\n∥⃗u∥\nFigure 2 – Distance d’un point à un plan et à une droite.\nProduit mixte\nLe produit mixte de⃗u,⃗v,⃗w est le réel⃗u · (⃗v ∧⃗w). En base orthonormée :⃗\nu · (⃗v ∧⃗w) =\nx′′\ny′′\nz′′\nApplication : le volume du tétraèdre ABCD est\nVABCD = 1\n−−→\nAD · (−−→\nAB ∧−→\nAC)\nCours d’après Sunudaara — Géométrie dans l’espace — Seyni Ndiaye & Diny Faye. Figures extraites\nautomatiquement du PDF source.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Géométrie dans l'espace",
+        "source": "data\\raw\\cours\\15_Geometrie_dans_espace.pdf",
+        "filename": "15_Geometrie_dans_espace.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "166d094cf825958b",
+        "chunk_type": "theoreme",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 88,
+      "end_line": 136
+    }
+  ]
+}

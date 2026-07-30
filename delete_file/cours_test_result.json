@@ -1,0 +1,27 @@
+{
+  "history": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": [
+        {
+          "text": "Explique-moi les nombres complexes.",
+          "type": "text"
+        }
+      ],
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": [
+        {
+          "text": "📚 **Cours :** Voici une explication claire et structurée.\n\nBonjour ! Je suis NURU, votre tuteur IA pour les mathématiques du programme sénégalais (Terminale S1).\n\nCommençons par une définition simple : un nombre complexe est un nombre qui peut être représenté sous la forme a + bi, où « a » est une partie réelle et « b » est une partie imaginaire.\n\nImaginez que vous avez un nombre réel, comme 3. Vous pouvez le représenter graphiquement sur un plan réel, avec les axes x et y représentant les valeurs de l'axe x et l'axe y respectivement. Le nombre réel 3 peut être représenté par un point (3,0) sur ce plan.\n\nMaintenant, imaginez que vous avez également une partie imaginaire, comme 2i. Vous pouvez la représenter graphiquement sous forme d'une ligne qui se déplace dans le sens anti-horaire du plan complexe. Le nombre complexe 2i peut être représenté par un point (0,2) sur ce plan.\n\nMaintenant, imaginez que vous avez deux nombres complexes : a + bi et c + di. Vous pouvez les représenter graphiquement comme des points dans le plan complexe. La somme de ces deux nombres complexes est la somme de leurs coordonnées réelles et imaginaires :\n\n(a + c) + (b + d)i\n\nC'est un peu comme le fait de combiner deux plans réels pour obtenir un nouveau plan complexe.\n\nEnfin, il existe une autre notion importante dans les nombres complexes : la multiplication. La multiplication de deux nombres complexes est la multiplication de leurs coordonnées réelles et imaginaires :\n\n(a + bi) × (c + di) = (ac - bd) + (ad + bc)i\n\nC'est un peu comme le fait de multiplier deux plans réels pour obtenir un nouveau plan complexe.\n\nVoilà, mes amis ! Les nombres complexes sont des nombres qui peuvent être représentés sous forme d'axes et de coordonnées dans un plan complexe. J'espère que cela vous a aidé à comprendre ce concept.",
+          "type": "text"
+        }
+      ],
+      "options": null
+    }
+  ],
+  "msg_box": ""
+}

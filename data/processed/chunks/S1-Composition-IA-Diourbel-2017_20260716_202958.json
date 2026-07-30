@@ -1,0 +1,121 @@
+{
+  "source": "data\\raw\\exercices\\S1-Composition-IA-Diourbel-2017.pdf",
+  "timestamp": "2026-07-16T20:29:58.585384",
+  "chunks": [
+    {
+      "text": "REPUBLIQUE DU SENEGAL\nUn Peuple – Un But – Une Foi\nMinistère De l’Education Nationale\n_________________________\nINSPECTION D’ACADEMIE DE DIOURBEL\nCentre Régional de Formation des Personnels de l´Education\nCOMPOSITION STANDARDISEE DU PREMIER SEMESTRE 2017\nDurée :04 H\nMATHEMATIQUES TS1",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Composition",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data\\raw\\exercices\\S1-Composition-IA-Diourbel-2017.pdf",
+        "filename": "S1-Composition-IA-Diourbel-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "assessment",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "00f1adde70057a74",
+        "difficulty_level": "basic",
+        "chunk_category": "course"
+      },
+      "start_line": 3,
+      "end_line": 11
+    },
+    {
+      "text": "EXERCICE 1 : (04points)\nDans le plan complexe rapporté au repère orthonormal on considère les points A et B d’affixes\nrespectives\n1/ a/ Déterminer et construire l’ensemble \n des points M  d’affixe z vérifiant : \n(On pourra poser\nx et\nsont deux nombres réels).                                              01\nb/ Déterminer et construire l’ensemble\n. des points M  d’affixe z vérifiant : \n(on\npourra remarquer que :\n).                                                                                      01\n2/ Soit  f  l’application qui à tout point M d’affixe \nassocie le point\nM  d’affixe 'z tel\nque\na/ Vérifier que\n. En déduire l’égalité\nAM\net déterminer une mesure en\nradians de l’angle \n, AM\nb/ On appelle\n1 et\nles points d’intersections de\net\n. Déterminer et construire les\nimages par f  de\n1 et\n.                                                                                                    01",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Composition",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data\\raw\\exercices\\S1-Composition-IA-Diourbel-2017.pdf",
+        "filename": "S1-Composition-IA-Diourbel-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "assessment",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "00f1adde70057a74",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 109,
+      "end_line": 139
+    },
+    {
+      "text": "EXERCICE 2 : (06points)\nSoit un nombre réel appartenant à\net l’équation \nE d’inconnue le nombre complexe z :\ntan\ntan\n1/ Soit z une solution de \nE .\na/ Montrer que\n.                                                                                          01\nb/ En déduire que z est réel.                                                                                             01\n2/ a/ Exprimer\ntan\ntan\nen fonction de\nie .                                                                    01\nb/ Soit z un nombre complexe . On pose\ntan\nEcrire l’équation portant sur  traduisant \nE  et la résoudre.                                        01 + 01\nc/ Déterminer les solutions\nde  \nE                                                                  01",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Composition",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data\\raw\\exercices\\S1-Composition-IA-Diourbel-2017.pdf",
+        "filename": "S1-Composition-IA-Diourbel-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "assessment",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "00f1adde70057a74",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "résoudre"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 215,
+      "end_line": 237
+    },
+    {
+      "text": "PROBLEME : (10 points)\nOn se propose l’étude pour n entier naturel non nul des fonctions\nnf . définies sur \npar :\n1/ a/ Prouver que\nnf est continue sur \n.                                              0,5\nb/ Etudier la dérivabilité de\nnf en 0.                                                            0,5\nc/ Calculer\nfn'\npour\net justifier que\nnf est strictement croissante sur \n. 0,5+0,25\n2/ a/ Déterminer la limite de\nnf en\n.                                                                        0,25\nREPUBLIQUE DU SENEGAL\nUn Peuple – Un But – Une Foi\nMinistère De l’Education Nationale\n_________________________\nINSPECTION D’ACADEMIE DE DIOURBEL\nCentre Régional de Formation des Personnels de l´Education\nb/ Donner le tableau de variation de la fonction g définie sur\npar : \n.   0,5\nEn déduire que, pour tout réel\n, on a la relation\n1\ne u \n.                                                                    0,5\nc/ Déduire de1 que , pour tout\n, on a la relation  \ne t\n.                   0,5\nd/ Prouver à l’aide de \n2 que pour tout réel\n.                    0,5\nEn déduire que la droite \nD d’équation\nest asymptote à la courbe représentative \nnf .                                                                                                                                           0,25\nPréciser la position relative de \net de \n.                                                 0,25\n3/ a/  Dresser le tableau de variations de\nnf .                                                       0,5\nb/ Tracer la courbe\nC  et son asymptote, en précisant la tangente en 0 .        01,25\n4/ Démontrer que, pour tout\n, l’équation\na une unique solution\n dans\n.  0,25\n5/ Démontrer que\n  est solution de l’équation :\n.                                   0,25\n6/ Soit h la fonction définie sur\npar : \na/ Etudier les variations de h .                                                                                       0,5\nb/ Prouver que\n1 \n.                                                                                     0,25\nc/ Prouver que la suite \nest décroissante.                                                               0,25\n7/ a/ Justifier que la suite \nconverge et que sa limite est supérieure ou égale à 1.   0,25+0,25\nb/ Démontrer que \n. En déduire la valeur de .                                              0,25+0,25",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Composition",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data\\raw\\exercices\\S1-Composition-IA-Diourbel-2017.pdf",
+        "filename": "S1-Composition-IA-Diourbel-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "assessment",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "00f1adde70057a74",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 414,
+      "end_line": 483
+    }
+  ]
+}

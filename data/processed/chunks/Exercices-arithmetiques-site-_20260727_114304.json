@@ -1,0 +1,857 @@
+{
+  "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+  "timestamp": "2026-07-27T11:43:04.695562",
+  "chunks": [
+    {
+      "text": "Exercices d’Arithmétiques\nMathématiques\nMAURIBACMATHS                         Exercices d’Arithmétiques                       Mahfoudh ould Mohamed Ammou",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 4,
+      "end_line": 6
+    },
+    {
+      "text": "Exercice 3 : Soit p un nombre entier naturel impair.\nMontrer que la somme de p entiers naturels consécutifs\nest un multiple de p.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 28,
+      "end_line": 30
+    },
+    {
+      "text": "Exercice 4 : (Indice : Théorème de Bézout )\nSoit x un réel. Montrer que si\nx  et\nsont des\nnombres rationnels, alors x l'est également.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 34,
+      "end_line": 38
+    },
+    {
+      "text": "Exercice 5 : Soit le nombre34x5y , dont x est le chiffre\ndes centaines et y le chiffre des unités. Indiquer toutes\nles façons possibles de choisir les chiffres x et y pour\nque ce nombre soit divisible par 36.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 39,
+      "end_line": 42
+    },
+    {
+      "text": "Exercice 6 : Soit n un entier naturel,\nMontrer que quelque soit n, la fraction 21n\n14n\nest\ntoujours irréductible.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 47,
+      "end_line": 51
+    },
+    {
+      "text": "Exercice 7 : Les nombres a, b, c sont des nombres\nentiers appartenant à l'ensemble {0, 1, 2,3, 4}. On\nreprésente par abc le nombre 52a + 5b + c.\n1° Montrer que abc est divisible par 4 si, et seulement\nsi, a + b + c est divisible par 4.\n2° Montrer queabc  est divisible par 6 si, et seulement\nsi, a - b + c est divisible par 6.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 52,
+      "end_line": 58
+    },
+    {
+      "text": "Exercice 8 :  Soit la fraction 2n\noù n est un\nnombre entier. Quelle doit être la forme générale de\nl'entier n pour que les deux termes de la fraction soient:\na) divisibles par 3 ?\nb) divisibles par 5 ?\nc) divisibles par 15 ?\nQuelles doivent être les valeurs de l'entier n pour que\nla fraction soit un nombre entier?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 64,
+      "end_line": 72
+    },
+    {
+      "text": "Exercice 9 : Soit n un entier naturel\n1. Démontrer que n²\n4 et n²\nsont\ndivisibles par (n+1)\n2. Déterminer l'ensemble des valeurs de n pour\nlesquelles 3n²\n15n\nest divisible par n+1\n3. En déduire que pour tout entier naturel n,\n3n²\n15n\nn'est pas divisible par n²",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 91,
+      "end_line": 103
+    },
+    {
+      "text": "Exercice 10 : Démontrer que, pour tout entier naturel\nn, le nombre \nn n +5 est divisible par 6 . (Par\nrécurrence puis à l'aide d'un tableau de congruence).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 106,
+      "end_line": 109
+    },
+    {
+      "text": "Exercice 11 :\n1) Démontrer que si n n'est pas multiple de 7, alors\n(n6 - 1) est multiple de 7 (n entier naturel)\n(Par récurrence puis à l'aide d'un tableau de\ncongruence).\n2) Démontrer que n(n6 - 1) est un multiple de 7 pour\ntout entier n.\nComment choisir n pour que ce produit soit divisible\npar 84 ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 110,
+      "end_line": 118
+    },
+    {
+      "text": "Exercice 13 : A l’aide d'un tableau de congruence,\ntrouver les entiers naturels n tels que\nn -3n -2soit\ndivisible par 7 .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 123,
+      "end_line": 126
+    },
+    {
+      "text": "Exercice 14 :\n1) Déterminer tous les couples d'entiers naturels de\nsomme 182 et de pgcd 13.\n2) Déterminer tous les couples d'entiers naturels de\nproduit 9 072 et de pgcd 18 .\n3) Déterminer tous les couples d'entiers naturels de\nproduit 51 840 et de ppcm 2 160.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 127,
+      "end_line": 133
+    },
+    {
+      "text": "Exercice 15 :\n1) Résoudre dans l'ensemble des entiers relatifs\nl'équation : 5x + 11y = 1\n2) En déduire les solutions de l'équation5x\n11y",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "résoudre"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 138,
+      "end_line": 142
+    },
+    {
+      "text": "Exercice 16 :\n1) Résoudre dans l'ensemble des entiers relatifs\nl'équation : 23X - 17Y = 6.\n2) Déduire de l'étude précédente les entiers naturels A\ninférieurs à 1 000 tels que dans la division euclidienne\nde A par 23, le reste soit 2, et dans celle de A par 17 le\nreste soit 8.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "résoudre"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 143,
+      "end_line": 149
+    },
+    {
+      "text": "Exercice 17: Résoudre les équations suivantes :\n1° Dans\n/ 7\n :5x\n2° Dans\n/10\n :3x\n3° Dans\n/ 6\n : 3x\n    4° Dans\n/ 6\n : 3x",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "résoudre"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 168,
+      "end_line": 180
+    },
+    {
+      "text": "Exercice 18: Montrer que le nombre\n\n2nfois\nn 1fois\nn fois\n44...4\n11...1\n66...6\nest un entier naturel.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 184,
+      "end_line": 192
+    },
+    {
+      "text": "Exercice 19:\n1° Dans chacun des anneaux\n/101\net\n/100\ndonner une factorisation du polynôme :\n2° Dans chacun des anneaux\n/101\net\n/100\nrésoudre l’équation :",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "résoudre"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 217,
+      "end_line": 227
+    },
+    {
+      "text": "Exercice 20 :\na) Calculer les restes des divisions euclidiennes par 17\ndes nombres suivants:\n2013\n3254\nb) Calculer les restes des divisions euclidiennes par 19\ndes nombres suivants :\n2011\n2012\n50465\n50466\nc) Démontrer que pour tout entier naturel n :\n3n 2\nn 4\n0 5",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 241,
+      "end_line": 255
+    },
+    {
+      "text": "Exercice 21 : En décomposant 111 111  sous la forme\n111 000 + 111, montrer que 111 divise 111 111.\nDémontrer que 111 divise 111 111 111. Démontrer que\n111 divise  111 222",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 256,
+      "end_line": 259
+    },
+    {
+      "text": "Exercice 22 :  572  est un nombre de trois chiffres dont\nle chiffre médian 7, est la somme des chiffres extrêmes\n5 et 2. Vérifier que 572 s’écrit 550 + 22. En déduire\nque 572 est divisible par 11.\nDonner trois autres nombres de 3 chiffres, divisibles\npar 11 et constitués de la même façon.\nTerminale C",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 263,
+      "end_line": 269
+    },
+    {
+      "text": "Exercices d’Arithmétiques\nMathématiques\nMAURIBACMATHS                         Exercices d’Arithmétiques                       Mahfoudh ould Mohamed Ammou",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 270,
+      "end_line": 272
+    },
+    {
+      "text": "Exercice 23 :\n1° On se propose, dans cette question, de déterminer\ntous les entiers relatifs N tels que :\n5 13\n1 17\na) Vérifier que 239 est solution de ce système.\nb) Soit N un entier relatif solution de ce système.\nDémontrer que N peut s’écrire sous la forme\n1 17x\n13y\noù  x et y sont deux entiers relatifs\nvérifiant la relation17x\n13y\nc) Résoudre l’équation 17x\n13y\noù x et y sont des\nentiers relatifs.\nd) En déduire qu’il existe un entier relatif k tel que\n221k\ne) Démontrer l’équivalence entre\n18 221\n5 13\n1 17\n2° a) Existe-t-il un entier naturel k tel que\n1 17\nb) Existe-t-il un entier naturel p tel que\n18 221",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "résoudre"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 329,
+      "end_line": 355
+    },
+    {
+      "text": "Exercice 24 : Les questions 1et 2 sont indépendantes.\nSoit n un entier naturel non nul.\n1° On considère l’équation notée\nE :\nx et y sont des entiers relatifs\na) Déterminer un couple \nu,v d’entiers relatifs tels\nque3u\nEn déduire une solution particulière \nx ,y\nl’équation\nE .\nb) Déterminer l’ensemble des couples d’entiers relatifs\nx,y solutions de\nE .\n2° On considère l’équation notée\nG :\noù xet y sont des entiers relatifs\na) Montrer que\n100\n2 7\nDémontrer que si\nx,y est solution de\nG , alors\nb) Reproduire et compléter le tableau suivant :\nReste de la division\neuclidienne de x par 7\nReste de la division\neuclidienne de\n3x par 7\nc) Démontrer que\n2 est congru à 1, 2 ou 4 modulo 7.\nEn déduire que l’équation \nG  n’admet pas de",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 404,
+      "end_line": 437
+    },
+    {
+      "text": "Exercice 25 :  Le reste de la division euclidienne de m\npar 17 est 8, celui de n est 12. Déterminer le reste de la\ndivision euclidienne par  17 de m + n, m.n, m2.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 439,
+      "end_line": 441
+    },
+    {
+      "text": "Exercice 26 : Démontrer que, quels que soient les\nentiers relatifs a et b, le nombre\nab(a - b )\nest\ndivisible par 3.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 446,
+      "end_line": 450
+    },
+    {
+      "text": "Exercice 28 : Soit  p. Démontrer que  \np p -1\nest un multiple de 3.\nEn déduire que  \np p\nest un multiple de 3",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 465,
+      "end_line": 470
+    },
+    {
+      "text": "Exercice 30 : Quel est le reste possible dans la division\neuclidienne d'un entier naturel n par 3.\nEn déduire que tout entier relatif peut s'écrire sous\nl'une des formes   3k ; 3k + 1 ; 3k + 2 avec k ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 473,
+      "end_line": 476
+    },
+    {
+      "text": "Exercice 31 :\na) Résoudre le système :\nPGCD a;b\nPPCM a;b\n170\nb) En déduire les solutions du système :\nPGCD(a\nb;ab)\nPPCM a;b\n170\n",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "résoudre"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 496,
+      "end_line": 506
+    },
+    {
+      "text": "Exercice 32:\n1° Montrer que, pour tout entier relatifn , les entiers\n14n\net 5n\nsont premiers entre eux.\n2° On considère l’équation\nE : 87x\n31y\noù x et y\nsont des entiers relatifs.\na) Vérifier, en utilisant par exemple la question 1° que\n87 et 31 sont premiers entre eux. En déduire un couple\nu,v d’entiers relatifs tel que 87u\n31v\npuis une",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 517,
+      "end_line": 531
+    },
+    {
+      "text": "solution \nx ,y\nde\nE .\nb) Déterminer l’ensemble des solutions de \nE  dans\nc) Application : Déterminer les points de la droite\nd’équation 87x\n31y\ndont les coordonnées sont\ndes entiers naturels et dont l’abscisse est comprise\nentre 0 et100 .",
+      "chunk_type": "solution",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "solution",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "solution"
+      },
+      "start_line": 542,
+      "end_line": 553
+    },
+    {
+      "text": "Exercice 33 : Soit x est un entier relatif, tel que le reste\nde la division euclidienne de x par 7 est 2.\nQuels sont les restes des divisions euclidiennes par 7 de\nx2 et de x3  ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 554,
+      "end_line": 557
+    },
+    {
+      "text": "Exercice 34 :\n1° a) Montrer que, pour tout entier naturel n,\n11n\nest divisible parn\nb) Montrer que, pour tout entier naturel n,\nest un entier naturel non nul.\n2° Montrer que, pour tous les entiers naturels non nuls\na, b et c l’égalité suivante est vraie :\nPGCD a;b\nPGCD bc\na;b .\n3° Montrer que, pour tout entier naturel n, supérieur ou\négal à2, l’égalité suivante est vraie :\nPGCD 3n\n11n;n\nPGCD 48\n4° a) Déterminer l’ensemble des diviseurs entiers\nnaturels de 48\nb) En déduire l’ensemble des entiers naturels n tels que\n11n\nsoit un entier naturel.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 598,
+      "end_line": 618
+    },
+    {
+      "text": "Exercice 35 : Calculer\n111  et\n111 111 .  En déduire\nque 12 321 divise 12 345 654 321.\nDémontrer de même que   1 234 321   divise   123 456\n787 654 321",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Exercices",
+        "source": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+        "filename": "Exercices-arithmetiques-site-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "C",
+        "chapitre": "Non spécifié",
+        "document_id": "0f26660085607e8f",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 621,
+      "end_line": 626
+    }
+  ]
+}

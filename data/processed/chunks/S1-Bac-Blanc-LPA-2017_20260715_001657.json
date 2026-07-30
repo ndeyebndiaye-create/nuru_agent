@@ -1,0 +1,151 @@
+{
+  "source": "data/raw/exercices/S1-Bac-Blanc-LPA-2017.pdf",
+  "timestamp": "2026-07-15T00:16:57.652441",
+  "chunks": [
+    {
+      "text": "BACCALAUREAT BLANC  2017\nLYCEE DES PARCELLES ASSAINIES UNITE 13\nEPREUVE DE MATHEMATIQUES TERMINALE S1\nNB :  La qualité de la rédaction, la clarté et la pertinence du raisonnement seront prises en\ncompte pour une grande partie dans l’appréciation de la copie .",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "S1",
+        "annee": "2017",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/S1-Bac-Blanc-LPA-2017.pdf",
+        "filename": "S1-Bac-Blanc-LPA-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ddf5ca50f53d698a",
+        "difficulty_level": "basic",
+        "chunk_category": "course"
+      },
+      "start_line": 2,
+      "end_line": 6
+    },
+    {
+      "text": "EXERCICE : I  (6  points)\nI/ Soit   la fonction définie sur\npar :\n1) Montrer que   est  dérivable sur\net calculer                                                          (1pt)\n2) En déduire que pour tout réel x de\n,        puis calculer la valeur de\n(1pt)\nII/ Pour tout entier naturel n ,on donne la fonction    définie sur\npar :\n1) Etudier la continuité     de en 0.                                                                                        (0,5pt)\n2) On pose\na) Montrer que    est bien définie et calculer   .                                                          (0,5pt)\nb) Montrer que pour tout entier naturel n, on a :\n(0,75pt)\nc) En déduire que pour tout entier naturel n, on a :\n(0,5pt)\nd) Calculer pour\n(0,25pt)\ne) En déduire que pour tout entier naturel n, on a :\n(0,5pt)\nf) Montrer que pour tout entier naturel n, on a :\n(0,5pt)\ng) En déduire que la suite      converge vers\n.                                                          (0,5pt)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "S1",
+        "annee": "2017",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/S1-Bac-Blanc-LPA-2017.pdf",
+        "filename": "S1-Bac-Blanc-LPA-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ddf5ca50f53d698a",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 21,
+      "end_line": 45
+    },
+    {
+      "text": "EXERCICE : Ii  (4  points)\n1) On se propose ici de résoudre dans Z, l’équation :\na) Montrer que 35 et 26 sont premiers entre eux.\n( On déterminera les coefficients de Bézout )\nb) En déduire une solution particulière de     notée\nc) En déduire la résolution de\n2) Application : Cryptographie\nOn assimile les lettres de l’alphabet A,B,…,Z aux nombres  0,1,….25 et on code ces nombres par\nla fonction de hachage\nAutrement dit,      est le reste de la division euclidienne de 35  par 26\nPar exemple la lettre B est assimilée au nombre 1 et         est assimilée à J.\nDonc B sera codé par J. Le problème de décodage se travaille dans l’autre sens\na) Coder le mot LUNDI\nb) Justifier que décoder E  revient à résoudre l’équation de la question\nc) Décoder  EKX",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "S1",
+        "annee": "2017",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/S1-Bac-Blanc-LPA-2017.pdf",
+        "filename": "S1-Bac-Blanc-LPA-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ddf5ca50f53d698a",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "résoudre"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 49,
+      "end_line": 63
+    },
+    {
+      "text": "EXERCICE : Iii  (4  points)\n1) Soit l’équation différentielle (E)\na) Déterminer a pour que la fonction numérique   définie par\nsoit solution de (E).\nb) Montrer qu’une fonction numérique f est solution de (E) si et seulement si la fonction\nnumérique       est solution de l’équation (E’) :\nc) Résoudre l’équation (E’) et en déduire la solution générale de (E).                .\nDéterminer   la solution de (E) vérifiant :\n2) Le plan est muni d’un repère orthonormé  (O,     ,     ) d’unité graphique 2 cm.\nOn considère la courbe   d’équations paramétriques :\na) Comparer les points de paramètres 2 + t et t, puis les points de paramètre -t et t.\nEn déduire qu’il suffit d’étudier les fonctions   et   dans l’intervalle [0 ; ] pour pouvoir\ntracer la courbe .\nb) Etudier les fonctions   et   dans l’intervalle [0 ; ] et dresser un unique tableau de variation\npour ces deux fonctions.\nc) Tracer la courbe  en précisant ses intersections avec les axes de coordonnées.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "S1",
+        "annee": "2017",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/S1-Bac-Blanc-LPA-2017.pdf",
+        "filename": "S1-Bac-Blanc-LPA-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ddf5ca50f53d698a",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "résoudre",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 66,
+      "end_line": 81
+    },
+    {
+      "text": "EXERCICE : Iv  (6  points)\nDans le plan orienté, on considère les points   et   distincts. On note    et    les rotations de centres\nrespectifs   et   d’angle\nPour tout point   on note     l’image de   par     et      l’image de   par    .\nOn pose            ou\ndésigne l’application reciproque   .\n1) a)  Construire l’image   de   par  .\nb)  Déterminer la nature et les élèments caractéristiques de  .\nc)  Déduire du b) la nature du quadrilatère       .\n2) On suppose que le point   décrit le cercle ( ) de diamètre     .\nOn appelle   le milieu de         et    le milieu de      .\na) Déterminer  le lieu de      puis de   quand   décrit ( ).\nb) Démontrer que   e t l’ mage de   par la composée          de     et  d’u e tra  lat\ndont le vecteur indépendant de  .\nc) Déterminer la nature et les élèments caractéristiques de\n(décomposer     et     en symétries axiales)\nd) Déterminer le lieu de   quand   décrit ( ).\nBonne Chance",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "S1",
+        "annee": "2017",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/S1-Bac-Blanc-LPA-2017.pdf",
+        "filename": "S1-Bac-Blanc-LPA-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ddf5ca50f53d698a",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 85,
+      "end_line": 102
+    }
+  ]
+}

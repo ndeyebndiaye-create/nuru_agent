@@ -1,0 +1,149 @@
+{
+  "source": "data/raw/cours/13_Arithmetique.pdf",
+  "timestamp": "2026-07-19T16:56:31.742796",
+  "chunks": [
+    {
+      "text": "Arithmétique\nClasse : Terminale S\nRappels de structures\nUne loi ∗est interne dans G si ∀a, b ∈G, a ∗b ∈G ; associative si (a ∗b) ∗c = a ∗(b ∗c) ;\ne est neutre si x ∗e = e ∗x = x ; x′ est symétrique de x si x ∗x′ = x′ ∗x = e. (G, ∗) est un\ngroupe s’il est associatif, admet un neutre et tout élément un symétrique ; il est commutatif si\na ∗b = b ∗a.\nToute partie non vide de N admet un plus petit élément ; toute partie non vide majorée admet\nun plus grand élément.\nDiviseurs et multiples\nb divise a (noté b | a) s’il existe k ∈Z tel que a = bk.\n— 1 divise tout entier, 0 est multiple de tout entier ;\n— a | b et b | a ⇒a = ±b ;\na | b ⇒a | bc ;\n— a | b et b | c ⇒a | c ;\n— a | b et a | c ⇒a | (αb + βc) pour tous α, β ∈Z.\nNombres premiers\nUn entier n > 1 est premier s’il n’a que deux diviseurs : 1 et lui-même (2, 3, 5, 7, 11, 13, . . . ; 2\nest le seul pair).\n— Tout n > 1 admet au moins un diviseur premier ; s’il n’est pas premier, il admet un diviseur\npremier p ≤√n ;\n— n > 1 est premier s’il n’est divisible par aucun premier ≤√n.",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/13_Arithmetique.pdf",
+        "filename": "13_Arithmetique.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "0a8b0b0942e83dd6",
+        "difficulty_level": "advanced",
+        "chunk_category": "course"
+      },
+      "start_line": 5,
+      "end_line": 26
+    },
+    {
+      "text": "Exemple.\n409 ≈20,2 ; aucun premier ≤20 (2, 3, 5, 7, 11, 13, 17, 19) ne divise 409, donc 409 est\npremier.\n3.1\nDécomposition en facteurs premiers\nTout n > 1 s’écrit de façon unique n = pα1\n1 pα2\n2 · · · pαr\nr ; son nombre de diviseurs est (α1+1)(α2+\n1) · · · (αr + 1). Ex. 24 · 32 · 53 · 11 = 198 000 a 5 · 3 · 4 · 2 = 120 diviseurs.\nPGCD et PPCM\n4.1\nDivision euclidienne\nPour a, b (b ̸= 0), il existe un unique couple (q, r) tel que a = bq + r, 0 ≤r < b.\n4.2\nAlgorithme d’Euclide\nLes diviseurs communs à a et b sont ceux du dernier reste non nul rn de la suite des divisions ;\nrn = pgcd(a, b).\n4.3",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/13_Arithmetique.pdf",
+        "filename": "13_Arithmetique.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "0a8b0b0942e83dd6",
+        "chunk_type": "exemple",
+        "difficulty_level": "intermediate",
+        "chunk_category": "example"
+      },
+      "start_line": 33,
+      "end_line": 51
+    },
+    {
+      "text": "Propriétés du PGCD\npgcd(a, 1) = 1, pgcd(a, 0) = a, pgcd(ka, kb) = k pgcd(a, b), pgcd(a, b) = pgcd(a −kb, b).",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/13_Arithmetique.pdf",
+        "filename": "13_Arithmetique.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "0a8b0b0942e83dd6",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 52,
+      "end_line": 53
+    },
+    {
+      "text": "Exercice d’application.\nDéterminer u, v tels que 25 872 u + 484 v = 44.\nRésolution.\nAlgorithme d’Euclide : 25 872 = 484 × 53 + 220, 484 = 220 × 2 + 44, 220 = 44 × 5, donc\npgcd = 44. En remontant : 44 = 484 −2 × 220 = (−2) × 25 872 + 107 × 484, d’où u = −2, v = 107.\n4.4\nPPCM\nppcm(a, b) est le plus petit multiple commun positif. On a la relation fondamentale\npgcd(a, b) × ppcm(a, b) = ab.\n4.5\nNombres premiers entre eux\na et b sont premiers entre eux si pgcd(a, b) = 1. Si d = pgcd(a, b), alors a\nd et b\nd sont premiers\nentre eux.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/13_Arithmetique.pdf",
+        "filename": "13_Arithmetique.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "0a8b0b0942e83dd6",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 55,
+      "end_line": 69
+    },
+    {
+      "text": "Théorème 3 (Gauss). Si a | bc et a est premier avec b, alors a | c.\nÉquations diophantiennes ax + by = c\nSoit d = pgcd(a, b). Si d ∤c, pas de solution ; sinon on simplifie par d. Exercice d’application.\nRésoudre dans Z2 : 9x + 6y = 15.\nRésolution.\npgcd(9, 6) = 3 | 15, on ramène à 3x + 2y = 5 (3 ∧2 = 1). Une solution particulière : x0 = 15,\ny0 = −20. Solution générale :\nx = 15 + 2k,\ny = −20 −3k,\nk ∈Z.\nCongruences\na ≡b [n] si n | (a−b) (i.e. même reste dans la division par n). C’est une relation d’équivalence,\ncompatible avec + et × :\na ≡b, a′ ≡b′ ⇒a + a′ ≡b + b′, aa′ ≡bb′, ak ≡bk [n].",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/13_Arithmetique.pdf",
+        "filename": "13_Arithmetique.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "0a8b0b0942e83dd6",
+        "chunk_type": "theoreme",
+        "competences": [
+          "résoudre"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "concept"
+      },
+      "start_line": 73,
+      "end_line": 86
+    },
+    {
+      "text": "Théorème 4 (Petit théorème de Fermat). Pour p premier : np ≡n [p] ; si de plus p ∤n, alors\nnp−1 ≡1 [p].\nSystèmes de numération\nEn base b ≥2, tout entier a s’écrit de façon unique\na = anbn + an−1bn−1 + · · · + a1b + a0,\n0 ≤ai < b, an ̸= 0,\nnoté a = anan−1 · · · a0 b. Ex. 1011 2 = 8 + 0 + 2 + 1 = 11.\nCritères de divisibilité\nComme 10 ≡1 [3], on a 10k ≡1 [3], donc n ≡an + · · · + a1 + a0 [3] : n est divisible par 3\nssi la somme de ses chiffres l’est (de même pour 9). Pour 2, 5, 10 : chiffre des unités ; etc.\nCours d’après Sunudaara — Arithmétique — Terminale S. Figures extraites automatiquement du PDF\nsource.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/13_Arithmetique.pdf",
+        "filename": "13_Arithmetique.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "0a8b0b0942e83dd6",
+        "chunk_type": "theoreme",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 94,
+      "end_line": 105
+    }
+  ]
+}

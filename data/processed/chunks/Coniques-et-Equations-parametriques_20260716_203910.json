@@ -1,0 +1,177 @@
+{
+  "source": "data\\raw\\exercices\\Coniques-et-Equations-parametriques.pdf",
+  "timestamp": "2026-07-16T20:39:10.106759",
+  "chunks": [
+    {
+      "text": "Exercice1 Le plan est du repère orthonormal direct \n. On considère le cercle C de\ncentre I et de rayon 1 et la droite ( ) d’équation\n. Une droite variable (D) passant par\nO, coupe le cercle C en A. et la droite ( ) en A’.\nOn note M le point de (D) tel que\nOM \nLa courbe S, lieu des points M lorsque la droite (D) varie, est appelée Strophoïde droite.\nParamétrage N1\n1. On note t la pente de la droite (D).\nMontrer que les coordonnées de M sont données par :\n2. a. Vérifier que S admet l’axe des abscisses pour axe de symétrie.\nb. Etudier les variations des fonctions\npour\n, et\nconstruire la courbe S.\n3. Calculer la distance de M à la droite ( ), puis la limite de cette distance lorsque\n.   Interpréter graphiquement.\nParamétrage N2\n1. On note  une mesure de l’angle\nMontrer que les coordonnées de M sont données par :\ntan\nsin\ncos\n(NB : Evaluer l’angle\n2. a.  Vérifier que S admet l’axe des abscisses pour axe de symétrie.\nb. Etudier les variations des fonctions\npour\n0 \n, et\nconstruire la courbe S.\n3. Calculer la distance de M à la droite (), puis la limite de cette distance lorsque\nInterpréter graphiquement.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data\\raw\\exercices\\Coniques-et-Equations-parametriques.pdf",
+        "filename": "Coniques-et-Equations-parametriques.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "1544844208945c75",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 140,
+      "end_line": 172
+    },
+    {
+      "text": "Exercice 2  Le plan P est du repère orthonormal direct \n. On considère l’ensemble (E)\ndes points M de P de coordonnées\nvérifiant :\nsin\ncos\nMontrer que e lieu de M est une conique C dont on précisera les éléments\ncaractéristiques.\nb. Représenter C",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data\\raw\\exercices\\Coniques-et-Equations-parametriques.pdf",
+        "filename": "Coniques-et-Equations-parametriques.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "1544844208945c75",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 223,
+      "end_line": 231
+    },
+    {
+      "text": "Exercice 3 Soit  un réel appartenant à l’intervalle\n. On considère l’équation (E)\nd’inconnue complexe z : (E)\ncos\n(cos\ncos\n1. Résoudre (E) dans C. Préciser pour quelle valeur de  l’équation admet une racine\ndouble. Donner la valeur de cette racine double.\n2. Soit P le plan complexe rapporte à un repère orthonormal. On appelle M’ et M’’ les\npoints de P dont les affixes respectifs sont les nombres z’ et z’’ solutions de (E).\nMontrer que, lorsque  varie M’ et M’’ se déplacent sur une hyperbole (H).Déterminer\nle centre, les sommets et les asymptotes de (H). Tracer (H).\n3. Montrer que lorsque décrit l’intervalle\nl’ensemble (F) décrit par les points\nM’ et M’’ est une branche de (H).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data\\raw\\exercices\\Coniques-et-Equations-parametriques.pdf",
+        "filename": "Coniques-et-Equations-parametriques.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "1544844208945c75",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "résoudre",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 271,
+      "end_line": 285
+    },
+    {
+      "text": "Exercice 4 Soit AOB un tringle équilatéral du plan oriente tel que : \nOn note H le milieu de [AB], I celui de [OB] et ( ) la médiatrice de [AB]. ON note s la\nsimilitude plane directe de centre O transformant le point A en I.\nM désigne un point quelconque du plan et M’ son image par s.\n1. a. Déterminer l’angle et le rapport de la similitude s.\nb. Construire le point C du plan tel que s(C)=A. (On justifiera la construction).\nc. Exprimer AM’ en fonction de CM.\n2. On note M’’ l’image de M par la réflexion d’axe ( ). On se propose de déterminer\nl’ensemble ( ) des points M du plan tels que A est équidistant de M’ et M’’.\na. montrer que AM’’=BM.\nb. Montrer que M appartient à () si et seulement si CM=2BM.\nc. Déterminer la nature de  ( ) puis construire ( ).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data\\raw\\exercices\\Coniques-et-Equations-parametriques.pdf",
+        "filename": "Coniques-et-Equations-parametriques.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "1544844208945c75",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 297,
+      "end_line": 308
+    },
+    {
+      "text": "Exercice 5 Le plan P est du repère orthonormal direct \n. On considère l’ensemble (E)\ndes points M de P de coordonnées\nvérifiant l’équation :\n(1)\n1. En interprétant géométriquement l’équation (1), démontrer que (E) est une conique de\nfoyer O et de directrice () d’équation\nDonner la nature et l’excentricité de (E).\nDans toute la suite de l’exercice, M désigne un point de (E) et une détermination de\nl’angle \na. Déduire de l’équation (1) une relation du premier degré entre OM et l’abscisse x de M.\nb. Démontrer que\ncos\n3. On suppose ici que  appartient à\nLa droite (OM) coupe ( ) en I et recoupe (E) en un point M’.\na. Démontrer que\nOM \nest une constante indépendante de M.\nb. Démontrer que",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data\\raw\\exercices\\Coniques-et-Equations-parametriques.pdf",
+        "filename": "Coniques-et-Equations-parametriques.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "1544844208945c75",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 376,
+      "end_line": 394
+    },
+    {
+      "text": "Exercice 6 ABCD est un carré ; à tout point M du plan on associe son projeté m sur (BD)\nselon la direction de (AD).\nDéterminer et construire l’ensemble des points M tels que\nMA \n(On pourra introduire le projeté orthogonal H de M sur (BD))\nc. Déterminer la nature de ( ) puis construire ( ).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data\\raw\\exercices\\Coniques-et-Equations-parametriques.pdf",
+        "filename": "Coniques-et-Equations-parametriques.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "1544844208945c75",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "construire"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 399,
+      "end_line": 404
+    }
+  ]
+}

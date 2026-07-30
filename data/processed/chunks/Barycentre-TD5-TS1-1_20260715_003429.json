@@ -1,0 +1,202 @@
+{
+  "source": "data/raw/exercices/Barycentre-TD5-TS1-1.pdf",
+  "timestamp": "2026-07-15T00:34:29.191837",
+  "chunks": [
+    {
+      "text": "TS1                                                                                                                     M.NDOYE\nSérie d’exercices\n: Calcul barycentriqueExercice 1\nDémontrer deux tétraèdres ABCD et A’B’C’D’ ont\nmême centre de gravité si, et seulement si :\nEst-ce le cas lorsque les points A’, B’, C’ et D sont les\ncentres de gravité respectifs des triangles BCD, CDA,\nDAB et ABC?",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "S1",
+        "source": "data/raw/exercices/Barycentre-TD5-TS1-1.pdf",
+        "filename": "Barycentre-TD5-TS1-1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "be8a2f75d41546c7",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "course"
+      },
+      "start_line": 18,
+      "end_line": 25
+    },
+    {
+      "text": "Exercice 2\n1) Soit E l’ensemble de points M du plan P dont les\ncoordonnées, dans un repère de P, vérifient\ny \nétant deux\npoints de E, on considère le barycentre G de ces\npoints affectés des coefficients\n, avec\n. Calculer les coordonnées \nG et montrer que\n2) .\nEtablir par récurrence sans nouveau calcul que,\nsi A1, A2,…, An appartiennent à E, leur\nisobarycentre appartient à E.\nOn considère le cas où les points A1, A2,…, An\nd’abscisses a1, a2,…, an sont sur la courbe\nd’équation\ny \n. Déduire de a) l’inégalité\nsuivante :\n...\n...",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "S1",
+        "source": "data/raw/exercices/Barycentre-TD5-TS1-1.pdf",
+        "filename": "Barycentre-TD5-TS1-1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "be8a2f75d41546c7",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 99,
+      "end_line": 120
+    },
+    {
+      "text": "Exercice 3\nDans le plan P on considère un triangle équilatéral\nABC. On pose :\nDéterminer le barycentre G du système (A, 2),\n(B,1), (C, 1).\nDéterminer et construire l’ensemble E1 des points\nM du plan qui vérifient :\nDéterminer et construire l’ensemble E2 des points\nM du plan qui vérifient :",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "S1",
+        "source": "data/raw/exercices/Barycentre-TD5-TS1-1.pdf",
+        "filename": "Barycentre-TD5-TS1-1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "be8a2f75d41546c7",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "construire"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 167,
+      "end_line": 175
+    },
+    {
+      "text": "Exercice 4\nDans le plan P on considère un triangle rectangle\nABC, d’hypoténuse \nBC  de longueur 2a. Soit f\nl’application :\nDéterminer m pour que\nsoit un vecteur\nconstant\net calculer\nen fonction de AB\net AC .\nOn prend\n. Démontrer que le barycentre\nG du système (A, 4), (B,-1), (C, -1) est\nsymétrique par rapport à A du milieu I de \nBC .\nDéterminer l’ensemble :\n\n\n(On remarquera que\nA ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "S1",
+        "source": "data/raw/exercices/Barycentre-TD5-TS1-1.pdf",
+        "filename": "Barycentre-TD5-TS1-1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "be8a2f75d41546c7",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 234,
+      "end_line": 254
+    },
+    {
+      "text": "Exercice 5\nSoit, dans le plan P, un carré de coté de longueur c.\non considère un réel\nl’application du plan\ndans lui-même :\n,telle que :\nDéterminer, suivant les valeurs de , la nature et\nles éléments caractéristiques de\nDéterminer, puis construire, l’ensemble E1 des\npoints M du plan P tels que :\nDéterminer, puis construire, l’ensemble E2 des\npoints M du plan P tels que :\nDéterminer, puis construire, l’ensemble E2 des\npoints M du plan P tels que :\n).(",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "S1",
+        "source": "data/raw/exercices/Barycentre-TD5-TS1-1.pdf",
+        "filename": "Barycentre-TD5-TS1-1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "be8a2f75d41546c7",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "construire"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 340,
+      "end_line": 354
+    },
+    {
+      "text": "Exercice 6\nDans le plan P, on donne un triangle équilatéral ABC\ntel que AB = 1. Soit A’ le milieu du segment \nBC .\nMontrer que le milieu G du segment \nest\nle barycentre de A, B, C respectivement affectés\ndes coefficients 2, 1, 1.\nSoit h l’application de P dans P qui, à tout point\nM de P, associe le point M’ de P tel que :\nMontrer que h est une homothétie dont on\nprécisera le centre et le rapport.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "S1",
+        "source": "data/raw/exercices/Barycentre-TD5-TS1-1.pdf",
+        "filename": "Barycentre-TD5-TS1-1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "be8a2f75d41546c7",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 370,
+      "end_line": 381
+    },
+    {
+      "text": "Exercice 7\nI. Soit O, A, B et C quatre points non coplanaires de\nl’espace E. On désigne par R le repère cartésien\n, et on rapporte E à ce repère.\nDéterminer une équation cartésienne du plan\n(ABC). Déterminer une équation cartésienne\ndu plan π parallèle à (ABC) et passant par O.\nSoit k un réel. Caractériser géométriquement\nl’ensemble des points de E dont les\ncoordonnées\n(x, y, z) vérifient :\nSoit V un vecteur non nul, de coordonnées\n(a, b, c) dans la base \nDécrire l’ensemble Δ des points de E dont les\ncoordonnées sont de la forme\n, où α est un réel\nquelconque.\nMontrer que Δ est inclus dans le plan (ABC) si\net seulement si l’on a :\nII. On désigne par E’ l’ensemble E\\π.\nSoit M un point de l’ensemble E’, de\ncoordonnées (x, y, z) dans R. On lui associe le\nbarycentre M’ du système\n. Montrer que l’on\ndéfinit ainsi une application de f de l’ensemble\nE’dans le plan (OAB).\nOn désigne par G l’isobarycentre de\nDéterminer l’ensemble des points\nM de E’tels que :f(M) = G.\nSoit N un point du plan (OAB). Montrer qu’il\nexiste un unique point M1 appartenant au plan\n(ABC) et tel que :\nf(M1) = N. Montrer que l’ensemble des\nantécédents de N est la droite (OM1) privée du\npoint O. Déterminer f(E’).\nSoit π’un plan strictement parallèle à π.\nMontrer que l’application f détermine une\nbijection de π’ sur le plan (OAB).\nOn désigne par K le milieu de \nAB et par L\nla droite\n. Déterminer l’ensemble\nf(L∩ E’). cet ensemble est-t-il une droite ?\nSoit D une droite incluse dans le plan (ABC).\nMontrer que f(D) est une droite.\nIII. On se propose de déterminer géométriquement\nl’image M’ d’un point M par f.\nSoit P un point de la droite (AB). Montrer que\nP’ appartient à la droite (OA). Donner une\nconstruction géométrique du point P’. Faire\nune figure dans le plan (OAB).\nSoit Q un point de la droite (BC). Montrer que\nQ’ appartient à la droite (AB). Donner une\nconstruction géométrique du point Q’. Faire\nune figure dans le plan (ABC).\nSoit M1 un point du plan (ABC). Donner une\nconstruction du point M1\n’. Donner ensuite une\nconstruction de l’image M’ d’un point M\nquelconque de E’.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "S1",
+        "source": "data/raw/exercices/Barycentre-TD5-TS1-1.pdf",
+        "filename": "Barycentre-TD5-TS1-1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "be8a2f75d41546c7",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 474,
+      "end_line": 533
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+# backend/requirements.txt
+torch>=2.0.0
+transformers>=4.35.0
+pillow>=10.0.0
+pymupdf>=1.23.0
+pypdf2>=3.0.0
+pytesseract>=0.3.0
+python-docx>=0.8.0
+beautifulsoup4>=4.12.0
+markdownify>=0.11.6
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+# requirements.txt
+# Epingle a 1.18.0 (version reellement validee) : QdrantClient.search() a ete
+# supprime au profit de query_points() dans les versions recentes de
+# qdrant-client, cassant silencieusement toute recherche RAG (voir
+# SPRINT2_FUNCTIONAL_AND_PEDAGOGICAL_DIAGNOSTIC.md). Le code
+# (backend/app/rag/vector_indexer/qdrant_client.py) a ete corrige pour
+# utiliser query_points(), mais la borne ">=1.9.0" seule ne garantissait pas
+# la reproductibilite face a une future rupture d'API similaire.
+qdrant-client==1.18.0
+sentence-transformers>=2.2.0
+scikit-learn>=1.3.0
+
+
+# ---------- Étape 1-3 : Agents (LangGraph), Outils math, Mémoire élève ----------
+langgraph>=0.2.0
+langchain-core>=0.3.0
+sympy>=1.12
+matplotlib>=3.8.0
+numpy>=1.26.0
+sqlalchemy>=2.0.0
+psycopg[binary]>=3.1.0  # driver PostgreSQL (retombe sur sqlite si DATABASE_URL absent)
+fastapi>=0.110.0
+uvicorn>=0.27.0
+pydantic>=2.6.0
+ollama>=0.2.0
+requests>=2.31.0
+# nougat-ocr>=0.1.17  # DESACTIVE pour l'installation Windows locale : sa dependance
+#   transitive "pyarrow" (via datasets[vision]) n'a pas de roue precompilee pour
+#   Python 3.12 sur Windows et echoue a se compiler depuis les sources (absence de
+#   toolchain Arrow C++). Optionnel par conception (voir nougat_adapter.py, repli
+#   PyMuPDF automatique si absent) : reinstaller manuellement plus tard si besoin,
+#   idealement avec un GPU (cf. README.md, section Nougat OCR).
+email-validator>=2.1.0
+pytest>=8.0.0  # requis par run_tests.sh / les tests unitaires, absent jusqu'ici de requirements.txt
+# Epingle a 6.20.0 (version reellement validee avec le reste de la stack sur cette
+# machine). Tentative initiale de revenir a gradio 4.44.x (format "tuples" historique
+# de gr.Chatbot) : abandonnee, car gradio-client 1.3.0 impose "websockets<13" (incompatible
+# avec langgraph-sdk/langsmith qui exigent >=14/>=15) et gradio 4.44.1 importe HfFolder,
+# supprime de huggingface_hub>=1.x (requis par transformers). frontend/gradio_app.py a donc
+# ete adapte au format "messages" (list[dict role/content]) de Gradio 6.x, seule option sans
+# impact sur les dependances du backend (LangGraph/transformers). La borne ">=4.44.0" seule
+# laissait pip resoudre n'importe quelle version future, sans garantie de reproductibilite.
+gradio==6.20.0

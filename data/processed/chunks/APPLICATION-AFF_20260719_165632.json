@@ -1,0 +1,33 @@
+{
+  "source": "data/raw/exercices/APPLICATION-AFF.pdf",
+  "timestamp": "2026-07-19T16:56:32.046169",
+  "chunks": [
+    {
+      "text": "I. Soit O, A, B et C quatre points non coplanaires de l’espace E. On désigne par R le repère cartésien\n(O;⃗\nOA,⃗\nOB,⃗\nOC)\n, et on rapporte E à ce repère.\nDéterminer une équation cartésienne du plan (ABC). Déterminer une équation cartésienne du plan π\nparallèle à (ABC) et passant par O.\nSoit k un réel. Caractériser géométriquement l’ensemble des points de E dont les coordonnées\n(x, y, z) vérifient : x+y+z=k\nSoit ⃗V\nun vecteur non nul, de coordonnées   (a, b, c) dans la base\nOA ,⃗\nOB,⃗\nOC)\nDécrire l’ensemble Δ des points de E dont les coordonnées sont de la forme\n(1+αa,αb,αc )\n, où α est\nun réel quelconque.\nMontrer que Δ est inclus dans le plan (ABC) si et seulement si l’on a : a+b+c=0\nII. On désigne par E’ l’ensemble E\\π.\nSoit M un point de l’ensemble E’, de coordonnées (x, y, z) dans R. On lui associe le barycentre M’ du\nsystème\n{(O, x),( A , y),(B , z)}\n. Montrer que l’on définit ainsi une application de f de l’ensemble\nE’dans le plan (OAB).\nOn désigne par G l’isobarycentre de\n{O , A ,B}\nDéterminer l’ensemble des points M de E’tels que :f(M)\n= G.\nSoit N un point du plan (OAB). Montrer qu’il existe un unique point M1 appartenant au plan (ABC) et tel\nque :\nf(M1) = N. Montrer que l’ensemble des antécédents de N est la droite (OM1) privée du point O.\nDéterminer f(E’).\nSoit π’un plan strictement parallèle à π. Montrer que l’application f détermine une bijection de π’ sur le\nplan (OAB).\nOn désigne par K le milieu de\n[ AB]\net par L la droite (K,⃗\nOC)\n. Déterminer l’ensemble      f(L∩ E’).\ncet ensemble est-t-il une droite ?\nSoit D une droite incluse dans le plan (ABC). Montrer que f(D) est une droite.\nIII. On se propose de déterminer géométriquement l’image M’ d’un point M par f.\nSoit P un point de la droite (AB). Montrer que P’ appartient à la droite (OA). Donner une construction\ngéométrique du point P’. Faire une figure dans le plan (OAB).\nSoit Q un point de la droite (BC). Montrer que Q’ appartient à la droite (AB). Donner une construction\ngéométrique du point Q’. Faire une figure dans le plan (ABC).\nSoit M1 un point du plan (ABC). Donner une construction du point M1\n’. Donner ensuite une construction\nde l’image M’ d’un point M quelconque de E’.",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/APPLICATION-AFF.pdf",
+        "filename": "APPLICATION-AFF.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "546fddc794bf8ca8",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "course"
+      },
+      "start_line": 23,
+      "end_line": 73
+    }
+  ]
+}

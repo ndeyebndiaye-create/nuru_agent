@@ -1,0 +1,230 @@
+{
+  "source": "data/raw/exercices/Barycentre-TD4-TS1.pdf",
+  "timestamp": "2026-07-19T19:39:06.595787",
+  "chunks": [
+    {
+      "text": "Exercice 1\nOn considère dans l’espace un cube de 3 cm de côté,\nnoté ABCDEFGH.\nSoit l le barycentre des points pondérés(E ; 2) et (F ; 1),\nJ celui de (F ; 1) et (B; 2) et enfin K celui de    (G; 2) et\n(C; 1).\nOn veut déterminer l’ensemble des points M équidis-\ntants de I, J et K. On note ∆ cet ensemble.\nFaire une figure et placer les points l, J et K.\nSoit Ω le point de ∆ situé dans le plan (IJK). Que re-\nprésente ce point pour le triangle IJK?\nPour la suite de l’exercice, on se place maintenant\ndans le repère orthonormal suivant :\nDonner les coordonnées des points l, J et K.\nSoit P (2 ; 0 ; 0) et Q (1 ; 3 ; 3) deux points que l’on\nplacera sur la figure.\nDémontrer que la droite (PQ) est orthogonale au\nplan (IJK).\nSoit M un point de coordonnées (x ; y ; z).\na. Démontrer que M appartient à ∆si, et seulement\nsi, le triplet (x ; y ; z) est solution d’un système de\ndeux équations linéaires que l’on écrira. Quelle est\nla nature de ∆?\nb. Vérifier que P et Q appartiennent à ∆. Tracer ∆\nsur la figure.\na. Déterminer un vecteur normal au plan (IJK) et en\ndéduire une équation cartésienne de ce plan.\nb. Déterminer alors les coordonnées exactes de Ω.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD4-TS1.pdf",
+        "filename": "Barycentre-TD4-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ec174c34405967bb",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 27,
+      "end_line": 54
+    },
+    {
+      "text": "Exercice 2\nABCDEFGH est le cube d’arête 1 qui sera complété.\nL’espace est rapporté au repère orthonormal\nPartie A. Un triangle et son centre de gravité.\nDémontrer que le triangle BDE est équilatéral.\nSoit I le centre de gravité du triangle BDE.\na. Calculer les coordonnées de I.\nb. Démontrer que\n1 AG\nAI \nQue peut-on en\ndéduire pour les points A, I, G?\nProuver que I est le projeté orthogonal de A sur le\nplan (BDE).\nPartie B. Une droite particulière\nPour tout nombre réel k, on définit deux points Mk et\nNk , ainsi qu’un plan Pk de la façon suivante :\n• Mk est le point de la droite (AG) tel que\nAMK \n• Pk est le plan passant par Mk et parallèle au plan\n(BDE);\n• Nk  est le point d’intersection du plan Pk et de la droite\n(BC).\nIdentifier\nen utilisant des points\ndéjà définis. Calculer la distance\nCalcul des coordonnées de Nk .\na. Calculer les coordonnées de Mk dans le repère\nb. Déterminer une équation du plan Pk dans ce re-\npère.\nc. En déduire que le point Nk a pour coordonnées\n(1 ; 3k −1 ; 0).\nPour quelles valeurs de k la droite (MkNk ) est-elle\northogonale à  la fois aux droites (AG) et (BC) ?\nPour quelles valeurs de k la distance MkNk est-elle\nminimale ?\nTracer sur la figure  la section du cube par le plan\nTracer la droite\n1 N\nsur la même fi-\ngure.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD4-TS1.pdf",
+        "filename": "Barycentre-TD4-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ec174c34405967bb",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 113,
+      "end_line": 153
+    },
+    {
+      "text": "Exercice 3\nOn considère le tétraèdre ABCD; on note I milieu du\nsegment [AB] et J celui de [CD].\na. Soit G1 le barycentre du système de points pon-\ndérés {(A, 1) ; (B, 1) ; (C, −1) ; (D, 1)}. Exprimez\nen fonction de CD . Placer  les points I, J et\nG1.\nb. Soit G2 le barycentre du système de points pon-\ndérés {(A, 1) ; (B, 1) ; (D, 2)}.\nDémontrez que G2 est le milieu du segment [ID].\nPlacez G2.\nc. Démontrez que IG1DJ est un parallélogramme.\nEn déduire la position de G2 par rapport aux points\nG1 et J.\nSoit m un réel. On note Gm le barycentre du sys-\ntème de points pondérés {(A, 1);(B, 1); (C, m−2); (D,\nm)}.\n1/3\na. Précisez l’ensemble E des valeurs de m pour les-\nquelles le barycentre Gm existe.\nDans les questions qui suivent, on suppose que le\nréel m appartient l’ensemble E.\nb. Démontrez que Gm, appartient au plan (ICD).\nc. Démontrez que le vecteur\nest constant.\nd. En déduire l’ensemble F des points Gm lorsque m\ndécrit l’ensemble E.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD4-TS1.pdf",
+        "filename": "Barycentre-TD4-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ec174c34405967bb",
+        "chunk_type": "exercice",
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 164,
+      "end_line": 190
+    },
+    {
+      "text": "Exercice 4\nL’espace est muni d’un repère orthonormal\nPartie A\n(Cette partie constitue une restitution organisée de\nconnaissances)\nSoit a, b, c et d des réels tels que (a, b, c) ≠ (0, 0, 0).\nSoit P le plan d’équation ax +by +cx +d = 0.\nOn considère le point I de coordonnées (x1, y1, z1) et le\nvecteur n de coordonnées (a, b, c).\nLe but de cette partie est de démontrer que la distance\nde I au plan P est égale à\nSoit ∆ la droite passant par I et orthogonale au plan\nP. Déterminer, en fonction de a, b, c, x1, y1 et z1, un\nsystème d’équations paramétriques de (∆).\nOn note H le point d’intersection de (∆) et P.\na. Justifier qu’il existe un réel k tel que\nIH \nb. Déterminer l’expression de k en fonction de a, b,\nc, d, x1, y1 et z1.\nc. En déduire que\nPartie B\nLe plan Q d’équation x − y + z −11 = 0 est tangent à une\nsphère S de centre le point Ω de coordonnées (1, −1, 3)\nDéterminer le rayon de la sphère S.\nDéterminer un système d’équations paramétriques\nde la droite (∆) passant par Ω et orthogonale au\nplan Q\nEn déduire les coordonnées du point d’intersection\nde la sphère S et du plan Q.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD4-TS1.pdf",
+        "filename": "Barycentre-TD4-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ec174c34405967bb",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 249,
+      "end_line": 277
+    },
+    {
+      "text": "Exercice 5\nL’espace est muni d’un repère orthonormal\nOn considère le plan P passant par B(1 ; −2 ; 1) et\nde vecteur normal\net le plan R\nd’équation cartésienne x +2y −7= 0.\na. Démontrer que les plans P et R sont perpendicu-\nlaires\nb. Démontrer que l’intersection des plans P et R est\nla droite(∆) passant par le point C (−1 ; 4 ; −1) et de\nvecteur directeur\n2 \nc. Soit le point A (5 ; −2 ; −1). Calculer la distance\ndu point A au plan P, puis la distance du point A au\nplan R.\nd. Déterminer la distance du point A à la droite (∆).\na. Soit, pour tout nombre réel t , le point Mt de co-\nordonnées (1+2t ; 3−t ; t ). Déterminer en fonction\nde t la longueur AM. On note ϕ(t ) cette longueur.\nOn définit ainsi une fonction ϕ de R dans R.\nb. Étudier le sens de variations de la fonction ϕ sur\nR ; préciser son minimum.\nc. Interpréter géométriquement la valeur de ce mi-\nnimum.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD4-TS1.pdf",
+        "filename": "Barycentre-TD4-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ec174c34405967bb",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 306,
+      "end_line": 329
+    },
+    {
+      "text": "Exercice 6\nSoit ABCD un tétraèdre tel que ABC, ABD et ACD soient\ntrois triangles isocèles rectangles en A avec\nOn appelle A1 le centre de gravi-\nté du triangle BCD.\nMontrer que la droite (AA1) est orthogonale au\nplan (BCD). On pourra par exemple calculer\nAA .\n1 BC\nEn exprimant de deux façons différentes le volume\ndu tétraèdre ABCD, calculer la longueur du seg-\nment [AA1].\nOn appelle G l’isobarycentre du tétraèdre ABCD et\nI le milieu de [BC].\na. Montrer que G appartient au segment [AA1] et\ndéterminer la longueur AG.\nb. Déterminer l’ensemble des points M de l’espace\ntels que\nSoit H le symétrique de A par rapport à G.\na. Démontrer que\nb. Démontrer l’égalité\nc. En déduire que HC = HD.\nOn rappelle que le volume d’une pyramide de hauteur\nh et d’aire de base associée b est\n1 bh\nV ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD4-TS1.pdf",
+        "filename": "Barycentre-TD4-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ec174c34405967bb",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 380,
+      "end_line": 405
+    },
+    {
+      "text": "Exercice 7\n2/3\nOn appelle hauteur d’un tétraèdre toute droite conte-\nnant l’un des sommets de ce tétraèdre et perpendicu-\nlaire au plan de la face opposée à ce sommet.\nUn tétraèdre est orthocentrique si ses quatre hauteurs\nsont concourantes.\nPartie A\nOn considère un tétraèdre ABCD et on note H le proje-\nté orthogonal du point A sur le plan (BCD).\nDémontrer que, si les hauteurs du tétraèdre ABCD is-\nsues des points A et B sont concourantes, alors la\ndroite (BH) est une hauteur du triangle BCD.\nPartie B\nDans l’espace muni d’un repère orthonormal\non donne les points\na. Vérifier qu’une équation cartésienne du plan\n(BCD) est : −2x −3y +4z −13= 0.\nb. Déterminer les coordonnées du point H, projeté\northogonal du point A sur le plan (BCD).\nc. Calculer le produit scalaire\n.CD\nd. Le tétraèdre ABCD est-il orthocentrique ?\nOn définit les points I(1 ; 0 ; 0), J(0 ; 1 ; 0),\nK(0 ; 0 ; 1). Le tétraèdre OIJK est-il orthocentrique ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD4-TS1.pdf",
+        "filename": "Barycentre-TD4-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ec174c34405967bb",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 463,
+      "end_line": 487
+    },
+    {
+      "text": "Exercice 8\nL’espace E est rapporté à un repère orthonormal\n. On considère les points A, B et C de coor-\ndonnées respectives (1 ; 0 ; 2), (1 ; 1 ; 4) et          (−1 ; 1 ;\n1).\na. Montrer que les points A, B et C ne sont pas ali-\ngnés.\nb. Soit n le vecteur de coordonnées (3 ; 4 ; −2).\nVérifier que le vecteur n est orthogonal aux vec-\nteurs AB et AC . En déduire une équation carté-\nsienne du plan (ABC).\nSoient P1 et P2 les plans d’équations respectives\n2x+y +2z+1 = 0 et x −2y +6z = 0.\na. Montrer que les plans P1 et P2 sont sécants se-\nlon une droite D dont on déterminera un système\nd’équations paramétriques.\nb. La droite D et le plan (ABC) sont-ils sécants ou\nbien parallèles?\nSoit t un réel positif quelconque. On considère le\nbarycentre G des points A, B et C affectés des co-\nefficients respectifs 1, 2 et t.\na. Justifier l’existence du point G pour tout réel po-\nsitif t.\nSoit I le barycentre des points A et B affectés des\ncoefficients respectifs 1 et 2. Déterminer les coor-\ndonnées du point I. Exprimer le vecteur IG  en\nfonction du vecteur IC .\nb. Montrer que l’ensemble des points G lorsque t\ndécrit l’ensemble des nombres réels positifs ou\nnuls est le segment [IC] privé du point C. Pour\nquelle valeur de t, le milieu J du segment [IC] coïn-\ncide-t-il avec G ?\nBon courage !\n3/3",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Barycentre-TD4-TS1.pdf",
+        "filename": "Barycentre-TD4-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ec174c34405967bb",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 500,
+      "end_line": 533
+    }
+  ]
+}

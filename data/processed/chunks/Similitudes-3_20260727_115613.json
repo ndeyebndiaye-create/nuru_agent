@@ -1,0 +1,257 @@
+{
+  "source": "data/raw/exercices/Similitudes-3.pdf",
+  "timestamp": "2026-07-27T11:56:13.647727",
+  "chunks": [
+    {
+      "text": "Exercice 1\nSoient, dans le plan complexe P, deux points M et M’ d’affixes respectives z et z’ tels que l’on ait :\nz’ = (1 + i) z + 1\n1°) Calculer le module et un argumentde1 + i.\n2°) Déterminer les éléments géométriques de la transformation du plan complexe qui, à tout point M\nd’affixe z, associe le point M’ d’affixe (1 + i) z +1.\n3°) Déterminer l’ensemble des M du plan complexe tels que les vecteurs OM et\nOM aient la même\nnorme.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Similitudes-3.pdf",
+        "filename": "Similitudes-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2ceb73a078af32ca",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 7,
+      "end_line": 15
+    },
+    {
+      "text": "Exercice 2\nDans le plan complexe soit ƒ la similitude qui, à tout point M d’affixe z, associe le point M’ d’affixe z’\ndéfinie par :\n1°) Déterminer le rapport, l’angle et le centre ƒ.\n2°) soient z = x + iy et z’ = x’ + iy’,les formes algébriques des nombres complexe z et z’. Exprimer x’ et y’ en\nfonction de x et de y.\n3°) Quelle est l’image par ƒ de la droite d’équation x + 2y – 1 = 0 ?\n4°) Quelle est l’image par ƒ du cercle (C) de centre le point d’affixe i et de rayon\n2 ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Similitudes-3.pdf",
+        "filename": "Similitudes-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2ceb73a078af32ca",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 26,
+      "end_line": 34
+    },
+    {
+      "text": "Exercice 3\nSoit ƒ la transformation du plan complexe qui, à tout point M d’affixe z associe le point M’ d’affixe z’\ndéfinie par :\nz’ = 2(1 + i\n3 )z + 3.\n1°) Quelle est la nature de ƒ? Préciser ses éléments caractéristiques.\n2°) Soit D, droite d’équation : x - y\n3 = 0. Quelle est l’équation de l’image ƒ(D) de  D?\n3°) Quelle est l’image par ƒ du cercle de rayon 2 dont le centre est le point I(2i) ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Similitudes-3.pdf",
+        "filename": "Similitudes-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2ceb73a078af32ca",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 35,
+      "end_line": 43
+    },
+    {
+      "text": "Exercice 4\nDans plan complexe, soit ƒ la transformation qui au point M d’affixe z associe le point M’ d’affixe z’\ndéfinie par :\nz’ = (1 + i\n3 ) z +\n3 (1 – i).\n1°) démontrer que ƒ admet un unique point invariable I ; déterminer l’affixe de I.\nCaractériser géométriquement ƒ.\n2°) Soit G le barycentre des points I, M, M’affectés respectivement les coefficients 3, 2, 1. Calculer les\ncoordonnées de G en fonction de celles de M.\n3°) On suppose que le point M décrit la droite d’équation : y = x.\nQuel l’ensemble décrit par le point G?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Similitudes-3.pdf",
+        "filename": "Similitudes-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2ceb73a078af32ca",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 44,
+      "end_line": 55
+    },
+    {
+      "text": "Exercice 5\nSoit b un nombre complexe. Soit ƒ l’application de C dans C définie par :\nƒ(z) = (1 + 3 i) z + b.\nsoit F l’application du plan complexe dans lui-même qui, à tout point M d’affixe z associe le point M’\nd’affixe ƒ (z)\n1°) Déterminer b pour que le point A de coordonnées\n\n\nsoit invariant par F.\n2°) Déterminer les éléments géométriques de F.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Similitudes-3.pdf",
+        "filename": "Similitudes-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2ceb73a078af32ca",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 63,
+      "end_line": 72
+    },
+    {
+      "text": "Exercice 6\nDans le plan affine euclidien muni d’un repère orthonormé \non considère les points A et B\nd’affixes respectives :\n1 + 3i et 2i.\n1°) Soit S la similitude plane directe de centre B qui transforme O en A. On note z’ l’affixe du point M’\ntransformé par S du point M d’affixe z.\na) Calculer le module et un argument du nombre complexe affixe du vecteur AB .\nb) Calculer l’angle et le rapport de la similitude S.\nc) Exprimer z’ en fonction de z.\n2°) Soit T la transformation qui, à tout point M d’affixe z, associe le point M’’ d’affixe z’’ = iz + 3.\nDonner la nature de T en précisant ses éléments caractéristiques. On note \nle point invariant\npar la transformation T.\n3°) Montrer que les points  A, Ω, B sont les sommets d’un triangle isocèle.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Similitudes-3.pdf",
+        "filename": "Similitudes-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2ceb73a078af32ca",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 82,
+      "end_line": 96
+    },
+    {
+      "text": "Exercice 7\nLe triangle ABC est quelconque, M est le milieu du segment \nBC . Les triangles BAB’ et CAC’ sont\nrectangles isocèles de sommet A et extérieurs à ABC. Le but de l’exercice est de est de montrer que les\ndroites (AM) et (B’C’) sont perpendiculaires et que\n1) Méthode géométrique\na) Soit h l’homothétie de centre B et de rapport 2. Déterminer les images des points A et M par h.\nTrouver une rotation r telle que roh transforme A en B’ et M en C’.\nb) En déduire que les droites (AM) et (B’C’) sont perpendiculaires et que\n2) Utilisation des nombres complexes\nLe plan est rapporté à un repère orthonormal direct d’origine A dans lequel B et C ont pour affixes\nrespectives b et c.\na) Quelles sont les affixes m, b’, c’ des points M’, B’, C ?\nb) Retrouver les résultats du 1).b).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Similitudes-3.pdf",
+        "filename": "Similitudes-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2ceb73a078af32ca",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 114,
+      "end_line": 127
+    },
+    {
+      "text": "Exercice 8\nLe plan complexe est muni d’un repère orthonormal \n. Soient les points A, A′, B et B′ d’affixes\nrespectives : zA = 1−2i, zA′ = −2+4i, zB = 3−i, zB′ = 5i.\n1. a. Placer les points A, A′, B et B′ dans le plan complexe. Monter que ABB′A′ est un rectangle.\nb. Soit s la réflexion telle que s(A)=A′ et s(B)=B′. On note ( ) son axe.\nDonner une équation de la droite (.) et la tracer dans le plan complexe.\nc. On note z′ l’affixe du point M′ image par s du point M d’affixe z. Montrer que\n2. Soit g l’application du plan dans lui même qui à tout point M d’affixe z associe le point P d’affixe z′\ndéfinie par :\na. On note C et D les images respectives de A et B par g ; déterminer les affixes de C et D et placer ces\npoints dans le plan complexe.\nb. Soit Ω le point d’affixe 1+i et soit h l’homothétie de centre Ω et de rapport −2.\nMontrer que C et D sont les images respectives de A′ et B′ par h.\nc. Soit M1 d’affixe z1 l’image par h de M, d’affixe z. Donner les éléments caractéristiques de h−1 et exprimer\nz en fonction de z1.\n3. On pose f = h−1 ◦ g.\na. Déterminer l’expression complexe de f.\nb. Reconnaître f. En déduire une construction du point P, image par g d’un point M quelconque donné du\nplan.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Similitudes-3.pdf",
+        "filename": "Similitudes-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2ceb73a078af32ca",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 172,
+      "end_line": 191
+    },
+    {
+      "text": "Exercice 9\nSoit A0 et B0 deux points du plan orienté tels que A0B0 = 8. On prendra le centimètre pour unité.\nSoit S la similitude de centre A0, de rapport 2\n1 et d’angle\nOn définit une suite de points (Bn) de la façon suivante : pour tout entier naturel  n, Bn+1 = S(Bn).\n1. Construire B1, B2, B3 et B4.\n2. Montrer que, pour tout entier naturel n, les triangles A0BnBn+1 et A0Bn+1Bn+2 sont semblables.\n3. On définit la suite (ln) par : pour tout entier naturel n, ln = BnBn+1.\na. Montrer que la suite (ln) est une suite géométrique et préciser sa raison.\nb. Exprimer ln en fonction de n et de l0.\nc. On pose Σn = l0 +l1 +···+ln. Déterminer la limite de Σn lorsque n tend vers +∞.\n4. a. Résoudre l’équation 3x −4y = 2 où x et y sont deux entiers relatifs.\nb. Soit  la droite perpendiculaire en A\n0 à la droite (A0B0).\nPour quelles valeurs de l’entier naturel n, Bn appartient-il à ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Similitudes-3.pdf",
+        "filename": "Similitudes-3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2ceb73a078af32ca",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "résoudre",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 197,
+      "end_line": 211
+    }
+  ]
+}

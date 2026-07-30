@@ -1,0 +1,419 @@
+{
+  "source": "data\\raw\\exercices\\Integrales-7.pdf",
+  "timestamp": "2026-07-16T20:39:17.702659",
+  "chunks": [
+    {
+      "text": "Exercice1\nCalculer les intégrales I suivantes :\n; b)\ntan dx\ncos\n;   d)\n;   f)\ndt\n;  h)\ncos\ntan\n;  j)\nxdx\nsin\nsin\nsin\ncos\ncos\ntan\ntan",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "source": "data\\raw\\exercices\\Integrales-7.pdf",
+        "filename": "Integrales-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2bbf4e71251562bf",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 218,
+      "end_line": 237
+    },
+    {
+      "text": "Exercice 3\nCalculer en utilisant une ou des intégrations par parties.\na) I= \nxdx\ncos\n; b)\n;  c) I=\ncos\nd) I= \ntdt\n; e) I= \nxdx\nf) I= \n;g) I= \nln(\ntdt\nsin\ncos\n;  i)\nxdx\nsin\nExercise 4\nOn pose,\nn \ndx\na) Justifier l’existence de\nb) Démontrer que\nn \n2) On définit la suite (\n) et on pose\nn \na) Exprimer\nn \n en fonction de n et\nb) En déduire que\nU n ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "source": "data\\raw\\exercices\\Integrales-7.pdf",
+        "filename": "Integrales-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2bbf4e71251562bf",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 415,
+      "end_line": 450
+    },
+    {
+      "text": "Exercice 5\nOn donne\nCalculer\nI \n. En déduire la valeur de\nCalculer\nen fonction de n. En déduire\nComparer\nlorsque x\n. En\ndéduire sans calcul que (\n) est croissante.\nMontrer que\nx \non a\nx \n. En\ndéduire un encadrement de\n. Quelle est la limite\nde (",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "source": "data\\raw\\exercices\\Integrales-7.pdf",
+        "filename": "Integrales-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2bbf4e71251562bf",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 551,
+      "end_line": 570
+    },
+    {
+      "text": "Exercice 7  Soit f la fonction numérique de la variable\nréelle  x définie par\nln(\nEtudier les variations de f et tracer sa courbe.\nSoit un réel supérieur à 1 et D { M(x,y) ,\nCalculer l’aire\n) de\n. Etudier la limite de\nlorsque tend vers + ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "source": "data\\raw\\exercices\\Integrales-7.pdf",
+        "filename": "Integrales-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2bbf4e71251562bf",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "tracer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 642,
+      "end_line": 650
+    },
+    {
+      "text": "Exercice 8\nOn pose\nsin\ncos\nsin\nsin\nCalculer\npuis\net en déduire I\nSoit\n2 xdx\ncos\n2 xdx\nsin\nCalculer I+J  et I-J en effectuant une intégration\npar parties.\nEn déduire I et J.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "source": "data\\raw\\exercices\\Integrales-7.pdf",
+        "filename": "Integrales-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2bbf4e71251562bf",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 709,
+      "end_line": 725
+    },
+    {
+      "text": "Exercice 9\nSoit\noù n est un entier naturel\nCalculer\nen intégrant par parties.\nCalculer la limite de\nquand n tend vers +\nOn désigne par n  Z et x IR  avec\nx>1\nCalculer\ntdt\nEn déduire le calcul de\n(ln\nCalculer\nCalculer\nlim",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "source": "data\\raw\\exercices\\Integrales-7.pdf",
+        "filename": "Integrales-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2bbf4e71251562bf",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 811,
+      "end_line": 826
+    },
+    {
+      "text": "Exercice 10\nSoit la fonction définie sur \npar\n2 \nOn se propose de trouver un encadrement de l’aire A de\nl’ensemble des points\ntels que\nEtudier f et tracer\nC .\nMonter que pour tout\nx \nCalculer\nEn déduire un encadrement de\npuis un encadrement de A.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "source": "data\\raw\\exercices\\Integrales-7.pdf",
+        "filename": "Integrales-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2bbf4e71251562bf",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "tracer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 920,
+      "end_line": 933
+    },
+    {
+      "text": "Exercice 11\nSoit la suite \ndéfinie par :\ncos\nxdx\nsin\ncos\nCalculer \nxdx\ncos\nsin\n. En déduire\nen fonction de n.\nCalculer u1 ; en déduire u3 et u5.\nCalculer u0 (on pourra poser\ntan\nt \n) en déduire u2\net u4",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "source": "data\\raw\\exercices\\Integrales-7.pdf",
+        "filename": "Integrales-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2bbf4e71251562bf",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 980,
+      "end_line": 998
+    },
+    {
+      "text": "Exercice 12\nOn pose\nA l’aide d’une intégration par partie, établir la\nrelation de récurrence :\nEn déduire la valeur de\nen fonction de n.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "source": "data\\raw\\exercices\\Integrales-7.pdf",
+        "filename": "Integrales-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2bbf4e71251562bf",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1041,
+      "end_line": 1046
+    },
+    {
+      "text": "Exercice 13\nSoit\nCalculer I0.\nTrouver une formule de récurrence entre In et In-1\nCalculer In en fonction de n.\nEtudier la limite de la suite (In)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "source": "data\\raw\\exercices\\Integrales-7.pdf",
+        "filename": "Integrales-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2bbf4e71251562bf",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1067,
+      "end_line": 1072
+    },
+    {
+      "text": "Exercice 14\nOn pose\n1/.a/Par une intégration par partie, calculer I1.\nb/Montrer que si p est un entier non nul, alors :\n.En déduire I2 puis I3.\n2/.a/Montrer que la suite (Ip) est décroissante.\nb/Etablir la convergence de cette suite vers une limite\nque l’on ne cherchera pas à calculer.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "source": "data\\raw\\exercices\\Integrales-7.pdf",
+        "filename": "Integrales-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2bbf4e71251562bf",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1109,
+      "end_line": 1116
+    },
+    {
+      "text": "Exercice 15\nSoit n un entier naturel et fn la fonction définie sur\npar :\nsin\nsin\nMontrer que, pour tout n de IN, la fonction fn est\ncontinue sur\nOn pose :\nPour\nn \n, calculer\nMontrer que pour\nn \n...\nPour\np \n, calculer I2p+1 en fonction de p.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "source": "data\\raw\\exercices\\Integrales-7.pdf",
+        "filename": "Integrales-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2bbf4e71251562bf",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1223,
+      "end_line": 1239
+    },
+    {
+      "text": "Exercice 16\nSoit\net soit f la fonction\ndéfinie sur IR par :\nk x\nMontrer que l’on a :\nMontrer que pour tout\nl’on a :\nEn déduire que :\nMontrer que l’on a :\nEn déduire\nlim\npuis\nlim",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "source": "data\\raw\\exercices\\Integrales-7.pdf",
+        "filename": "Integrales-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2bbf4e71251562bf",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1372,
+      "end_line": 1385
+    },
+    {
+      "text": "Exercice 17\nSoit\nSoit p un élément de IN*. Utiliser la monotonie dela\nfonction ln pour, justifier que :\nxdx\nUtiliser 1) pour démontrer :\nxdx\nxdx\nDémontrer que (un) converge vers – 1.\nSoit\nnote\nMontrer que, pour tout n de IN*, on a :\nv \nEn déduire que (vn) converge vers e\n1 .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "source": "data\\raw\\exercices\\Integrales-7.pdf",
+        "filename": "Integrales-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2bbf4e71251562bf",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1516,
+      "end_line": 1530
+    },
+    {
+      "text": "Exercice 18\nPour tout naturel\nn \n, on pose :\n1) A l’aide d’une intégration par partie, calculer I1.\n2) Démontrer que, pour tout naturel\nn \n, on a :\n3) En déduire par récurrence que, pour tout naturel\nn \n, on a :\n...\n4) Montrer que l’on peut trouver une constante A telle\nque :\nn \nOn pourra déterminer A en\nmajorant la fonction\nn e\nsur l’intervalle\n. En déduire la limite quand n tend vers de\n...\n« L’effort fait les forts »",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Intégration",
+        "source": "data\\raw\\exercices\\Integrales-7.pdf",
+        "filename": "Integrales-7.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2bbf4e71251562bf",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1641,
+      "end_line": 1662
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "source": "data/raw/exercices/Suites-Numeriques-1.pdf",
+  "timestamp": "2026-07-19T19:54:46.552737",
+  "chunks": [
+    {
+      "text": "Exercice 1\nDémontrer par récurrence  que pour tout entier naturel n  on a :\nn n\nk k\nEn utilisant les propriétés des suites géométriques ; calculer les sommes suivantes\n( )\nT x\nS x",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/Suites-Numeriques-1.pdf",
+        "filename": "Suites-Numeriques-1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "95159888d547ecbe",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 81,
+      "end_line": 88
+    },
+    {
+      "text": "Exercice 2\nSoit\nf x\n; On se propose de démontrer que pour tout entier naturel n et tout réel x, il\nexiste des réels\na et b  et un polynôme\ng  à coefficients réels tel que\nf x\na x\nDéterminer\na b g  pour\n0,1, 2\nDémontrer par récurrence l’ existence des réels\na et b  et du polynôme\ng pour tout naturel n\nEtablir que  pour tout entier  naturel n :\n   et\n\nMontrer que la suite \ndéfinie par :\nest géométrique. Déduisez- en les\nexpressions de\na et b  en fonction de n.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/Suites-Numeriques-1.pdf",
+        "filename": "Suites-Numeriques-1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "95159888d547ecbe",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 166,
+      "end_line": 188
+    },
+    {
+      "text": "Exercice 3\nLa suite numérique \nest définie par\nu \nCalculer\niu  pour\n0,1, 2, 3, 4, 5\npuis représenter les points\nP i u\ndans un ROND\nDémontrer que  pour tout entier naturel n, les suites définies par :\nsont\narithmétiques ; calculer le terme général de\nnv  et\nw . Puis vérifier que :\nOn  désigne par (D) l’ ensemble des points\nP n u\nlorsque n décrit l’ensemble IN.\nDémontrer que (D) est inclus dans la réunion de deux droites (D1) et (D2) dont on donnera les\néquations cartésiennes et que vous dessinerez. Que peut –on dire sur la limite de ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/Suites-Numeriques-1.pdf",
+        "filename": "Suites-Numeriques-1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "95159888d547ecbe",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 254,
+      "end_line": 273
+    },
+    {
+      "text": "Exercice 4\n1°) Etudier la convergence des suites suivantes :\n;    b)\n(démontrer que\nw \n;   d)\n; (On montrera que\ncos\n; f)\n;   k)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/Suites-Numeriques-1.pdf",
+        "filename": "Suites-Numeriques-1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "95159888d547ecbe",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 383,
+      "end_line": 392
+    },
+    {
+      "text": "Exercice 5\nLa suite numérique \nest définie par :\nu \nReprésenter graphiquement la fonction\nf x\nMontrons que f(I) est inclus dans I\nRésoudre dans IR l’ équation f(x) = x . soit x la valeur dans l’ intervalle I.\nMontrer que pour tout x\nx \nMontrer que\nMontrer que\n. En déduire la limite de ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/Suites-Numeriques-1.pdf",
+        "filename": "Suites-Numeriques-1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "95159888d547ecbe",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "résoudre"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 479,
+      "end_line": 491
+    },
+    {
+      "text": "Exercice 6\nSoit f une fonction continue sur un intervalle I vérifiant  f(I) inclus dans I. On considère la\nsuite  (\ndéfinie par :\n0u  fixé et pour tout naturel n :\nf u\n1) Démontrer que si f est croissante alors la suite (\nest convergente\n2) Démontrer que si f est décroissantes alors les suites extraites\nsont\nmonotones et convergentes .\n3) Utiliser les résultats précédents pour étudier la convergence  des suites suivantes\n1 3\n;  b)\n\n;    c)\n; d)\nsin",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/Suites-Numeriques-1.pdf",
+        "filename": "Suites-Numeriques-1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "95159888d547ecbe",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 566,
+      "end_line": 583
+    },
+    {
+      "text": "Exercice 7\nSoit  une suite \ndéfinie par la relation de récurrence\np n\noù p est une\nfonction polynôme\na) Démontrer que pour tout naturel n on a :\np k\nb) Application : trouver un polynôme du troisième degré tel que :\npuis\ncalculer\nk k",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/Suites-Numeriques-1.pdf",
+        "filename": "Suites-Numeriques-1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "95159888d547ecbe",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 641,
+      "end_line": 652
+    },
+    {
+      "text": "Exercice 8\nSoit la suite \ndéfinie par\nsin\npour n non nul\n1) Montrer que pour tout x positif et non nul on a :\nsin\n2) En déduire que\n3) Montrer que\npour tout entier naturel non nul. Déduisez une nouvelle\nencadrement de\nu  et la convergence de ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/Suites-Numeriques-1.pdf",
+        "filename": "Suites-Numeriques-1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "95159888d547ecbe",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 724,
+      "end_line": 735
+    }
+  ]
+}

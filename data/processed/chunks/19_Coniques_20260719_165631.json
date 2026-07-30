@@ -1,0 +1,74 @@
+{
+  "source": "data/raw/cours/19_Coniques.pdf",
+  "timestamp": "2026-07-19T16:56:31.939093",
+  "chunks": [
+    {
+      "text": "Coniques\nClasse : Terminale S\nIntroduction\nUne conique est l’intersection d’un cône de révolution et d’un plan : cercle, ellipse, parabole,\nhyperbole (coniques propres) ; un point, une droite ou deux droites (coniques dégénérées). Toute\nconique a une équation cartésienne de la forme ax2 + 2bxy + cy2 + 2dx + 2ey + f = 0.",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/19_Coniques.pdf",
+        "filename": "19_Coniques.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "378c6e726fe06695",
+        "difficulty_level": "intermediate",
+        "chunk_category": "course"
+      },
+      "start_line": 4,
+      "end_line": 9
+    },
+    {
+      "text": "Définition par foyer, directrice et excentricité\nSoit F un foyer, D une directrice (F /∈D) et e > 0 l’excentricité. La conique Γ est l’ensemble\ndes points M tels que\nMF = e · d(M, D) = e MH,\noù H est le projeté orthogonal de M sur D.\n0 < e < 1 : ellipse;\ne = 1 : parabole;\ne > 1 : hyperbole.\nFigure 1 – Définition par foyer F, directrice D et axe focal (MF = e MH).\nSommets sur l’axe focal. Avec K projeté de F sur D : si e = 1, un seul sommet S, milieu\nde [FK] ; sinon deux sommets S, S′, barycentres de (F, 1), (K, e) et (F, 1), (K, −e).\nÉquations réduites\n3.1\nParabole (e = 1)\nDans un repère bien choisi, de paramètre p = KF :\ny2 = 2px\n(directrice x = −p\n2, sommet O).\nTangente en M0 : yy0 = p(x+x0) (règle x2 →xx0, y →y+y0\n). La tangente (MT) est la médiatrice\nde [FH].\n3.2\nEllipse (0 < e < 1)\nAvec a = OS (demi grand axe), c = OF, b =\na2 −c2 :\na2 + y2\nb2 = 1,\ne = c\nfoyers F(±c, 0),\ndirectrices x = ±a\nDeux axes de symétrie (Ox), (Oy) et un centre O ; y = ± b\na2 −x2 sur [−a; a]. Tangente en M0 :\nxx0\na2 + yy0\nb2 = 1.\nFigure 2 – Parabole (foyer F, directrice D) ; propriété de la tangente.\nFigure 3 – Ellipse (a = 5, b = 3, c = 4, e = 0,8) : sommets et foyers.\n3.3\nHyperbole (e > 1)\nAvec a = OS, c = OF, b =\nc2 −a2 :\na2 −y2\nb2 = 1,\ne = c\nfoyers F(±c, 0),\nasymptotes y = ± b\nax.\nTangente en M0 : xx0\na2 −yy0\nb2 = 1. Dans le repère des asymptotes, l’équation devient xy = k.\nFigure 4 – Hyperbole (a = 3, c = 6, e = 1,5) et ses asymptotes.\n3.4",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/19_Coniques.pdf",
+        "filename": "19_Coniques.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "378c6e726fe06695",
+        "chunk_type": "definition",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 25,
+      "end_line": 76
+    },
+    {
+      "text": "Définition bifocale\nPour une ellipse de foyers F, F ′ (FF ′ = 2c) et grand axe 2a :\nMF + MF ′ = 2a\n(a > c).\nPour une hyperbole de foyers F, F ′ et sommets distants de 2a :\n|MF −MF ′| = 2a\n(0 < a < c).\nParamétrages et coordonnées polaires\nParamétrages :\ncercle\nx = R cos θ\ny = R sin θ\nellipse\nx = a cos θ\ny = b sin θ\nparabole\nx = t2\ny = t\nhyperbole\nx = a ch t\ny = b sh t.\nÉquation polaire (origine au foyer O, directrice x = d, p = ed) :\nr =\n1 + e cos θ =\n1 + e cos θ.\nC’est une conique d’excentricité e et de foyer O.\nFigure 5 – Équation polaire : foyer O à l’origine, directrice D, axe focal (Ox).\nImage d’une ellipse par affinité\nL’affinité d’axe (∆), de direction (∆′) et de rapport k ̸= 1 laisse (∆) invariante et associe à\nM le point M′ tel que −−−→\nHM ′ = k −−→\nHM (H projeté de M sur ∆selon ∆′). L’affinité perpendiculaire\nd’axe (Ox) et de rapport k s’écrit x′ = x, y′ = ky ; elle transforme un cercle en ellipse.\nFigure 6 – Affinité d’axe (∆) : images M−2 et M1/2 selon le rapport.\nCours d’après Sunudaara — Coniques — Terminale S. Figures extraites automatiquement du PDF source.",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/19_Coniques.pdf",
+        "filename": "19_Coniques.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "378c6e726fe06695",
+        "chunk_type": "definition",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 94,
+      "end_line": 128
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "source": "data/raw/exercices/Etudes-Fonctions-Exponentielles-TS1.pdf",
+  "timestamp": "2026-07-15T00:16:52.168402",
+  "chunks": [
+    {
+      "text": "TS1                                                                                                                                                    M.NDOYE\nSérie d’exercices\n: fonction exponentielle",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "S1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Etudes-Fonctions-Exponentielles-TS1.pdf",
+        "filename": "Etudes-Fonctions-Exponentielles-TS1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "fd3beac2a0fc7b56",
+        "difficulty_level": "basic",
+        "chunk_category": "course"
+      },
+      "start_line": 4,
+      "end_line": 6
+    },
+    {
+      "text": "Problème\nOn note\nla fonction définie sur\npar\navec\n1°) a) Calculer les limites de\neu -  (Pour la\nlimité en + , poser X = x+2)\nb) Etudier suivant la parité de n la limite de f en -2\n2°) a) Calculer\nf n\net étudier son signe suivant\nla parité de n.\nd) Dresser le tableau de variation de\n3°) a)Démontrer que toutes les courbes\npassent par un m point fixe A dont on\ndéterminera les coordonnées\nb) Déterminer une équation de la tangente (T n ) à\nen A\n4°) a) Calculer\nlim\npuis interpréter\ngraphiquement le résultat\nb) Démontrer que n\nc) En déduire les positions relatives des courbes\net (C )\nd) Représenter graphiquement (\net (C )",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "S1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Etudes-Fonctions-Exponentielles-TS1.pdf",
+        "filename": "Etudes-Fonctions-Exponentielles-TS1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "fd3beac2a0fc7b56",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 108,
+      "end_line": 135
+    },
+    {
+      "text": "Problème\nA) Soit\n1- Etudier les variations de g.\n2- En déduire le signe de\nB) On considère la fonction f définie par :\n1- Vérifier que f est définie sur IR\\{1} et étudier la\ncontinuité de f en 0.\n2- Etudier la dérivabilité de f en 0. Interpréter\ngéométriquement ces résultats.\n3- a) Calculer\nlim\n. Que peut-on en\ndéduire graphiquement ?\nb) Donner la nature de la branche infinie de la\ncourbe de f en +∞.\n4- Etudier la position de la courbe de f par rapport à\nson asymptote oblique Δ en +∞ sur\n]0 ; +∞[\\{1}.\n5-a) Calculer\net préciser le signe de\nsur ]-∞ ; 0[ à l’aide de la partie A).\nb) Donner le tableau de variation de f.\n6- Soit h la restriction de f sur ]-∞ ; 0[. h est-elle\nbijective de ]-∞ ; 0[ sur un intervalle J à      préciser ?\n7- Tracer la courbe de f (unité 2cm) dans un repère\northonormé\n8- a) Déterminer les réels a et b tels que\nb) Soit λ un réel tel que 1 < λ < 2. Déterminer\nl’aire A(λ) du domaine délimité par la courbe         de\nf, l’asymptote Δ et les droites d’équations : x = λ et x\n= 2.\nc) Calculer\nlim",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "S1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Etudes-Fonctions-Exponentielles-TS1.pdf",
+        "filename": "Etudes-Fonctions-Exponentielles-TS1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "fd3beac2a0fc7b56",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 251,
+      "end_line": 283
+    },
+    {
+      "text": "Problème 5 :\nI. On considère la fonction f définie sur IR par :\nOn note (C ) sa courbe représentative dans un\nrepère orthonormé\n) (unité : 2cm)\n1- Soit h la fonction définie sur IR par :\na) Etudier les variations de h (on ne déterminera\npas de limites aux bornes de Dh).\nb) En déduire le signe de h(x) sur IR.\n2- a) Calculer les limites de f en +∞ et en -∞.\nb) Préciser la nature de la branche infinie de f en -\nc) Calculer\nlim\n, puis interpréter le\nrésultat obtenu.\nd) Préciser la position de (C ) par rapport à la\ndroite Δ : y = x.\n3- a) Dresser le tableau de variations de f.\nb) Montrer que f admet une bijection réciproque\nnotée\nf  définie sur IR.\nf  est elle dérivable en 4 ?\nd) Etudier la position de (C ) par rapport à sa\ntangente au point d’abscisse 2.\ne) Construire (C ) (on tracera la tangente à (C ) au\npoint d’abscisse 2).\nf) Construire (C’ ) courbe de\nf  dans le repère\nprécédent.\nII. Soit λ un réel strictement positif. Rλ est la région\ndu plan délimitée par les droites     d’équations\nrespectives x = 0 et x = λ et les courbes d’équation\nrespectives : y = f(x) et\ny = x. Soit a(λ) l’aire de Rλ en cm².\n1- Calculer a(λ) en fonction de λ.\n2- Déterminer\nlim\n. Interpréter\ngraphiquement le résultat obtenu.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "S1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Etudes-Fonctions-Exponentielles-TS1.pdf",
+        "filename": "Etudes-Fonctions-Exponentielles-TS1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "fd3beac2a0fc7b56",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "tracer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 344,
+      "end_line": 382
+    },
+    {
+      "text": "Problème 6 :\nA- Soit f la fonction de la variable réelle x définie\npar :\n1- a) Etudier les variations de f.\nb) Montrer que\nlim\n. Que peut-\non en déduire pour la courbe représentative         de\nf ? Tracer cette courbe (unité 2cm).\nc) Montrer que f réalise une bijection de ]-∞ ;\n+∞[ sur ]-∞ ; 0[.\n2- Soit g la fonction de la variable réelle x définie\npar :\na) Démontrer que g est dérivable sur IR.\nb) Montrer que quel que soit le réel x,\nc) Montrer que\nlim\nlim\nd) Etudier les variations de g et tracer sa courbe\nreprésentative dans le repère précédent.\n3- a) Montrer que\nb) A tout réel λ, on associe le réel\n. Justifier l’existence de I(λ).\nCalculer I(λ) à l’aide d’une intégration par parties.\nc) Calculer\nlim\nB- 1- Montrer que g est une bijection de IR sur un\nintervalle J à préciser.\n2- a) Calculer g(0).\nb) Montrer que\ng  est dérivable au point ln2.\nc) Déterminer l’équation de la tangente à\nau point d’abscisse ln2.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "S1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Etudes-Fonctions-Exponentielles-TS1.pdf",
+        "filename": "Etudes-Fonctions-Exponentielles-TS1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "fd3beac2a0fc7b56",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 505,
+      "end_line": 537
+    }
+  ]
+}

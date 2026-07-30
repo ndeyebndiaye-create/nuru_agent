@@ -1,0 +1,292 @@
+{
+  "source": "data/raw/exercices/TD1-Suites-numeriques-TS1.pdf",
+  "timestamp": "2026-07-15T00:16:58.124111",
+  "chunks": [
+    {
+      "text": "Exercice1 :\nSoit (\n! une suite numérique définie par\n= !\n1° Calculer les cinq premiers termes de la suite (\n2° Montrer que (\nest croissante.\n3° Montrer que (\nest minorée par -1. En déduire que (\nest bornée.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/TD1-Suites-numeriques-TS1.pdf",
+        "filename": "TD1-Suites-numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "c8e39281f77e959a",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 27,
+      "end_line": 36
+    },
+    {
+      "text": "Exercice : On considère les suites numériques (\net (\ndéfinies sur IN par :\ne U\n\" $\n! .\n1) Calculer\nU et\nV .\n2) Démontrer que (\nest une suite géométrique dont on précisera la raison et le premier\nterme.\n3) Exprimer\nV , puis\nU , en fonction de n.\n4) Etudier la convergence des suites (\net (",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/TD1-Suites-numeriques-TS1.pdf",
+        "filename": "TD1-Suites-numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "c8e39281f77e959a",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 80,
+      "end_line": 96
+    },
+    {
+      "text": "Exercice :\nSoit la suite (\ndéfinie par :\n!\"#\n$ \"%\n1) Calculer\nU ,\nU et\nU .\n2) Soit (\n!! la suite définie par :\na) Calculer\nen fonction de\n+ !\nb) Etablir que\n+ !\nest indépendant de n et donner sa valeur. En déduire la nature de la\nsuite (\nc) Exprimer\nV , puis\nU , en fonction de n.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/TD1-Suites-numeriques-TS1.pdf",
+        "filename": "TD1-Suites-numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "c8e39281f77e959a",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 162,
+      "end_line": 182
+    },
+    {
+      "text": "Exercice : Soit (\nla suite définie par :\nexp 1\n# $\n1) a) Montrer que (\nest une suite géométrique dont on précisera la raison  et le premier\nterme.\nb) Justifier que la suite (\n!! définie par :\nexiste et est arithmétique. Préciser sa\nraison.2) On pose\n...\n...\na) Exprimer\nS et\nnP en fonction de n.\nb) Déterminer les limites à l’infini de\nS et\nnP .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/TD1-Suites-numeriques-TS1.pdf",
+        "filename": "TD1-Suites-numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "c8e39281f77e959a",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 253,
+      "end_line": 271
+    },
+    {
+      "text": "Exercice :\n1)a) Soit ( )\n!! la suite géométrique réelle de premier terme 0\nr >\net de raison 2\n3 . Exprimer\nnr en fonction de 0r et de n.\nb) Soit (\n\"! la suite arithmétique réelle de premier terme\n0, 2\n$ % &\net de raison 2\n! .\nExprimer\n! en fonction de\n! et de n.\n! \"! , on pose\ncos\nsin\n. Sachant que\n0z ,\n1z et\n2z par la relation\n0 1 2\nz z z = , déterminer le module et un argument de\n0z ,\n1z et\n2z .\n2) Dans le plan complexe ! muni d’un repère R.O.N direct (\n; ,\nO u v\n! !\n; (unité graphique : 4\ncm), on appelle\nM le point d’affixe\nnz .\na) Placer les points\nM ,\nM ,\nM et\nM dans le plan ! .\n! \"! , calculer\nM M +\n!!!!!!!!\"\nen fonction de n.\nc) On pose\nM M +\n!!!!!!!!!\"\n. Calculer\nd en fonction de n et déterminer lim",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/TD1-Suites-numeriques-TS1.pdf",
+        "filename": "TD1-Suites-numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "c8e39281f77e959a",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 336,
+      "end_line": 385
+    },
+    {
+      "text": "Exercice :\nSoit (\nla suite définie par :\nU = ! et\n! \"! ,\n+ =\n+ .\n1) Tracer la courbe représentative de la fonction :\nx +\n. En déduire une\nreprésentation graphique sur (\nO i\ndes quatre premiers termes de la suite (\net conjecturer\nla limite de cette suite.\n2)a) Démontrer par récurrence que : !\n, 1\n! \"\n# $\n$ !\n; ! la suite (\nest croissante.\nb) En déduire que cette suite est convergente et déterminer sa limite.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/TD1-Suites-numeriques-TS1.pdf",
+        "filename": "TD1-Suites-numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "c8e39281f77e959a",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "tracer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 416,
+      "end_line": 438
+    },
+    {
+      "text": "Exercice :\nOn cherche à démontrer la convergence de la suite (\ndéfinie par :\n# $\n& '\n1°. On considère la fonction f définie sur ]\n0,+! par :\n( )\nf x\n$ %\na) Etudier les variations de f.\nb) Montrer que si\n+# $\n$ , alors\n( )\nf x\n+# $\n$ .\nc) Montrer que :\n\" #\n+ $\n( )\nd) En déduire, en utilisant l’inégalité des accroissements finis, que,\n\" #\n+$ %\n% :\n( )\nf x\n2°.a) Montrer par récurrence que : pour tout n,\n+# $\n$ . En déduire que : pour tout n,\nb) Montrer que : pour tout n,\n. En déduire que la suite (\nconverge\net déterminer sa limite.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/TD1-Suites-numeriques-TS1.pdf",
+        "filename": "TD1-Suites-numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "c8e39281f77e959a",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 569,
+      "end_line": 603
+    },
+    {
+      "text": "Exercice :\nSoit (\nla suite définie par :\n% &\n1°) Déterminer a pour que la suite (\nsoit constant.\n2°) Démontrer que si\na > , la suite (\nest convergente et déterminer sa limite.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/TD1-Suites-numeriques-TS1.pdf",
+        "filename": "TD1-Suites-numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "c8e39281f77e959a",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 643,
+      "end_line": 651
+    },
+    {
+      "text": "Exercice :\nOn considère les suites (\net (\ndéfinies pour tout entier naturel n par :\n+ =\n+ =\navec\nU = et\nV =\n1°) On pose\npour tout entier naturel n. Montrer que (\nest une suite géométrique\nconvergente. Comparer\nU et\nV .\n2°) Etudier les sens de variation de\nU et\nV .\n3°) Montrer que (\nest majorée et que (\nest minorée.\n4°) En déduire que (\net (\nconvergent vers une même limite l.\n5°) On pose\npour tout n. Montrer que (\nest constante puis en déduire l.\n6°) Soit (\nla suite de nombres complexes définie par\npour tout entier naturel n.\nExprimer\n+ !\nen fonction de\nW . En déduire\nnS en fonction de n puis montrer que (\nconverge vers une limite à déterminer.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/TD1-Suites-numeriques-TS1.pdf",
+        "filename": "TD1-Suites-numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "c8e39281f77e959a",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 747,
+      "end_line": 782
+    },
+    {
+      "text": "Exercice :\nSoit ! un nombre réel tel que\n\" #\nLa suite (\nest définie par :\ncos\n0 =\npour tout\nn !\n1. Calculer les trois premiers termes de la suite en fonction de! . (On  rappelle que\ncos\ncos\n2. Démontrer par récurrence que pour tout entier naturel n on a\ncos(\n3. Soit (\nla suite définie pour tout\nn !\npar\n.Déterminer la limite de (\n4. En déduire que (\nest convergente .Quelle est sa limite ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/TD1-Suites-numeriques-TS1.pdf",
+        "filename": "TD1-Suites-numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "c8e39281f77e959a",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 839,
+      "end_line": 859
+    }
+  ]
+}

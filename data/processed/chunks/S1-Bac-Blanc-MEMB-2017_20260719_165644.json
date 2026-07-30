@@ -1,0 +1,94 @@
+{
+  "source": "data/raw/exercices/S1-Bac-Blanc-MEMB-2017.pdf",
+  "timestamp": "2026-07-19T16:56:44.795848",
+  "chunks": [
+    {
+      "text": "Classe : TleS2.              BACCALAUREAT BLANC.        Coeff: 05              DUREE : 4H\nEPREUVE DE MATHEMATIQUES   :  Date: //17\nExedrcice1:(03,5points)\nUne urne contient 10 boules indiscernables,5 rouges 3 jaunes et 2 vertes. On tire au hasard 3 boules simultanément\nde cette urne. Toutes les réponses seront  données sous forme de fraction irréductible.\n1) Soit les événements suivants :\nA «Les 3 boules sont rouges.»\nB «Les 3 boules  sont de même couleur.»\nC «Les 3 boules sont chacune de couleur différente.»\n1.1) Déterminer :\n1.1.1) Le nombre de tirages possibles\n1.1.2) Les probabilités p(A), p(B) et p(C).\n1.2) Dans cette question, on remplace les 5 boules rouges par n boules rouges où n est entier et n≥2.L’urne contient\ndonc n+5 boules : n rouges, 3jaunes et 2vertes .On tire au hasard et simultanément  2 boules de cette urne. Soit les\névénements suivants :\nD «Tirer deux  boules rouges.»  Et E «Tirer deux boules de la même couleur.».\n1.2.1) Montrer que la probabilité de l’événement D est\n1.2.2) Calculer la probabilité      de l’événement   en fonction de\n1.2.3) Pour quelles valeurs de   a-t-on",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-Bac-Blanc-MEMB-2017.pdf",
+        "filename": "S1-Bac-Blanc-MEMB-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "89d785b488d23f63",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "course"
+      },
+      "start_line": 7,
+      "end_line": 25
+    },
+    {
+      "text": "Exercice 2 :(04,5 points)\nLe plan est muni d’un repère orthonormé\nSoit   la fonction de   dans   définie par\n2.1) Déterminer l’ensemble de définition de  .On note A le point du plan complexe dont l’affixe    n’a pas d’image\npar .\n2.2) Soit la fonction   du plan dans lui-même qui, à tout      distinct de   associe le point        tel que        .\n2.2.1) Soit le point        .Quelles sont les coordonnées du point        ?\n2.2.2) Le point   a-t-il un antécédent par  ? Même question pour le point   d’affixe 1.\n2.2.3) Déterminer par leurs affixes, les points invariants par  .\n2.2.4) Quel est L’ensemble      des points      tels que\nSoit     le cercle de centre   et de rayon 1.Quel est l’ensemble    ) des ponts      dont leurs images\n2.3) Déterminer l’ensemble      des points      tels que",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-Bac-Blanc-MEMB-2017.pdf",
+        "filename": "S1-Bac-Blanc-MEMB-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "89d785b488d23f63",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 31,
+      "end_line": 42
+    },
+    {
+      "text": "Problème :(12points) à raison de 0,5 point par réponse.\nOn considère la fonction   de]-1 ; +   [dans    par\n.On note      sa courbe representative\ndans un repère orthonormé (        ).\nPartie A\n1) Étudier la continuité de   sur]-1 ; +  [\n2) Étudier la dérivabilité de   sur]-1 ; +  [.Expliciter la fonction dérivée  .\n3) On note   l’application de]-1 ; +  [dans    definie par\n3.1) Étudier les variations de   et le signe de     .On ne demande pas la  limite de   en -1.\n3.2) En déduire les variations de   et les limites de   aux bornes de l’intervalle]-1 ; +  [tout en précisant les\nasymptotes.\n3.3) Étudier la position relative de la courbe de   par rapport à l’axe des abscisses.Pour cela on étudie les variations\nde la fonction   définie sur]-1 ; +   par\npuis son signe.\n4) Construire      ainsi que les asymptotes.\n5) Déterminer une équation de la tangente a      au point d’abscisse 0 et etudier la position relative de      et cette\ntangente\nPartie B\n1) Montrer qu’il existe un unique nombre réel     ] 0 ; 1 [tel que       .On considère la suite (    définie par :\nEt            pour tout n entier naturel.\n2) Montre que Ɐ n   IN, 0\n3) Montrer\npuis\n4) Démontrer  que Ɐ n   IN,\n.En deduire que (    converge vers ɑ.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-Bac-Blanc-MEMB-2017.pdf",
+        "filename": "S1-Bac-Blanc-MEMB-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "89d785b488d23f63",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 51,
+      "end_line": 75
+    }
+  ]
+}

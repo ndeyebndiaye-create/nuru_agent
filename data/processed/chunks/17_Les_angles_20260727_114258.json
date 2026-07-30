@@ -1,0 +1,74 @@
+{
+  "source": "data/raw/cours/17_Les_angles.pdf",
+  "timestamp": "2026-07-27T11:42:58.786912",
+  "chunks": [
+    {
+      "text": "Les angles\nClasse : Terminale S\nAngles orientés de demi-droites\nSoient [Ox) et [Oy) deux demi-droites de même origine O. L’angle orienté\n[Ox), [Oy)\n\u0001 a\npour sommet O, pour origine [Ox) et pour extrémité [Oy) (le sens direct est le sens positif).\nFigure 1 – Angle orienté de demi-droites (sens +/−) ; angle orienté de vecteurs.\nAngles orientés de vecteurs\nPour ⃗u,⃗v vecteurs directeurs de [Ox), [Oy) : (⃗u,⃗v) =\n[Ox), [Oy)\n2.1",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/17_Les_angles.pdf",
+        "filename": "17_Les_angles.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "40989a4263c6ee63",
+        "difficulty_level": "intermediate",
+        "chunk_category": "course"
+      },
+      "start_line": 7,
+      "end_line": 18
+    },
+    {
+      "text": "Propriétés\n(⃗u,⃗v) = −(⃗v, ⃗u),\n(k⃗u, k⃗v) = (⃗u,⃗v) (2π) (k ̸= 0),\n(k⃗u,⃗v) =\n(⃗u,⃗v) (2π)\nk > 0\nπ + (⃗u,⃗v) (2π)\nk < 0,\n(⃗u,⃗v) + (⃗v, ⃗w) = (⃗u, ⃗w) (2π) (Chasles).\nSi ⃗u1 ⊥⃗u2 et ⃗v1 ⊥⃗v2, alors (⃗u1,⃗v1) = (⃗u2,⃗v2) (π).\nFigure 2 – Angles à côtés perpendiculaires : (⃗u1,⃗v1) = (⃗u2,⃗v2) (π).\nAngles orientés de droites\nPour deux droites D1, D2 de vecteurs directeurs ⃗u1, ⃗u2 :\n\u0000 \\\nD1, D2\n\u0001 = (⃗u1, ⃗u2) (π).\n3.1\nBissectrices\nSi D1 ∩D2 = {I}, une bissectrice de (D1, D2) est l’ensemble des points équidistants de D1\net D2, soit des points M tels que (D1, IM) = (IM, D2). Il y a deux bissectrices, perpendiculaires\nentre elles.\nFigure 3 – Angle orienté de droites ; les deux bissectrices (perpendiculaires).\nCocyclicité\nSoit C un cercle de centre O, A, B ∈C et T la tangente en A. Pour M ∈C, (−−→\nMA, −−→\nMB) est un\nangle inscrit et (−→\nOA, −−→\nOB) l’angle au centre interceptant le même arc\nAB :\n(−−→\nMA, −−→\nMB) = 1\n2(−→\nOA, −−→\nOB) (2π) = (−−→\nAT1, −−→\nAB)\n(T1 ∈T).",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/17_Les_angles.pdf",
+        "filename": "17_Les_angles.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "40989a4263c6ee63",
+        "chunk_type": "theoreme",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 27,
+      "end_line": 65
+    },
+    {
+      "text": "Théorème 1.\n— si M, N ∈C : (−−→\nMA, −−→\nMB) = (−−→\nNA, −−→\nNB) (π) ; s’ils interceptent le même arc,\nl’égalité est modulo 2π ;\n— A, B, C, D sont cocycliques (ou alignés) ⇐⇒(−−→\nBC, −−→\nBD) = (−→\nCA, −−→\nCD) (π).\nFigure 4 – Angle inscrit et angle au centre interceptant le même arc.\nCours d’après Sunudaara — Les angles — Terminale S. Figures extraites automatiquement du PDF\nsource.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/17_Les_angles.pdf",
+        "filename": "17_Les_angles.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "40989a4263c6ee63",
+        "chunk_type": "theoreme",
+        "difficulty_level": "intermediate",
+        "chunk_category": "concept"
+      },
+      "start_line": 67,
+      "end_line": 81
+    }
+  ]
+}

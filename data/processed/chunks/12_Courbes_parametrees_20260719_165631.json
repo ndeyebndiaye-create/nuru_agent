@@ -1,0 +1,75 @@
+{
+  "source": "data/raw/cours/12_Courbes_parametrees.pdf",
+  "timestamp": "2026-07-19T16:56:31.705527",
+  "chunks": [
+    {
+      "text": "Définitions\nUne courbe paramétrée (C) est l’ensemble des points M(t) (« point de paramètre t ») tels que\n−−→\nOM(t) = x(t)⃗ı + y(t)⃗ȷ.",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/12_Courbes_parametrees.pdf",
+        "filename": "12_Courbes_parametrees.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "d624da5a76cf4ce2",
+        "chunk_type": "definition",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 5,
+      "end_line": 8
+    },
+    {
+      "text": "Exemples de représentations paramétriques :\nCercle :\nx = R cos t\ny = R sin t\nEllipse :\nx = a cos t\ny = b sin t\n(t ∈[0, 2π])\nHyperbole :\nx =\ncos t\ny = b tan t\nParabole :\nx = t2\ny = t\nVecteur dérivé et tangente\nLe vecteur dérivé est ⃗v(t) = x′(t)⃗ı + y′(t)⃗ȷ.\n— si\n\u0000x′(t0), y′(t0)\n\u0001 ̸= (0, 0) : ⃗v(t0) est un vecteur directeur de la tangente en M(t0) ;\n— si\n\u0000x′(t0), y′(t0)\n\u0001 = (0, 0) : la tangente est donnée par lim\nt→t0\ny(t) −y(t0)\nx(t) −x(t0).\nInterprétation cinématique\nM(t) est la position d’un mobile à l’instant t. ⃗v(t) = d−−→\nest le vecteur vitesse, ⃗a(t) =\nd2−−→\ndt2\n\u0000x′′(t), y′′(t)\n\u0001 le vecteur accélération. Avec g(t) = ∥⃗v(t)∥:\n— g constante (⃗a · ⃗v = 0) : mouvement uniforme ;\n— g croissante (⃗a · ⃗v > 0) : mouvement accéléré ;\n— g décroissante (⃗a · ⃗v < 0) : mouvement retardé.\nÉtude d’une courbe paramétrée\nOn détermine le domaine D, puis (si possible) une équation cartésienne. Sinon on étudie parité,\npériodicité et symétries pour restreindre le domaine.\nÉléments de symétrie (comparaison de M(−t) et M(t)) :\nx(−t) = x(t)\ny(−t) = y(t)\n⇒M(−t) = M(t);\nx(−t) = −x(t)\ny(−t) = y(t)\n⇒sym. /(y′Oy);\nx(−t) = x(t)\ny(−t) = −y(t)\n⇒sym. /(x′Ox);\nx(−t) = −x(t)\ny(−t) = −y(t)\n⇒sym. /O.\nPériodicité : si x(t + T) = x(t) et y(t + T) = y(t), on étudie sur un intervalle de longueur T ;\navec une symétrie supplémentaire, sur [0; T\n2 ] ∩D.",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/12_Courbes_parametrees.pdf",
+        "filename": "12_Courbes_parametrees.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "d624da5a76cf4ce2",
+        "chunk_type": "exemple",
+        "difficulty_level": "advanced",
+        "chunk_category": "example"
+      },
+      "start_line": 36,
+      "end_line": 90
+    },
+    {
+      "text": "Exercice d’application.\nÉtudier la courbe\nx(t) = sin 2t\ny(t) = sin 3t\n, t ∈R.\nRésolution.\nx est π-périodique, y est 2π\n3 -périodique : la courbe est 2π-périodique. De plus x(−t) = −x(t)\net y(−t) = −y(t) : symétrie par rapport à O. On étudie sur DE = [0, π], avec\nx′(t) = 2 cos 2t,\ny′(t) = 3 cos 3t.\nLe tableau de variation conjoint de x et y (points remarquables en π\n6 , π\n4 , π\n2 , 3π\n4 , 5π\n6 ) donne la courbe\nsuivante.\nFigure 1 – Courbe paramétrée x = sin 2t, y = sin 3t (figure de Lissajous).\nCours d’après Sunudaara — Courbes paramétrées — Terminale S. Figures extraites automatiquement du\nPDF source.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/12_Courbes_parametrees.pdf",
+        "filename": "12_Courbes_parametrees.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "d624da5a76cf4ce2",
+        "chunk_type": "exercice",
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 93,
+      "end_line": 113
+    }
+  ]
+}

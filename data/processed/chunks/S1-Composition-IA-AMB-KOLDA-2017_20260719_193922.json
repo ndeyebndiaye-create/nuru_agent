@@ -1,0 +1,205 @@
+{
+  "source": "data/raw/exercices/S1-Composition-IA-AMB-KOLDA-2017.pdf",
+  "timestamp": "2026-07-19T19:39:22.578790",
+  "chunks": [
+    {
+      "text": "IA KOLDA_COMPOSITIONS STANDARDISEES_FEVRIER 2017                                                                  Page 1 /2\n---------------------------------------------------------------------------------------\nRépublique du Sénégal\nMinistère de l’Education Nationale\nINSPECTION D’ACADEMIE DE KOLDA\nLYCEE ALPHA MOLO BALDE\nCOMPOSITION DU 1er SEMESTRE : EPREUVE DE MATHEMATIQUES\nClasse de TS1 :Durée : 04 heures",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Composition",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-Composition-IA-AMB-KOLDA-2017.pdf",
+        "filename": "S1-Composition-IA-AMB-KOLDA-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "assessment",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "416be6834124cd5b",
+        "difficulty_level": "intermediate",
+        "chunk_category": "course"
+      },
+      "start_line": 5,
+      "end_line": 12
+    },
+    {
+      "text": "EXERCICE 1 : ( 1,5 points )\n1) Déterminer selon les valeurs de l’entier naturel n le reste de la division euclidienne de    par 7. (0,5pt)\n2) Déterminer selon les valeurs de l’entier naturel n le reste de la division euclidienne de\npar 7.                 (0,5pt)\n3) On considère le nombre B qui dans le système à base quatre s’écrit\n. Déterminer dans\nle système décimal le reste de la division euclidienne de B par 7.         (0,5pt)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Composition",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-Composition-IA-AMB-KOLDA-2017.pdf",
+        "filename": "S1-Composition-IA-AMB-KOLDA-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "assessment",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "416be6834124cd5b",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 14,
+      "end_line": 20
+    },
+    {
+      "text": "EXERCICE 2 : ( 2 points )\n1) Résoudre dans    chacune des équations :\na)          ;                            b)                    (0,5pt) + (0,5pt)\n2) Déterminer le P.P.C.M. des nombres             où   est un entier naturel quelconque. (0,5pt)\n3) Montrer que   est premier si et seulement si   divise tous les",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Composition",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-Composition-IA-AMB-KOLDA-2017.pdf",
+        "filename": "S1-Composition-IA-AMB-KOLDA-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "assessment",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "416be6834124cd5b",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "résoudre"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 22,
+      "end_line": 26
+    },
+    {
+      "text": "EXERCICE 3 : ( 2 points )\nOn considère le nombre complexe\n1) On pose           et           .\nMontrer que S et T sont conjugués et que la partie imaginaire de S est positive.   (0,5pt) + (0,5pt)\n2) Calculer     , puis en déduire S et T.                           (0,5pt)+ (0,25pt)+ (0,25pt)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Composition",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-Composition-IA-AMB-KOLDA-2017.pdf",
+        "filename": "S1-Composition-IA-AMB-KOLDA-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "assessment",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "416be6834124cd5b",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 29,
+      "end_line": 33
+    },
+    {
+      "text": "EXERCICE 4 : (2,5 points)\nOn considère la fonction f de   dans   définie par :\n1) Préciser sur quel ensemble la fonction f est bijective.                      (0,5pt)\n2) On muni f de la loi de composition des applications, notée  .\nCalculer        et         .    (2 0,25pt)\n3) Démontrer que l’ensemble                   muni de la loi   vérifie les trois propriétés suivantes :\n(1) associativité,                           (2)                                                 et\n(3)                                                    (3 0,5pt)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Composition",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-Composition-IA-AMB-KOLDA-2017.pdf",
+        "filename": "S1-Composition-IA-AMB-KOLDA-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "assessment",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "416be6834124cd5b",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 36,
+      "end_line": 43
+    },
+    {
+      "text": "EXERCICE 5:  (2 points )\n1) Déterminer les points M du plan dont l’affixe z vérifie              (0,5pt)\n2) Au point M d’affixe z, on fait correspondre le point M’ d’affixe      avec\nSur quel domaine du plan f est-elle définie ?                                    (0,5pt)\n3) Donner une forme trigonométrique de     , en déduire                  (0,5pt) +    (0,5pt)\nIA KOLDA_COMPOSITIONS STANDARDISEES_FEVRIER 2017                                                                  Page 2 /2",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Composition",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-Composition-IA-AMB-KOLDA-2017.pdf",
+        "filename": "S1-Composition-IA-AMB-KOLDA-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "assessment",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "416be6834124cd5b",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 50,
+      "end_line": 55
+    },
+    {
+      "text": "PROBLEME :\nPartie A : Détermination complexe de la similitude directe.  (3 points)\nLe plan est rapporté à un repère orthonormal directe           . Soit   un point d’affixe   , k un réel strictement\npositif,   un angle. On note s la similitude directe de centre  , d’angle   et de rapport k.\ns est définie par :        et si M et M’ d’affixes respectives z et z’ sont tels que     et         alors\nM’ est déterminé par :         et\n1) On suppose que    , M’ l’image de M par s et   d’affixe    .\na) Déterminer\n(0,5pt) +    (0,5pt)\nb) Déduisez-en une écriture de z’ en fonction de k, z0,   et z.     (0,5pt)\n2) Réciproquement, si M a pour affixe z et M’ pour affixe z’ tel que                   , montrer\nque M’ est l’image de M par la similitude directe de centre      , d’angle   et de rapport k. (0,5pt)\n3) Soit      ; soit s la similitude qui, à tout point M d’affixe z, associe M’ d’affixe z’, tel que\nMontrer que s est la similitude directe de centre  , d’angle              et de rapport    . (0,5pt)\n4) Donner l’écriture complexe de la similitude s de centre   d’affixe i, d’angle\net de rapport 2. (0,5pt)\nPartie B : Application à l’étude d’une configuration. (7 points)\n1) Soit s la similitude de centre  , d’angle\net de rapport 2.\nLe plan est rapporté à un repère orthonormal directe             . On note A et B deux points distincts de\nO, d’affixes respectives a et b, A’ et B’ leurs images par s, d’affixes a’ et b’.\na) Exprimer a’ et b’ en fonction de a et b.   (2      0,5pt)\nb)Calculer a’ et b’ pour       et       . Placer dans ce cas les points A, B, A’ et B’ sur une\nfigure.           (2 0,25pt=0,5pt) +   (4 0,25pt =1p)\n2)  On note sA la similitude directe de centre A qui transforme B et B’.\na) Déterminer les éléments caractéristiques de sA .  (2 0,5pt)\nb) Montrer que sA a pour écriture complexe                avec\n(0,5pt)\nc) Déterminer    lorsque       et            (0,5pt)\n3)  On note sB la similitude directe de centre B qui transforme A et A’. Déterminer de même l’écriture\ncomplexe de sB , dans le cas général puis dans le cas ou       et          (0,5pt)\n4) On note C l’image de O par rapport à  sA , et D son image par rapport à  sB.\na) Déterminer les affixes c et d des points C et D en fonction de a et b.  (2 0,5pt)\nb) Préciser ces affixes pour       et        et placer C et D sur la figure. (4 0,25pt =1p)\n5) Montrer que O est le milieu de      . (0,5pt)\nFIN",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Composition",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-Composition-IA-AMB-KOLDA-2017.pdf",
+        "filename": "S1-Composition-IA-AMB-KOLDA-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "assessment",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "416be6834124cd5b",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 67,
+      "end_line": 102
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "source": "data/raw/exercices/S1-Bac-Blanc-LBD-2017.pdf",
+  "timestamp": "2026-07-15T00:34:37.552205",
+  "chunks": [
+    {
+      "text": "LYCEE BLAISE DIAGNE                                                      CELLULE DE MATHEMATIQUES\nPROPOSITION DE SUJET                                                                                     BAC BLANC\nSERIE S1                                                                                                         Durée :4 heures",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-Bac-Blanc-LBD-2017.pdf",
+        "filename": "S1-Bac-Blanc-LBD-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ed0321c92c7412f8",
+        "difficulty_level": "intermediate",
+        "chunk_category": "course"
+      },
+      "start_line": 2,
+      "end_line": 4
+    },
+    {
+      "text": "Exercice 1 :  4 points\nSoit a un réel fixé, strictement positif.\nSoit\naf la fonction définie sur IR par :\net soit (\nC ) sa courbe représentative\ndans le plan P rapporte à un repère orthonormé\nj,i,\n1) Etudier la variation de\naf . Démontrer que\naf admet un maximum en\nxa Déterminer\nSoit\nM point de coordonnées\n. Déterminer et construire l’ensemble décrit par\nquand a décrit\n2) Par une intégration par parties, démontrer que\n. En déduire\n3) Soit\n. Démontrer que\n4) Démontrer par récurrence\n....\net que\n5) Soit\nn \n. Calculer\nU . Démontrer qu’il existe un entier\n0n tel que pour tout\nEn déduire\nlim\nlim\nDémontrer que\n...\nlim",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-Bac-Blanc-LBD-2017.pdf",
+        "filename": "S1-Bac-Blanc-LBD-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ed0321c92c7412f8",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 205,
+      "end_line": 238
+    },
+    {
+      "text": "Exercice 2 : 5 points\nLe plan complexe est rapporté au repère orthonormé\n. L’unité graphique est 4cm.\nOn considère les points A, B, C et D d’affixes respectives :\n1) .\na) Donner la forme exponentielle de c et la forme algébrique de d\nb) Représenter les points A, B, C et D.\n2) Déterminer l'angle   et le rapport k de la similitude plane directe s de centre O qui\ntransforme A en C.\n3) On note F et G les images par la similitude directe s des points D et C respectivement.\nMontrer que les points F, C et G sont alignés.\n4) On considère la transformation   qui, à tout point M d’affixe z, associe le point M' d'affixe z'\ntelle que :\nPour toute droite  du plan, on notera σδ, la réflexion d'axe \na) Soit r la transformation qui, à tout point M1 d'affixe z1, associe le point M’1  d'affixe z'1 telle\nque :\nDéterminer la nature de r et donner ses éléments caractéristiques.\nExprimer r sous sa forme complexe simplifiée en faisant apparaître l'affixe de son centre.\nb) Exprimer  sous la forme d'une composée de deux transformations que l'on déterminera.\nc) Déterminer deux points invariants de  et en déduire la nature de .\nd) Déterminer graphiquement (C).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-Bac-Blanc-LBD-2017.pdf",
+        "filename": "S1-Bac-Blanc-LBD-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ed0321c92c7412f8",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 313,
+      "end_line": 333
+    },
+    {
+      "text": "PROBLEME : 11 points\nLe but du problème est de  montrer  l’inégalité suivante :\nSoit  n un entier naturel  strictement  positif.\nSoit g la fonction définie  sur\n1;1\npar\n-    .\nSoit    la fonction définie  sur  R  par              .\nPartie A\nSoit ( C ) la courbe représentative de  g  dans un repère ortho normal\n1.) Montrer que  (C ) est symétrique par rapport à  O .\n2.a) Etudier g.\nb) Montrer que (C) admet une asymptote oblique en  plus et moins  l’infini\nc) Tracer (C).\n3.) Montrer que :\nPartie B.\n1. Montrer que :\n2. En déduire que :             ,                     .\n3.  Soit F une primitive   sur    de       .\na. Montrer que  (           ) est une primitive de  (            )  et que\n(            ) est une primitive de  (            )  .\nb. En déduire les égalités :\n4. En déduire que :\nPartie C\n1) Pour tout réel       , on pose\na) Calculer          .\nb) Donner une relation  entre           et         .\nc) Montrer que  par récurrence  que :\n1(!\n2) En déduire,  pour n fixé, que :\n) = n ! .\n3) En déduire, à l’aide du B]4), que :\n4) En déduire, à l’aide du C] 1c) et 3), que :\nn ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "S1",
+        "annee": "2017",
+        "source": "data/raw/exercices/S1-Bac-Blanc-LBD-2017.pdf",
+        "filename": "S1-Bac-Blanc-LBD-2017.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ed0321c92c7412f8",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 403,
+      "end_line": 436
+    }
+  ]
+}

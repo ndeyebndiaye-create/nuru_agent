@@ -1,0 +1,189 @@
+{
+  "source": "data/raw/exercices/isométrie-du-plan-et-application-affine-from-dialla.pdf",
+  "timestamp": "2026-07-27T11:56:16.262087",
+  "chunks": [
+    {
+      "text": "LYCEE DE MATAM\nANNEE 2008/2009\nTS1                                                                                                                                                 M.NDOYE\nIsométries du plan et Applications affines",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-du-plan-et-application-affine-from-dialla.pdf",
+        "filename": "isométrie-du-plan-et-application-affine-from-dialla.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "11e7d553f53a4b93",
+        "difficulty_level": "basic",
+        "chunk_category": "course"
+      },
+      "start_line": 3,
+      "end_line": 6
+    },
+    {
+      "text": "Exercice 1\nSoit ABC un triangle équilatéral tel que : \non appelle O le centre de gravité du\ntriangle. Les points I ; J ; K sont tels que :\nAI \nBJ \nCK \n1) Déterminer deux nombres réels a et b tels que I soit barycentre de (A ;a) et (B ;b).\n2) En utilisant la rotation de centre O qui transforme A en B ; démontrer que O est le centre de\ngravité du triangle IJK.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-du-plan-et-application-affine-from-dialla.pdf",
+        "filename": "isométrie-du-plan-et-application-affine-from-dialla.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "11e7d553f53a4b93",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 29,
+      "end_line": 38
+    },
+    {
+      "text": "Exercice 2\nABCD est un carré de centre de O tel que \n. Soit r la rotation de centre O et\nd’angle\n et t la translation de vecteur BC .Déterminer la nature et les éléments caractéristiques de\nrot.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-du-plan-et-application-affine-from-dialla.pdf",
+        "filename": "isométrie-du-plan-et-application-affine-from-dialla.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "11e7d553f53a4b93",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 50,
+      "end_line": 55
+    },
+    {
+      "text": "Exercice 3\nDans le plan orienté ; on considère un triangle équilatéral ABC tel que une mesure de l’angle\n.On appelle \n le cercle circonscrit au triangle ABC. La médiatrice de [BC]\ncoupe \n en A et D, on appelle A’ le point d’intersection des droites (BD) et (AC).\n1) Démontrer que A’ est le symétrique de A par rapport à C.\n2) On désigne par\nles symétries orthogonales par rapport à (BD) ;\n(CD) ;  (CA) ;  (AB) respectivement.\n3) Quelle est la nature des applications suivantes :\n? on précisera les\néléments caractéristiques.\n4) Soit (∆) la droite parallèle à (DC) menée par A et\n(S la symétrie orthogonale par rapport à\n(∆). Démontrer que :\n(S \n5) Retrouver les résultats du1) en utilisant l’application t définie par :  t =\ns BD o\ns CD o\ns CA o\ns AB\nque l’on caractérisera.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-du-plan-et-application-affine-from-dialla.pdf",
+        "filename": "isométrie-du-plan-et-application-affine-from-dialla.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "11e7d553f53a4b93",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 137,
+      "end_line": 159
+    },
+    {
+      "text": "Exercice 4\nSoit ABC un triangle rectangle et isocèle en A tel que : \n.on appelle R la rotation\nde centre A qui transforme B en C et T la translation de vecteur AB ; on note I le milieu de [BC]\n1) Construire le point J = R (I).\n2) On  pose F1= R o T et F2 = TOR\nDéterminer F1 (J) et F2 (I) puis en déduire la nature et les éléments caractéristiques de F1 et F2.\n3) Soit M un point du plan M1 = F1 (M) et M2 = F2 (M) ;Quelle est la nature du triangle BCM1M2 ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-du-plan-et-application-affine-from-dialla.pdf",
+        "filename": "isométrie-du-plan-et-application-affine-from-dialla.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "11e7d553f53a4b93",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "construire"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 171,
+      "end_line": 178
+    },
+    {
+      "text": "Exercice 5\nSoit Le plan est muni d’un repère orthonormé \n.j;i,\net A (2 ; 0), B (2 ;2) , C (0 ; D)\nS1 et S2 sont les orthogonales par rapport à (AC) et (OA) et la translation de vecteur OC\nReconnaître S1oS2 ; puis ToS2oS1.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-du-plan-et-application-affine-from-dialla.pdf",
+        "filename": "isométrie-du-plan-et-application-affine-from-dialla.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "11e7d553f53a4b93",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 180,
+      "end_line": 185
+    },
+    {
+      "text": "Exercice  6\nSoit Le plan est muni d’un repère orthonormé \n.j;i,\net I (0 ; 1), J(1 ; 0)\nRI et RJ sont les rotations de centre respectifs I et J d’angle 2\n et T la translation de vecteur IJ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-du-plan-et-application-affine-from-dialla.pdf",
+        "filename": "isométrie-du-plan-et-application-affine-from-dialla.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "11e7d553f53a4b93",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 187,
+      "end_line": 192
+    }
+  ]
+}

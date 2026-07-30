@@ -1,0 +1,489 @@
+{
+  "source": "data/raw/exercices/INTEGRALE-TD3.pdf",
+  "timestamp": "2026-07-19T18:10:18.355723",
+  "chunks": [
+    {
+      "text": "Exercice 1 Soit f la fonction d´eﬁnie sur [0, 3] par\nf(x) =\nsi x = 0\nsi 0 < x < 1\nsi x = 1\nsi 1 < x ⩽2\nsi 2 < x ⩽3.\n1. Calculer\nR 3\n0 f(t)dt.\n2. Soit x ∈[0, 3], calculer F(x) =\nR x\n0 f(t)dt.\n3. Montrer que F est une fonction continue sur [0, 3]. La fonction F est-elle d´erivable sur\n[0, 3] ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "source": "data/raw/exercices/INTEGRALE-TD3.pdf",
+        "filename": "INTEGRALE-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "b7c59093c6fe5a9e",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 29,
+      "end_line": 43
+    },
+    {
+      "text": "Exercice 2 Montrer que les fonctions d´eﬁnies sur R,\nf(x) = x , g(x) = x2 et h(x) = ex,\nsont int´egrables sur tout intervalle ferm´e born´e de R. En utilisant les sommes de Riemann,\ncalculer les int´egrales\nR 1\n0 f(x)dx,\nR 2\n1 g(x)dx et\nR x\n0 h(t)dt.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "source": "data/raw/exercices/INTEGRALE-TD3.pdf",
+        "filename": "INTEGRALE-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "b7c59093c6fe5a9e",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 44,
+      "end_line": 53
+    },
+    {
+      "text": "Exercice 3 Calculer l’int´egrale de f : [a, b] →R comme limite de sommes de Riemann-\nDarboux dans les cas suivants :\n1. f(x) = sin x et f(x) = cos x sur [0, π\n2] et xk = kπ\n2n, k = 0, 1, ..., n,\n2. g(x) = 1\nx sur [a, b] ⊂R∗\n+ et xk = aqk , k = 0, 1, ..., n (q ´etant `a d´eterminer),\n3. h(x) = αx sur [a, b] , α > 0, et xk = a + (b −a). k\nn, k = 0, 1, ..., n.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "source": "data/raw/exercices/INTEGRALE-TD3.pdf",
+        "filename": "INTEGRALE-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "b7c59093c6fe5a9e",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 54,
+      "end_line": 63
+    },
+    {
+      "text": "Exercice 4 Les fonctions suivantes sont-elles int´egrables au sens de Riemann ?\n1. f(x) = [x] sur [0, 2]\n2. g : [0, 1] →R,\ng(x) =\n(\u0002 1\nsi 0 < x ⩽1,\nsi x = 0\n3. h : [0, 1] →R,\nh(x) =\nx sin\n\u0000 1\nsi 0 < x ⩽1,\nsi x = 0\n4. k : [0, 1] →R,\nk1(x) =\nsi x ∈[0, 1] ∩Q,\nsi x ∈[0, 1]\\Q",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "source": "data/raw/exercices/INTEGRALE-TD3.pdf",
+        "filename": "INTEGRALE-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "b7c59093c6fe5a9e",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 79,
+      "end_line": 95
+    },
+    {
+      "text": "Exercice 5 Soit f : [a, b] →R une fonction int´egrable sur [a, b] (a < b).\n1. On suppose que f est continue en un point x0 ∈[a, b] et que f(x0) > 0. Montrer que\nR b\na f(x)dx > 0. En d´eduire que si f est une fonction continue positive sur [a, b] telle que\nR b\na f(x)dx = 0 alors f est identiquement nulle.\n2. On suppose que f est continue sur [a, b], et que\nR b\na f(x)dx = 0. Montrer que qu’il existe\nc ∈[a, b] tel que f(c) = 0.\n3. Application : on suppose que f est une fonction continue sur [0, 1] telle que\nR 1\n0 f(t)dt = 1\nMontrer qu’il existe d ∈[0, 1] tel que f(d) = d.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "source": "data/raw/exercices/INTEGRALE-TD3.pdf",
+        "filename": "INTEGRALE-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "b7c59093c6fe5a9e",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 97,
+      "end_line": 110
+    },
+    {
+      "text": "Exercice 6 Soit f : [a, b] →R continue, positive ; on pose m = sup{f(x), x ∈[a, b]}. Montrer\nque\nlim\nn→∞\n\u0012Z b\n(f(x))ndx\n\u0013 1\n= m.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "source": "data/raw/exercices/INTEGRALE-TD3.pdf",
+        "filename": "INTEGRALE-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "b7c59093c6fe5a9e",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 113,
+      "end_line": 120
+    },
+    {
+      "text": "Exercice 7 Soit f : [0, 1] →R une application strictement croissante telle que f(0) =\n0, f(1) = 1. Calculer :\nlim\nn→∞\nZ 1\nf n(t)dt.\nCalculs de primitives",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "source": "data/raw/exercices/INTEGRALE-TD3.pdf",
+        "filename": "INTEGRALE-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "b7c59093c6fe5a9e",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 123,
+      "end_line": 129
+    },
+    {
+      "text": "Exercice 8 Calculer les primitives suivantes, en pr´ecisant si n´ecessaire les intervalles de validit´e\ndes calculs :\narctan xdx\ntan2 xdx\nx ln xdx\n√x + 1dx\narcsin xdx\n3 + exp (−x)dx\n4x −x2dx\n1 −ln2 x\n√1 + exp xdx\nx −1\nx2 + x + 1dx\nx + 2\nx2 −3x −4dx\ncos x exp xdx",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "source": "data/raw/exercices/INTEGRALE-TD3.pdf",
+        "filename": "INTEGRALE-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "b7c59093c6fe5a9e",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 164,
+      "end_line": 179
+    },
+    {
+      "text": "Exercice 10 Calculer les primitives suivantes, en pr´ecisant si n´ecessaire les intervalles de va-\nlidit´e des calculs :\nsin8 x cos3 xdx\ncos4 xdx\ncos2003 x sin xdx\n2 + sin x + cos xdx\nsin xdx\ncos xdx\n3 −sin x\n2 cos x + 3 tan xdx\n7 + tan xdx\nFonctions d´eﬁnies par une int´egrale",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "source": "data/raw/exercices/INTEGRALE-TD3.pdf",
+        "filename": "INTEGRALE-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "b7c59093c6fe5a9e",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 209,
+      "end_line": 220
+    },
+    {
+      "text": "Exercice 11 Soit f : R →R une fonction continue sur R et F(x) =\nR x\n0 f(t)dt. R´epondre par\nvrai ou faux aux aﬃrmations suivantes :\n1. F est continue sur R.\n2. F est d´erivable sur R de d´eriv´ee f.\n3. Si f est croissante sur R alors F est croissante sur R.\n4. Si f est positive sur R alors F est positive sur R.\n5. Si f est positive sur R alors F est croissante sur R.\n6. Si f est T-p´eriodique sur R alors F est T-p´eriodique sur R.\n7. Si f est paire alors F est impaire.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "source": "data/raw/exercices/INTEGRALE-TD3.pdf",
+        "filename": "INTEGRALE-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "b7c59093c6fe5a9e",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 225,
+      "end_line": 235
+    },
+    {
+      "text": "Exercice 12 Soient u et v deux fonctions d´erivables sur R et f une fonction continue sur R.\n1. On pose F(x) =\nZ v(x)\nu(x)\nf(t)dt. Montrer que F est d´erivable sur R et calculer sa d´eriv´ee.\n2. Calculer la d´eriv´ee de G(x) =\nZ 2x\n1 + t2 + t4.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "source": "data/raw/exercices/INTEGRALE-TD3.pdf",
+        "filename": "INTEGRALE-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "b7c59093c6fe5a9e",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 238,
+      "end_line": 245
+    },
+    {
+      "text": "Exercice 13 Soit F(x) =\nZ x2\nln tdt\n1. Quel est l’ensemble de d´eﬁnition de F. F est-elle continue, d´erivable sur son ensemble de\nd´eﬁnition ?\n2. D´eterminer limx→1+ F(x) en comparant F `a H(x) =\nZ x2\nt ln tdt.\nCalculs d’int´egrales",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "source": "data/raw/exercices/INTEGRALE-TD3.pdf",
+        "filename": "INTEGRALE-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "b7c59093c6fe5a9e",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 251,
+      "end_line": 259
+    },
+    {
+      "text": "Exercice 14 Calculer les int´egales suivantes :\nZ 1\narctan x\n1 + x2 dx\nZ 2\n1 + 1\narctan xdx\nx sin xdx\nZ 1\n(arccos x)2 dx\nZ 1\n(1 + x2)2dx\nZ √\n4 −x2dx\nZ 2\nx2 ln xdx\nZ 1\nx2 + 4x + 7dx\nZ 1\n3x + 1\n(x + 1)2dx",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "source": "data/raw/exercices/INTEGRALE-TD3.pdf",
+        "filename": "INTEGRALE-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "b7c59093c6fe5a9e",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 290,
+      "end_line": 310
+    },
+    {
+      "text": "Exercice 16 (Int´egrales de Wallis) Soit In =\nsinn (x) dx si n ∈N.\n1. Montrer que (In)n est positive d´ecroissante.\n2. Montrer que In+2 = n+1\nn+2In et expliciter In, en d´eduire\nR 1\n−1 (x2 −1)n dx.\n3. Montrer que In ∼In+1\n4. A l’aide de (n + 1) InIn+1 montrer que In ∼p π\n2n.\n5. En d´eduire 1.3...(2n+1)\n2.4...(2n)\n∼2p n",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "source": "data/raw/exercices/INTEGRALE-TD3.pdf",
+        "filename": "INTEGRALE-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "b7c59093c6fe5a9e",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 334,
+      "end_line": 346
+    },
+    {
+      "text": "Exercice 17 Soit In =\nZ 1\n1 + xdx.\n1. En majorant la fonction int´egr´ee, montrer que limn→+∞In = 0.\n2. Calculer In + In+1.\n3. D´eterminer\nlim\nn→+∞\nk=1\n(−1)k+1\nCalculs d’aires",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "source": "data/raw/exercices/INTEGRALE-TD3.pdf",
+        "filename": "INTEGRALE-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "b7c59093c6fe5a9e",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 355,
+      "end_line": 365
+    },
+    {
+      "text": "Exercice 18 Calculer\nR R\nR2 −x2dx (on posera θ = arcsin x\nR ) et en d´eduire l’aire d’un\ndisque de rayon R.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "source": "data/raw/exercices/INTEGRALE-TD3.pdf",
+        "filename": "INTEGRALE-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "b7c59093c6fe5a9e",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 368,
+      "end_line": 372
+    },
+    {
+      "text": "Exercice 19 Calculer l’aire de la r´egion d´elimit´ee par les courbes d’´equation y = x2\n2 et y =\n1 + x2.\nLimites de suites et int´egrales",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "source": "data/raw/exercices/INTEGRALE-TD3.pdf",
+        "filename": "INTEGRALE-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "b7c59093c6fe5a9e",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 375,
+      "end_line": 378
+    },
+    {
+      "text": "Exercice 20 Calculer la limite des suites suivantes :\n1. un = n\nn−1\nk=0\nk2 + n2 ;\n2. vn =\nk=1\n1 + k2\n\u0013 1\nBiblioth`eque d’exercices\nIndications\nFeuille n◦15\nCalculs d’int´egrales\nIndication 2 Il faut se souvenir de ce que vaut la somme des n premiers entiers, la somme\ndes carr´es des n premiers entiers et de la somme d’une suite g´eom´etrique. La formule g´en´erale\npour les sommes de Riemann est que\nR b\na f(x)dx est la limite (quand n →+∞) de\nSn = b −a\nn−1\nk=0\nf(a + kb −a\nIndication 3\n1. On pourra penser que le cosinus et le sinus sont les parties r´eelles et\nimaginaires de la fonction t 7→eit. On chercha donc d’abord `a calculer\nR π\n0 eit dt.\n2. On choisira q tel que qn = b\nIndication 5\n1. Revenir `a la d´eﬁnition de la continuit´e en prenant ε = f(x0)\npar exemple.\n2. Soit f est tout le temps de mˆeme signe (et alors utiliser la premi`ere question), soit ce\nn’est pas le cas (et alors utiliser un th´eor`eme classique...).\n3. On remarquera que\nR b\na f(t) dt −1\n2 =\nR b\na (f(t) −t)dt.\nIndication 6 Essayez d’encadrer\nR b\nf(t)n\nmn dt.\nIndication 7 Il s’agit de montrer que la limite vaut 0. Pour un α > 0 ﬁx´e on s´eparera\nl’int´egrale en deux partie selon que f est plus petit ou plus grand que 1 −α.\nIndication 9 Calculer la somme et la diﬀ´erence de ces deux int´egrales.\nIndication 12 Se ramener `a une composition de fonctions ou revenir `a la d´eﬁnition de la\nd´eriv´ee avec le taux d’accroissement.\nIndication 13\n1. Soit faire comme l’exercice 12, soit s´eparer l’int´egrale en deux, et pour\nl’une faire un changement de variable u = x2.\n2. H(x) se calcule explicitement et montrer qu’en fait H est une fonction constante, ensuite\nil faut comparer H(x) et F(x).\nIndication 16\n2. Faire une int´egration par parties pour In+2. Pour le calcul explicite on distinguera le cas\ndes n pairs et impairs.\n3. Utiliser la d´ecroissance de In pour encadrer In+1\nIn .\nIndication 17\n1. Majorer par xn.\n3. On pourra calculer (I0 + I1) −(I1 + I2) + (I2 + I3) −· · ·\nIndication 20 On pourra essayer de reconnˆıtre des sommes de Riemann. Pour le produits\ncomposer par la fonction ln.\nBiblioth`eque d’exercices\nCorrections\nFeuille n◦15\nCalculs d’int´egrales\nCorrection 1\n1. On trouve\nR 3\n0 f(t)dt = +3. Il faut tout d’abord tracer le graphe de cette\nfonction. Ensuite la valeur d’une int´egrale ne d´epend pas de la valeur de la fonction en\nun point, c’est-`a-dire ici les valeurs en x = 0, x = 1, x = 2 n’ont aucune inﬂuence sur\nl’int´egrale. Ensuite on revient `a la d´eﬁnition de\nR 3\n0 f(t)dt : pour la subdivision de [0, 3]\nd´eﬁnie par {x0 = 0, x1 = 1, x2 = 2, x3 = 3}, on trouve la valeur de l’int´egrale (ici le sup\net l’inf sont atteint et ´egaux pour cette subdivision et toute subdivision plus ﬁne).\n2. C’est la mˆeme chose, mais au lieu d’aller jusqu’`a 3 on s’arrˆete `a x, on trouve\nF(x) =\nsi 0 ⩽x ⩽1\n3 −2x\nsi 1 < x ⩽2\n−9 + 4x\nsi 2 < x ⩽3.\n3. Les seuls points `a discuter pour la continuit´e sont les points x = 1 et x = 2, mais les\nlimites `a droite et `a gauche de F sont ´egales en ces points donc F est continue. Par contre\nF n’est pas d´erivable en x = 1 ni en x = 2.\nCorrection 2\n1. En utilisant les sommes de Riemann, on sait que\nR 1\n0 f(x)dx est la limite\n(quand n →+∞) de Pn−1\nk=0\nnf( k\nn). Notons Sn = 1\nPn−1\nk=0 f( k\nn). Alors Sn = 1\nPn−1\nk=0\nn =\nPn−1\nk=0 k =\nn(n−1)\n. On a utilis´e que la somme des entiers de 0 `a n −1 vaut n(n−1)\nDonc Sn tend vers 1\n2. Donc\nR 1\n0 f(x)dx = 1\n2. Mˆeme travail :\nR 2\n1 g(x)dx est la limite de S′\nn = 2−1\nPn−1\nk=0 g(1 + k 2−1\nn ) = 1\nPn−1\nk=0(1 + k\nn)2 =\nPn−1\nk=0(1+2 k\nn+ k2\nn2). En s´eparant la somme en trois nous obtenons : S′\nn = 1\nn(n+ 2\nPn−1\nk=0 k+\nPn−1\nk=0 k2) = 1+ 2\nn(n−1)\n+ 1\n(n−1)n(2n−1)\n. Donc `a la limite on trouve S′\nn →1+1+ 1\n3 = 7\nDonc\nR 2\n1 g(x)dx = 7/3. Remarque : on a utilis´e que la somme des carr´es des entiers de 0\n`a n −1 est (n−1)n(2n−1)\n3. Mˆeme chose pour\nR x\n0 h(t)dt qui est la limite de S′′\nn =\nPn−1\nk=0 g(kx\nn ) =\nPn−1\nk=0 e\nPn−1\nk=0(e\nn)k. Cette derni`ere somme est la somme d’une suite g´eom´etrique, donc S′′\nn =\n1−(e\nn )n\n1−e\n= x\n1−ex\n1−e\nn = (1 −ex)\n1−e\nn qui tend vers ex −1. Pour obtenir cette derni`ere limite\non remarque qu’en posant u = x\nn on a\n1−e\nn = 1−eu\nqui tend vers −1 lorsque u →0 (ce\nqui est ´equivalent `a n →+∞).\nCorrection 3\n1. On calcul d’abord\nR π\n0 eit dt. Par le th´eor`eme de Riemann-Darboux c’est\nla limite de\nSn =\nn−1\nk=0\n(xk+1 −xk) · f(xk).\nPour xk = kπ\n2n (on obtient en fait un somme de Riemann) :\nSn = π\nn−1\nk=0\nikπ\n2n = π\nn−1\nk=0\n2n)k.\nCe qui est une somme g´eom´etrique de somme Sn = (1 −i)\n1−ei π\n2n . La limite de ce taux\nd’accroissement est 1+i (en posant u =\n2n et en remarquant que eiu−1\n→i quand u →0).\nDonc\nR π\n0 eit dt = 1 + i. Mais eit = cos t + i sin t donc\nR π\n0 cos t dt +\nR π\n0 sin t dt = 1 + i. Par\nidentiﬁcation des parties r´eelles et imaginaires on trouve :\nR π\n0 cos t dt = 1 et\nR π\n0 sin t dt = 1.\n2. On veut xk = aqk ce qui donne bien x0 = a, mais il faut aussi xn = b donc aqn = b, donc\nqn = b\na soit q = ( b\nn. Nous cherchons la limite de S′\nn = Pn−1\nk=0(xk+1 −xk) · g(xk). Il est\nn’est pas trop dur de montrer que S′\nn = n(q −1). Pour trouver la limite quand n →+∞\nc’est plus d´elicat car q d´epend de n : S′\nn = n(q −1) = n(( b\nn −1) = n(e\nn ln b\na −1). En\nposant u =\nn et en remarquant que l’on obtient un taux d’accroissement on calcule :\nn = 1\nu(eu ln b\na −1) →ln b\na = ln b −ln a. Donc\nR b\nt = ln b −ln a.\n3. `A l’aide des sommes g´eom´etrique est des taux d’accroissement on trouve\nZ b\nαt dt = eαb −eαa\nCorrection 4\n1. Oui.\n2. Non.\n3. Non.\n4. Non.\nCorrection 5\n1. ´Ecrivons la continuit´e de f en x0 avec ε = f(x0)\n> 0 : il existe δ > 0 tel\nque pour tout t ∈[x0 −δ, x0 + δ] on ait |f(t) −f(x0)| ⩽ε. Avec notre choix de ε cela\ndonne pour t ∈[x0 −δ, x0 + δ] que f(t) ⩾f(x0)\n2 . Pour ´evaluer\nR b\na f(t) dt nous la coupons\nen trois morceaux par lin´earit´e de l’int´egrale :\nZ b\nf(t) dt =\nZ x0−δ\nf(t)dt +\nZ x0+δ\nx0−δ\nf(t)dt +\nZ b\nx0+δ\nf(t)dt.\nComme f est positive alors par positivit´e de l’int´egrale\nR x0−δ\nf(t)dt ⩾0 et\nR b\nx0+δ f(t)dt ⩾\n0. Pour le terme du milieu on a f(t) ⩾f(x0)\ndonc\nR x0+δ\nx0−δ f(t)dt ⩾\nR x0+δ\nx0−δ\nf(x0)\n2 dt = 2δ f(x0)\n2 .\n(pour la derni`ere ´equation on calcule juste l’int´egrale d’une fonction constante !). Le bilan\nde tout cela est que\nR b\na f(t) dt ⩾2δ f(x0)\n> 0.\nDonc pour une fonction continue et positive f, si elle est strictement positive en un\npoint alors\nR b\na f(t) dt > 0. Par contraposition pour une fonction continue et positive si\nR b\na f(t) dt = 0 alors f est identiquement nulle.\n2. Soit f est tout le temps positive, soit elle tout le temps n´egative, soit elle change (au\nmoins un fois) de signe. Dans le premier cas f est identiquement nulle par la premi`ere\nquestion, dans le second cas c’est pareil (en appliquant la premi`ere question `a −f). Pour\nle troisi`eme cas c’est le th´eor`eme des valeurs interm´ediaires que aﬃrme qu’il existe c tel\nque f(c) = 0.\n3. Posons g(t) = f(t) −t. Alors\nR 1\n0 g(t)dt =\nR 1\n0 f(t)dt −1\n2 = 0. Donc par la question\npr´ec´edente, g ´etant continue, il existe d ∈[0, 1] tel que g(d) = 0, ce qui est ´equivalent `a\nf(d) = d.\nCorrection 6 Notons I =\nR b\nf(t)n\nmn dt. Comme f(t) ⩽m pour tout t ∈[a, b] alors I ⩽1. Ceci\nimplique que limn→+∞I\nn ⩽1. Fixons α > 0 (aussi petit que l’on veut). Comme f est continue\net m est sa borne sup´erieure sur [a, b] alors il existe un intervalle [x, y], (x < y), sur le quel\nf(t) ⩾m −α. Comme f est positive alors\nI ⩾\nZ y\nf(t)n\nmn dt ⩾\nZ y\n(m −α)n\n= (y −x)\n\u0012m −α\nDonc I\nn ⩾(y −x)\nn m−α\nm . Quand n →+∞on a (y −x)\nn →1, donc `a la limite nous obtenons\nlimn→+∞I\nn ⩾m−α\nm .\nComme α est quelconque, nous pouvons le choisir aussi proche de 0 de sorte que m−α\nest aussi\nproche de 1 que d´esir´e. Donc limn→+∞I\nn ⩾1.\nEn conclusion nous trouvons que limn→+∞I\nn = 1 ce qui ´etait l’´egalit´e recherch´ee.\nCorrection 7 Soit α > 0 ﬁx´e. Soit 0 < x0 < 1 tel que pour tout x ∈[0, x0], f(x) ⩽1 −α.\nCe x0 existe bien car f est strictement croissante et f(0) = 0, f(1) = 1. S´eparons l’int´egrale en\ndeux :\nZ 1\nf n(t)dt =\nZ x0\nf n(t)dt +\nZ 1\nf n(t)dt\nZ x0\n(1 −α)ndt +\nZ 1\n1ndt\n⩽x0(1 −α)n + (1 −x0)\n⩽(1 −α)n + (1 −x0)\ncar x0 ⩽1\nSoit maintenant donn´e un ε > 0, on choisit α > 0 tel que 1 −x0 ⩽ε\n2 (en remarquant que si\nα →0 alors x0(α) →1), puis il existe n assez grand tel que (1−α)n ⩽ε\n2. Donc pour tout ε > 0\nil existe n assez grand tel que\nR 1\n0 f n(t)dt ⩽ε . Donc\nR 1\n0 f n(t)dt →0.\nCorrection 8 a-\narctan xdx = x arctan x −1\n2 ln (1 + x2) + c sur R (int´egration par parties)\ntan2 xdx = tan x −x + c sur\n2 + kπ, π\n2 + kπ\nx ln xdx = ln |ln x| + c sur ]0, 1[ ∪]1, +∞[ (changement de variable : u = ln x)\n√x+1dx = 2\n3 (x −2) (x + 1)\n2 + c sur ]−1, +∞[ (changement de variable : u = √x + 1 ou\nint´egration par parties)\narcsin xdx = x arcsin x +\n1 −x2 + c sur ]−1, 1[ (int´egration par parties)\n3+exp(−x)dx = 1\n3 ln (3 exp x + 1) + c sur R (changement de variable : u = exp x)\n4x−x2dx = arccos\n\u0000 1\n2x −1\n+ c sur ]0, 4[ (changement de variable : u = 1\n2x −1)\n1−ln2 xdx = arcsin (ln x) + c sur\ne, e\n(changement de variable : u = lnx)\n√1+exp xdx = x−2 ln\n\u00001 + √exp x + 1\n+c sur R (changement de variable : u = √exp x + 1)\nx−1\nx2+x+1dx = 1\n2 ln (x2 + x + 1) −\n3 arctan\n\u0000x + 1\n+ c sur R\nx+2\nx2−3x−4dx = −1\n5 ln |x + 1| + 6\n5 ln |x −4| + c sur R \\ {−1, 4} (d´ecomposition en ´el´ements\nsimples)\ncos x exp xdx = 1\n2 (cos x + sin x) exp x + c sur R (deux int´egrations par parties)\nCorrection 9\nsin x\nsin x+cos xdx = 1\n2 (x −ln |cos x + sin x|) + c sur R\ncos x\nsin x+cos xdx = 1\n2 (x + ln |cos x + sin x|) + c sur R (en calculant la somme et la diﬀ´erence).\nCorrection 10 a-\nsin8 x cos3 xdx = 1\n9 sin9 x −1\n11 sin11 x + c sur R.\ncos4 xdx =\n32 sin 4x + 1\n4 sin 2x + 3\n8x + c sur R.\ncos2003 x sin xdx = −\n2004 cos2004 x + c sur R.\nsin xdx = 1\n2 ln\n1−cos x\n1+cos x\n+c = ln\ntan x\n+c sur ]kπ, (k + 1) π[ (changement de variable u = cos x\nou u = tan x\n2).\ncos xdx =\n2 ln\n1+sin x\n1−sin x\n+ c = ln\ntan\n\u0000 x\n2 + π\n\u0001\f\f + c sur\n2 + kπ, π\n2 + kπ\n(changement de\nvariable u = sin x ou u = tan x\n2).\n3−sin x\n2 cos x+3 tan xdx = −1\n5 ln (2 −sin x) + 7\n10 ln |1 + 2 sin x| + c sur R \\\n\b 2π\n3 [2π] , −2π\n3 [2π]\n(chan-\ngement de variable u = sin x).\n7+tan xdx =\n50x+ 1\n50 ln |tan x + 7|+ 1\n50 ln |cos x|+c sur R\\\narctan (−7) + kπ , π\n2 + kπ , k ∈Z\n(changement de variable u = tan x).\n2+sin x+cos xdx =\n2 Arctan\n1+tan(x/2)\n+ c sur R \\ {kπ , k ∈Z} (changement de variable\nu = tan(x/2)).\nCorrection 11\n1. Vrai.\n2. Vrai.\n3. Faux ! Attention aux valeurs n´egatives par exemple pour f(x) = x alors F est d´ecroissante\nsur ] −∞, 0] et croissante sur [0, +∞[.\n4. Vrai.\n5. Vrai.\n6. Faux. Faire la calcul avec la fonction f(x) = 1 + sin(x) par exemple.\n7. Vrai.\nCorrection 12\n1. Commen¸cons plus simplement avec la fonction\nH(x) =\nZ v(x)\nf(t)dt.\nEn fait H est la composition de la fonction x 7→v(x) avec la fonction G : x 7→\nR x\na f(t)dt :\nH = G ◦v.\nLa fonction v est d´erivable et la fonction G aussi (c’est une primitive) donc la compos´ee\nH = G◦v est d´erivable, de plus H′(x) = v′(x)·G′(v(x)). En pratique comme G′(x) = f(x)\ncela donne H′(x) = v′(x)f(v(x)).\nRemarque : Il n’est pas n´ecessaire de connaˆıtre cette formule mais il est important de\nsavoir refaire ce petit raisonnement.\nOn montrerait de mˆeme que la fonction x →\nR a\nu(x) f(t)dt est d´erivable de d´eriv´ee −u′(x)f(u(x)).\nRevenons `a notre fonction F(x) =\nR v(x)\nu(x) f(t)dt =\nR a\nu(x) f(t)dt+\nR v(x)\nf(t)dt, c’est la somme\nde deux fonctions d´erivables donc est d´erivable de d´eriv´ee :\nF ′(x) = v(x)f(v(x)) −u′(x)f(u(x)).\n2. On applique ceci `a u(x) = x et v(x) = 2x nous obtenons :\nG′(x) =\n1 + (2x)2 + (2x)4 −\n1 + x2 + x4.\nCorrection 13\n1. F est d´eﬁnie sur ]0, 1[∪]1, +∞[. F est continue et d´erivable sur ]0, 1[\net sur ]1, +∞[. Pour vois cela il suﬃt d’´ecrire F(x) =\nR a\nln t +\nR x2\nln t. La premi`ere de\nces fonctions est continue et d´erivable (c’est une primitive), la seconde est la compos´ee\nde x 7→x2 avec x 7→\nR x\nln t et est donc aussi continue et d´erivable. On pourrait mˆeme\ncalculer la d´eriv´ee.\n2. Notons f(t) =\nln t et g(t) =\nt ln t. On se place sur ]1, +∞[. Bien ´evidemment g(t) ⩽f(t),\nmais nous avons aussi que pour ε > 0 ﬁx´e il existe x > 1 tel que pour tout t ∈[1, x2] on\nait 1\nt ⩽1 + ε donc sur ]1, x2] nous avons f(t) ⩽(1 + ε)g(t). Par int´egration de l’in´egalit´e\ng(t) ⩽f(t) ⩽(1 + ε)g(t) sur [x, x2] nous obtenons pour x assez proche de 1 :\nH(x) ⩽F(x) ⩽(1 + ε)H(x).\nIl ne reste plus qu’a calculer H(x). En fait g(t) =\nt ln t est la d´eriv´ee de la fonction\nh(t) = ln(ln t). Donc\nH(x) =\nZ x2\nt ln t = [ln(ln t)]x2\nx = ln(ln(x2)) −ln(ln x)\n= ln(2 ln x) −ln(ln x) = ln 2 ln x\nln x\n= ln 2.\nNous obtenons alors, pour ε > 0 ﬁx´e et x > 1 assez proche de 1, l’encadrement\nln 2 ⩽F(x) ⩽(1 + ε) ln 2.\nDonc la limite de F(x) quand x →1+ est ln 2.\nCorrection 14 a-\nR 1\narctan x\n1+x2 dx = π2\n32 (changement de variables ou int´egration par parties).\nR 2\n\u00001 + 1\narctan xdx = 3π\n4 (changement de variables u = 1\nx et arctan x + arctan 1\nx = π\n2).\nR π\n0 x sin xdx = 1 (int´egration par parties).\nR 1\n−1 (arccos x)2 dx = π2 + 4 (2 int´egrations par parties).\nR 1\n(1+x2)2dx = π\n8 + 1\n4 (changement de variables ou int´egration par parties).\nR √\n4−x2dx = 2π\n3 −\n2 (changement de variables u = arcsin x\n2).\nR 2\n1 x2 ln xdx = 8\n3 ln 2 −7\n9 (int´egration par parties).\nR 1\nx2+4x+7dx =\n3 (changement de variables u = x+2\n3 ).\nR 1\n3x+1\n(x+1)2dx = 3 ln 2 −1 (d´ecomposition en ´el´ements simples).\nCorrection 15\nR π\n1+sin xdx = 1 (changement de variables u = tan x\n2).\nR π\nsin x\n1+sin xdx = π\n2 −1 (utiliser la pr´ec´edente).\nCorrection 16\n1. Sur [0, π\n2] la fonction sinus est positive donc In est positive. De plus le\nsin x ⩽1 donc la suite (sinn x)n est d´ecroissante.\nIn+2 =\nsin x sinn+1 xdx.\nEn posant u′(x) = sin x et v(x) = sinn+1 x et en int´egrant par parties nous obtenons\nIn+2 = (n + 1)\n(1 −sin2 x) sinn xdx = (n + 1)In −(n + 1)In+2.\nDonc (n + 2)In+2 = (n + 1)In.\nUn petit calcul donne I0 = π\n2 et I1 = 1. Donc par r´ecurrence pour n pair nous obtenons\nque\nIn = 1.3...(n −1)\n2.4...n\n2 ,\net pour n impair :\nIn = 2.4...(n −1)\n1.3...n\nAvec le changement de variable u = cos x, on montre assez facilement que\nR 1\n−1 (x2 −1)n dx =\nR 1\n0 (x2 −1)n dx = 2I2n+1.\n3. Comme (In) est d´ecroissante alors In+2 ⩽In+1 ⩽In, en divisant le tout par In > 0 nous\nobtenons In+2\n⩽In+1\n⩽1. Mais nous avons d´ej`a calculer In+2\n= n+1\nn+2 qui tend vers 1 quand\nn tend vers l’inﬁni. Donc In+1\ntend vers +1 donc In ∼In+1.\n4. Lorsque l’on calcule (n + 1)InIn+1 `a l’aide des expressions explicit´ees `a la deuxi`eme ques-\ntion nous obtenons une fraction qui se simpliﬁe presque compl`etement : (n+1)InIn+1 = π\nMaintenant\nn ∼In × In+1 =\n2(n + 1) ∼π\n2n,\ndonc\nIn ∼\nr π\n2n.\n1.3... (2n + 1)\n2.4... (2n)\n= (2n + 1) 2\nπI2n ∼(2n + 1) 2\nr π\n4n ∼2\nCorrection 17\n1. Pour x > 0 on a\n1+x ⩽xn, donc\nIn ⩽\nZ 1\nxndx =\nn + 1xn+1\nn + 1.\nDonc In →0 lorsque n →+∞.\n2. In + In+1 =\nR 1\n0 xn 1+x\n1+xdx =\nR 1\n0 xndx =\nn+1.\n3. Soit Sn = (I0 + I1) −(I1 + I2) + (I2 + I3) −· · · ± (In−1 + In). Par la question pr´ec´edente\nnous avons Sn = 1 −1\n2 + 1\n3 −1\n4 + · · · ± 1\nn = Pn\nk=1\n(−1)k+1\n. Mais d’autre part cette somme\n´etant t´elescopique nous avons Sn = I0 ± In. Alors la limite de Sn et donc de Pn\nk=1\n(−1)k+1\n(quand n →+∞) est donc I0 car In →0. Un petit calcul montre que I0 =\nR 1\n1+x = ln 2.\nDonc la somme altern´ee des entiers converge vers ln 2.\nCorrection 18\nR R\nR2 −x2dx = π\n2R2.\nCorrection 19 Aire de la r´egion d´elimit´ee par les courbes d’´equation y = x2\n2 et y =\n1+x2 =\n2 −1\n3 (r´esoudre x2\n2 =\nx2+1).\nCorrection 20\n1. Soit un\nPn−1\nk=0\nk2+n2 = 1\nPn−1\nk=0\n1+( k\nn)2. En posant f(x) =\n1+x2 nous ve-\nnons d’´ecrire la somme de Riemann correspondant `a\nR 1\n0 f(x)dx. Cette int´egrale ce calcule\nfacilement :\nR 1\n0 f(t)dt =\nR 1\n1+x2 = [arctan x]1\n0 = π\n4. La somme de Riemann un convergeant\nvers\nR 1\n0 f(x)dx nous venons de montrer que un converge vers π\n2. Soit vn =\nk=1\n1 + k2\n\u0011 1\nn, notons\nwn = ln vn = 1\nk=1\n1 + k2\nEn posant g(x) = ln(1 + x2) nous reconnaissons la somme de Riemann correspondant `a\nI =\nR 1\n0 g(x)dx.\nCalculons cette int´egrale :\nI =\nZ 1\ng(x)dx =\nZ 1\nln(1 + x2)dx\n= [x ln(1 + x2)]1\n0 −\nZ 1\n1 + x2dx\npar int´egration par parties\n= ln 2 −2\nZ 1\n1 −\n1 + x2dx\n= ln 2 −2 + 2[arctan x]1\n= ln 2 −2 + π\n2 .\nNous venons de prouver que wn = ln vn converge vers I = ln 2 −2 + π\n2, donc vn = exp wn\nconverge vers exp(ln 2 −2 + π\n2) = 2e\n2 −2. Bilan (vn) a pour limite 2e\n2 −2.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "source": "data/raw/exercices/INTEGRALE-TD3.pdf",
+        "filename": "INTEGRALE-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "b7c59093c6fe5a9e",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 750,
+      "end_line": 1461
+    }
+  ]
+}

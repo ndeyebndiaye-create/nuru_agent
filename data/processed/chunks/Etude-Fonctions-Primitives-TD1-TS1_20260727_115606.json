@@ -1,0 +1,266 @@
+{
+  "source": "data/raw/exercices/Etude-Fonctions-Primitives-TD1-TS1.pdf",
+  "timestamp": "2026-07-27T11:56:06.981700",
+  "chunks": [
+    {
+      "text": "Exercice 1\nDéterminer une primitive F de la fonction f sur\nintervalle I à préciser dans les cas suivants :\n;  b)\n;d)\n;  e)\n(indication : trouver a et b\ntels que\n) ;\ncos\nsin\n;    g)\ncos\ncos\ncos\nsin\ncos",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "filename": "Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "639c4f32d6e71ecf",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 135,
+      "end_line": 151
+    },
+    {
+      "text": "Exercice 2\nTrouver les primitives sur l’intervalle \nla fonction f définie par :\nDéduisez en les primitives sur l’intervalle \nde la fonction g  définie par :\ncos\ncos\ncos\nsin\nTrouver la primitive vérifiant",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "filename": "Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "639c4f32d6e71ecf",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 193,
+      "end_line": 202
+    },
+    {
+      "text": "Exercice 3\nSoit f  et w deux fonctions définies sur l’intervalle\npar :\ncos\nsin\ncos\nVérifier que\ncos\ncos\nEn déduire sur I une primitive de la fonction w.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "filename": "Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "639c4f32d6e71ecf",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 237,
+      "end_line": 246
+    },
+    {
+      "text": "Exercice 4\nSoit f  est une fonction définie sur IR par :\nMontre que f admet une primitive F sur IR de la\nforme F(x) =\nTrouver toutes les primitives de f sur IR.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "filename": "Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "639c4f32d6e71ecf",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 275,
+      "end_line": 279
+    },
+    {
+      "text": "Exercice 5\nSoit une fonction définie dans IR par :\ncos\ncos\nDéterminer\n'f  et\n.  Vérifier que pour tout\nx de IR ;\nEn déduire toutes les primitives de f sur IR\nTrouver les primitives sur IR qui s’annule en",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "filename": "Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "639c4f32d6e71ecf",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 311,
+      "end_line": 320
+    },
+    {
+      "text": "Exercice 6\nOn considère la fonction f définie sur I= \npar :\net par \nC  sa courbe\nEtudier les variations de f  sur I et montrer que\nC  admet une droite asymptote\nSoit  F la primitive de f sur I tel que\nOn ne cherche pas à exprimer\nPour quoi peut on affirmer l’existence de F\nsur I ?\nQuelles sont variation de F sur I ?\nOn définit sur I les fonctions H et K par :\nEtudier les variations de H et K  sur I.\nEn déduire que pour tout\n, on a :\nEn déduire la limite de F en\nDémontrer que l’équation :\nadmet  une",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "filename": "Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "639c4f32d6e71ecf",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 402,
+      "end_line": 420
+    },
+    {
+      "text": "Problème 1\nNous admettons qu’il existe une fonction f, définie et\ndérivable sur IR, et vérifiant\npour tout\nréel x,\n('f\nParité\nMontrer que la fonction\nest dérivable sur IR et\ncalculer sa dérivée.\nCalculer\ng \nEn déduire que la fonction f\nest impaire.\nLimite de f en + ∞\nMontrer que la fonction\nest dérivable sur\net calculer sa dérivée.\nEn déduire qu’il existe une constante c telle\nque, pou tout\non ait :\n(1).\nA l’aide de (1), prouver que\nlim\nOn considère la fonction u, définie sur\npar\ntan\nMontrer que la fonction\nest dérivable sur\net calculer sa dérivée.\nCalculer\nψ \nEn déduire que, pour tout x de\n, on a\ntan\nCalculer les valeurs exactes de\nainsi que la valeur\nexacte de la constante c.\nTracé\nEtudier le sens de variation de f sur \net dresser le tableau de variations.\nTracer la courbe Cf en précisant les branches\ninfinies éventuelles et la tangente à l’origine.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "filename": "Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "639c4f32d6e71ecf",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 606,
+      "end_line": 648
+    },
+    {
+      "text": "Problème 2\nSoit  f  la fonction par\nsin\net soit Γ sa\nreprésentation graphique dans un repère orthonormal\nMontrer que pour tout réel x, on a :\nQu’en déduire sur les limites à l’infini de f(x) et\nComment trace- t- on Γ à partir de la\nreprésentation de f sur \nEtablir le tableau de variation de f sur \nDéterminer les points d’intersection de Γ avec les\ndroites d’équation\ny \n, et\npréciser les tangentes en ces points.\nEtudier sur l’intervalle\nla position de Γ\npar rapport à sa tangente au point d’abscisse\nTracer la représentation de f  sur \npuis la\ncourbe Γ.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "filename": "Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "639c4f32d6e71ecf",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 726,
+      "end_line": 746
+    },
+    {
+      "text": "Problème 3\nSoit la fonction\n. Etudier f et\ntracer sa courbe représentative.\nSoit les fonctions :\nEtudier le sens de variation de g et h sur\n;\nSoit n un entier naturel non nul et Pn la fonction\ndéfinie sur IR par :\nDémontrer que Pn est une fonction polynôme\ndont on précisera le degré.\nSoit la fonction\nDémontrer que\nl’on a suivant la parité de n :\nEn déduire le sens de variation de Pn.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "filename": "Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "639c4f32d6e71ecf",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer",
+          "tracer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 864,
+      "end_line": 878
+    },
+    {
+      "text": "Problème 4\n.a) Démontrer que la courbe représentative, sur\nl’intervalle \n;\nde la fonction\nest au dessus de sa tangente en tout\npoint.\n.b) En déduire que :\nSoit la fonction\net a un nombre\nréel strictement positif.\nDéterminer les dérivées première et seconde\nde g sur l’intervalle \n;\nVérifier que :\n('g\nEn appliquant l’inégalité des accroissements\nfinis à la fonction g sur \ndémontrer\nque :\nDéduire des inégalités (1) et (2) que :\nBon courage !",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "filename": "Etude-Fonctions-Primitives-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "639c4f32d6e71ecf",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 995,
+      "end_line": 1016
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "source": "data/raw/exercices/GEOMETRIE-DANS-Lespace-TD2.pdf",
+  "timestamp": "2026-07-19T18:10:17.775241",
+  "chunks": [
+    {
+      "text": "Exercice 1\nOn donne A(2 , −1, 3), B(1, 2, 0), C(−2, 1, 2) et D(−1, −2, 5).\n1. ABCD est-il un parallélogramme ? Un rectangle ?\n2. Calculer les coordonnées de l'isobarycentre du quadrilatère ABCD.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "source": "data/raw/exercices/GEOMETRIE-DANS-Lespace-TD2.pdf",
+        "filename": "GEOMETRIE-DANS-Lespace-TD2.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "7da916a7470d37fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 5,
+      "end_line": 8
+    },
+    {
+      "text": "Exercice 2\nOn donne A(−3 , 1, 4), B(−2, −1, 7), C(−4, −1, −2) et D(−5, −5, 4).\nLes droites (AB) et (CD) sont-elles parallèles ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "source": "data/raw/exercices/GEOMETRIE-DANS-Lespace-TD2.pdf",
+        "filename": "GEOMETRIE-DANS-Lespace-TD2.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "7da916a7470d37fa",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 9,
+      "end_line": 11
+    },
+    {
+      "text": "Exercice 4\nOn donne A(1, −2, 3), B(0, 4, 4) et C(4, −20, 9).\nLes points A, B et C sont-ils alignés ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "source": "data/raw/exercices/GEOMETRIE-DANS-Lespace-TD2.pdf",
+        "filename": "GEOMETRIE-DANS-Lespace-TD2.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "7da916a7470d37fa",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 17,
+      "end_line": 19
+    },
+    {
+      "text": "Problème 1\nABCD est un tétraèdre régulier d'arête a. On note G son centre de gravité.\n1. Démontrer que AB\n. AC\n= AC\n. AD\n= AD\n. AB\n= a2\n2  et qu'il en est de même pour les autres sommets.\n2. Démontrer que deux arêtes opposés sont orthogonales.\n3. Soit A' le centre de gravité du triangle BCD. Exprimer AG\nen fonction de AA\n′ .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "source": "data/raw/exercices/GEOMETRIE-DANS-Lespace-TD2.pdf",
+        "filename": "GEOMETRIE-DANS-Lespace-TD2.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "7da916a7470d37fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 28,
+      "end_line": 41
+    },
+    {
+      "text": "Problème 2\nABCDEFGH est un cube de côté égal à 1. On considère le repère (A, AB\n, AD\n, AE\n1. Calculer la longueur CE.\n2. Calculer les coordonnées du centre de gravité I de AHF et du centre de gravité J de BDG.\n3. Démontrer que la droite (IJ) est orthogonale au plan (AHF) ainsi qu'au plan (BDG). (Rappel : pour montrer\nque d'une droite d est orthogonale à un plan P, on montre qu'elle est orthogonale à deux droites sécantes d1\net d2 de P)\n4. Démontrer que IJ\n= 1\n3 EC",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "source": "data/raw/exercices/GEOMETRIE-DANS-Lespace-TD2.pdf",
+        "filename": "GEOMETRIE-DANS-Lespace-TD2.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "7da916a7470d37fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 52,
+      "end_line": 63
+    },
+    {
+      "text": "Problème 3\nABCD est un tétraèdre. On note I et J les milieux respectifs de [AC] et [BD].\nOn définit les points P, Q, R et S par :\n= 1\n3 AB\n; AQ\n= 1\n3 AD\n; CR\n= 1\n3 CB\n; CS\n= 1\n3 CD\nLe but de problème est de démontrer que les droites (PS), (QR) et (IJ) sont concourantes.\n1. Faire une figure.\n2. Démontrer que :\nP = bar(A, 2)(B, 1)  ;  Q = bar(A, 2)(D, 1)  ;  R = bar(C, 2)(B, 1)  ;  S = bar(C, 2)(D, 1)\n3. On considère le barycentre G de (A, 2)(B, 1)(C, 2)(D, 1).\nEn utilisant la règle d'associativité, démontrer que G ∈ (PS) puis que G ∈ (QR) et enfin que G ∈ (IJ).\n4. Conclure.\nQuestion subsidiaire : que pensez-vous du quadrilatère PQSR ? (Justifier votre réponse)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "source": "data/raw/exercices/GEOMETRIE-DANS-Lespace-TD2.pdf",
+        "filename": "GEOMETRIE-DANS-Lespace-TD2.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "7da916a7470d37fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 77,
+      "end_line": 98
+    },
+    {
+      "text": "Problème 4\nABCDEFGH est un cube de côté égal à 1. On considère le repère (A, AB\n, AD\n, AE\nI est le centre du carré EFGH et J est le centre du carré BCGF.\n1. Faire une figure.\n2. Préciser les coordonnées de I et J.\n3. Calculer les distances AI, AJ et IJ.\n4. Calculer le produit scalaire AI\n. AJ\net en déduire une mesure de l'angle ( AI\n, AJ\n→).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "source": "data/raw/exercices/GEOMETRIE-DANS-Lespace-TD2.pdf",
+        "filename": "GEOMETRIE-DANS-Lespace-TD2.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "7da916a7470d37fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 106,
+      "end_line": 118
+    }
+  ]
+}

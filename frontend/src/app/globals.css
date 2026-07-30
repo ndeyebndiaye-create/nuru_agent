@@ -1,0 +1,249 @@
+@import "tailwindcss";
+@import "katex/dist/katex.min.css";
+
+/* ────────────────────────────────────────────────────────────
+   System Design NURU - Typographie & Rendu Cours Sénégal
+   ──────────────────────────────────────────────────────────── */
+:root {
+  --background: #f8fafc;
+  --foreground: #0f172a;
+
+  /* Couleurs identitaires Sénégal */
+  --senegal-green: #059669;
+  --senegal-green-dark: #047857;
+  --senegal-green-light: #ecfdf5;
+
+  --senegal-yellow: #f59e0b;
+  --senegal-yellow-light: #fffbeb;
+
+  --senegal-red: #dc2626;
+  --senegal-red-light: #fef2f2;
+
+  --card-bg: #ffffff;
+  --border-color: #e2e8f0;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+    Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ────────────────────────────────────────────────────────────
+   NURU Markdown — Rendu Cours Qualité Manuel Scolaire
+   ──────────────────────────────────────────────────────────── */
+.nuru-markdown {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: #334155;
+  max-width: 100%;
+}
+
+/* Titres */
+.nuru-markdown h1 {
+  font-size: 1.85rem;
+  font-weight: 800;
+  color: #0f172a;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 2.5px solid #d1fae5;
+  letter-spacing: -0.02em;
+}
+
+.nuru-markdown h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #1e293b;
+  margin-top: 2.5rem;
+  margin-bottom: 0.85rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1.5px solid #e2e8f0;
+}
+
+.nuru-markdown h3 {
+  font-size: 1.15rem;
+  font-weight: 650;
+  color: #334155;
+  margin-top: 2rem;
+  margin-bottom: 0.6rem;
+}
+
+.nuru-markdown h4 {
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: #64748b;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Paragraphes */
+.nuru-markdown p {
+  margin-bottom: 1.1rem;
+}
+
+/* Listes */
+.nuru-markdown ul,
+.nuru-markdown ol {
+  margin-bottom: 1.1rem;
+  padding-left: 1.6rem;
+}
+
+.nuru-markdown li {
+  margin-bottom: 0.4rem;
+  line-height: 1.75;
+}
+
+/* Séparateurs */
+.nuru-markdown hr {
+  margin: 2.5rem 0;
+  border: none;
+  border-top: 2px solid #f1f5f9;
+}
+
+/* Code inline */
+.nuru-markdown code:not(pre code) {
+  font-family: 'Fira Mono', 'Cascadia Code', 'Menlo', monospace;
+  font-size: 0.875rem;
+  background: #f1f5f9;
+  color: #059669;
+  padding: 0.15rem 0.4rem;
+  border-radius: 0.35rem;
+  border: 1px solid #e2e8f0;
+}
+
+/* Blocs de code */
+.nuru-markdown pre {
+  background: #0f172a;
+  color: #a7f3d0;
+  border-radius: 0.75rem;
+  padding: 1.25rem 1.5rem;
+  overflow-x: auto;
+  font-size: 0.875rem;
+  margin: 1.5rem 0;
+  box-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Tableaux */
+.nuru-markdown table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+}
+
+.nuru-markdown thead tr {
+  background: #ecfdf5;
+  color: #065f46;
+  font-weight: 700;
+}
+
+.nuru-markdown th,
+.nuru-markdown td {
+  padding: 0.7rem 1rem;
+  border: 1px solid #e2e8f0;
+  text-align: left;
+}
+
+.nuru-markdown tbody tr:nth-child(even) {
+  background: #f8fafc;
+}
+
+/* Texte fort et italique */
+.nuru-markdown strong {
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.nuru-markdown em {
+  color: #475569;
+  font-style: italic;
+}
+
+/* ────────────────────────────────────────────────────────────
+   KaTeX — Rendu Mathématique de Qualité Typographique
+   ──────────────────────────────────────────────────────────── */
+
+/* Équations centrées (display mode) */
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 1rem 0.5rem;
+  margin: 1.5rem 0;
+  background: #fafafa;
+  border-radius: 0.5rem;
+  border: 1px solid #e2e8f0;
+  text-align: center;
+}
+
+.katex-display > .katex {
+  white-space: normal;
+}
+
+/* Formules inline */
+.katex {
+  font-size: 1.05em;
+}
+
+/* Correction du débordement sur mobile */
+@media (max-width: 640px) {
+  .katex-display {
+    padding: 0.75rem 0.25rem;
+    font-size: 0.9rem;
+  }
+}
+
+/* ────────────────────────────────────────────────────────────
+   Ancien .markdown-body (rétrocompatibilité)
+   ──────────────────────────────────────────────────────────── */
+.markdown-body {
+  font-size: 0.95rem;
+  line-height: 1.75;
+  color: #334155;
+}
+
+.markdown-body h1 {
+  font-size: 1.75rem;
+  font-weight: 800;
+  color: #0f172a;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #e2e8f0;
+}
+
+.markdown-body h2 {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: #1e293b;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.markdown-body h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #334155;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.markdown-body p {
+  margin-bottom: 1rem;
+}
+
+.markdown-body blockquote {
+  border-left: 4px solid var(--senegal-green);
+  background-color: var(--senegal-green-light);
+  padding: 1rem 1.25rem;
+  border-radius: 0 0.75rem 0.75rem 0;
+  margin: 1.25rem 0;
+  color: #064e3b;
+  font-weight: 450;
+}
+

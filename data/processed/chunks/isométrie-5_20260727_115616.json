@@ -1,0 +1,415 @@
+{
+  "source": "data/raw/exercices/isométrie-5.pdf",
+  "timestamp": "2026-07-27T11:56:16.243261",
+  "chunks": [
+    {
+      "text": "Série d’exercices\n:   Isométrie du planExercice 1\nSoit ABC un triangle équilatéral tel que :\non appelle O le centre de gravi-\nté du triangle. Les points I ; J ; K sont tels que :\n5 AB\nAI \nDéterminer deux nombres réels a et b tels que I\nsoit barycentre de (A ;a) et (B ;b).\nEn utilisant la rotation de centre O qui trans-\nforme A en B ; démontrer que O est le centre de\ngravité du triangle IJK.",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-5.pdf",
+        "filename": "isométrie-5.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "cd10ec25ce7f2a2f",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "course"
+      },
+      "start_line": 31,
+      "end_line": 42
+    },
+    {
+      "text": "Exercice 2\nABCD est un carré de centre de O tel que\n. Soit r la rotation de centre O et\nd’angle\n et t la translation de vecteur\nBC Déter-\nminer la nature et les éléments caractéristiques de\nrot.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-5.pdf",
+        "filename": "isométrie-5.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "cd10ec25ce7f2a2f",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 56,
+      "end_line": 63
+    },
+    {
+      "text": "Exercice 3\nDans le plan orienté ; on considère un triangle équila-\ntéral ABC tel que une mesure de l’angle\n.On appelle \n le cercle cir-\nconscrit au triangle ABC. La médiatrice de [BC] coupe\n en A et D, on appelle A’ le point d’intersection\ndes droites (BD) et (AC).\nDémontrer que A’ est le symétrique de A par rap-\nport à C.\nOn désigne par\ns BD o\ns CD  ;\ns CA o\ns AB les sy-\nmétries orthogonales par rapport à (BD) ; (CD) ;\n(CA) ;  (AB) respectivement.\nQuelle est la nature des applications suivantes :\ns BD o\ns CD  ;\ns CA o\ns AB  ? on précisera les élé-\nments caractéristiques.\nSoit (∆) la droite parallèle à (DC) menée par A et\ns la symétrie orthogonale par rapport à (∆).\nDémontrer que :\ns BD o\ns CD\ns DC o\ns DA\ns CA o\ns AB\ns DA\ns \nRetrouver les résultats de 1) en utilisant l’applica-\ntion t définie par :  t =\ns BD o\ns CD o\ns CA o\ns AB\nque l’on caractérisera.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-5.pdf",
+        "filename": "isométrie-5.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "cd10ec25ce7f2a2f",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 128,
+      "end_line": 168
+    },
+    {
+      "text": "Exercice 4\nSoit ABC un triangle rectangle et isocèle en A tel\nque : \n.On appelle R la rotation de\ncentre A qui transforme B en C et T la translation de\nvecteur AB ; on note I le milieu de [BC]\nConstruire le point J = R(I).\nOn  pose F1= RoT et F2 = TOR.  Déterminer F1(J) et\nF2(I) puis en déduire la nature et les éléments ca-\nractéristiques de F1 et F2.\nSoit M un point du plan M1 = F1(M) et M2 =\nF2(M) ; quelle est la nature du triangle BCM1M2 ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-5.pdf",
+        "filename": "isométrie-5.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "cd10ec25ce7f2a2f",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "construire"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 182,
+      "end_line": 193
+    },
+    {
+      "text": "Exercice 5\nSoit Le plan est muni d’un repère orthonormé\nO ;\net A (2 ;0) , B(2 ;2) , C(0 ;2) S1 et S2 sont les\nsymétries  orthogonales par rapport à (AC) et ( OA),\net T la translation de vecteur\nOC Reconnaître\nS1oS2 ; puis ToS2oS1",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-5.pdf",
+        "filename": "isométrie-5.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "cd10ec25ce7f2a2f",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 199,
+      "end_line": 206
+    },
+    {
+      "text": "Exercice  6\nSoit Le plan est muni d’un repère orthonormé\nO ;\net I (0 ;1) , J(1 ;0), RI et RJ sont les rotations\nde centre respectifs I et J d’angle\net T la transla-\ntion de vecteur\nIJ  Reconnaître S = RI oToRJ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-5.pdf",
+        "filename": "isométrie-5.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "cd10ec25ce7f2a2f",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 213,
+      "end_line": 220
+    },
+    {
+      "text": "Exercice 7\nSoit ABC un triangle tel que : \nAB < AC. On appelle \n le cercle circonscrit au tri-\nangle ABC et le point O son centre. Soit E le milieu\nde [BC]  et P le point  [AC] tel que AB = CP. La droite\n(OE) coupe \n en I et J tel que J et A soient sur le\nmême AC arc du \na) Faire une figure.\nb) Quel est l’ensemble des points M du plan (P)\ntels que : \nc) Quel est l’ensemble des points M de (P) tels\nque: \net MB < MC ?\na) Justifier qu’il existe une unique rotation R tel\nque R(A) = P et R(B) = C.  Déterminer son centre.\nb) Démontrer que son centre est un point de\n que l’on précisera\nc) Quelle est la nature du triangle JAP ?\n1/3\nDéterminer l’image de B par RoSB où SB est la sy-\nmétrie centrale de centre B. Déterminer la na-\nture et les éléments caractéristiques de RoSB.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-5.pdf",
+        "filename": "isométrie-5.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "cd10ec25ce7f2a2f",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 266,
+      "end_line": 289
+    },
+    {
+      "text": "Exercice 8\nOn considère dans le plan orienté (P) ; deux points A\net B. Soit : RA la rotation de centre A et d’angle\net RB la rotation de centre B et d’angle\nPour tout point M du plan (P) ; on pose M’=RA(M)\net M’’= RB(M).\nDe l’étude de RBo(RA)-1 déduisez en que pour tout\npoint M du plan (P) le milieu du segment [M’M’’]\nest un point fixe J dont on démontrera qu il ap-\npartient au cercle de diamètre [AB] .\nLe but du problème est de déterminer l’en-\nsemble des  M de (P) pour les quels M ; M’ ; M’’\nsont alignés.\nPour tout point M distinct de A et B, démon-\ntrer que :\nDéduisez en l’ensemble des points M du plan\n(P) pour les quels M ; M’ ; M’’ sont alignés.\nIndication : On pourra calculer dans le tri-\nangle BMM’’ :",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-5.pdf",
+        "filename": "isométrie-5.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "cd10ec25ce7f2a2f",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 338,
+      "end_line": 356
+    },
+    {
+      "text": "Exercice 9\nOn considère trois points non alignés A, B et C. Pour\ntout réel α on définit l’application fα du plan dans lui-\nmême qui à tout point M associe le point M' tel que :\nMontrer que f1 est une translation que l’on préci-\nsera.\na) On suppose que α ≠ 1. Montrer que fα admet\nun unique point invariant Gα et que :\noù k est un réel dépen-\ndant de α que l’on précisera.\nDéterminer l’ensemble des points Gα lorsque α ∈\nIR \\ {1}.\nOn suppose toujours que α ≠ 1. Exprimer\nen fonction de\npuis en déduire\nla nature de fα suivant les valeurs de α. On préci-\nsera ses éléments caractéristiques",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-5.pdf",
+        "filename": "isométrie-5.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "cd10ec25ce7f2a2f",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 387,
+      "end_line": 403
+    },
+    {
+      "text": "Exercice 10\nSoit A, B, C  trois points non alignés du plan et C’ le\npoint défini par\nCC \n; on désigne par f l’appli-\ncation affine du plan définie par f(A) = A ;      f(B) =B\net f(C) = C’\nMontrer que f est une application bijective. Dé-\nterminer l’ensemble des points invariant par f.\nf est – elle une isométrie ? Montrer que les\ndroites parallèles à (AB) sont globalement inva-\nriantes par f\nLe point G est l’isobarycentre de A, B, C ; montrer\nque G’ = f(G) appartient à (BC)\nM est un point du plan. Donner une construction\ngéométrique de M’= f(M).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-5.pdf",
+        "filename": "isométrie-5.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "cd10ec25ce7f2a2f",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 409,
+      "end_line": 424
+    },
+    {
+      "text": "Exercice 11\nO est un point du plan et u un vecteur non nul,\nsoit t la translation de vecteur u h est l’homo-\nthétie de centre O et de rapport k. Quelle est la\nnature de l’application tohot ?\nPréciser les éléments servant à la définir\nLe plan est muni d’un repère orthonormé\nO ;\n. Soit M(x, y) et M’(x’,y’) l’ application S\ndéfinie par\n\n. Montrer que S est\nune symétrie, préciser ses éléments caractéris-\ntiques.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-5.pdf",
+        "filename": "isométrie-5.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "cd10ec25ce7f2a2f",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 448,
+      "end_line": 461
+    },
+    {
+      "text": "Exercice 12\nLe plan est muni d’un repère orthonormé \n;i;\nSoit  le vecteur\n3 ;\net f l’application du plan\ndans lui-même qui a tout point M associe le point M’\ntelle que :\nDonner l’expression analytique de f. En déduire\nque f est une application affine\nDéterminer deux points A et B tel que f(A) = A et\n; en déduire que f est une\naffinité orthogonale dont on précisera l’axe et le\nrapport\nExprimer analytiquement f dans le repère",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-5.pdf",
+        "filename": "isométrie-5.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "cd10ec25ce7f2a2f",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 507,
+      "end_line": 521
+    },
+    {
+      "text": "Exercice 13\nLe plan est muni d’un repère orthonormé \net f l’application du plan dans lui-même qui a tout\n2/3\npoint M associe le point M’ telle que :\nDémontrer que fof =Id\nDémontrer que l’ensemble des points invariant\nest une droite (D) que l’on déterminer.\nSoit M un point du plan et M’ son image par f\nDémontrer que le milieu de [MM’] appar-\ntient à (D)\nDémontrer que le vecteur\nMM a une di-\nrection fixe orthogonale à celle de (D)\nEn déduire la nature et les éléments caracté-\nristiques de f.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-5.pdf",
+        "filename": "isométrie-5.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "cd10ec25ce7f2a2f",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 572,
+      "end_line": 587
+    },
+    {
+      "text": "Exercice 14\nDans le plan orienté muni d’un repère orthonormal\ndirect, on considère ABC un triangle direct sur lequel\non construit extérieurement trois triangles équilaté-\nraux BCA′, ACB′ et ABC′. On considère respectivement\nles points P, Q et R centres de gravités respectifs des\ntriangles B CA′, ACB′ et ABC′. On note a, b, c, a′, b′, c′,\np, q et r les affixes respectives des points A, B, C, A′, B\n′, C′, P, Q et R.\nTraduire, avec les affixes des points concernés,\nque C′ est l’image de A dans une rotation d’angle\nde mesure dont on précisera le centre.\nMontrer que a′ +b′ +c′ = a +b +c. En déduire que\np +q +r = a +b +c.\nEn déduire que les triangles ABC, A′B′C′ et PQR\nont même centre de gravité.\nMontrer que : 3(q −p) = (b′ −c) + (c −a′) + (a −b).\nOn admettra que, de même :\n3(r −p) = (a −c) + (b −a′) + (c′ −b).\nJustifier les égalités suivantes :\nDéduire des questions  5) et 6) que le triangle\nPQR est équilatéral.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-5.pdf",
+        "filename": "isométrie-5.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "cd10ec25ce7f2a2f",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 634,
+      "end_line": 655
+    },
+    {
+      "text": "Exercice 15\nDans le plan orienté, on considère un losange ABCD\ntel que AB = BC = CD = DA = 5 et \nOn désigne par I, J, K, L et O les milieux respectifs des\nsegments [AB], [BC],[CD] , [DA] et [BD]. On note (∆) la\nmédiatrice de [AB] et (∆′) la médiatrice de [CD].\nSoit f l’isométrie du plan définie par f (A) = B,\nf (B) =O, f (D) = C.\nProuver que f est un antidéplacement.\nDémontrer que s’il existe un point M inva-\nriant par f, alors M est équidistant des points\nA, B, C, D.\nL’isométrie f admet-elle un point invariant ?\nSoit σ la symétrie orthogonale d’axe (.) et r la ro-\ntation de centre B et d’angle\nDémontrer que f = r ◦σ. A-t-on f = σ◦r ?\nSoit s1, la symétrie orthogonale d’axe (BC).\nDéterminer l’axe de la symétrie orthogonale\ns2, telle que r =s2 ◦ s1.\nEn déduire que f peut s’écrire sous la forme\nf = s1 ◦ t1, où t1 est une translation que l’on\nprécisera.\nSoit t2 la translation de vecteur\n; on note\n-1 sa réciproque et on pose g = t2\n-1 ◦ f.\nDéterminer g (D), g (I), g (O). En déduire la\nnature précise de la transformation g.\nDémontrer que f = t2 ◦ g. A-t-on  f = g ◦ t2 ?\nBon courage !\n3/3",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/isométrie-5.pdf",
+        "filename": "isométrie-5.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "cd10ec25ce7f2a2f",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 691,
+      "end_line": 721
+    }
+  ]
+}

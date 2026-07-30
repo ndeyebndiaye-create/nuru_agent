@@ -1,0 +1,497 @@
+{
+  "source": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+  "timestamp": "2026-07-27T11:56:12.646245",
+  "chunks": [
+    {
+      "text": "Exercice :\n1- Déterminer les réels a et b tels que :\n2- a) Calculer\nb) En intégrant par parties, calculer l’intégrale :\n(on remarquera que",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+        "filename": "Integrale-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "b3d64af3ddd15cf5",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 60,
+      "end_line": 64
+    },
+    {
+      "text": "Exercice :\n1- Justifier l’existence des intégrales :\ncos\nsin\nsin\ncos\nsin\ncos\n2- Calculer\nI \nI \n. En déduire les valeurs de I  et J .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+        "filename": "Integrale-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "b3d64af3ddd15cf5",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 92,
+      "end_line": 103
+    },
+    {
+      "text": "Exercice :\nOn pose\n1- Soit f la fonction numérique définie sur [0 ; 1] par :\n2 \n. Calculer\n(' x\n2- En déduire I .\n3- Vérifier que\n4- A l’aide d’une intégration par parties sur l’intégrale K  montrer que\n5- En déduire les valeurs de J  et K .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+        "filename": "Integrale-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "b3d64af3ddd15cf5",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 167,
+      "end_line": 176
+    },
+    {
+      "text": "Exercice :\n1- Déterminer les réels a, b et c tels que pour tout  xIR\\{-1 ; 0 ; 1}, on ait :\n2- Déterminer une primitive de\n3- Par une intégration par parties, calculer l’intégrale",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+        "filename": "Integrale-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "b3d64af3ddd15cf5",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 227,
+      "end_line": 230
+    },
+    {
+      "text": "Exercice :\n1- Déterminer les réels a, b et c tels que\npour tout x ≠ -2.\n2- Calculer l’intégrale\n3- Calculer l’intégrale\nln(",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+        "filename": "Integrale-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "b3d64af3ddd15cf5",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 307,
+      "end_line": 312
+    },
+    {
+      "text": "Exercice :\n1- Calculer l’intégrale\ncos\nxdx\n2- On désire maintenant calculer l’intégrale\ncos\nxdx\na) Démontrer que\nsin\nsin\ncos\ncos\nb) En déduire J .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+        "filename": "Integrale-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "b3d64af3ddd15cf5",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 346,
+      "end_line": 358
+    },
+    {
+      "text": "Exercice :\n1- Résoudre le système \n2- On pose\nCalculer\nI \n. Déduire de la question 1) les valeurs exactes de I  et J .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+        "filename": "Integrale-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "b3d64af3ddd15cf5",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "résoudre"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 411,
+      "end_line": 416
+    },
+    {
+      "text": "Exercice :\nSoit\nsin\nxdx\n1- Calculer\n2- En intégrant deux fois par parties, établir une relation de récurrence liant\n. En\ndéduire l’expression de\nI  en fonction de n .\n3- Montrer que, pour tout\n4- En déduire que\nlim",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+        "filename": "Integrale-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "b3d64af3ddd15cf5",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 470,
+      "end_line": 481
+    },
+    {
+      "text": "Exercice :\nPour tout entier naturel n , on considère les intégrales :\nsin\nxdx\ncos\nxdx\n1- Calculer\nI  et\nJ .\n2- On suppose maintenant que n  est non nul.\na) En intégrant par parties\nI , puis\nJ , montrer que :\nb) En déduire les expressions de\nI  et\nJ  en fonction de n .\n3- Déterminer\nlim\nlim",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+        "filename": "Integrale-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "b3d64af3ddd15cf5",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 543,
+      "end_line": 561
+    },
+    {
+      "text": "Exercice :\nOn considère la suite\ndéfinie pour\npar :\n2 dt\n1- Démontrer que, pour tous\nn \n2- En déduire que :\n3- En déduire la limite de la suite",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+        "filename": "Integrale-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "b3d64af3ddd15cf5",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 625,
+      "end_line": 633
+    },
+    {
+      "text": "Exercice :\nOn considère la suite\ndéfinie pour\npar :\nln(\n1- Calculer\nU  et\nU .\n2- Démontrer que :\nU n\n3- En déduire la limite de la suite",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+        "filename": "Integrale-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "b3d64af3ddd15cf5",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 676,
+      "end_line": 686
+    },
+    {
+      "text": "Exercice :\nOn pose pour tout entier naturel n  non nul :\n(ln\n1- Calculer\nI .\n2- A l’aide d’une intégration par parties, calculer\nI .\n3- A l’aide d’une intégration par parties, démontrer que pour tout entier naturel n  non nul\n4- En déduire\nI .\n5- Démontrer que, pour tout entier naturel n ,\nI  est positive.\n6- Déduire de la question 3) que pour tout entier naturel n  non nul, on a :\nI n\n7- Déterminer\nlim",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+        "filename": "Integrale-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "b3d64af3ddd15cf5",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 734,
+      "end_line": 749
+    },
+    {
+      "text": "Exercice :\nPour tout entier naturel n , on pose\n(ln\n1- Calculer\nI  et\nI .\n2- Démontrer que, pour tout entier naturel\n3- Calculer\nI  et\nI .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+        "filename": "Integrale-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "b3d64af3ddd15cf5",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 784,
+      "end_line": 793
+    },
+    {
+      "text": "Exercice :\nOn pose pour tout entier naturel n  :\n0 cos\nxdx\n1- Calculer\nI ,\nI  et\nI .\n2- A l’aide d’une intégration par parties, démontrer que pour tout entier naturel\n(on pourra remarquer que\ncos\ncos\ncos\n3- En déduire\nI  et\nI .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+        "filename": "Integrale-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "b3d64af3ddd15cf5",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 831,
+      "end_line": 846
+    },
+    {
+      "text": "Exercice :\nPour tout entier naturel n , on pose\nsin\nxdx\n1- A l’aide de deux intégrations par parties successives, montrer que :\n2- Démontrer que la suite\nest géométrique. On précisera sa raison et son premier terme.\n3- a) Montrer que cette suite converge et préciser sa limite.\nb) On pose\n.......\n. Calculer\nS  en fonction de n , puis\ncalculer sa limite.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+        "filename": "Integrale-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "b3d64af3ddd15cf5",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 904,
+      "end_line": 916
+    },
+    {
+      "text": "Exercice :\nLa suite\nest définie par :\n0 1\n1- Montrer que pour tout\net pour tout entier naturel n ,\n2- En déduire que\nI n\n. Que peut-on en conclure pour\nI  ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+        "filename": "Integrale-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "b3d64af3ddd15cf5",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 959,
+      "end_line": 968
+    },
+    {
+      "text": "Exercice :\nSoit les intégrales :\nsin\ncos\nxdx\nxdx\n1- Calculer\nI \n2- A l’aide d’une intégration par parties, calculer\nI \n3- En déduire les valeurs de I  et de J .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+        "filename": "Integrale-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "b3d64af3ddd15cf5",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 991,
+      "end_line": 1001
+    },
+    {
+      "text": "Exercice :\nOn se propose de calculer\n1-Calculer\n0 1\n2- Déterminer les réels\net c  tels que pour tout\n; on ait :\n(*)\n3- En posant\nt \ndans l’égalité (*) ; calculer\n4- a) A l’aide d’une intégration par parties exprimer J  en fonction de I .\nb) En déduire la valeur de J .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+        "filename": "Integrale-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "b3d64af3ddd15cf5",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1092,
+      "end_line": 1104
+    }
+  ]
+}

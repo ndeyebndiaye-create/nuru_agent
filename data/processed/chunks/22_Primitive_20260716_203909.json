@@ -1,0 +1,75 @@
+{
+  "source": "data\\raw\\cours\\22_Primitive.pdf",
+  "timestamp": "2026-07-16T20:39:09.447417",
+  "chunks": [
+    {
+      "text": "Définition\nUne fonction F est une primitive de f sur un intervalle I si F est dérivable sur I et F ′ = f.",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Intégration",
+        "source": "data\\raw\\cours\\22_Primitive.pdf",
+        "filename": "22_Primitive.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "3530b9985221a933",
+        "chunk_type": "definition",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 6,
+      "end_line": 7
+    },
+    {
+      "text": "Propriété 1. Si F est une primitive de f sur I, l’ensemble des primitives de f est constitué des\nfonctions x 7→F(x) + k, k ∈R.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Intégration",
+        "source": "data\\raw\\cours\\22_Primitive.pdf",
+        "filename": "22_Primitive.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "3530b9985221a933",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 9,
+      "end_line": 10
+    },
+    {
+      "text": "Propriété 3. Si F est une primitive de f et a ∈R, alors aF est une primitive de af. Une\nprimitive de f + g est F + G.\nPrimitives usuelles\nf(x)\nF(x)\nf(x)\nF(x)\nax + k\nx (x > 0)\nln x + k\n2 + k\nx + k\n3 + k\n2√x + k\nxn (n̸ = −1)\nxn+1\nn + 1 + k\nex + k\nsin x\n−cos x + k\ncos x\nsin x + k\nPrimitives de fonctions composées\nu′ un (n̸ = −1) −→\nun+1\nn + 1 + k,\n√u −→2√u + k,\n−→ln |u| + k (u ne s’annule pas),\nu′ eu −→eu + k.\nEt pour a̸ = 0 :\nsin(ax + b) −→−1\na cos(ax + b) + k,\ncos(ax + b) −→1\na sin(ax + b) + k.\nCours d’après Sunudaara — Primitives — Terminale S. Figures extraites automatiquement du PDF\nsource.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Intégration",
+        "source": "data\\raw\\cours\\22_Primitive.pdf",
+        "filename": "22_Primitive.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "3530b9985221a933",
+        "chunk_type": "theoreme",
+        "difficulty_level": "intermediate",
+        "chunk_category": "concept"
+      },
+      "start_line": 30,
+      "end_line": 65
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "source": "data/raw/cours/02_Derivabilite.pdf",
+  "timestamp": "2026-07-27T11:42:58.018264",
+  "chunks": [
+    {
+      "text": "Définitions\nOn dit qu’une fonction f est dérivable en x0 ∈Df si, et seulement si, l’une des conditions\néquivalentes est réalisée :\nlim\nx→x0\nf(x) −f(x0)\nx −x0\n= ℓ∈R\nf(x0 + h) = f(x0) + ℓh + hε(h), lim\nh→0 ε(h) = 0.\nDans ce dernier cas, f admet un développement limité d’ordre 1 au voisinage de x0. Le réel\nℓest le nombre dérivé de f en x0, noté f′(x0) = ℓ.\nf est dérivable à gauche de x0 si lim\nx→x−\nf(x) −f(x0)\nx −x0\n= ℓ1 ∈R ; on note f′\ng(x0) = ℓ1.\nf est dérivable à droite de x0 si lim\nx→x+\nf(x) −f(x0)\nx −x0\n= ℓ2 ∈R ; on note f′\nd(x0) = ℓ2.",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Dérivation",
+        "source": "data/raw/cours/02_Derivabilite.pdf",
+        "filename": "02_Derivabilite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "52a1f97f1a65bc34",
+        "chunk_type": "definition",
+        "difficulty_level": "intermediate",
+        "chunk_category": "concept"
+      },
+      "start_line": 10,
+      "end_line": 33
+    },
+    {
+      "text": "Théorème 1. f est dérivable en x0 si, et seulement si, f est dérivable à gauche et à droite de x0\navec des nombres dérivés égaux : f′\ng(x0) = f′\nd(x0).",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Dérivation",
+        "source": "data/raw/cours/02_Derivabilite.pdf",
+        "filename": "02_Derivabilite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "52a1f97f1a65bc34",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 34,
+      "end_line": 37
+    },
+    {
+      "text": "Exercice d’application.\nÉtudier la dérivabilité en 1 de f(x) = |x2 −x| et g(x) =\nx2 −4x + 3.\nRésolution.\nf en 1. Le signe de x2 −x = x(x−1) donne f(x) = −x2 +x sur ]0; 1[ et f(x) = x2 −x ailleurs.\nAinsi\nlim\nx→1−\nf(x) −f(1)\nx −1\n= lim\nx→1−\n−x2 + x\nx −1\n= lim\nx→1−(−x) = −1,\nlim\nx→1+\nf(x) −f(1)\nx −1\n= lim\nx→1+\nx2 −x\nx −1 = lim\nx→1+(x) = 1.\nDonc f′\ng(1) ̸= f′\nd(1) : f n’est pas dérivable en 1.\ng en 1. On a Dg = ] −∞; 1] ∪[3; +∞[ et\nlim\nx→1−\ng(x) −g(1)\nx −1\n= lim\nx→1−\n(x −1)(x −3)\n(x −1)\nx2 −4x + 3 = −∞,\ndonc g n’est pas dérivable en 1.\n1.2\nInterprétation géométrique\nSi f est dérivable en x0, alors lim\nh→0\nf(x0 + h) −f(x0)\n= f′(x0) est la limite du coefficient\ndirecteur de la sécante (AB) : quand h →0, B →A et (AB) tend vers la tangente (T) à Cf au\npoint d’abscisse x0, d’équation\ny = f′(x0)(x −x0) + f(x0).\nSi f n’est pas dérivable en x0, plusieurs cas se présentent :\n— Point anguleux : deux demi-tangentes distinctes (f′\ng(x0) ̸= f′\nd(x0), finis) ;\n— Point de rebroussement : demi-tangente verticale (lim = ±∞des deux côtés) ;\n— demi-tangente de pente finie d’un côté et verticale de l’autre.\nFigure 1 – La sécante (AB) tend vers la tangente (T) lorsque B →A.\nFigure 2 – Point anguleux, point de rebroussement, et cas mixte.\n1.3\nOpérations sur la dérivabilité",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Dérivation",
+        "source": "data/raw/cours/02_Derivabilite.pdf",
+        "filename": "02_Derivabilite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "52a1f97f1a65bc34",
+        "chunk_type": "exercice",
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 45,
+      "end_line": 102
+    },
+    {
+      "text": "Théorème 2. Si f est dérivable en x0, alors f est continue en x0. La réciproque est fausse (ex.\nf(x) = |x2 −x| continue mais non dérivable en 1).",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Dérivation",
+        "source": "data/raw/cours/02_Derivabilite.pdf",
+        "filename": "02_Derivabilite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "52a1f97f1a65bc34",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 103,
+      "end_line": 104
+    },
+    {
+      "text": "Théorème 3. Si f et g sont dérivables en x0 :\n(f + g)′(x0) = f′(x0) + g′(x0),\n(fg)′(x0) = f′(x0)g(x0) + f(x0)g′(x0),\net si g(x0) ̸= 0 :\n(x0) = f′(x0)g(x0) −f(x0)g′(x0)\n\u0000g(x0)",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Dérivation",
+        "source": "data/raw/cours/02_Derivabilite.pdf",
+        "filename": "02_Derivabilite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "52a1f97f1a65bc34",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 110,
+      "end_line": 115
+    },
+    {
+      "text": "Théorème 4 (Composée). Si f est dérivable en x0 et g dérivable en y0 = f(x0), alors g ◦f est\ndérivable en x0 et (g ◦f)′(x0) = f′(x0) × g′\u0002f(x0)\nFonctions dérivées\n2.1",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Dérivation",
+        "source": "data/raw/cours/02_Derivabilite.pdf",
+        "filename": "02_Derivabilite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "52a1f97f1a65bc34",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 118,
+      "end_line": 121
+    },
+    {
+      "text": "Définition\nLa fonction dérivée de f, notée f′, associe à tout x son nombre dérivé.\n2.2\nTableau des dérivées\nk ∈R\nsin x\ncos x\n−u′\ncos x\n−sin x\n2√u\ntan x\ncos2 x\nnu′un−1\n2√x\nnxn−1\nu′v −uv′\nsin u\nu′ cos u\ncos u\n−u′ sin u\ntan u\ncos2 u\n(u désigne une fonction dérivable.)",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Dérivation",
+        "source": "data/raw/cours/02_Derivabilite.pdf",
+        "filename": "02_Derivabilite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "52a1f97f1a65bc34",
+        "chunk_type": "definition",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 153,
+      "end_line": 176
+    },
+    {
+      "text": "Exercice d’application.\nDériver f(x) = (x −1)\nx2 −4x + 3 et g(x) = sin4(x2 −3x + 5).\nRésolution.\nf′(x) =\nx2 −4x + 3 + (x −1) ·\n2x −4\nx2 −4x + 3 = 2x2 −7x + 5\nx2 −4x + 3.\ng′(x) = 4(2x −3) cos(x2 −3x + 5) sin3(x2 −3x + 5).\n2.3\nDérivées successives\nSi f′ est dérivable, f est deux fois dérivable et l’on note f′′ ; de même f(3), . . ., f(n). Par exemple\nf(x) = sin x ⇒f(n)(x) = sin\nx + nπ\ng(x) = cos x ⇒g(n)(x) = cos\nx + nπ\nFormule de Leibniz : (fg)(n) =\nk=0\nf(k)(x) g(n−k)(x).\nApplications\n3.1\nSens de variation\nSur un intervalle I :\n— f′ ≥0 ⇒f croissante ;\nf′ ≤0 ⇒f décroissante ;\n— f′ > 0 ⇒f strictement croissante ; f′ < 0 ⇒f strictement décroissante ;\n— f′ = 0 ⇒f constante.\n3.2\nExtrémums et points d’inflexion\nf présente un extrémum en x0 si f′ s’annule en x0 en changeant de signe. (f′ passe de −à\n+ : minimum ; de + à −: maximum.)\nM0(x0; y0) est un point d’inflexion si f′′ s’annule en x0 en changeant de signe (et f′ garde\nun signe constant autour de x0). C’est un point où la courbe traverse sa tangente.\n3.3\nDérivée de la réciproque",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Dérivation",
+        "source": "data/raw/cours/02_Derivabilite.pdf",
+        "filename": "02_Derivabilite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "52a1f97f1a65bc34",
+        "chunk_type": "exercice",
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 201,
+      "end_line": 236
+    },
+    {
+      "text": "Théorème 5 (Bijection). Si f est continue et strictement monotone sur I, alors f réalise une\nbijection de I vers J = f(I) ; sa réciproque f−1 est continue, strictement monotone de même sens,\net dérivable en tout y0 tel que f′(x0) ̸= 0 (avec x0 = f−1(y0)) :\n\u0000f−1\u0001′(y0) =\nf′(x0).",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Dérivation",
+        "source": "data/raw/cours/02_Derivabilite.pdf",
+        "filename": "02_Derivabilite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "52a1f97f1a65bc34",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 238,
+      "end_line": 242
+    },
+    {
+      "text": "Exercice d’application.\nSoit f(x) = x3 −3x + 1. 1) Montrer que f admet une réciproque sur [1; +∞[. 2) Calculer\n(f−1)′(1).\nRésolution.\n1) f′(x) = 3x2 −3 = 3(x −1)(x + 1), positive sur [1; +∞[ : f y est continue et strictement\ncroissante, donc bijective de [1; +∞[ vers [−1; +∞[.\n2) (f−1)′(1) =\nf′(x0) avec f(x0) = 1. Or f(x) = 1 ⇐⇒x3 −3x = 0 ⇐⇒x ∈{−\n3, 0,\n3} ;\nseul x0 =\n3 ∈[1; +∞[. Donc\n(f−1)′(1) =\nf′(\n3) =\n3 · 3 −3 = 1\n3.4\nDérivées des fonctions réciproques de sin, cos, tan\nEn restreignant chaque fonction à un intervalle de monotonie, on obtient les bijections réci-\nproques arcsin, arccos, arctan :\n(arcsin)′(x) =\n1 −x2 ,\n(arccos)′(x) = −\n1 −x2 ,\n(arctan)′(x) =\n1 + x2 .\nPar exemple pour arcsin (réciproque de sin sur [0; π\n2 ]) : (arcsin)′(y) =\ncos x =\n1 −sin2 x\n1 −y2 .\nCours d’après Sunudaara — Dérivabilité — Terminale S. Figures extraites automatiquement du PDF\nsource.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Dérivation",
+        "source": "data/raw/cours/02_Derivabilite.pdf",
+        "filename": "02_Derivabilite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "52a1f97f1a65bc34",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 263,
+      "end_line": 295
+    }
+  ]
+}

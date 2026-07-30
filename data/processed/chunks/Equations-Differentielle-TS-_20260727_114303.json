@@ -1,0 +1,734 @@
+{
+  "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+  "timestamp": "2026-07-27T11:43:03.970828",
+  "chunks": [
+    {
+      "text": "Exercice1: Résoudre chacun des cas suivants et donner la solution particulière satisfaisant aux\nconditions initiales données.\na /\navec\navec\navec\navec\navec\navec\navec\navec",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "résoudre"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 162,
+      "end_line": 172
+    },
+    {
+      "text": "Exercice2:\na]  Résoudre l’équation différentielle\n(E’)\nMontrer que  (E’) admet pour solution particuliere une fonction polynôme de degré 2.En déduire\nl’intégration générale de l’équation (E’).\nb] Déterminer s’il en existe une solution particuliere satisfaisant aux conditions initiales suivantes",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "résoudre"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 202,
+      "end_line": 207
+    },
+    {
+      "text": "Exercice3:\nSoit l’équation différentielle\n(E’).\na] Prouver cette équation différentielle admet pour solution particuliere la fonction  C définie  par\navec p un polynôme de degré 3\nb] .En déduire la solution   générale de (E’).\nSoit l’équation différentielle\n2 \nc] Prouver que cette équation différentielle admet une solution particuliere une fonction f définie par\navec q un polynôme de degré 4. En déduire l’intégration générale .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 260,
+      "end_line": 269
+    },
+    {
+      "text": "Exercice4:\nSoit l’équation différentielle\ncos\n(E’).\nProuver  cette  équation  différentielle  admet  pour  solution  particuliere  de  la  forme\nsin\ncos\n.En dréduire la solution   générale de (E’)..\nMeme question avec l’équation différentielle\ncos\n(E’).Une solution particuliere étant de la\nformer\nsin\ncos\nUne solution particuliere de la forme\ny \n, z à déterminer",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 328,
+      "end_line": 344
+    },
+    {
+      "text": "Exercice5:\nI]-On considère la fonction numérique telle que :\n1] Etudier les variations et construire sa representation graphique C\ndans  un  repére  orthonormal  On  prendra  pour  unité  de  longueur  2cm(on  a\ndémontré que\nlim\nDéterminer  l’équation  de  la  tangente  au  point  où  lq  dérivé  seconde\ns’annule,créer cette tangente .\n3]Déterminer les constantes réelles a et b pour que la fonction telle que\nsoit une primitive de  f .En déduire (en\ncm )l’aire du\ndomaine  limite  par  (C,les  axes  de  coordonnées  et  la  droite  d’équation\nCette aire admet-elle une limite quand\nII]/ 1/Soit\n.Montrer que\nest une primitive de\n2/Calculer en\ncm le volume engendré par par la rotation de\ndomaine précédemment définie .Ce volume a-t-il une limite quand\nIII]- 1/Intégrer l’équation différentielle :\n2/Montrer que la fonction  f  définie dans la partie I] est une",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 481,
+      "end_line": 501
+    },
+    {
+      "text": "exercice\n,om\ncherche\ncalculer\nl’intégrale\ncos(\n[sin\nà l’aide d’une equation différentielle .\n1Résoudre l’équation :\n2/Résolution\nl’équation\ndifférentielle\nsin\ncos\na/ Déterminer deux réels a et b pour que la fonction définie par\ncos\nsin\nsoit solution de\nb/ f désignant une fonction  numérique ,on désigne par G la fonction\n. f\n.Démontrer que f est solution de\n3/  a/Vérifier que  la solution  de\ntelle que\nest\ncos(\nsin\nb/Utiliser\npour trouver l’ensemble des primitives F de f\nc/En déduire la valeur de l’intégrale I",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "résoudre"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 648,
+      "end_line": 676
+    },
+    {
+      "text": "Exercice7:\nA] - Soit à resource l équation différentielle\n1] Prouver que cette équation différentielle admet pour intégrale particulière une fonction polynôme\nde degré 2.\n2] En déduire l’ intégrale générale de l équation différentielle proposée.\n3] Déterminer s’il en existe une intégrale particulière satisfaisant aux conditions initiales suivantes;\nB/- Soit l‘équation différentielle\n1] Prouver que cette équation différentielle admet pour intégrale particulière une fonction définie\npar\net où P est une function polynôme de degré 3.\n2] En déduire l’intégrale générale de l équation différentielle proposée.\nC/- Soit l’équation différentielle\n1] Prouver que cette équation différentielle admet pour intégrale particulière une fonction  \ndéfinie par\noù Q est une function polynôme de degré 4 .\n2] En déduire l’intégrale générale de l’équation différentielle proposée.\nD/- Soit l’équation différentielle\ncos\n1]  Prouver  que  cette  équation  différentielle  admet  pour  intégrale  particulière  de  la  forme\nsin\ncos\n2] En déduire la solution générale de l ‘équation différentielle proposée.\nE/- Soit l’équation différentielle\ncos\n1/Prouver  que  cette  équation  différentielle  admet  pour  intégrale  particulière  de  la  forme\nsin\ncos\n2] En déduire la solution générale de l ‘équation différentielle proposée.\nF/- Résoudre les équations différentielles ci-dessous.\nsin\nsin\navec les conditions initiales\nsin\navec les conditions initiales\nG/- Résoudre les équations différentielles suivantes en determinant une intégrale particulière par la\nméthode indiquée\nChercher intégrale particulière sous la forme d’une fonction polynôme de degré 3\nEffectuer le changement de variable\ncos\ncos\nChercher intégrale particulière sous la forme\nsin\ncos\nx cos\nChercher intégrale particulière sous la forme\nsin\ncos\nsin\nChercher intégrale particulière sous la forme\nsin\ncos\nChercher intégrale particulière sous la forme\nest un polynôme.\nChercher intégrale particulière sous la forme\nest un polynôme",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "résoudre"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1070,
+      "end_line": 1124
+    },
+    {
+      "text": "Exercice8:<BAC>\nSoit\nl’équation différentielle due second ordre:\n1. a/ Quelles sont les solutions de\nb/ Quelle est la solution de\ndont la courbe représentation C  admet au point d’abscisse\na même tangente que la courbe\nC  représentative de\n?On dit que C  et\nC sont\ntangentes .\n2. Representer dans un repère les tourbes C et C’ dont vous préciser les positions relatives .\n3. étant un réel strictement positif, soit\nh la fonction définie par ;\na/ Montrer que\nh  est solution de\nb/Soit\nla courbe représentative de\nh .Apres avoir calcule en fonction de les\ncoordonnées du point commun  a\nC , montrer que ces ciguës sont tangentes en ce point .\nc/Préciser les positions relatives de\net C",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1186,
+      "end_line": 1208
+    },
+    {
+      "text": "Exercice9:<BAC>\n1/Résolvez l‘équation différentielle\n2/Trouver la solution f de cite équation  vérifiant\n(''\n3/Trouver deux reels positifs et  tells pour tout reel t\ncos(\n4/Calculer la valeur doyenne de f sur l’intervalle",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1246,
+      "end_line": 1252
+    },
+    {
+      "text": "Exercice10 :<BAC>\nOn considère l‘éequation différetile :\n1/Résolvez cette equation\n2/Trouver la solution particuliere de cette equation qui verifie les conditions suivantes :-\n.sa courbe représentative passe par le point A\n.la tangente à cette courbe d’abscisse 2 a pour coefficient directeur 0\n3/Etudier la fonction f définie sur R par\n.Tracer dans un repère orthonormal\nsa courbe représentative C et la tangente à C ’au point d’abscisse 2 .\n4/Calculer l’aire de la partie du plan comprise entre l’axe des abscisses,la courbe C ,et les courbes\nd’equation\n.Indication :on  pourra  utiliser  une  intrgration  par  parties  Equation",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1304,
+      "end_line": 1315
+    },
+    {
+      "text": "Exercice11 :<BAC>\nSoit\nl‘équation différetile :\n1/Determiner toutes les solutions de\n2/Soit\nl‘équation différetile\n2 \na/Determiner une fonction f , polynôme du second degré ,solution de\nb/Montrer que si g est une solution de\n,alors\ng \nest une solution de\nc/Montrer que si\ng \nest une solution de\n,alors g est solution de\n3/Donner toutes les solutions de l‘équation:\ncos\nIndication : chercher une solution particulière f de\n)''\nde la forme\nsin\ncos",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1374,
+      "end_line": 1396
+    },
+    {
+      "text": "Exercice12;<BAC>\n1/ f est la fonction de l‘équation différentielle\nqui vérifie\n.Déterminer\npour tout réel x  .\n2/Déterminer les réels a et b tels que la fonction g définie par\nsoit solution de\nl‘équation différentielle\net vérifie\n3/déduisez-en sans l’intégration par parties la valeur des\nintégrales:\n;        et",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1471,
+      "end_line": 1482
+    },
+    {
+      "text": "Exercice13:<BAC>\nOn se propose de chercher les solutions U définies et dérivables sur telles que pour tout reel x .\n[1]\n1/Soit f la function définie surpar\nln(\nVerifier que f est une solution de [1]\n2/On pose\n.On admet que U est solution de [1] si et seulement si F est solution de :\n{2]\nRésolvez l‘équation [2].Déduisez-en toutes les fomctions solutions de [1]\nEquation",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1533,
+      "end_line": 1543
+    },
+    {
+      "text": "Exercice14:<BAC>\n7/Pour\n, calculer à l’aide d’une integration par parties:\ntdt\n.2/On considère l‘équation différentielle :\n(''\na/On pose\n.Montrer que si g est solution de\n,alors h est solution de\nl‘équation:\n(''\nb/Résolvez\nc/Déduisez-en l’expression de\nd/Déterminerla solution particulière g de\ndont la courbe présente un extremum en A(o ;1)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1635,
+      "end_line": 1649
+    },
+    {
+      "text": "Exercice15::<BAC>\nSoit\nl‘équation différetile:\ncos\nsin\n1/ /Résolver l‘équation\n2/ Déterminer les coefficients a et b tels que la fonction g définie par\nsin\ncos\nest solution de\n3/ Démontrer que f est la solution de\nsi et seulement si\nf \nEst solution de\n4/Donner toutes les solutions de",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1707,
+      "end_line": 1721
+    },
+    {
+      "text": "Exercice16::<BAC\n1/ Résolver l‘équation différetile:\n2/ On se propose de résoudre l‘équation :\na/ Trouver un polynôme p du second degré ;solution de l’équation\nb/ Montrer que f est solution de\néquivaut à\nf \nest solution de\n.Déduisez-en les solution de",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "résoudre"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1771,
+      "end_line": 1779
+    },
+    {
+      "text": "Exercice17:<BAC>\n1/ On donne l‘équation différentielle::\na/ Résolvez\nb/ Déterminer la solution particulière f de\ntelle que\n2/ On considère maintenant l’équation différentielle :\nMontrer que la fonction g définie sur par\nest solution de\nc’est –à- dire que pour tout réel x ,\n3/ Calculer\n( dt\nIndication:on pourra remarquer que g est solution de\net donc\n(''",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1902,
+      "end_line": 1915
+    },
+    {
+      "text": "Exercice18:\n1/Déterminer les réels a et b pour que la fonction\nsin\ncos\nsoit solution sur de l’équation\nsin\ncos\n2/siot f une fonction deux fois derivable sur \nOn pose\nMontrer  que  f est  solution  de\nsursi  et  seulement  si  g est  solution  surde\nEn déduire toutes les solutions de\nsur \n3/Déterminer la solution de\nsur   vérifiant les conditions initiales",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1978,
+      "end_line": 1992
+    },
+    {
+      "text": "Exercice19:\n1/Résoudre dans l’équation:\n(Indication: on cherchera une solution particulière sous la forme d’un polynôme du premier degré)\n2/ Résoudre dans l’équation:\ncos\n(Indication: on cherchera une solution particulière sous la forme\nsin\ncos\navec a et\nb réels)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "résoudre"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 2031,
+      "end_line": 2040
+    },
+    {
+      "text": "Exercice21:\nDéterminer les solutions de l’équation différentielle vérifiant les conditions données\nsin\ny \ncos\n1 ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 2197,
+      "end_line": 2202
+    },
+    {
+      "text": "Exercice21:\nDéterminer  les  solutions  de  l’équation:  différentielle  dont  la  courbe\nvérifie  la\n(les)condition(s) donné(es)\nadmet au point d’abscisse  0 une tangente parallèle à la droite d’équation\ny \npasse par le point de coordonnées\net admet la droite d’équation\ny \ncomme tangente en ce point.\npassé par le point de coordonnées\n(ln\net admet en ce point une\ntangente de coefficient directeur\npasse par le point de coordonnées\n( 4\net sa tangente au point\nd’abscisse 0 est parallèle à l’axe des abscisses.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 2270,
+      "end_line": 2287
+    },
+    {
+      "text": "Exercice22:\nSoit l’équation différentielle\n1/Déterminer une fonction  polynôme g de degré deux solution de\n2/Démontrer qu’une fonction f est solution de\nssi\nf \nest solution de\n3/a/Résoudre l’équation\nb/Donner la solution de",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "résoudre"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 2316,
+      "end_line": 2324
+    },
+    {
+      "text": "Exercice23:\nSoit\nl’équation\nsin\n1/Déterminer deux nombres réels A et B tells que la fonction g définie par\nsin\ncos\nsoit solution de l’équation\n2/Soit f une fonction dérivable sur.On pose\nDémontrer que f est solution de\nssi h  est solution de\n3/Résoudre l’équation",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "résoudre"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 2366,
+      "end_line": 2377
+    },
+    {
+      "text": "Exercice24:\nSoit l’équation: différentielle\n1/Soit la fonction définie surpar\nDéterminer le pour quesoit solution de\na/Démontrer\nque\ntoute\nautre",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 2411,
+      "end_line": 2418
+    },
+    {
+      "text": "solution f de\nvérifie\nb/Résoudre l’équation différentielle\n3/Déduire des questions1/et2/ la forme générale des solutions de",
+      "chunk_type": "solution",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "solution",
+        "competences": [
+          "résoudre"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "solution"
+      },
+      "start_line": 2456,
+      "end_line": 2459
+    },
+    {
+      "text": "Exercice25:\n1/Déterminer a et b réels tels que\nsoit solution de\n2/  a/Démontrer  que\nf est  solution  de\nssi\nf \nest  solution  de\nq/Résoudre\nb/En déduire les solutions de\nc/Trouver la solution de\nvérifiant\n3/SOIT\nEtudier ses variations et tracer sa courbe représentative dans le plan muni\nd’un repère orthonormé\n(unité cm\nPréciser la tangente au point A d’abscisse1 et tracer cette tangente.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "résoudre",
+          "tracer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 2556,
+      "end_line": 2572
+    },
+    {
+      "text": "Exercice26:\nA.Soit\nl’équation différentielle\n1. a/Quelles sont les solutions de\nb/ Quelles est la solutions de\ndont la courbe représentative C admet au point d’abscisse\nla même tangente que la courbe représentative de\nOn dit que C et C’’sont tangents.\n2. Représenter dans un même repère les courbes  C’   et  C’  dont on précisera les positions\nrelatives.\n3. étant un réel strictement positif .Soit\nh les fonctions telles que\na/ Montrer que\nh est solution de\nb/ Soit\nla courbe représentative de\nh .Après avoir calculé en fonction de les coordonnées\ndu point commun à\nC  montrer que ces courbes sont tangents en un point\nc/ Préciser les positions relatives de\nB. Soit\nl’équation différentielle:\n1/Trouver un polynôme du second degré solution\n2/On pose\n.Montrer que f est solution de\n3/Déterminer  dont la courbe représentative passé par le point de coordonnée\net admet en ce\npoint une tangente de coefficient directeur 1",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "chapitre": "Équations différentielles",
+        "serie": "TS",
+        "source": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+        "filename": "Equations-Differentielle-TS-.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "f1c0a1a5a9551345",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 2678,
+      "end_line": 2705
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "source": "data/raw/exercices/recueil-dannales-sur-les-suites-num.pdf",
+  "timestamp": "2026-07-27T11:56:16.419638",
+  "chunks": [
+    {
+      "text": "Recueil d’annales en Math´ematiques\nTerminale S - Enseignement obligatoire\nInt´egrales\nFr´ed´eric Demoulin1\nDerni`ere r´evision : 16 septembre 2005\n1frederic.demoulin@voila.fr\nAnnales Terminale S\nInt´egrales\nTableau r´ecapitulatif des exercices\n⋆indique que cette notion a ´et´e abord´ee dans l’exercice\nF.I. : fonction d´eﬁnie par une int´egrale ; I.P.P. : int´egration par parties ; E.D. : ´equations diﬀ´erentielles\nLieu\nAnn´ee\nQCM\nF.I.\nI.P.P.\nAires\nVol.\nE.D.\nTrigo.\nexp\nSuites\nAsie\nJuin 2005\nLa R´eunion\nJuin 2005\nLiban\nJuin 2005\nInde\nAvril 2005\nAm´erique du Sud\nNov 2004\nFrance\nSept 2004\nPolyn´esie\nSept 2004\nAntilles-Guyane\nJuin 2004\nPolyn´esie\nJuin 2004\nPolyn´esie\nSept 2001\nInde\nAvril 2001\nFrance\nJuin 1999\nAsie\nJuin 1998\nLa R´eunion\n1997\nBordeaux-Caen\n1986\nNancy-Metz\n1980\nFr´ed´eric Demoulin\nAnnales Terminale S\nInt´egrales",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "annales",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/recueil-dannales-sur-les-suites-num.pdf",
+        "filename": "recueil-dannales-sur-les-suites-num.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "b662328d3f2fa6a7",
+        "difficulty_level": "advanced",
+        "chunk_category": "course"
+      },
+      "start_line": 75,
+      "end_line": 131
+    },
+    {
+      "text": "Exercice 1\nAsie, Juin 2005 (7 points)\nOn s’int´eresse dans cet exercice `a une suite de nombres rationnels qui converge vers e2.\nOn d´eﬁnit, pour tout entier naturel n ⩾1, l’int´egrale :\nIn =\nZ 2\nn!(2 −x)nex dx.\n1. Calculer I1.\n2. ´Etablir que pour tout entier naturel n ⩾1, 0 ⩽In ⩽2n\ne2 −1\n3. `A l’aide d’une int´egration par parties, montrer que pour tout entier naturel n ⩾1 :\nIn+1 = In −\n2n+1\n(n + 1)! .\n4. D´emontrer par r´ecurrence que e2 = 1 + 2\n1! + 22\n2! + . . . + 2n\nn! + In.\n5. On pose, pour tout entier naturel n ⩾1, un = 2n\nn! .\n(a) Calculer un+1\net prouver que pour tout entier naturel n ⩾3, un+1 ⩽1\n2 un.\n(b) En d´eduire que pour tout entier naturel n ⩾3, 0 ⩽un ⩽u3\nn−3\n6. En d´eduire la limite de la suite (un) puis celle de la suite (In).\n7. Justiﬁer enﬁn que :\ne2 =\nlim\nn→+∞\n1 + 2\n1! + 22\n2! + . . . + 2n",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "annales",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/recueil-dannales-sur-les-suites-num.pdf",
+        "filename": "recueil-dannales-sur-les-suites-num.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "b662328d3f2fa6a7",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 147,
+      "end_line": 179
+    },
+    {
+      "text": "Exercice 2\nLa R´eunion, Juin 2005 (3 points)\nL’exercice comporte une annexe `a rendre avec la copie.\nOn consid`ere les fonctions f et g d´eﬁnies, sur l’intervalle [0 ; +∞[, par :\nf(x) = ln(x + 1)\ng(x) = ex −1.\nOn d´esigne par Cf et Cg les courbes repr´esentatives des fonctions f et g dans un rep`ere orthonormal\n(O ; −→ı , −→). Ces courbes sont trac´ees sur la feuille annexe, dont le candidat disposera comme il le jugera\nutile ; cette annexe sera `a joindre `a la copie, avec les ´eventuels ajouts eﬀectu´es par le candidat.\n1. V´eriﬁer que les courbes Cf et Cg ont une tangente commune au point O(0 ; 0). Pr´eciser la position de\nla courbe Cf par rapport `a cette tangente.\n2. D´emontrer que les courbes Cf et Cg sont sym´etriques par rapport `a la droite d’´equation y = x.\n3. Soit a un nombre r´eel strictement positif. On se propose de calculer de deux fa¸cons diﬀ´erentes le\nnombre I(a) =\nZ a\nln(x + 1) dx.\n(a) En utilisant des consid´erations d’aires, d´emontrer que :\nI(a) = a ln(a + 1) −\nZ ln(a+1)\n(ex −1) dx.\nFr´ed´eric Demoulin\nAnnales Terminale S\nInt´egrales\n(b) En d´eduire la valeur de I(a).\n(c) Retrouver la valeur de I(a) en eﬀectuant une int´egration par parties.\nAnnexe (`a rendre avec la copie)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "annales",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/recueil-dannales-sur-les-suites-num.pdf",
+        "filename": "recueil-dannales-sur-les-suites-num.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "b662328d3f2fa6a7",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 196,
+      "end_line": 221
+    },
+    {
+      "text": "Exercice 3\nLiban, Juin 2005 (8 points)\nPartie A\nOn consid`ere la suite (un) d´eﬁnie pour tout entier naturel n non nul par :\nun =\nZ 1\n(1 −t)net dt.\n1. Montrer que la fonction f : t 7→(2 −t)et est une primitive de g : t 7→(1 −t)et sur [0 ; 1].\nEn d´eduire la valeur de u1.\n2. Montrer `a l’aide d’une int´egration par parties que, pour tout n non nul :\nun+1 = (n + 1)un −1\n(R)\nFr´ed´eric Demoulin\nAnnales Terminale S\nInt´egrales\nPartie B\nOn regarde d’abord ce qu’aﬃchent deux calculatrices diﬀ´erentes pour les valeurs approch´ees des 25 premiers\ntermes de la suite (un) en utilisant pour le calcul la relation de r´ecurrence (R) ci-dessus.\nVoici les r´esultats aﬃch´es par ces deux calculatrices :\nValeur\nValeur de un aﬃch´ee par\nValeur de un aﬃch´ee par\nde n\nla premi`ere calculatrice\nla deuxi`eme calculatrice\n7, 1828182845E−01\n7, 1828182846E−01\n4, 3656365691E−01\n4, 3656365692E−01\n3, 0969097075E−01\n3, 0969097076E−01\n2, 3876388301E−01\n2, 3876388304E−01\n1, 9381941508E−01\n1, 9381941520E−01\n1, 6291649051E−01\n1, 6291649120E−01\n1, 4041543358E−01\n1, 4041543840E−01\n1, 2332346869E−01\n1, 2332350720E−01\n1, 0991121828E−01\n1, 0991156480E−01\n9, 9112182825E−02\n9, 9115648000E−01\n9, 0234011080E−02\n9, 0272128000E−02\n8, 2808132963E−02\n8, 3265536000E−02\n7, 6505728522E−02\n8, 2451968000E−02\n7, 1080199309E−02\n1, 5432755200E−01\n6, 6202989636E−02\n1, 3149132800E+00\n5, 9247834186E−02\n2, 0038612480E+01\n7, 2131811612E−03\n3, 3965641216E+02\n−8, 7016273909E−01\n6, 1128154189E+03\n−1, 7533092042E+01\n1, 1614249296E+05\n−3, 5166184085E+02\n2, 3228488592E+06\n−7, 3858986580E+03\n4, 8779825043E+07\n−1, 6249077047E+05\n1, 0731561499E+09\n−3, 7372887209E+06\n2, 4682591448E+10\n−8, 9694930302E+07\n5, 9238219474E+11\n−2, 2423732585E+09\n1, 4809554869E+13\nQuelle conjecture peut-on faire sur la convergence de la suite (un) quand on examine les r´esultats obtenus\navec la premi`ere calculatrice ? Et les r´esultats obtenus avec la deuxi`eme calculatrice ?\nPartie C\nDans cette partie on se propose d’´etudier la suite (un) `a partir de la relation de d´eﬁnition :\npour tout entier naturel n non nul, un =\nZ 1\n(1 −t)net dt.\n1. Montrer que pour tout entier naturel n non nul, un ⩾0.\n(a) Montrer que pour tout r´eel t de l’intervalle [0 ; 1] et pour tout entier naturel non nul n :\n(1 −t)net ⩽e × (1 −t)n.\n(b) En d´eduire que pour tout n non nul, un ⩽\nn + 1 .\n3. D´eterminer la limite de la suite (un).\nPartie D\nFr´ed´eric Demoulin\nAnnales Terminale S\nInt´egrales\nDans cette partie, on se propose d’exploiter la relation de r´ecurrence (R) v´eriﬁ´ee par la suite (un) :\nun+1 = (n + 1)un −1.\n´Etant donn´e un r´eel a, on consid`ere la suite (vn) d´eﬁnie par :\nv1 = a et pour tout entier naturel non nul n, vn+1 = (n + 1)vn −1.\nOn s’int´eresse `a l’inﬂuence du terme initial a de cette suite sur son comportement `a l’inﬁni.\n1. En utilisant un raisonnement par r´ecurrence, montrer que pour tout entier naturel non nul n, vn =\nun + (n!)(a + 2 −e) o`u n! d´esigne le produit des n premiers entiers naturels non nuls.\n2. ´Etudier le comportement de la suite (vn) `a l’inﬁni suivant les valeurs de a.\n(On rappelle que\nlim\nn→+∞n! = +∞)\n3. En d´eduire une raison susceptible d’expliquer les r´esultats aﬃch´es par les deux calculatrices.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "annales",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/recueil-dannales-sur-les-suites-num.pdf",
+        "filename": "recueil-dannales-sur-les-suites-num.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "b662328d3f2fa6a7",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 257,
+      "end_line": 360
+    },
+    {
+      "text": "Exercice 4\nInde, Avril 2005\nOn consid`ere la fonction f, d´eﬁnie sur [1 ; +∞[ par f(t) = et\nt .\n(a) Justiﬁer la continuit´e de f sur [1 ; +∞[.\n(b) Montrer que f est croissante sur [1 ; +∞[.\n2. Restitution organis´ee de connaissances\nOn pourra raisonner en s’appuyant sur le graphique fourni.\nPour tout r´eel x0 de [1 ; +∞[, on note A(x0) l’aire du domaine d´elimit´e par la courbe repr´esentant f\ndans un rep`ere orthogonal, l’axe des abscisses et les droites d’´equations x = 1 et x = x0.\nOn se propose de d´emontrer que la fonction ainsi d´eﬁnie sur [1 ; +∞[ est une primitive de f.\n(a) Que vaut A(1) ?\n(b) Soit x0 un r´eel quelconque de [1 ; +∞[ et h un r´eel strictement positif. Justiﬁer l’encadrement\nsuivant :\nf(x0) ⩽A(x0 + h) −A(x0)\n⩽f(x0 + h).\n(c) Lorsque x0 > 1, quel encadrement peut-on obtenir pour h < 0 et tel que x0 + h ⩾1 ?\n(d) En d´eduire la d´erivabilit´e en x0 de la fonction A ainsi que le nombre d´eriv´e en x0 de la fonction A.\n(e) Conclure.\nFr´ed´eric Demoulin\nAnnales Terminale S\nInt´egrales\nx0 + h",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "annales",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/recueil-dannales-sur-les-suites-num.pdf",
+        "filename": "recueil-dannales-sur-les-suites-num.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "b662328d3f2fa6a7",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 377,
+      "end_line": 399
+    },
+    {
+      "text": "Exercice 5\nAm´erique du Sud, Novembre 2004\nOn a repr´esent´e ci-dessus, dans un rep`ere orthonormal (O ; −→ı , −→), la courbe repr´esentative de la fonction\nf d´erivable sur R, solution de l’´equation diﬀ´erentielle\n(E) :\ny′ + y = 0\net telle que\ny(0) = e.\n1. D´eterminer f(x) pour tout x r´eel.\n2. Soit t un r´eel donn´e de l’intervalle [1 ; e].\nR´esoudre dans R l’´equation e1−x = t d’inconnue x.\n3. Soit A le point d’abscisse 0 et B le point d’abscisse 1 de la courbe.\nOn consid`ere le solide obtenu par rotation autour de l’axe des ordonn´ees de l’arc de courbe\nAB comme\nrepr´esent´e ci-dessous. On note V son volume et on admet que V = π\nZ e\n(1 −ln t)2 dt.\nCalculer V `a l’aide de deux int´egrations par parties successives.\nFr´ed´eric Demoulin\nAnnales Terminale S\nInt´egrales",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "annales",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/recueil-dannales-sur-les-suites-num.pdf",
+        "filename": "recueil-dannales-sur-les-suites-num.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "b662328d3f2fa6a7",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 419,
+      "end_line": 439
+    },
+    {
+      "text": "Exercice 6\nFrance, Septembre 2004\n1. Soit g la fonction d´eﬁnie sur l’intervalle ]1 ; +∞[ par :\ng(x) =\nx (x2 −1) .\n(a) D´eterminer les nombres r´eels a, b et c tels que l’on ait, pour tout x > 1 :\ng(x) = a\nx +\nx + 1 +\nx −1 .\n(b) Trouver une primitive G de g sur l’intervalle ]1 ; +∞[.\n2. Soit f la fonction d´eﬁnie sur l’intervalle ]1 ; +∞[ par :\nf(x) =\n(x2 −1)2 .\nTrouver une primitive F de f sur l’intervalle ]1 ; +∞[.\n3. En utilisant les r´esultats obtenus pr´ec´edemment, calculer :\nI =\nZ 3\n(x2 −1)2 ln x dx.\nOn donnera le r´esultat exact sous la forme p ln 2 + q ln 3, avec p et q rationnels.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "annales",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/recueil-dannales-sur-les-suites-num.pdf",
+        "filename": "recueil-dannales-sur-les-suites-num.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "b662328d3f2fa6a7",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 446,
+      "end_line": 465
+    },
+    {
+      "text": "Exercice 7\nPolyn´esie, Septembre 2004\nLa courbe C donn´ee ci-dessous est la repr´esentation graphique de la fonction f d´eﬁnie sur ]0 ; +∞[ par :\nf(x) = ln x\n√x + 1 −x.\nFr´ed´eric Demoulin\nAnnales Terminale S\nInt´egrales\n−→\n−→ı\n(a) Montrer que f est d´erivable et que, pour tout x strictement positif, f(x) est du signe de :\nN(x) = −\nx√x −1\n+ ln x\n(b) Calculer N(1) et d´eterminer le signe de N(x) en distinguant les cas 0 < x < 1 et x > 1.\n(c) En d´eduire le sens de variation de f sur ]0 ; +∞[ et les coordonn´ees du point de C d’ordonn´ee\nmaximale.\n2. On note A(α) l’aire, exprim´ee en unit´es d’aire, de la partie du plan gris´ee sur la ﬁgure, o`u α d´esigne\nun r´eel de ]0 ; 1[.\n(a) Exprimer A(α) en fonction de α (on pourra utiliser une int´egration par parties).\n(b) Calculer la limite de A(α) lorsque α tend vers 0. Donner une interpr´etation graphique de cette\nlimite.\n3. On d´eﬁnit une suite (un)n∈N par son premier terme u0 ´el´ement de [1 ; 2] et :\npour tout entier naturel n, un+1 = ln un\n√un\n+ 1.\n(a) D´emontrer, pour tout r´eel x ´el´ement de [1 ; 2], la double in´egalit´e 0 ⩽ln x\n√x ⩽1.\n(b) D´emontrer par r´ecurrence que, pour tout entier naturel n, un appartient `a [1 ; 2].\n4. En remarquant que, pour tout entier naturel n, un+1 = f(un) + un, d´eterminer le sens de variation\nde la suite (un).\n(a) Montrer que la suite (un)n∈N est convergente. On note ℓsa limite.\n(b) D´eterminer la valeur exacte de ℓ.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "annales",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/recueil-dannales-sur-les-suites-num.pdf",
+        "filename": "recueil-dannales-sur-les-suites-num.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "b662328d3f2fa6a7",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 490,
+      "end_line": 522
+    },
+    {
+      "text": "Exercice 8\nAntilles-Guyane, Juin 2004\nBut de l’exercice : approcher ln(1+a) par un polynˆome de degr´e 5 lorsque a appartient `a l’intervalle [0 ; +∞[.\nSoit a ∈[0 ; +∞[. On note I0(a) =\nZ a\n1 + t et pour k ∈N∗, on pose Ik(a) =\nZ a\n(t −a)k\n(1 + t)k+1 dt.\n1. Calculer I0(a) en fonction de a.\n2. `A l’aide d’une int´egration par parties, exprimer I1(a) en fonction de a.\n3. `A l’aide d’une int´egration par parties, d´emontrer que :\nIk+1(a) = (−1)k+1ak+1\nk + 1\n+ Ik(a)\npour tout k ∈N∗.\nFr´ed´eric Demoulin\nAnnales Terminale S\nInt´egrales\n4. Soit P le polynˆome d´eﬁni sur R par P(x) = 1\n5 x5 −1\n4 x4 + 1\n3 x3 −1\n2 x2 + x.\nD´emontrer en calculant I2(a), I3(a) et I4(a), que I5(a) = ln(1 + a) −P(a).\n5. Soit J(a) =\nZ a\n(t −a)5 dt. Calculer J(a).\n(a) D´emontrer que pour tout t ∈[0 ; a], (t −a)5\n(1 + t)6 ⩾(t −a)5.\n(b) D´emontrer que pour tout a ∈[0 ; +∞[, J(a) ⩽I5(a) ⩽0.\n7. En d´eduire que pour tout a ∈[0 ; +∞[, |ln(1 + a) −P(a)| ⩽a6\n6 .\n8. D´eterminer, en justiﬁant votre r´eponse, un intervalle sur lequel P(a) est une valeur approch´ee de\nln(1 + a) `a 10−3 pr`es.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "annales",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/recueil-dannales-sur-les-suites-num.pdf",
+        "filename": "recueil-dannales-sur-les-suites-num.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "b662328d3f2fa6a7",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 531,
+      "end_line": 565
+    },
+    {
+      "text": "Exercice 9\nPolyn´esie, Juin 2004\nOn consid`ere la suite (In)n∈N d´eﬁnie par :\nIn =\nZ 1\ne−t2\n1 + t + n dt.\n(a) D´eterminer le sens de variation de cette suite.\n(b) Montrer que (In)n∈N est une suite positive.\n(c) Montrer que pour tout t ∈[0 ; 1] on a\ne−t2\n1 + t + n ⩽\n1 + n et en d´eduire que 0 ⩽In ⩽\nn + 1 .\nQue peut-on en conclure quant `a la convergence de (In)n∈N ?\n2. On consid`ere f et g deux fonctions d´eﬁnies sur [0 ; 1] par :\nf(x) = e−x + x −1\ng(x) = 1 −x + x2\n2 −e−x.\n(a) ´Etudier le sens de variation et le signe de f.\n(b) En d´eduire le sens de variation de g sur [0 ; 1].\n(c) ´Etablir, pour tout x appartenant `a [0 ; 1], l’encadrement :\n1 −x ⩽e−x ⩽1 −x + x2\n2 .\n(d) En d´eduire un encadrement de e−t2 pour tout t appartenant `a [0 ; 1].\n(e) ´Etablir l’encadrement :\n3(n + 2) ⩽In ⩽\n30(n + 1) .\n(f) Donner une valeur de p telle que Ip ⩽10−2.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "annales",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/recueil-dannales-sur-les-suites-num.pdf",
+        "filename": "recueil-dannales-sur-les-suites-num.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "b662328d3f2fa6a7",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 573,
+      "end_line": 601
+    },
+    {
+      "text": "Exercice 10\nPolyn´esie, Septembre 2001\nPour tout naturel n ⩾1 on pose :\nIn =\n2n+1 n!\nZ 1\n(1 −t)n e\n2 dt.\nFr´ed´eric Demoulin\nAnnales Terminale S\nInt´egrales\n1. `A l’aide d’une int´egration par parties, calculer I1.\n2. D´emontrer que pour tout naturel n ⩾1 on a :\nIn+1 = In −\n2n+1(n + 1)! .\n3. En d´eduire par r´ecurrence que pour tout naturel n ⩾1 on a :\n√e = 1 + 1\n2 · 1\n1! + . . . + 1\n2n · 1\nn! + In.\n4. Montrer que l’on peut trouver une constante A telle que :\n0 ⩽In ⩽\n2nn! A.\nOn pourra d´eterminer A en majorant la fonction :\nt 7→(1 −t)ne\n2 sur l’intervalle [0 ; 1].\nEn d´eduire la limite quand n tend vers plus l’inﬁni de :\nun = 1 + 1\n2 · 1\n1! + . . . + 1\n2n · 1\nn! .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "annales",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/recueil-dannales-sur-les-suites-num.pdf",
+        "filename": "recueil-dannales-sur-les-suites-num.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "b662328d3f2fa6a7",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 611,
+      "end_line": 643
+    },
+    {
+      "text": "Exercice 11\nInde, Avril 2001\n1. On pose, pour tout entier naturel n non nul :\nIn = 1\nZ 1\n(1 −x)ne−xdx.\n(a) `A l’aide d’une int´egration par parties, calculer I1.\n(b) Prouver que, pour tout entier naturel n non nul :\n0 ⩽In ⩽1\nZ 1\ne−xdx.\nEn d´eduire\nlim\nn→+∞In.\n(c) Montrer, en utilisant une int´egration par parties, que, pour tout entier naturel n non nul, on a :\nIn+1 =\n(n + 1)! −In.\n2. On consid`ere la suite r´eelle (an), d´eﬁnie sur N∗par a1 = 0 et, pour tout entier naturel n non nul :\nan+1 = an + (−1)n+1\n(n + 1)! .\n(a) D´emontrer par r´ecurrence que, pour tout entier naturel n non nul :\nan = 1\ne + (−1)nIn.\n(b) En d´eduire\nlim\nn→+∞an.\nFr´ed´eric Demoulin\nAnnales Terminale S\nInt´egrales",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "annales",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/recueil-dannales-sur-les-suites-num.pdf",
+        "filename": "recueil-dannales-sur-les-suites-num.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "b662328d3f2fa6a7",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 652,
+      "end_line": 680
+    },
+    {
+      "text": "Exercice 12\nFrance, Juin 1999\nDans cet exercice, n est un entier naturel non nul.\nOn consid`ere la suite (un) d´eﬁnie par :\nun =\nZ 2\n2t + 3\nt + 2 e\nn dt.\n(a) Soit ϕ la fonction d´eﬁnie sur [0 ; 2] par ϕ(t) = 2t + 3\nt + 2 .\n´Etudier les variations de ϕ sur [0 ; 2]. En d´eduire que, pour tout r´eel t dans [0 ; 2] :\n2 ⩽ϕ(t) ⩽7\n4 .\n(b) Montrer que, pour tout r´eel t dans [0 ; 2], on a :\n2 e\nn ⩽ϕ(t)e\nn ⩽7\n4 e\nn .\n(c) Par int´egration en d´eduire que :\n2 n\nn −1\n⩽un ⩽7\n4 n\nn −1\n(d) On rappelle que lim\nh→0\neh −1\n= 1.\nMontrer que, si (un) poss`ede une limite ℓ, alors 3 ⩽ℓ⩽7\n2 .\n(a) V´eriﬁer que, pour tout t dans [0 ; 2], on a : 2t + 3\nt + 2 = 2 −\nt + 2 .\nEn d´eduire l’int´egrale I =\nZ 2\n2t + 3\nt + 2 dt.\n(b) Montrer que, pour tout t dans [0 ; 2], on a 1 ⩽e\nn ⩽e\nn .\nEn d´eduire que I ⩽un ⩽e\nn I.\n(c) Montrer que (un) est convergente et d´eterminer sa limite ℓ.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "annales",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/recueil-dannales-sur-les-suites-num.pdf",
+        "filename": "recueil-dannales-sur-les-suites-num.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "b662328d3f2fa6a7",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 706,
+      "end_line": 750
+    },
+    {
+      "text": "Exercice 13\nAsie, Juin 1998\nLes questions 1 et 2 sont ind´ependantes.\nN∗est l’ensemble des entiers strictement positifs.\nPour tout entier n de N∗, on consid`ere l’int´egrale :\nIn =\nZ e\n(ln x)ndx.\n(a) D´emontrer que pour tout x dans l’intervalle ]1 ; e[ et pour tout entier naturel n, on a :\n(ln x)n −(ln x)n+1 > 0.\n(b) En d´eduire que la suite (In) est d´ecroissante.\n(a) Calculer I1 `a l’aide d’une int´egration par parties.\nFr´ed´eric Demoulin\nAnnales Terminale S\nInt´egrales\n(b) D´emontrer `a l’aide d’une int´egration par parties que, pour tout n ∈N∗:\nIn+1 = e −(n + 1)In.\n(c) En d´eduire I2, I3 et I4. Donner les valeurs exactes, exprim´ees en fonction de e et les valeurs\napproch´ees `a 10−3 pr`es par d´efaut.\n(a) D´emontrer que, pour tout n ∈N∗, In ⩾0.\n(b) D´emontrer que, pour tout n ∈N∗, (n + 1)In ⩽e.\n(c) En d´eduire la limite de In.\n(d) D´eterminer la valeur de nIn + (In + In+1) et en d´eduire la limite de nIn.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "annales",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/recueil-dannales-sur-les-suites-num.pdf",
+        "filename": "recueil-dannales-sur-les-suites-num.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "b662328d3f2fa6a7",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 758,
+      "end_line": 780
+    },
+    {
+      "text": "Exercice 14\nLa R´eunion, 1997\nPour n entier naturel non nul, soit fn la fonction d´eﬁnie sur I = [0 ; +∞[ par :\nfn(x) = xn\nn! e−x.\nSoit a un ´el´ement non nul ﬁxe dans I. Pour tout entier naturel n, on pose :\nIn(a) =\nZ a\nfn(x)dx.\n1. Calculer I0(a).\n2. Montrer que, pour tout x de I et pour tout n de N∗:\nf ′\nn(x) = fn−1(x) −fn(x)\nfn(0) = 0\net en d´eduire que, pour tout n ⩾1 :\nIn(a) −In−1(a) = −an\nn! e−a.\n3. En d´eduire que pour tout n > 0, In(a) = 1 −\nk=0\ne−a.\n4. Dans cette question, on pose a = 1.\nOn appelle (un) la suite num´erique d´eﬁnie pour tout n ∈N par :\nun = 1 −\nk=0\ne−1 =\nZ 1\nfn(x)dx.\nOn note Cn la courbe repr´esentative de fn dans le rep`ere orthonormal R (unit´e graphique : 4 cm).\n(a) Montrer que pour tout entier naturel n, un ⩾0 et donner une interpr´etation g´eom´etrique de un.\n(b) Montrer que pour tout entier naturel n, et pour tout x ∈[0 ; 1] :\nfn(x) ⩽1\nn! xn.\n(c) En d´eduire l’encadrement pour tout entier naturel n :\n0 ⩽un ⩽\n(n + 1)!\npuis la limite de un.\n(d) D´eduire enﬁn que e =\nlim\nn→+∞\nk=0\nFr´ed´eric Demoulin\nAnnales Terminale S\nInt´egrales",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "annales",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/recueil-dannales-sur-les-suites-num.pdf",
+        "filename": "recueil-dannales-sur-les-suites-num.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "b662328d3f2fa6a7",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 804,
+      "end_line": 846
+    },
+    {
+      "text": "Exercice 15\nBordeaux-Caen, 1986\nOn consid`ere les int´egrales :\nI =\ncos2 x\nJ =\ncos4 x.\n(a) Quelle est la d´eriv´ee de la fonction tangente ?\n(b) Calculer I.\n(a) Soit la fonction f :\n0 ; π\n→R, x 7→sin x\ncos3 x .\nD´emontrer que f est d´erivable sur\n0 ; π\net que, pour tout x appartenant `a cet intervalle :\nf ′(x) =\ncos4 x −\ncos2 x.\n(b) D´eduire du calcul pr´ec´edent une relation entre I et J, puis calculer J.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "annales",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/recueil-dannales-sur-les-suites-num.pdf",
+        "filename": "recueil-dannales-sur-les-suites-num.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "b662328d3f2fa6a7",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 868,
+      "end_line": 887
+    },
+    {
+      "text": "Exercice 16\nNancy-Metz, 1980\nOn consid`ere la fonction num´erique f de la variable r´eelle x d´eﬁnie par :\nf(x) =\n1 + x .\n1. D´eterminer une fonction polynˆome P, de degr´e inf´erieur ou ´egal `a 3, qui a mˆeme valeur et mˆeme\nnombre d´eriv´e que f en 0 et 1.\n2. Soit k la fonction num´erique d´eﬁnie par :\nk(x) =\n1 + x + 1\n4 x3 −3\n4 x2 + x −1.\nFactoriser k et en d´eduire la position relative de Cf et Cp, courbes repr´esentatives de f et P, dans un\nrep`ere (O ; −→ı , −→) orthonorm´e du plan.\n3. `A l’aide d’un encadrement de 1 + x pour x ∈[0 ; 1], montrer que :\n240 <\nZ 1\nk(x) dx <\n120 .\n4. Calculer\nZ 1\nf(x) dx et\nZ 1\nP(x) dx.\n5. D´eduire des r´esultats pr´ec´edents la valeur de n ∈N telle que :\n240 < ln 2 < n + 1\n240 .\nFr´ed´eric Demoulin",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "annales",
+        "chapitre": "Suites numériques",
+        "source": "data/raw/exercices/recueil-dannales-sur-les-suites-num.pdf",
+        "filename": "recueil-dannales-sur-les-suites-num.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exam",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "b662328d3f2fa6a7",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "factoriser"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 896,
+      "end_line": 923
+    }
+  ]
+}

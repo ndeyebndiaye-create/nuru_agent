@@ -1,0 +1,101 @@
+{
+  "source": "data/raw/cours/18_Fonctions_scalaires_vectorielles_Leibniz.pdf",
+  "timestamp": "2026-07-19T19:39:05.774309",
+  "chunks": [
+    {
+      "text": "Fonctions scalaires et vectorielles de Leibniz\nClasse : Terminale S\nBarycentre\nLe barycentre G des points pondérés (Ai, αi)1≤i≤n (avec P αi ̸= 0) vérifie\ni=1\n−−→\nGAi = ⃗0, et\n−−→\nOG =\nP αi\ni=1\n−−→\nOAi,\nzG =\nP αizAi\nP αi",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/18_Fonctions_scalaires_vectorielles_Leibniz.pdf",
+        "filename": "18_Fonctions_scalaires_vectorielles_Leibniz.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "d49fb02d6bbb1d5d",
+        "difficulty_level": "basic",
+        "chunk_category": "course"
+      },
+      "start_line": 11,
+      "end_line": 26
+    },
+    {
+      "text": "Propriétés : homogénéité (G inchangé si on multiplie tous les poids par k ̸= 0) ; associativité\n(on peut remplacer un sous-système par son barycentre partiel affecté de la somme des poids). Si\ntous les poids sont égaux, G est l’isobarycentre (milieu pour deux points).\nProduit scalaire\nAvec ⃗u = −−→\nAB, ⃗v = −→\nAC :\n⃗u · ⃗v = ∥⃗u∥∥⃗v∥cos(⃗u,⃗v) = AB × AH′ = xx′ + yy′,\noù H′ est le projeté orthogonal de C sur (AB). Propriétés : symétrie, bilinéarité, et ⃗u·⃗v = 0 ⇐⇒\n⃗u ⊥⃗v (pour ⃗u,⃗v ̸= ⃗0).\n2.1\nRelation d’Al-Kashi\nPour un triangle ABC de côtés a, b, c opposés aux angles ˆA, ˆB, ˆC :\na2 = b2 + c2 −2bc cos ˆA,\nsin ˆA\n= sin ˆB\n= sin ˆC\n= 2S\nabc,\nS étant l’aire de ABC.\nFigure 1 – Triangle ABC (côtés a, b, c) ; théorème de la médiane.\n2.2",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/18_Fonctions_scalaires_vectorielles_Leibniz.pdf",
+        "filename": "18_Fonctions_scalaires_vectorielles_Leibniz.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "d49fb02d6bbb1d5d",
+        "chunk_type": "theoreme",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 31,
+      "end_line": 52
+    },
+    {
+      "text": "Théorème de la médiane\nSi I est le milieu de [AB] :\n−−→\nMI = 1\n2(−−→\nMA + −−→\nMB),\nMA2 + MB2 = 2MI2 + AB2\nPour le centre de gravité G d’un triangle (I milieu de [BC]) : −→\nAG = 2\nAI.\nFigure 2 – Centre de gravité G et médiane AI (−→\nAG = 2\nAI).\nFonction vectorielle de Leibniz\n⃗f(M) =\ni=1\n−−−→\nMAi.\n— si P αi = 0 : ⃗f est constante, ⃗f(M) = ⃗f(O) ;\n— si P αi ̸= 0 (barycentre G) : ⃗f(M) =\n\u0011−−→\nMG.\nFonction scalaire de Leibniz\nf(M) =\ni=1\nαiMA2\ni .\n— si P αi = 0 : f(M) = f(O) + 2−−→\nMO ·\n−−→\nOAi (fonction affine) ;\n— si P αi ̸= 0 (barycentre G) : f(M) =\nMG2 + f(G).",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/18_Fonctions_scalaires_vectorielles_Leibniz.pdf",
+        "filename": "18_Fonctions_scalaires_vectorielles_Leibniz.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "d49fb02d6bbb1d5d",
+        "chunk_type": "theoreme",
+        "difficulty_level": "intermediate",
+        "chunk_category": "concept"
+      },
+      "start_line": 77,
+      "end_line": 110
+    },
+    {
+      "text": "Exercice d’application.\nABC tel que AB = AC = 5, BC = 6. 1) Calculer −−→\nAB·−→\nAC. 2) G barycentre de (A, 2), (B, 3), (C, 3) :\ncalculer AG, puis avec f(M) = 2−−→\nMB · −−→\nMC + −−→\nMA · (−−→\nMC + −−→\nMB), montrer f(M) = 4MG2 + f(G),\ncalculer f(A), f(G) et l’ensemble {M : f(M) = f(A)}.\nRésolution.\n1) Al-Kashi : cos ˆA = b2+c2−a2\n2bc\n, d’où −−→\nAB · −→\nAC = 25+25−36\n= 7. 2) −→\nAG = 3−→\nAB+3−→\ndonne\nAG2 = 9, AG = 3. Le développement autour de G donne f(M) = 4MG2 + f(G). Avec f(A) =\n2−−→\nAB · −→\nAC = 14 et f(G) = f(A) −4AG2 = −22 :\nf(M) = f(A) ⇐⇒MG2 = 14 + 22\n= 9 ⇐⇒MG = 3.\nL’ensemble est le cercle de centre G et de rayon 3.\nSurfaces et lignes de niveau\n— {M : ⃗u · −−→\nMA = k} : droite (plan dans l’espace) perpendiculaire à ⃗u ;\n— {M : MA = MB} : médiatrice de [AB] (plan médiateur dans l’espace) ;\n— {M : AM = k > 0} : cercle C(A, k) (sphère dans l’espace) ;\n— {M : −−→\nMA · −−→\nMB = 0} : cercle de diamètre [AB] (sphère dans l’espace).\nFigure 3 – Ensemble {M : f(M) = f(A)} : cercle de centre G, rayon 3.\nCours d’après Sunudaara — Fonctions scalaires et vectorielles de Leibniz — Seyni Ndiaye & Diny Faye.\nFigures extraites automatiquement du PDF source.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/18_Fonctions_scalaires_vectorielles_Leibniz.pdf",
+        "filename": "18_Fonctions_scalaires_vectorielles_Leibniz.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "d49fb02d6bbb1d5d",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 121,
+      "end_line": 159
+    }
+  ]
+}

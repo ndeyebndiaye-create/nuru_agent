@@ -1,0 +1,156 @@
+{
+  "source": "data/raw/exercices/problemes-Syntese-2-1.pdf",
+  "timestamp": "2026-07-19T18:10:21.032015",
+  "chunks": [
+    {
+      "text": "Problème 1\nOn note\nla fonction définie sur\npar\navec\n1°) a) Calculer les limites de\neu  (Pour la limité en\n, poser X = x+2)\nb) Etudier suivant la parité de n la limite de f en -2\n2°) a) Calculer\nf n\net étudier son signe suivant la\nparité de n.\nd) Dresser le tableau de variation de\n3°) a)Démontrer que toutes les courbes\npassent par  un même point fixe A dont on déterminera\nles coordonnées\nb) Déterminer l’inéquation de la tangente (T n ) à\n4°) a) Calculer\nlim\npuis interpréter graphiquement\nle résultat\nb) Démontrer que\nc) En déduire les positions relatives des courbes\net (C\nd) Représenter graphiquement (\net (C )",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/problemes-Syntese-2-1.pdf",
+        "filename": "problemes-Syntese-2-1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "71f42ccf71a56bea",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 109,
+      "end_line": 135
+    },
+    {
+      "text": "Problème 2\nA) Soit\n1- Etudier les variations de g.\n2- En déduire le signe de\nB) On considère la fonction f définie par :\n1- Vérifier que f est définie sur IR\\{1} et étudier la\ncontinuité de f en 0.\n2- Etudier la dérivabilité de f en 0. Interpréter\ngéométriquement ces résultats.\n3- a) Calculer\nlim\n. Que peut-on en déduire\ngraphiquement ?\nb) Donner la nature de la branche infinie de la courbe de f en\n+∞.\n4- Etudier la position de la courbe de f par rapport à son\nasymptote oblique Δ en +∞ sur ]0 ; +∞[\\{1}.\n5-a) Calculer\n('f\net préciser le signe de\nsur ]-\n∞ ; 0[ à l’aide de la partie A).\nb) Donner le tableau de variation de f.\n6- Soit h la restriction de f sur]-∞ ; 0[. h est-elle bijective\nde ]-∞ ; 0[ sur un intervalle J à      préciser ?\n7- Tracer la courbe de f (unité 2cm) dans un repère\northonormé\n8- a) Déterminer les réels a et b tels que\nb) Soit λ un réel tel que 1 < λ < 2. Déterminer l’aire A(λ) du\ndomaine délimité par la courbe         de f, l’asymptote Δ et\nles droites d’équations : x = λ et x = 2.\nc) Calculer\nlim",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/problemes-Syntese-2-1.pdf",
+        "filename": "problemes-Syntese-2-1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "71f42ccf71a56bea",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 277,
+      "end_line": 309
+    },
+    {
+      "text": "Problème 3\nA- Soit f la fonction de la variable réelle x définie par :\n1- a) Etudier les variations de f.\nb) Montrer que\nlim\n. Que peut-on en\ndéduire pour la courbe représentative         de f ? Tracer cette\ncourbe (unité 2cm).\nc) Montrer que f réalise une bijection de]-∞ ; +∞\n[sur          ]-∞ ; 0[.\n2- Soit g la fonction de la variable réelle x définie par :\na) Démontrer que g est dérivable sur IR.\nb) Montrer que quel que soit le réel x,\nc) Montrer que\nlim\nlim\nd) Etudier les variations de g et tracer sa courbe\nreprésentative dans le repère précédent.\n3- a) Montrer que\nb) A tout réel λ, on associe le réel\nJustifier l’existence de I(λ). Calculer I(λ) à l’aide d’une\nintégration par parties.\nc) Calculer\nlim\nB- 1- Montrer que g est une bijection de IR sur un intervalle\nJ à préciser.\n2- a) Calculer g(0).\nb) Montrer que\ng  est dérivable au point ln2.\nc) Déterminer l’équation de la tangente à\n au point\nd’abscisse ln2.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/problemes-Syntese-2-1.pdf",
+        "filename": "problemes-Syntese-2-1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "71f42ccf71a56bea",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 431,
+      "end_line": 462
+    },
+    {
+      "text": "Problème 4\nSoit f la fonction définie sur IR par :\na) Etudier les variations de f et démontrer que pour tout\nb) Déterminer les asymptotes de\nC  et tracer\nC : on\npourra montrer à que\na) Démontrer que pour tout réel x :\n('f\n(''f\n('f\nb) Démontrer que si\nil existe un unique réel\ny et un seul tel que\n('f\nc) Exprimer y en fonction de x.\nSoit\ndx\na) Justifier l’existence de\nb) Calculer\nc) En utilisant \ndémontrer que pour\ntout\nEn déduire que pour tout\np \nDémontrer que, pour tout\nEn déduire y étant fixé que la suite de terme général\n2 du\nest convergente. Préciser sa limite",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/problemes-Syntese-2-1.pdf",
+        "filename": "problemes-Syntese-2-1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "71f42ccf71a56bea",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "tracer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 734,
+      "end_line": 762
+    },
+    {
+      "text": "Problème 5\nPour tout entier\nn \n, on note\nla fonction définie sur\npar\n(Cn) est la courbe représentative de\ndans un repère\northonormé \n, (avec\n1) Etudier les variations de\nsur \nPour\nn \n, étudier la position relative de (Cn) et de\n(Cn-1) et vérifier que le point\nde (Cn)\nest aussi sur (Cn-1).\n2) Construisez sur un même graphique les courbes (C1),\n(C2) et (C3).\nB. Soit (Un) la suite définie par\nn \nEn utilisant les résultats de la partie A., montrer que\n(Un) est décroissante.\nSoit g la fonction définie sur \npar\nln(\n)t(\nMontrer que pour tout t de \nln(\nDéduisez en que, pour tout entier\nn \na. Montrer que pour tout\nb. Déduisez en que, pour tout n,\n....\nDémontrer que pour tout\n....\nDéduisez en que, pour tout\nQuelle est la limite de la suite (Un)\nC.   Pour a  fixé, positif, et pour tout entier n,\nn \n, on\npose :\nCalculer\nMontrer que pour\n, pour tout\n)t(\nDéduisez en un encadrement de\nMontrer que pour\n. Donner alors\nune nouvelle majoration de\n, puis la limite de\nquant n tend vers .\nTrouver lorsque\nn \nune relation entre\net déduisez en que pour tout\n....\nL’égalité est-elle valable pour\nn \n« La possibilité est le principe de l’essence,\nla perfection le principe de l’existence. »\nGottfried Wilhelm Leibniz",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/problemes-Syntese-2-1.pdf",
+        "filename": "problemes-Syntese-2-1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "71f42ccf71a56bea",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1086,
+      "end_line": 1148
+    }
+  ]
+}

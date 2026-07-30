@@ -1,0 +1,123 @@
+{
+  "source": "data/raw/cours/11_Denombrement.pdf",
+  "timestamp": "2026-07-19T18:10:10.248355",
+  "chunks": [
+    {
+      "text": "Dénombrement\nClasse : Terminale S\nCardinal d’un ensemble fini\nLe cardinal Card E est le nombre d’éléments de E.\nCard(A ∪B) = Card A + Card B −Card(A ∩B),\net si A ∩B = ∅: Card(A ∪B) = Card A + Card B. Les parties A1, . . . , An forment une partition\nde Ωsi elles sont deux à deux disjointes et de réunion Ω.",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Dénombrement",
+        "source": "data/raw/cours/11_Denombrement.pdf",
+        "filename": "11_Denombrement.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "9cda63b7e9498055",
+        "difficulty_level": "intermediate",
+        "chunk_category": "course"
+      },
+      "start_line": 3,
+      "end_line": 9
+    },
+    {
+      "text": "Exercice d’application.\nClasse de 35 élèves : 20 jouent au basket, 15 au foot, 2 à aucun des deux. Combien pratiquent\nles deux ? exactement un ?\nRésolution.\nCard(F ∪B) = 35 −2 = 33 = 15 + 20 −Card(F ∩B), donc Card(F ∩B) = 2. Exactement un :\n15 + 20 −2 × 2 = 31.\n1.1\nProduit cartésien\nA × B = {(a, b) : a ∈A, b ∈B} et\nCard(A1 × · · · × An) =\ni=1\nCard Ai.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Dénombrement",
+        "source": "data/raw/cours/11_Denombrement.pdf",
+        "filename": "11_Denombrement.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "9cda63b7e9498055",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 12,
+      "end_line": 23
+    },
+    {
+      "text": "Exercice d’application.\n12 leçons d’histoire (dont 9 sues), 10 de géographie (dont 7 sues). L’élève tire une leçon de\nchaque. Nombre de choix total, puis « traiter les deux », « exactement un », « aucun », « au\nmoins un », « au plus un » ?\nRésolution.\nCard Ω= 12 × 10 = 120. Avec Hs = 9, Hs = 3, Gs = 7, Gs = 3 :\nA = 9 × 7 = 63,\nB = 9 × 3 + 3 × 7 = 48,\nC = 3 × 3 = 9,\nD = A + B = 111, E = B + C = 57.\np-listes\nUne p-liste de E (Card E = n) est une suite ordonnée de p éléments de E (avec répétition\npossible). Leur nombre est\nnp.\nArrangements\nUn arrangement de p éléments est une p-liste d’éléments distincts. Leur nombre est\nn = n(n −1) · · · (n −p + 1) =\n(n −p)!.\nPermutations\nUne permutation de E est un arrangement des n éléments. Leur nombre est\nn = n!\n(avec 0! = 1).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Dénombrement",
+        "source": "data/raw/cours/11_Denombrement.pdf",
+        "filename": "11_Denombrement.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "9cda63b7e9498055",
+        "chunk_type": "exercice",
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 34,
+      "end_line": 55
+    },
+    {
+      "text": "Exercice d’application.\nUrne de 16 boules (6 rouges, 5 noires, 2 vertes, 3 jaunes, numérotées). On tire 3 boules suc-\ncessivement. Nombre de tirages avec remise puis sans remise ?\nRésolution.\nAvec remise : Card Ω= 163 = 4096 (3-listes) ; ex. « même couleur » = 63+53+23+33 = 376.\nSans remise : Card Ω= A3\n16 = 3360 (arrangements) ; « même couleur » = A3\n6 + A3\n5 + A3\n3 = 186.\nCombinaisons\nUne combinaison de p éléments est un sous-ensemble de p éléments (p ≤n, sans ordre). Leur\nnombre est\nn =\n= Ap\np! =\np! (n −p)!.\n5.1",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Dénombrement",
+        "source": "data/raw/cours/11_Denombrement.pdf",
+        "filename": "11_Denombrement.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "9cda63b7e9498055",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 64,
+      "end_line": 81
+    },
+    {
+      "text": "Propriétés\n= 1,\n= 1,\n= n,\nn −1\n= n,\nn −p\np −1\nn + 1\n(relation de Pascal).\n5.2\nBinôme de Newton\nPour a, b ∈C et n ∈N∗:\n(a + b)n =\nk=0\nakbn−k.\nPar exemple (a + b)2 = a2 + 2ab + b2 et (a + b)3 = a3 + 3a2b + 3ab2 + b3.\n5.3\nTriangle de Pascal\nLa relation de Pascal permet de construire les coefficients binomiaux ligne par ligne (chaque\nterme est la somme des deux situés au-dessus) :\nn\\p\nCours d’après Sunudaara — Dénombrement — Terminale S. Figures extraites automatiquement du PDF\nsource.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Dénombrement",
+        "source": "data/raw/cours/11_Denombrement.pdf",
+        "filename": "11_Denombrement.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "9cda63b7e9498055",
+        "chunk_type": "theoreme",
+        "competences": [
+          "construire"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "concept"
+      },
+      "start_line": 167,
+      "end_line": 190
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "source": "data\\raw\\cours\\14_Equations_differentielles.pdf",
+  "timestamp": "2026-07-16T20:39:09.288926",
+  "chunks": [
+    {
+      "text": "Définitions\nUne équation différentielle linéaire d’ordre n à coefficients constants est de la forme\n(E) : any(n) + an−1y(n−1) + · · · + a1y′ + a0y = g(x)\n(an̸ = 0).\nSi g(x) = 0, l’équation est homogène (ou sans second membre), notée (E′) ; elle est associée à (E).\nL’ensemble des solutions est la solution générale ; une fonction vérifiant (E) est une solution\nparticulière.",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Équations différentielles",
+        "source": "data\\raw\\cours\\14_Equations_differentielles.pdf",
+        "filename": "14_Equations_differentielles.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "0f817c8682ba0509",
+        "chunk_type": "definition",
+        "difficulty_level": "intermediate",
+        "chunk_category": "concept"
+      },
+      "start_line": 5,
+      "end_line": 11
+    },
+    {
+      "text": "Théorème 1 (Structure des solutions). Si f1 est une solution particulière de (E) et f2 la solution\ngénérale de (E′), alors la solution générale de (E) est\nf(x) = f1(x) + f2(x).\nOrdre 1 : ay′ + by = g(x)\n2.1",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Équations différentielles",
+        "source": "data\\raw\\cours\\14_Equations_differentielles.pdf",
+        "filename": "14_Equations_differentielles.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "0f817c8682ba0509",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 13,
+      "end_line": 17
+    },
+    {
+      "text": "Solution de l’équation homogène\nay′ + by = 0 ⇒y′\ny = −b\na, d’où ln |y| = −b\nax + c et\nf2(x) = K e−b\n(K ∈R).\n2.2",
+      "chunk_type": "solution",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Équations différentielles",
+        "source": "data\\raw\\cours\\14_Equations_differentielles.pdf",
+        "filename": "14_Equations_differentielles.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "0f817c8682ba0509",
+        "chunk_type": "solution",
+        "difficulty_level": "basic",
+        "chunk_category": "solution"
+      },
+      "start_line": 19,
+      "end_line": 26
+    },
+    {
+      "text": "Solution particulière\nOn cherche f1 de même « nature » que g : si g est un polynôme de degré n, f1 est un polynôme\nde degré n ; si g(x) = a cos βx + b sin βx, f1 est de la forme A cos βx + B sin βx.",
+      "chunk_type": "solution",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Équations différentielles",
+        "source": "data\\raw\\cours\\14_Equations_differentielles.pdf",
+        "filename": "14_Equations_differentielles.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "0f817c8682ba0509",
+        "chunk_type": "solution",
+        "difficulty_level": "basic",
+        "chunk_category": "solution"
+      },
+      "start_line": 27,
+      "end_line": 29
+    },
+    {
+      "text": "Exercice d’application.\nSoit (E) : 2y′ −3y = x2 + 5, et φ la solution dont la dérivée s’annule en 0. 1) Trouver un\npolynôme f1 de degré 2 solution. 2) Résoudre (E′) et donner les solutions de (E). 3) Déterminer\nRésolution.\n1) Avec f1(x) = ax2 + bx + c : 2f′\n1 −3f1 = x2 + 5 donne −3a = 1, 4a −3b = 0, 2b −3c = 5, soit\nf1(x) = −1\n3x2 + 4\n9x −37\n27.\n2) (E′) :\n2y′ = 3y a pour solution f2(x) = k e\n2 x, d’où φ(x) = −1\n3x2 + 4\n9x −37\n27 + k e\n2 x. 3)\nφ′(0) = 0 ⇒k = −8\n27, donc\nφ(x) = 1\n\u0000−8e\n2 x −9x2 + 12x −37\nFigure 1 – Courbe (Cφ) de la solution de 2y′ −3y = x2 + 5 avec φ′(0) = 0.\nOrdre 2 : ay′′ + by′ + cy = g(x)\n3.1\nÉquation homogène et équation caractéristique\nÀ (E′) :\nay′′ + by′ + cy = 0 on associe l’équation caractéristique ar2 + br + c = 0, de\ndiscriminant ∆= b2 −4ac.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Équations différentielles",
+        "source": "data\\raw\\cours\\14_Equations_differentielles.pdf",
+        "filename": "14_Equations_differentielles.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "0f817c8682ba0509",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "résoudre"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 41,
+      "end_line": 69
+    },
+    {
+      "text": "Théorème 2.\n— Si ∆> 0 (racines réelles r1, r2) : y2(x) = A er1x + B er2x ;\n— Si ∆= 0 (racine double r0) : y2(x) = (Ax + B) er0x ;\n— Si ∆< 0 (racines α ± iβ) : y2(x) = eαx(A cos βx + B sin βx).\nLes constantes A, B sont fixées par les conditions initiales.\n3.2",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Équations différentielles",
+        "source": "data\\raw\\cours\\14_Equations_differentielles.pdf",
+        "filename": "14_Equations_differentielles.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "0f817c8682ba0509",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 70,
+      "end_line": 75
+    },
+    {
+      "text": "Solution particulière\nSi g est un polynôme de degré n : f1 est de degré n si c̸ = 0, de degré n + 1 si c = 0. Si\ng(x) = a cos βx + b sin βx : f1 de la forme A cos βx + B sin βx. La solution générale de (E) est\ny = f2 + f1.",
+      "chunk_type": "solution",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Équations différentielles",
+        "source": "data\\raw\\cours\\14_Equations_differentielles.pdf",
+        "filename": "14_Equations_differentielles.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "0f817c8682ba0509",
+        "chunk_type": "solution",
+        "difficulty_level": "basic",
+        "chunk_category": "solution"
+      },
+      "start_line": 76,
+      "end_line": 79
+    },
+    {
+      "text": "Exercice d’application.\nRésoudre (E) : y′′ −4y′ + 3y = 0, puis la solution passant par O et de dérivée 1 en 0.\nRésolution.\nÉquation caractéristique r2 −4r + 3 = 0, ∆= 4 > 0, r1 = 1, r2 = 3, donc y2(x) = A ex +B e3x.\nLes conditions y2(0) = 0 (A + B = 0) et y′\n2(0) = 1 (A + 3B = 1) donnent A = −1\n2, B = 1\n2, d’où\ny2(x) = 1\n\u0000e3x −ex\u0001.\nCours d’après Sunudaara — Équations différentielles — Terminale S. Figures extraites automatiquement\ndu PDF source.\nFigure 2 – Solution y = 1\n2(e3x −ex) passant par l’origine, de pente 1 en 0.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Équations différentielles",
+        "source": "data\\raw\\cours\\14_Equations_differentielles.pdf",
+        "filename": "14_Equations_differentielles.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "0f817c8682ba0509",
+        "chunk_type": "exercice",
+        "competences": [
+          "résoudre"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 86,
+      "end_line": 99
+    }
+  ]
+}

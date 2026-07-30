@@ -1,0 +1,119 @@
+{
+  "source": "data\\raw\\exercices\\Geometrie-Spatiale-TD5.pdf",
+  "timestamp": "2026-07-16T20:39:17.521337",
+  "chunks": [
+    {
+      "text": "Exercice 1\nABCDE est une pyramide telle que BCDE soit un parallélogramme de centre O.\nI est le milieu du segment [AB].\nJ est le milieu du segment [AC].\n1) Préciser en justifiant les intersections :\na) du plan (ABC) et du plan (ACD).\nb) du plan (ABD) et du plan (AEC).\nc) de la droite (AO) et du plan (BED).\nd) de la droite (DI) et de la droite (AO).\n2) Démontrer que la droite (IJ) et la droite (ED) sont parallèles.\nEn déduire l’intersection des plans (ABC) et (EID).\n3) Démontrer que la droite (IJ) et le plan (BCD) sont parallèles.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "source": "data\\raw\\exercices\\Geometrie-Spatiale-TD5.pdf",
+        "filename": "Geometrie-Spatiale-TD5.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "f0ed071fdb4bfeb3",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 5,
+      "end_line": 16
+    },
+    {
+      "text": "Exercice 2\nABCDEFGH est un parallélépipède rectangle.\n1. Démontrer que les plans (AFC) et (DEG) sont parallèles.\n2. Soient I le milieu du segment [AB],\nJ le milieu du segment [BC] et\nK le milieu du segment [BF].\nDémontrer que les plans (IJK) et (AFC) sont parallèles.\n3. Déduire des questions 1 et 2 que les plans (IJK) et (DEG) sont parallèles.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "source": "data\\raw\\exercices\\Geometrie-Spatiale-TD5.pdf",
+        "filename": "Geometrie-Spatiale-TD5.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "f0ed071fdb4bfeb3",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 20,
+      "end_line": 27
+    },
+    {
+      "text": "Exercice 3\nABCDEFGH est un cube.\nI, J, K et L sont les milieux respectifs des segments [AE], [AB], [BC] et [CG].\n1. Quelle est la nature du quadrilatère AILC ?\n2. Démontrer que les droites (JK) et (AC) sont parallèles.\n3. En déduire que les droites (JK) et (LI) sont parallèles. (Justifier)\n4. Démontrer que les droites (IJ) et (KL) sont coplanaires.\n5. En déduire qu'elles sont sécantes en un point S. (Justifier)\n6. Déterminer l'intersection des plans (ABF) et (FBC).\n7. Démontrer que le point S appartient à la droite (BF).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "source": "data\\raw\\exercices\\Geometrie-Spatiale-TD5.pdf",
+        "filename": "Geometrie-Spatiale-TD5.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "f0ed071fdb4bfeb3",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 59,
+      "end_line": 68
+    },
+    {
+      "text": "Exercice 4\nABCD est un tétraèdre régulier (toutes les arêtes ont la même longueur).\nI est le milieu de [AD], J est le milieu de [BD] et K est le milieu de [CD].\n1. Démontrer que les droites (AB) et (IJ) sont parallèles.\n2. Exprimer IJ en fonction de AB, puis exprimer le périmètre P' du\ntriangle IJK en fonction du périmètre P du triangle ABC.\n3. On admettra que l'aire d'un triangle équilatéral de côté c est :\n =\nExprimer l'aire ' du triangle IJK en fonction de l'aire  du\ntriangle ABC.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "source": "data\\raw\\exercices\\Geometrie-Spatiale-TD5.pdf",
+        "filename": "Geometrie-Spatiale-TD5.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "f0ed071fdb4bfeb3",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 85,
+      "end_line": 94
+    }
+  ]
+}

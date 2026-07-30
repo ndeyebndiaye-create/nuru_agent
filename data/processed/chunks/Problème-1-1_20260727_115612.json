@@ -1,0 +1,35 @@
+{
+  "source": "data/raw/exercices/Problème-1-1.pdf",
+  "timestamp": "2026-07-27T11:56:12.897665",
+  "chunks": [
+    {
+      "text": "Problème\nPartie A\nSoit f la fonction définie parf (x )=ln (1+e\n−x).\n1) Etudier les variations de f.\n2) Donner la nature des branches infinies et tracer f (on précisera la position de Cf pat rapport à ses\nasymptotes. unité 4cm).\n3) Soitx 0∈IR,M et N les points d’abscisses respectivesx0 et −x0.\na) Vérifier quef (x0)−f (−x0)=−x0. En déduire que la droite (MN) garde une direction fixe que l’on\nprécisera.\nb) Montrer quef\n' (x0)+f\n' (−x0)=−1. En déduire les tangentes à Cf  en M et  N se coupent sur l’axe des\nordonnées.\nPartie B\nSoit (un) la suite définie par\nu1=1+ 1\ne ;un+1=un(1+ 1\nn+1)\n1) .\na) Etudier les variations de u définie par\nu (t )=ln (1+t )−t\nb) Etudier les variations de v définie par\nv (t )=l (1+t )−t+ t\nc) En déduire que\nt−t\n2 <ln ⁡(1+t)<t\n2) En déduire que\n∀x ∈IR,e\n−x−e\n−2 x\n2 <f (x )<e\n−x(1).\n3) .\na) Montrer que(un)est strictement croissante.\nb) Montrer que\n∀x>0,ln(un)=f (1)+f (1)+…+f (n)(2).\nc) Soit\nS1=1\ne + 1\ne2+…+ 1\nen et S2= 1\ne2+ 1\ne4 +…+ 1\ne2n .\nA l’aide de (1) et (2) montrer que :\nS1−1\n2 S2<ln(un)<S1.\n4) .\na) Soit a∈IR et a>1, calculer\na + 1\na2 +…+ 1\nan .\nMontrer que cette somme admet une limite à préciser.\nb) Montrer que (un) est majorée et convergente vers un réel l1 et vérifier que :\n2e+1\n2(e2−1) ≤lnl1≤\ne−1 .\nPartie C\nSoit h la fonction définie par :\nh ( x)= xlnx\nx+1 si x>0,h (0)=0.\n1) Etudier la continuité et la dérivabilité de h en x=0.\n2) .\na) Soit la fonction φ définie parφ ( x )=lnx+x+1. Etudier les variations de φ. Montrer que l’équation\nφ (x )=0 admet une solution unique β et vérifier que0,27<β<0,28.\nb) Pourx>0,exprimer h\n'(x) à l’aide deφ (x ). En déduire les variations de h.\n3) Soit g la fonction définie parg (x)=e.e\na) Montrer que l’équationh (x)=1 admet une solution unique α et vérifier que3,5<α <3,7.\nb) Etudier la monotonie de g. Montrer que∀x ∈[3,5;3,7 ], g (x )∈[3,5;3,7 ].\nc) Etablir que\n∀x ∈[3,5;3,7 ], g\n'(x)≤1\nEn déduire que :\n|g ( x)−α|≤1\n3|x−α|.\n4) Soit (vn) la suite définie par V 0=3,5et V k+1=g (V k)\n5) Montrer que\n|V k−α|≤1\n3n . 1\nEn déduire\nlim\nn→+∞\nV n",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "Problème",
+        "source": "data/raw/exercices/Problème-1-1.pdf",
+        "filename": "Problème-1-1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "problem",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "412cabf1789676e3",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 20,
+      "end_line": 104
+    }
+  ]
+}

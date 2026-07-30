@@ -1,0 +1,172 @@
+{
+  "source": "data/raw/cours/21_Limites_Continuite.pdf",
+  "timestamp": "2026-07-27T11:42:58.931377",
+  "chunks": [
+    {
+      "text": "Limites — Continuité\nClasse : Terminale S\nContinuité\n1.1\nFonctions usuelles continues\n— les fonctions x 7→xn (n ∈N) et toute fonction polynôme sont continues sur R ;\n— x 7→1\nxn est continue sur R∗;\n— x 7→√x est continue sur [0; +∞[.\n1.2",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data/raw/cours/21_Limites_Continuite.pdf",
+        "filename": "21_Limites_Continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "5b8adcf97968912a",
+        "difficulty_level": "basic",
+        "chunk_category": "course"
+      },
+      "start_line": 3,
+      "end_line": 12
+    },
+    {
+      "text": "Théorème 1. Si f est continue et strictement monotone sur [a; b], alors pour tout réel k\ncompris entre f(a) et f(b), il existe un unique c ∈[a; b] tel que f(c) = k.\nFigure 1 – TVI : f strictement croissante sur [0; 4], il existe un unique c tel que f(c) = 4.\nLimites\n2.1",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data/raw/cours/21_Limites_Continuite.pdf",
+        "filename": "21_Limites_Continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "5b8adcf97968912a",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 15,
+      "end_line": 19
+    },
+    {
+      "text": "Définition\nlim\nx→a f(x) = ℓsignifie : ∀ε > 0, ∃d > 0 tel que |x −a| ≤d ⇒|f(x) −ℓ| ≤ε.\n2.2\nLimites usuelles\nlim\nx→+∞xn = +∞,\nlim\nx→+∞\nxn = 0,\nlim\nx→0+\nx = +∞,\nlim\nx→0−\nx = −∞,\nlim\nx→0\nx2 = +∞.\nOpérations sur les limites\nLes limites d’une somme, d’un produit et d’un quotient se calculent comme d’habitude, avec\nla règle des signes. Les cas indéterminés sont :\n∞−∞,\n0 × ∞,\n3.1\nLever une indétermination",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data/raw/cours/21_Limites_Continuite.pdf",
+        "filename": "21_Limites_Continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "5b8adcf97968912a",
+        "chunk_type": "definition",
+        "difficulty_level": "intermediate",
+        "chunk_category": "concept"
+      },
+      "start_line": 33,
+      "end_line": 58
+    },
+    {
+      "text": "Théorème 2. La limite à l’infini d’un polynôme est celle de son monôme de plus haut degré ;\ncelle d’une fraction rationnelle, celle du quotient des monômes de plus haut degré.\nPour une forme 0\n0 en a, on peut poser x = a + h et étudier la limite en 0, ou factoriser par\n(x −a).\nAsymptotes\n— Verticale : si lim\nx→c f(x) = ±∞, la droite x = c est asymptote verticale.\n— Horizontale : si\nlim\nx→±∞f(x) = b, la droite y = b est asymptote horizontale.\n— Oblique : si\nlim\nx→±∞\n\u0000f(x) −(ax + b)\n\u0001 = 0, la droite y = ax + b est asymptote oblique. En\nparticulier si f(x) = ax + b + φ(x) avec φ(x) →0.\nLa position relative courbe/asymptote se lit sur le signe de f(x) −(ax + b). Une courbe peut\ntraverser une asymptote horizontale ou oblique, jamais une asymptote verticale.\nFigure 2 – Asymptote horizontale y = b en +∞.\nLimites par comparaison",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data/raw/cours/21_Limites_Continuite.pdf",
+        "filename": "21_Limites_Continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "5b8adcf97968912a",
+        "chunk_type": "theoreme",
+        "competences": [
+          "factoriser"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 61,
+      "end_line": 81
+    },
+    {
+      "text": "Théorème 3. Pour x ≥A :\n— si f(x) ≥g(x) et lim g = +∞, alors lim f = +∞;\n— si f(x) ≤g(x) et lim g = −∞, alors lim f = −∞;\n— (gendarmes) si u(x) ≤f(x) ≤v(x) et lim u = lim v = ℓ, alors lim f = ℓ.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data/raw/cours/21_Limites_Continuite.pdf",
+        "filename": "21_Limites_Continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "5b8adcf97968912a",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 82,
+      "end_line": 85
+    },
+    {
+      "text": "Exercice d’application.\nSi −x + 2\nx2 + 3 ≤f(x) ≤3x + 1\nx2 −8 pour x ≥3, déterminer\nlim\nx→+∞f(x).\nRésolution.\nLes deux bornes tendent vers 0, donc\nlim\nx→+∞f(x) = 0.\nLimite d’une composée",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data/raw/cours/21_Limites_Continuite.pdf",
+        "filename": "21_Limites_Continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "5b8adcf97968912a",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 87,
+      "end_line": 97
+    },
+    {
+      "text": "Exemple. f(x) =\nx2 + x + 2 = v ◦u avec u(x) = x2 + x + 2, v = √:\nlim\nx→−∞u = +∞donc\nlim\nx→−∞f = +∞.\nCours d’après Sunudaara — Limites — Continuité — Terminale S. Figures extraites automatiquement du\nPDF source.",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data/raw/cours/21_Limites_Continuite.pdf",
+        "filename": "21_Limites_Continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "5b8adcf97968912a",
+        "chunk_type": "exemple",
+        "difficulty_level": "basic",
+        "chunk_category": "example"
+      },
+      "start_line": 108,
+      "end_line": 115
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+  "timestamp": "2026-07-27T11:56:12.470927",
+  "chunks": [
+    {
+      "text": "Exercice 1 : SABCD est une pyramide régulière à base carrée. M est le milieu de [SA], N est\nle point de [SC] tel que SN =  SC.   O est le centre de ABCD. (SO) est donc la hauteur de la\npyramide. I est le milieu de l’arête [BC].\n1.  Démontrer que les droites (MN) et (AC) sont sécants.\n2.  Placer le point d’intersection de (MN) et (AC).\n3.  Démontrer que (SO) est orthogonale à la droite (CB).\n4.  En déduire que (CB) est orthogonale au plan (SOI).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 13,
+      "end_line": 19
+    },
+    {
+      "text": "Exercice 3 : ABCD est un tétraèdre.\n1. G est le barycentre des points pondérés (A ;1) , (B ;1) , (C ;2) , (D ;1).Préciser la\nposition de G.\n2. I et J sont les milieux respectifs de [AB]et [CD]. Les points E , F et H sont définis\npar :\nAE =\nBF \net H milieu du segment [EF]\na.   Vérifier que F est le barycentre (B ;1-a) et (C ;a), et que E est barycentre de (A ;1-a) et\n(D ;a)\nb. En utilisant l’associativité du barycentre montrer que H est barycentre des points\npondérées (A ;1-a) , (B ;1-a) ,  (C ;a) et (D ;a).\nEn déduire que les points I, J et H sont alignés",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 26,
+      "end_line": 38
+    },
+    {
+      "text": "Exercice 4 : L’espace est rapporté à un repère orthonormé (O ,\n1. Déterminer une représentation paramétrique de la droite (D)et (D’)dans les cas\nsuivants :\n(D) passe par A(-2 ;3 ;5) et B(2 ;1 ;3)\nb. (D’) passe par C(1 ;2 ;3) et parallèle à (EF) avec E(0 ;2 ;3) et F(-1 ;2 ;1).\n2. Déterminer l’intersection des droites (D) et (D’) (s’il existe.)\n3. Calculer les coordonnées G du barycentre de (A ;2) ;(B ;1) ;(E ;-3) et (F ;4)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 46,
+      "end_line": 52
+    },
+    {
+      "text": "Exercice 5 : L’espace est rapporté à un repère orthonormé (O ,\n1. Déterminer une représentation paramétrique de la droite (D)et (D’)dans les cas\nsuivants :\n(D) passe par A(1 ;2 ;3) et de vecteur directeur U (-1 ;3 ;5).\nb. (D’) passe par C(0 ;1 ;4) et de vecteur directeur V (-1 ;-1 ;1).\n2. Quelle est la position relative des droites (D) et (D’). Soit {F} = (D)∩(D’)\n3. Calculer les coordonnées G du barycentre de (A ;2) ;(C ;1) ; (F ;-4).\n4. Trouver une représentation paramétrique puis cartésienne du plan définie par (D) et\n(D’).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 60,
+      "end_line": 68
+    },
+    {
+      "text": "Exercice  6 L’espace est rapporté à un repère orthonormé (O ,\n(D) est la droite passe par A(1 ;-3 ;2) et de vecteur directeur U (2 ;1 ;3).\n(P) est le plan d’équation : 2x-y+5z+4 = 0.\nEspace : vecteurs ; produit scalaire ; produit vectoriel ; produit mixte\nFALL\nLEOLB\nFALL\n1S1\n1. La droite (D) et le plan (P) sont- ils parallèles ?\n2. Trouver les coordonnées du point d’intersection de (D) et (P).\n3. Donner une équation de la sphère (Ω) de centre A et passant par l’origine du repère.\n4. Quelle est l’équation de la tangente (T) passant par O de ce sphère ?\n5. Déterminer l’intersection de la sphère (Ω) et du plan (P).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 78,
+      "end_line": 90
+    },
+    {
+      "text": "Exercice  7 : L’espace est rapporté à un repère orthonormé (O ,\n). Les points A ; B ; C\nsont définies par :\n1. Montrer que les plans (OAB) et (ABC) sont perpendiculaires.\n2. a. Déterminer les équations des plans médiateurs des segments : [OA] ;[OB] et [OC].\nb. Déduire le centre  de la sphère circonscrit au tétraèdre OABC et le rayon de la sphère.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 115,
+      "end_line": 120
+    },
+    {
+      "text": "Exercice  8 : Soit   A et B et C deux points de l’espace tels que AB = 8 ;BC = 6 et AC = 5 .\nDéterminer et construire dans chacun des cas  l’ensemble des points M de l’ espace tel que :\n; b.\n;  c.\n).(\n;  d.\n).(\n; f.\n;  g.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "construire"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 180,
+      "end_line": 188
+    },
+    {
+      "text": "Exercice  9 L’espace est orienté et muni d’un repère orthonormal direct \n. On\nconsidère les points A, B, C de l’espace de coordonnées respectives dans ce repère :\n2;0;0\n1;3;0\n1;1;2\nSoit le triangle M1M2M3 défini par :\noù a, b, c\nsont trois nombres réels de l’intervalle \nLe but de l’exercice est de déterminer, parmi les triangles M1M2M3, un triangle d’aire\nmaximale.\n1. Faites une figure.\n2. On pose :\nCalculer les coordonnées de ces quatre vecteurs ainsi que leurs normes. On note\nS la plus grande de ces normes. Prouver l’égalité :\nb. On pose\ninterpréter géométrique  la norme de T\nProuver l’égalité :\nMontrer aussi que T  s’écrit sous la\nforme\noù x  un réel quelconque.\n3. On suppose\n. En choisissant x = ab, prouver l’inégalité.\nDéduisez de l’inégalité\nque\npuis\nl’inégalité\n4. Préciser, parmi les triangles M1M2M3, un triangle dont l’aire est maximale.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 384,
+      "end_line": 411
+    },
+    {
+      "text": "Exercice 8\nLe plan P est du repère orthonormal direct \n.on considère les points d’affixes\n1 ;\nM z et N\net z\n1) P désigne le barycentre du système \n;2 ,\nExprimer les coordonnées de P en\nfonction de r et de.\nEspace : vecteurs ; produit scalaire ; produit vectoriel ; produit mixte\nFALL\nLEOLB\nFALL\n1S1\n2) Montrer que lorsque M décrit le cercle (C ) de centre O et de rayon OA alors P décrit une\nun courbe (E )dont on donnera l’ équation\n3) Tracer cette courbe et préciser ses sommets\n4) Soit f l’affinité orthogonal de rapport\nk k \net d’ axe \nO v Dé terminer k pour que l’\nimage de la courbe (E ) soit un cercle (G ) dont on déterminera le centre et le rayon.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 456,
+      "end_line": 478
+    },
+    {
+      "text": "Exercice 9\nLe plan P est du repère orthonormal direct \n. On considère l’ensemble (E ) des points\nM de P de coordonnées\nvérifiant :\nsin\ncos\nMontrer que le lieu de M est une conique ( C )dont on précisera les éléments caractéristiques.\nReprésenter ( C )",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 528,
+      "end_line": 536
+    },
+    {
+      "text": "Exercice 10\nLe plan P est du repère orthonormal direct \n. Soit M(z) on associe le point  M’(z’)\ndéfinie par\navec\n1) Calculer les coordonnées de x’ et y’ en fonction de r et \n2) Montrer que lorsque M décrit le cercle (C ) de centre O et de rayon\nr \nalors M’ décrit\nune ellipse (E )\n3) Déterminer les sommets et les foyers de (E ) puis représenter (E ).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 559,
+      "end_line": 569
+    },
+    {
+      "text": "Exercice11\nSoit  un réel appartenant à l’intervalle\n. On considère l’équation (E ) d’inconnue\ncomplexe z : (E)\ncos\n(cos\ncos\n1. Résoudre (E) dans C. Préciser pour quelle valeur de  l’équation admet une racine\ndouble. Donner la valeur de cette racine double.\n2. Soit P  le plan complexe rapporte à un repère orthonormal. On appelle M’ et M’’ les\npoints de P  dont les affixes respectifs sont les nombres z’ et z’’ solutions de (E)\nMontrer que, lorsque  varie M’ et M’’ se déplacent sur une hyperbole (H   ).Déterminer le\ncentre, les sommets et les asymptotes de (H   ). Tracer (H   ).\n3. Montrer que lorsque décrit l’intervalle\nl’ensemble (F   ) décrit par les points\nM’ et M’’ est une branche de (H  ).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "résoudre",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 606,
+      "end_line": 621
+    },
+    {
+      "text": "Exercice 12\nSoit AOB un tringle équilatéral du plan oriente tel que : \nOn note H le milieu de [AB], I celui de [OB] et ( ) la médiatrice de [AB]. ON note s la\nsimilitude plane directe de centre O transformant le point A en I.\nM désigne un point quelconque du plan et M’ son image par s.\n1. a. Déterminer l’angle et le rapport de la similitude s.\nb. Construire le point C du plan tel que s(C) = A. (On justifiera la construction).\nc. Exprimer AM’ en fonction de CM.\nEspace : vecteurs ; produit scalaire ; produit vectoriel ; produit mixte\nFALL\nLEOLB\nFALL\n1S1\n2. On note M’’ l’image de M par la réflexion d’axe ( ). On se propose de déterminer\nl’ensemble ( ) des points M du plan tels que A est équidistant de M’ et M’’.\na. montrer que AM’’=BM.\nb. Montrer que M appartient à () si et seulement si CM = 2BM.\nc. Déterminer la nature de  ( ) puis construire ( ).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 636,
+      "end_line": 653
+    },
+    {
+      "text": "Exercice 13\nLe plan P est du repère orthonormal direct \n. On considère l’ensemble (E) des points\nM de P de coordonnées\nvérifiant l’équation :\n(1)\n1. En interprétant géométriquement l’équation (1), démontrer que (E) est une conique de foyer\nO et de directrice ( ) d’équation\n. Donner la nature et l’excentricité de (E).\nDans toute la suite de l’exercice, M désigne un point de (E) et une détermination de l’angle\na. Déduire de l’équation (1) une relation du premier degré entre OM et l’abscisse x de M.\nb. Démontrer que\ncos\n3. On suppose que \n. La droite (OM) coupe ( ) en I et recoupe (E) en M’.\na. Démontrer que\nOM \nest une constante indépendante de M.\nb. Démontrer que",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 720,
+      "end_line": 738
+    },
+    {
+      "text": "Exercice 14\nFGH est un triangle équilatéral de cotél . Soit (H  ) l’ hyperbole de foyer F, de directrice\n(GH) et d’ excentricité 2.\n1) Déterminer les sommets S et S’ de cette hyperbole (on remarquera S et S’ sont sur la\nhauteur issue du sommet issue de F dans le triangle FGH) son centre O et le deuxième\nfoyer en fonction de  F’. Calculer en fonction de l , la distance des deux sommets 2a  et la\ndistance des deux foyers\n2) On choisie le repère orthonormé  direct \n. Où O est le centre de l’hyperbole et u\nun vecteur directeur de la demi droite \nOF  ; Ecrire une équation de (H  )  et donner l’\nallure de (H  ) .\nCourbes paramètres",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 746,
+      "end_line": 758
+    },
+    {
+      "text": "Exercice 1\nSoit () la courbe de représentation  paramétrique suivante\ncos\nsin\n0;2\ncos\nsin\n1) Montrer que  () est un cercle\n2) Représenter ()",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 777,
+      "end_line": 785
+    },
+    {
+      "text": "Exercice 2(Cardioïde)\nLe plan est du repère orthonormal direct\n, ,\nO i j .\nEspace : vecteurs ; produit scalaire ; produit vectoriel ; produit mixte\nFALL\nLEOLB\nFALL\n1S1\n1 cos\ncos\n1 cos\nsin\nx t\ny t\n1) En utilisant la parité et la périodicité des fonctions x(t) et y(t) réduisez l’intervalle d’étude\net déterminer les symétriques de la courbe (C)\n2) Etudier les variations des fonctions x(t) et y(t)\n3) a) Montrer que, si t\n, la droite\nOM  a pour vecteur directeur\ncos\nsin\nt i\nt j\nb) Déduisez en la tangente au pont\nM  de la courbe (C) puis tracer (C).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 823,
+      "end_line": 849
+    },
+    {
+      "text": "Exercice 3 ( Spiral logarithmique)\nSoit \n la courbe de représentation  paramétrique suivante\ncos\nsin\nx t\ny t\n1) Par quelle transformation passe t-on de\nM t à M t\net à M t\n2) Etudier les variations\n( )\n( )\nx t\ny t\npour\n0;2\n3) Construire la courbe représentative de \nconstituée des points M(t) pour\n0;2\n4) Déduisez-en  la partie de la courbe de\nconstituée des points M(t) pour\n2 ;2",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "construire"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 903,
+      "end_line": 925
+    },
+    {
+      "text": "Exercice 4 ( courbe de lissajou)\nSoit ( )\n la courbe de représentation  paramétrique suivante\nsin\nx t\ny t\ncost\n1) Déterminer l’intervalle d’étude utile.\n2)  Etudier les variations de\nx t  ;\ny t\n3) Montrer que la courbe  est inscrite dans un carré de coté 2\n4) Déterminer  les points de contact avec ce carré et les tangentes en ces points.\n5) Tracer la courbe( )",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 941,
+      "end_line": 954
+    },
+    {
+      "text": "Exercice5 (cyloide)\nSoit \n la courbe de représentation  paramétrique suivante\n1 sin\nx t\ny t\ncost\n1) Comparer les coordonnées des points\nM t\nM t\net montrer que ces points ce\ncorrespondent dans une translation. Déduisez en l’intervalle d’étude utile\n2) Etudier les variations de\nx t  ;\ny t  et calculer le vecteur dérivée\nV t\n3) On suppose ici que t est non nul, montrer que la droite \nadmet un vecteur directeur\n1 cos\nsin\nu t\nt i\nt j\n.déterminer les limites des coordonnées de u  et déduisez\nen la tangente en O à la courbe\nEspace : vecteurs ; produit scalaire ; produit vectoriel ; produit mixte\nFALL\nLEOLB\nFALL\n1S1",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1006,
+      "end_line": 1035
+    },
+    {
+      "text": "Exercice 6\nLe plan est du repère orthonormal direct \n. On considère le cercle C de centre I et\nde rayon 1 et la droite ( ) d’équation\n. Une droite variable (D) passant par O, coupe le\ncercle C en A. et la droite ( ) en A’.\nOn note M le point de (D) tel que\nOM \nLa courbe S, lieu des points M lorsque la droite (D) varie, est appelée Strophoïde droite.\n1) On note t la pente de la droite (D).\nMontrer que les coordonnées de M sont données par :\n2)   a. Vérifier que S admet l’axe des abscisses pour axe de symétrie.\nb. Etudier les variations des fonctions\n( )\n( )\nx t\ny t\npour\n, et\nconstruire la courbe S.\n3)  Calculer la distance de M à la droite ( ), puis la limite de cette distance lorsque\nInterpréter graphiquement.\nEspace : vecteurs ; produit scalaire ; produit vectoriel ; produit mixte\nFALL",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Géométrie dans l'espace",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "filename": "Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "655ee4571edee0fa",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1102,
+      "end_line": 1125
+    }
+  ]
+}

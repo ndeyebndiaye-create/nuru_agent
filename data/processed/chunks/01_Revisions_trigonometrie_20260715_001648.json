@@ -1,0 +1,28 @@
+{
+  "source": "data/raw/cours/01_Revisions_trigonometrie.pdf",
+  "timestamp": "2026-07-15T00:16:48.357439",
+  "chunks": [
+    {
+      "text": "Révisions de trigonométrie\nClasse : Terminale S\n1. Formules fondamentales\nOn pourra les retrouver à l’aide d’un cercle trigonométrique.\ncos2 x + sin2 x = 1,\ntan x = sin x\ncos x,\ncot x = cos x\nsin x ,\n1 + tan2 x =\ncos2 x,\n1 + cot2 x =\nsin2 x.\n2. Valeurs remarquables\nsin x\ncos x\ntan x\nnon définie\n3. Angles associés\nx + 2π\nx + π\nπ −x\nx + π\n2 −x\ncos\ncos x\ncos x\ncos x\n−cos x\n−cos x\n−sin x\nsin x\nsin\nsin x\nsin x\n−sin x\n−sin x\nsin x\ncos x\ncos x\ntan\ntan x\ntan x\n−tan x\ntan x\n−tan x\n−cot x\ncot x\nÉquations trigonométriques\nsin x = sin a ⇐⇒x = a + 2kπ ou x = π −a + 2kπ\n(k ∈Z),\ncos x = cos a ⇐⇒x = a + 2kπ ou x = −a + 2kπ\n(k ∈Z),\ntan x = tan a ⇐⇒x = a + kπ\n(k ∈Z).\n4. Formules d’addition\ncos(x + y) = cos x cos y −sin x sin y,\ncos(x −y) = cos x cos y + sin x sin y,\nsin(x + y) = sin x cos y + cos x sin y,\nsin(x −y) = sin x cos y −cos x sin y,\ntan(x + y) = tan x + tan y\n1 −tan x tan y,\ntan(x −y) = tan x −tan y\n1 + tan x tan y.\n5. Formules de duplication\ncos 2x = cos2 x −sin2 x = 2 cos2 x −1 = 1 −2 sin2 x,\nsin 2x = 2 sin x cos x,\ntan 2x =\n2 tan x\n1 −tan2 x.\n6. Formules avec t = tan x\nSi t = tan x\n2, alors\ncos x = 1 −t2\n1 + t2 ,\nsin x =\n1 + t2 ,\ntan x =\n1 −t2 .\n7. Linéarisation et factorisation\nProduit en somme :\nsin a cos b = 1\n\u0002sin(a + b) + sin(a −b)\ncos a cos b = 1\n\u0002cos(a + b) + cos(a −b)\nsin a sin b = 1\n\u0002cos(a −b) −cos(a + b)\nSomme en produit :\nsin p + sin q = 2 sin p + q\ncos p −q\nsin p −sin q = 2 cos p + q\nsin p −q\ncos p + cos q = 2 cos p + q\ncos p −q\ncos p −cos q = −2 sin p + q\nsin p −q\n8. Étude des fonctions trigonométriques\ndéfinie sur\ndérivable sur\nparité\npériode\nà étudier sur\ndérivée\nsin x\nimpaire\n[0; π]\ncos x\ncos x\npaire\n[0; π]\n−sin x\ntan x\nR \\ {(2k + 1) π\n2 }\nR \\ {(2k + 1) π\n2 }\nimpaire\n[0; π\n2 [\ncos2 x = 1 + tan2 x\n9. Courbes\nCours d’après Sunudaara — Auteur : Mouhamadou Ka. Figures extraites automatiquement du PDF source.\nFigure 1 – Courbes représentatives de x 7→sin x, x 7→cos x et x 7→tan x.",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/01_Revisions_trigonometrie.pdf",
+        "filename": "01_Revisions_trigonometrie.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S\n1",
+        "chapitre": "Non spécifié",
+        "document_id": "57f4de97fa0b98dc",
+        "difficulty_level": "advanced",
+        "chunk_category": "course"
+      },
+      "start_line": 83,
+      "end_line": 205
+    }
+  ]
+}

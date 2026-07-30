@@ -1,0 +1,113 @@
+[
+  {
+    "text": "# Chapitre 1 : Les Nombres Réels\n## 1.1 Définition",
+    "chunk_type": "chapitre",
+    "metadata": {
+      "source": "test.md",
+      "chapitre": "Les Nombres Réels",
+      "chapitre_numero": 1,
+      "discipline": "mathématiques",
+      "classe": "Terminale",
+      "serie": "S1",
+      "chunk_type": "chapitre",
+      "pays": "Sénégal",
+      "difficulty_level": "basic",
+      "chunk_category": "course"
+    },
+    "start_line": 3,
+    "end_line": 4
+  },
+  {
+    "text": "**Définition 1 :** Un nombre réel est un nombre qui peut être représenté par un point sur une droite graduée.",
+    "chunk_type": "definition",
+    "metadata": {
+      "source": "test.md",
+      "chapitre": "Les Nombres Réels",
+      "chapitre_numero": 1,
+      "discipline": "mathématiques",
+      "classe": "Terminale",
+      "serie": "S1",
+      "chunk_type": "definition",
+      "pays": "Sénégal",
+      "difficulty_level": "basic",
+      "chunk_category": "concept"
+    },
+    "start_line": 6,
+    "end_line": 6
+  },
+  {
+    "text": "**Propriété 1 :** L'ensemble des nombres réels est noté ℝ.\n### Exemple 1 :\nLes nombres -3, 0, 1/2, π sont des nombres réels.\n## 1.2 Opérations sur les nombres réels",
+    "chunk_type": "theoreme",
+    "metadata": {
+      "source": "test.md",
+      "chapitre": "Les Nombres Réels",
+      "chapitre_numero": 1,
+      "discipline": "mathématiques",
+      "classe": "Terminale",
+      "serie": "S1",
+      "chunk_type": "theoreme",
+      "pays": "Sénégal",
+      "difficulty_level": "basic",
+      "chunk_category": "concept"
+    },
+    "start_line": 10,
+    "end_line": 13
+  },
+  {
+    "text": "**Théorème 1 :** Pour tous nombres réels a, b, c, on a :\n- a + b = b + a (commutativité)\n- (a + b) + c = a + (b + c) (associativité)",
+    "chunk_type": "theoreme",
+    "metadata": {
+      "source": "test.md",
+      "chapitre": "Les Nombres Réels",
+      "chapitre_numero": 1,
+      "discipline": "mathématiques",
+      "classe": "Terminale",
+      "serie": "S1",
+      "chunk_type": "theoreme",
+      "pays": "Sénégal",
+      "difficulty_level": "basic",
+      "chunk_category": "concept"
+    },
+    "start_line": 15,
+    "end_line": 17
+  },
+  {
+    "text": "**Exercice 1 :**\nCalculer les expressions suivantes :\n1) 3 + (-5) × 2\n2) (7 - 3) ÷ 2",
+    "chunk_type": "exercice",
+    "metadata": {
+      "source": "test.md",
+      "chapitre": "Les Nombres Réels",
+      "chapitre_numero": 1,
+      "discipline": "mathématiques",
+      "classe": "Terminale",
+      "serie": "S1",
+      "chunk_type": "exercice",
+      "pays": "Sénégal",
+      "competences": [
+        "calculer"
+      ],
+      "difficulty_level": "basic",
+      "chunk_category": "exercise"
+    },
+    "start_line": 19,
+    "end_line": 22
+  },
+  {
+    "text": "**Solution :**\n1) 3 + (-5) × 2 = 3 - 10 = -7\n2) (7 - 3) ÷ 2 = 4 ÷ 2 = 2",
+    "chunk_type": "solution",
+    "metadata": {
+      "source": "test.md",
+      "chapitre": "Les Nombres Réels",
+      "chapitre_numero": 1,
+      "discipline": "mathématiques",
+      "classe": "Terminale",
+      "serie": "S1",
+      "chunk_type": "solution",
+      "pays": "Sénégal",
+      "difficulty_level": "basic",
+      "chunk_category": "solution"
+    },
+    "start_line": 24,
+    "end_line": 26
+  }
+]

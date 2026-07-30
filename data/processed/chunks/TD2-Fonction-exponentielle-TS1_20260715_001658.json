@@ -1,0 +1,178 @@
+{
+  "source": "data/raw/exercices/TD2-Fonction-exponentielle-TS1.pdf",
+  "timestamp": "2026-07-15T00:16:58.222335",
+  "chunks": [
+    {
+      "text": "Classe TS1 - 2009                              Série exponentielle                                     MR GUEYE",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D2",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/TD2-Fonction-exponentielle-TS1.pdf",
+        "filename": "TD2-Fonction-exponentielle-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Économie",
+        "document_id": "102858736ce7bce6",
+        "difficulty_level": "basic",
+        "chunk_category": "course"
+      },
+      "start_line": 3,
+      "end_line": 3
+    },
+    {
+      "text": "Exercice 1\nA-1- Démontrer que\nlim\nx e−\n2-Soit ( ) (\nf x\n+ +\n.Etudier f et tracer\nC .\nB-Soit\n( ) (\n; m étant un paramètre réel.\n1-Montrer que toutes les courbes\npassent par un point fixe dont on précisera les\ncoordonnées.\n2-Etudier la position de\nC suivant les valeurs de m .\n3-a- Montrer que\ng admet 2 ex tréma en\nx = et\n= −\nb-Montrer que les points de coordonnées\nm g\nquand m varie dans\n° appartiennent à une courbe dont on précisera l’équation.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D2",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/TD2-Fonction-exponentielle-TS1.pdf",
+        "filename": "TD2-Fonction-exponentielle-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Économie",
+        "document_id": "102858736ce7bce6",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer",
+          "tracer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 65,
+      "end_line": 89
+    },
+    {
+      "text": "Exercice 2\n1-Soit\n* →\nEtudier le signe de ϕ à l’aide de ses variations.\n2-Soit\n( )\n( )\n1 ;\nsix\nf x\n= ⎨+\na- Etudier la continuité et la dérivabilité de f en 0.\nb-Dresser le tableau de variation de f à l’aide de 1-\n3-Montrer que la droite d’équation\nest asymptote à la courbe\nC de f  (on peut\nposer\n4-Construire\nC dans un repère ortho normal  (unité 6cm).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D2",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/TD2-Fonction-exponentielle-TS1.pdf",
+        "filename": "TD2-Fonction-exponentielle-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Économie",
+        "document_id": "102858736ce7bce6",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "construire"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 144,
+      "end_line": 162
+    },
+    {
+      "text": "Exercice 3\nSoit\nnf la fonction définie par :\n( )\n( )\nx f\n1) a) Prouver que\nnf est continue sur [\n0;+∞\nb) Etudier la dérivabilité de fn en 0.\nc) Calculer\n( )\nx pour\nx f\net justifier que\nnf est strictement croissante sur\n0;+∞\n2) a) Calculer\n( )\nlim\nb) Donner le tableau de variation de la fonction g définie par  ( )\ng u\n+∞. En déduire que\n;  0\n+ ≤\n(1)\nc) Déduire de (1) que\n; ∀\nt ≥\n(2)\nd) Prouver à l’aide de (2) que pour tout réel\nx f\n( )\nn x\nEn déduire que  (\nD ) :\nest asymptote à la courbe   (\nC ). Préciser la  position\nrelative de (\nC ) et (\nD ).\n2) a) Dresser le tableau de variation de\nnf .\nb) Tracer la courbe\nC et son asymptote en précisant la tangente en 0.\nc) Démontrer que pour tout\nn f\nC est l’image de\nC par une homothétie de\ncentre O et de rapport  1\nn .Construire\nC sur le même repère.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D2",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/TD2-Fonction-exponentielle-TS1.pdf",
+        "filename": "TD2-Fonction-exponentielle-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Économie",
+        "document_id": "102858736ce7bce6",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer",
+          "tracer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 277,
+      "end_line": 328
+    },
+    {
+      "text": "Exercice4\n1) Soit    ( )\nf x\n.Déterminer  Df .\nC est la courbe représentative de f dans un repère ortho normal (unité 4cm)\na) Montrer que ∀\nx p\n( )\nf x\n= −\nb) Calculer\n( )\nlim\nf x\n.f est elle dérivable en 0 .Préciser la tangente à l’origine à la courbe de\n2) Etudier f et tracer la courbe de f.\nProbléme\nPour tout nombre réel ;\nα f\non désigne par  fα la fonction numérique de la variable réelle\ndéfinie par la relation :\n( )\n; et par Cα la courbe représentative de  fα dans un\nrepère orthonormal\nPartie A\n1) Etudier les variations de\n1f et construire\nC . Plus généralement étudier les variations de\nfα ; préciser les asymptotes à la courbe Cα et déterminer son intersection avec l’axe\n(Ox .\n2) a) Déterminer une primitive Fα de fα sur\nb) On pose pour tout réel a tel que  0\n:  ( )\n( )\nA a\nEtudier la limite en 0 de\n( )\nPartie B\n1) Soit a un nombre réel strictement positif. Déterminer suivant les valeurs de a le nombre de",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D2",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/TD2-Fonction-exponentielle-TS1.pdf",
+        "filename": "TD2-Fonction-exponentielle-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Économie",
+        "document_id": "102858736ce7bce6",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "tracer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 402,
+      "end_line": 440
+    },
+    {
+      "text": "solution  de l’équation\n, avec  x∈° (on pourra utiliser la variation de\n1f ).\n2) En utilisant de même les variations de\n1f , montrer qu’il existe un couple (\n,b c et un seul\nd’entiers naturel non nuls tels que\n, avec  b\n. Déterminer ce couple.\nPartie C\n1) Soient\nα et\nα deux nombres réels strictement positif et λ un nombre réel différent de 1.\nPour tout nombre réel x strictement positif, on note\nM et\nM les points des courbes\nCα admettant x pour abscisse et l’on désigne par M le barycentre des points\nM et\naffectés respectivement des coefficients 1  et λ\nDémontrer que l’ensemble décrit par M lorsque x parcourt ]\n0;+∞est l’une des courbes\n2) Soit t un nombre réel strictement positif. Ecrire l’équation de la tangente Tα à la courbe\nCα au point d’abscisse t.\nDémontrer que lorsque α varie et t reste fixe, les droites Tα passent par un point fixe\ntI .\nDéterminer l’ensemble H des points\ntI quand t parcourt]\n0;+∞et construire H.",
+      "chunk_type": "solution",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D2",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/TD2-Fonction-exponentielle-TS1.pdf",
+        "filename": "TD2-Fonction-exponentielle-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Économie",
+        "document_id": "102858736ce7bce6",
+        "chunk_type": "solution",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "solution"
+      },
+      "start_line": 471,
+      "end_line": 498
+    }
+  ]
+}

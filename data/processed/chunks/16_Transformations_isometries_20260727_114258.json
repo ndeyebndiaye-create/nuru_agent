@@ -1,0 +1,79 @@
+{
+  "source": "data/raw/cours/16_Transformations_isometries.pdf",
+  "timestamp": "2026-07-27T11:42:58.757813",
+  "chunks": [
+    {
+      "text": "Définitions\nUne transformation du plan P est une application qui, à tout point M, associe un unique\npoint N et telle que tout point admet un unique antécédent (bijection). Exemples : translation,\nhomothétie, symétries, rotation, affinités. (La projection n’est pas une transformation.)\nUne transformation qui conserve les distances est une isométrie ; si elle conserve de plus les\nangles orientés, c’est un déplacement ; si elle les change de signe, un antidéplacement.\nTranslation\nLa translation t⃗u associe à M le point M′ tel que −−−→\nMM′ = ⃗u.\n— Aucun point invariant (si ⃗u ̸= ⃗0) ; toute droite de direction ⃗u est globalement invariante.\n— Conserve alignement, parallélisme, orthogonalité, barycentre, distances et angles orientés :\nc’est un déplacement.\nExpression complexe : z′ = z+α (avec α = z⃗u) ; analytique : x′ = x+a, y′ = y+b. Composée\net réciproque : t⃗u ◦t⃗v = t⃗u+⃗v, (t⃗u)−1 = t−⃗u.\nFigure 1 – Translation de vecteur ⃗u : M 7→M′, N 7→N′ (MM′N′N parallélogramme).\nHomothétie\nL’homothétie h(Ω, k) (k ∈R \\ {1}) associe à M le point M′ tel que −−→\nΩM′ = k −−→\nΩM.\n— Point invariant : le centre Ω.\n— Si |k| ̸= 1, ne conserve pas les distances : multiplie les longueurs par |k| et les aires par k2.\nConserve l’alignement, le parallélisme, l’orthogonalité, le barycentre et les angles (orientés\nsi k > 0).\nExpression complexe : z′ = kz +β (avec zΩ= kzΩ+β). Composée/réciproque : h(Ω, k)−1 =\nh(Ω, 1\nk) ; la composée de deux homothéties de rapports k, k′ est une homothétie de rapport kk′ (si\nkk′ ̸= 1).\nFigure 2 – Homothétie de rapport négatif : M, A, B 7→M′, A′, B′.\nRéflexion (symétrie axiale)\nLa réflexion S∆d’axe ∆laisse fixe tout point de ∆et associe à M /∈∆son symétrique\northogonal par rapport à ∆.\n— Conserve les distances mais change le signe des angles orientés : c’est un antidéplacement.\n— (S∆)−1 = S∆.\nExpression complexe : de la forme z′ = e2iα z + β (où α est l’angle de ∆). Composées : la\ncomposée de deux réflexions d’axes parallèles est une translation ; d’axes sécants en A, une rotation\nde centre A.\nFigure 3 – Réflexion d’axe ∆; deux axes parallèles (composée = translation).\nRotation\nLa rotation r(Ω, θ) associe à M le point M′ tel que ΩM′ = ΩM et (−−→\nΩM, −−→\nΩM′) = θ (2π).\n— Point invariant : le centre Ω; c’est un déplacement (conserve distances, angles orientés,\nparallélisme, alignement).\nExpression complexe :\nz′ −zΩ= eiθ(z −zΩ)\nz′ = eiθz + β,\nzΩ=\n1 −eiθ .\nToute rotation se décompose en produit de deux réflexions d’axes sécants au centre.\nFigure 4 – Rotation d’angle θ ; conservation de l’angle (−−→\nΩM, −−→\nΩN).\nIsométries\nUne isométrie conserve les distances : M′N′ = MN.",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/16_Transformations_isometries.pdf",
+        "filename": "16_Transformations_isometries.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "fc555fdde785eec8",
+        "chunk_type": "definition",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 20,
+      "end_line": 73
+    },
+    {
+      "text": "Théorème 1 (Classification).\n— une isométrie qui fixe trois points non alignés est l’identité ;\n— une isométrie (̸= Id) qui fixe deux points A, B est la symétrie axiale d’axe (AB) ;\n— une isométrie ayant un seul point invariant Ωest une rotation de centre Ω.\nUne isométrie conserve le barycentre, le produit scalaire, l’alignement, le parallélisme et l’or-\nthogonalité. C’est un déplacement si elle conserve les angles orientés, un antidéplacement\nsinon.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/16_Transformations_isometries.pdf",
+        "filename": "16_Transformations_isometries.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "fc555fdde785eec8",
+        "chunk_type": "theoreme",
+        "difficulty_level": "intermediate",
+        "chunk_category": "concept"
+      },
+      "start_line": 74,
+      "end_line": 80
+    },
+    {
+      "text": "Exercice d’application.\nSoit f :\nx′ = 1\n2(x + y\n3 + 1)\ny′ = 1\n2(−x\n3 + y +\n. Montrer que f est une isométrie, déterminer ses inva-\nriants et sa nature.\nRésolution.\nUn calcul donne M′\n1M′\n2 = M1M2 : f est une isométrie. Les points invariants vérifient\n−x + y\n3 + 1 = 0\n3 −y +\n3 = 0\nsoit Ω(1, 0) unique. L’expression complexe s’écrit z′ = e−iπ/3z + b : f est la rotation de centre\nΩ(1) et d’angle −π\n3 .\nCours d’après Sunudaara — Transformations — Isométries du plan — Terminale S. Figures extraites\nautomatiquement du PDF source.\nFigure 5 – Deux réflexions d’axes sécants en A : la composée est une rotation de centre A.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "source": "data/raw/cours/16_Transformations_isometries.pdf",
+        "filename": "16_Transformations_isometries.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "chapitre": "Non spécifié",
+        "document_id": "fc555fdde785eec8",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 97,
+      "end_line": 120
+    }
+  ]
+}

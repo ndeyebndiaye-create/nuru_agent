@@ -1,0 +1,352 @@
+{
+  "source": "data/raw/exercices/TD3-Fonction-ln-TS1.pdf",
+  "timestamp": "2026-07-15T00:34:38.299733",
+  "chunks": [
+    {
+      "text": "Exercice 1 :\nCalculer les limites suivantes.\nlim\nlim\nlim\nlim\nlim x\nlim\nlim\nlim\nlim\nlim\n⎟⎟\n⎜⎜\ncos\nlim\nlim\nlim",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS2",
+        "source": "data/raw/exercices/TD3-Fonction-ln-TS1.pdf",
+        "filename": "TD3-Fonction-ln-TS1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Classe de",
+        "chapitre": "Non spécifié",
+        "document_id": "9e6d5d74bd4d81ff",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 143,
+      "end_line": 160
+    },
+    {
+      "text": "Exercice 4 :\nPour chacune des fonctions suivantes\n1) Déterminer Df\n2)  Déterminer l’ensemble de dérivabilité de f. puis calculer\n'f (x)\na) ( )\n( )\n( )\n(ln\nd) ( )\n2 −\n2 +",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS2",
+        "source": "data/raw/exercices/TD3-Fonction-ln-TS1.pdf",
+        "filename": "TD3-Fonction-ln-TS1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Classe de",
+        "chapitre": "Non spécifié",
+        "document_id": "9e6d5d74bd4d81ff",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 483,
+      "end_line": 494
+    },
+    {
+      "text": "Exercice 5:\nOn se propose d’étudier la fonction f définie sur ]\npar\n1) Soit h la fonction définie sur ]\npar\na) Calculer h (1) puis étudier les variations de h (On ne demande pas de calculer les limites)\nb) En déduire le signe de h(x) suivant les valeurs de x.\n2) a) Etudier les limites de f aux bornes de son domaine.\nb) Calculer f ’(x) et en déduire les variations de f .\nc) Tracer la courbe représentative de f dans un repère orthonormé (unité 2cm).\n4) a) Montrer que l’équation f(x)=0 admet un solution unique α sur ]\nb) montrer que 0,5<α <0,6 puis donner en justifiant, une valeur approchée de α à\n10− près\npar défaut.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS2",
+        "source": "data/raw/exercices/TD3-Fonction-ln-TS1.pdf",
+        "filename": "TD3-Fonction-ln-TS1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Classe de",
+        "chapitre": "Non spécifié",
+        "document_id": "9e6d5d74bd4d81ff",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 536,
+      "end_line": 549
+    },
+    {
+      "text": "Exercice 6:\n1) Soit\na) Etudier f et dresser son tableau de variation.\nb) Calculer f(0) en déduire le signe de f.\n2) Soit g :\na) Etudier g et tracer\nC .\nb) Soit A le point d’intersection de\nC et l’axe (Ox), d’abscisse nulle.\nDémontrer que A est un point d’inflexion de\nC et écrire l’équation de la tangente (T) à\nC en A.\n3) Soit\n(c’- à- d la restriction de g sur]\nDémontrer que h est une bijection de ]\nvers un intervalle J à préciser et construire sur un\nautre graphique les courbes\nC et",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS2",
+        "source": "data/raw/exercices/TD3-Fonction-ln-TS1.pdf",
+        "filename": "TD3-Fonction-ln-TS1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Classe de",
+        "chapitre": "Non spécifié",
+        "document_id": "9e6d5d74bd4d81ff",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer",
+          "tracer",
+          "construire"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 597,
+      "end_line": 614
+    },
+    {
+      "text": "Exercice 7:\nSoit f la fonction numérique définie sur\nIR par :\n⎪⎩\n⎪⎨\nf(0)\npour x\na) Etudier la continuité et la dérivabilité de f en 0.\nb) On considère la fonction g définie pour\n∈;1\npar\net on appelle\n( Γ sa\ncourbe représentative dans le même repère (O\nj ;i\n). Etudier g et tracer\n( Γ .\nc) Etudier le limites de f quand x tend vers +∞.\nMontrer que les courbes\n( Γ et\nsont asymptotiques et préciser leurs positions relatives.\nd) Déterminer\npuis étudier le sens de variation de\n'f et montrer que\n'f est positive.\ne) Achever l’étude de la fonction f puis tracer la courbe\nsur la même figure que\n( Γ .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS2",
+        "source": "data/raw/exercices/TD3-Fonction-ln-TS1.pdf",
+        "filename": "TD3-Fonction-ln-TS1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Classe de",
+        "chapitre": "Non spécifié",
+        "document_id": "9e6d5d74bd4d81ff",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 669,
+      "end_line": 696
+    },
+    {
+      "text": "Exercice 8:\nOn considère la fonction g définie par :\n1) a) Etudier la continuité et la dérivabilité de g sur son ensemble de définition.\nb) Etudier les variations de g.\nc) Tracer\nC .\n2)   a) Déterminer les coordonnées des points d’intersection de la courbe\nC et de la\nDroite\ny =\nΔ :)\nb) Pour quelles valeurs de m la droite\n, recoupe-t-elle\nC en deux points\nM et\nM autres que O.\nc) La droite\ncoupe la droite D d’équation :\nx =\nen P. Montrer que O\nM .O\nM =OP\n3)  a) Montrer que la restriction h de la fonction g à [\nadmet une réciproque h\n−dont on\nprécisera l’ensemble de définition.\nb) Sur quel ensemble h\n−est elle dérivable ? Calculer\n; en déduire (\n)( )\nc) Tracer la courbe de h\nClasse de TS1\nFonction logarithme Népérien",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS2",
+        "source": "data/raw/exercices/TD3-Fonction-ln-TS1.pdf",
+        "filename": "TD3-Fonction-ln-TS1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Classe de",
+        "chapitre": "Non spécifié",
+        "document_id": "9e6d5d74bd4d81ff",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 773,
+      "end_line": 805
+    },
+    {
+      "text": "Exercice 1:\nOn considère la fonction  f définie sur ]\npar :\nC la courbe représentative de f sur un repère orthonormé (O\nj ;i\n). (Unité graphique 3cm)\n1) Déterminer les limites de f en 0 et en +∞\n2) Calculer la dérivée f ’ et étudier son signe puis en déduire le sens de variation de f , on\nprécisera l’abscisse du minimum de f\n3) Soit D la droite d’équation :\ny =\na) Démontrer que la  droite D est asymptote à la courbe C en +∞\nb) Etudier la position de C par rapport à D.\nc) Construire la courbe C et ses asymptotes.\n4) a) Montrer que pour tout réel u de [\n]1;0\nb) En déduire que pour tout réel t de [\n]1;0\nc) En déduire que pour tout réel x de [",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS2",
+        "source": "data/raw/exercices/TD3-Fonction-ln-TS1.pdf",
+        "filename": "TD3-Fonction-ln-TS1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Classe de",
+        "chapitre": "Non spécifié",
+        "document_id": "9e6d5d74bd4d81ff",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 877,
+      "end_line": 895
+    },
+    {
+      "text": "Exercice 2:\nDans ce problème on étudie la famille de fonctions\nλf  définies par\nOù λ est un réel non nul\nC la courbe représentative de\nλf dans un repère orthonormé (O\nj ;i\n) et D la droite d’équation\ny =\n1) Donner le domaine de définition de\nλf (on distinguera deux casλ >0 et λ <0)\n2)  a) Existe-t-il un lien entre les deux courbes\nC et\nb) Soit\n( Γ la courbe représentative graphique de la fonction logarithme népérien.\nTrouver, lorsque λ >0 une translation qui transforme\n( Γ en\n3) On pose\n( )\n( )\na) On suppose\n. Etudier les variations de\nϕ ainsi que ses limites aux bornes de son\ndomaine.\nEn déduire le nombre de points d’intersection de\nC et D.\nb) On suppose λ >0. Etudier les variations de\nϕ ainsi que ses limites aux bornes de son\ndomaine.\nEtablir que la plus grande valeur prise par\nϕ (x), quand x décrit le domaine de\nϕ est\n( )\n1 +\nc) Etudier quand λ décrit]\n, les variations de m, en déduire son signe.\nd) Combien, lorsque λ est positif,\nC et D ont-elles de points communs ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS2",
+        "source": "data/raw/exercices/TD3-Fonction-ln-TS1.pdf",
+        "filename": "TD3-Fonction-ln-TS1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Classe de",
+        "chapitre": "Non spécifié",
+        "document_id": "9e6d5d74bd4d81ff",
+        "chunk_type": "exercice",
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 957,
+      "end_line": 994
+    },
+    {
+      "text": "Exercice 3:\nSoit α un élément de\n⎥⎦\n⎢⎣\n⎡−\nλf la fonction définie par\nsin\nOn désigne par\nla courbe représentative de\nλf dans un repère orthonormé (O\nj ;i\n1)  a) Déterminer, suivant les valeurs de λ l’ensemble de définition de\nb) Démontrer que la droite d’équation\nsin\nest un axe de symétrie de\nc) Démontrer que\nC et\nsont symétriques par rapport à (O j )\n2) a) Etudier\nλf pour\nλ =\net tracer sur le même graphique les courbes\nb) Démontrer que pour\nl’équation\n( )\nadmet une solution unique dans\net donner une valeur approchée à\n10−près de cette solution.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS2",
+        "source": "data/raw/exercices/TD3-Fonction-ln-TS1.pdf",
+        "filename": "TD3-Fonction-ln-TS1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Classe de",
+        "chapitre": "Non spécifié",
+        "document_id": "9e6d5d74bd4d81ff",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "tracer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1060,
+      "end_line": 1087
+    },
+    {
+      "text": "Exercice 4:\nSoit m un réel strictement positif  et\n( )\nf m\nOn désigne par\nC la courbe représentative de\nmf dans un repère orthonormé (O\nj ;i\n1) a) Etudier l’ensemble de définition de\nmf et étudier les branches infinies de\nb) Déterminer la dérivée de\nmf et démontrer que l’ensemble des extremums de\nC .\nlorsque m décrit]\n, est la courbe\n( Γ d’equation\nc) Etudier la fonction\net tracer\n( Γ\nDans la suite du problème on suppose m=1.\n2) a) Etudier la fonction\n1f et tracer\nb) On désigne par g la restriction de\n1f à [\n. Démontrer que g admet une fonction\nréciproque\ndont on précisera l’ensemble de définition. Tracer la courbe de\n3) a) Démontrer que (C 1) admet un point d’inflexion dont l’abscisse α est solution de\nl’équation :(\nb) Déterminer une valeur approchée de α à\n10−près",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS2",
+        "source": "data/raw/exercices/TD3-Fonction-ln-TS1.pdf",
+        "filename": "TD3-Fonction-ln-TS1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Classe de",
+        "chapitre": "Non spécifié",
+        "document_id": "9e6d5d74bd4d81ff",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "tracer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1158,
+      "end_line": 1188
+    },
+    {
+      "text": "Exercice 5:\nSoit ϕ la fonction définie de IR vers IR par :\n1) a) Etudier la variation de ϕ\nb) Tracer C, courbe représentative de ϕ dans un repère (O\nj ;i\n2) Soit ψ la restriction de ϕ à ]\n[1;1\na) Démontrer  ψ admet une fonction réciproque\n. En préciser l’ensemble de",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS2",
+        "source": "data/raw/exercices/TD3-Fonction-ln-TS1.pdf",
+        "filename": "TD3-Fonction-ln-TS1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Classe de",
+        "chapitre": "Non spécifié",
+        "document_id": "9e6d5d74bd4d81ff",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer",
+          "tracer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1210,
+      "end_line": 1218
+    },
+    {
+      "text": "définition.\nb) Déterminer\n3)  a) Soit x et x\néléments de l’ensemble de définition deϕ . Calculer\nen fonction de\nϕ ( )x\nb) Déterminer (\noϕ )",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS2",
+        "source": "data/raw/exercices/TD3-Fonction-ln-TS1.pdf",
+        "filename": "TD3-Fonction-ln-TS1.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Classe de",
+        "chapitre": "Non spécifié",
+        "document_id": "9e6d5d74bd4d81ff",
+        "chunk_type": "definition",
+        "competences": [
+          "calculer",
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 1236,
+      "end_line": 1243
+    }
+  ]
+}

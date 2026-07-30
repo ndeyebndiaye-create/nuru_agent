@@ -1,0 +1,452 @@
+{
+  "source": "data/raw/exercices/Fonction-Numeriques-TS1.pdf",
+  "timestamp": "2026-07-27T11:43:10.019144",
+  "chunks": [
+    {
+      "text": "TS1                                                                                                                           M.NDOYE\nSérie d’exercices\n: fonctions numériques",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Fonction-Numeriques-TS1.pdf",
+        "filename": "Fonction-Numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ca7d9c1ca8415b80",
+        "difficulty_level": "basic",
+        "chunk_category": "course"
+      },
+      "start_line": 4,
+      "end_line": 6
+    },
+    {
+      "text": "Exercice 1\n1) Etudier les branches infinies où directions\nasymptotiques dans les cas suivants :\n3 \nsin\ncos\n2 \n2) Soit la fonction définie par\n2 \net\nsont des paramètres réels.\na) Etudier suivants les valeurs des réels\net\nles\nbranches infinies ou asymptotes de f.\nb) Déterminer\net\npour que la droite\nsoit asymptote oblique en",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Fonction-Numeriques-TS1.pdf",
+        "filename": "Fonction-Numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ca7d9c1ca8415b80",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 109,
+      "end_line": 127
+    },
+    {
+      "text": "Exercice 2\nCalculer les limites suivantes en utilisant la composition\ndes fonctions\ncos\nlim\nlim\ntan\nlim\ntan\nsin(tan\nlim\nsin\nlim\ncos\ncos\ncos\nlim\nsin\nlim\nlim\nlim",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Fonction-Numeriques-TS1.pdf",
+        "filename": "Fonction-Numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ca7d9c1ca8415b80",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 256,
+      "end_line": 276
+    },
+    {
+      "text": "Exercice 3\n1) Etudier la continuité en a = -1 ; en a = 2  et  a = 3 de la\nfonction f définie par :\n2) Soit la fonction g définie par :\na) Déterminer le domaine de continuité de g\nb) Peut-on prolonger la fonction g par continuité  sur IR.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Fonction-Numeriques-TS1.pdf",
+        "filename": "Fonction-Numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ca7d9c1ca8415b80",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 310,
+      "end_line": 315
+    },
+    {
+      "text": "Exercice 4\n1) Déterminer et justifier la continuité des fonctions\nsuivantes sur des sous- ensembles  de IR les plus grands\npossibles en utilisant les opérations sur la continuité :\n2 \ntan\ncos\nsin\nsin\ncos\ncos\nsin\ntan\n2) En utilisant la composé des fonctions, justifier la\ncontinuité des fonctions suivantes :\nsur\ntan\nsur\ncot\nsur\nsur\nsin\nsin",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Fonction-Numeriques-TS1.pdf",
+        "filename": "Fonction-Numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ca7d9c1ca8415b80",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 473,
+      "end_line": 495
+    },
+    {
+      "text": "Exercice 5\nSoit la fonction f définie par :\n2 \n1) Montrer que f est une bijection de\nExpliciter\nf .\n2) Montrer de deux façons différentes que\nf est\ncontinue sur \n4 ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Fonction-Numeriques-TS1.pdf",
+        "filename": "Fonction-Numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ca7d9c1ca8415b80",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 524,
+      "end_line": 533
+    },
+    {
+      "text": "Exercice 6\nSoit\n1) Montrer que f est continue en 0.\n2) Etudier la continuité de f en\n3) En déduire le domaine de continuité de f",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Fonction-Numeriques-TS1.pdf",
+        "filename": "Fonction-Numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ca7d9c1ca8415b80",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 572,
+      "end_line": 576
+    },
+    {
+      "text": "Exercice 7\n1) Soit f une fonction définie sur\net  continue sur\nl’intervalle \na) Montrer que si f est périodique de période T et\na \nalors f est continue en\nb) En déduire que  f est continue\n2) Soit g définie sur IR  par\na) Etudier la continuité de g sur l’intervalle \nb) Montrer que la fonction g est périodique de période  T\nà préciser ;\nc) En déduire des questions précédentes le domaine de\ncontinuité de la fonction g\n3) Représenter graphiquement g sur l’intervalle ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Fonction-Numeriques-TS1.pdf",
+        "filename": "Fonction-Numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ca7d9c1ca8415b80",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 634,
+      "end_line": 648
+    },
+    {
+      "text": "Exercice 8\nSoit\n1) Montrer que l’équation f(x) = 0 admet une solution dans\nl’intervalle \n2) Déterminer par la méthode de dichotomie une valeur\napprochée de la racine à 0,1prés.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Fonction-Numeriques-TS1.pdf",
+        "filename": "Fonction-Numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ca7d9c1ca8415b80",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 668,
+      "end_line": 673
+    },
+    {
+      "text": "Exercice 9\nOn considère l’équation\n1) Démontrer que (E) admet 3 solutions\nvérifiant\n1 \n2 \n3 \n2) Pour\ni \non pose\nDémontrer qu’il existe un nombre réel\ncos\nque\ntel\na) Démontrer que\nsont solutions de\nl’équation\ncos\nb) En déduire les solutions de (E).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Fonction-Numeriques-TS1.pdf",
+        "filename": "Fonction-Numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ca7d9c1ca8415b80",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 765,
+      "end_line": 783
+    },
+    {
+      "text": "Exercice 10\n1) Montrer que\nest dérivable sur\net calculer\n2) Soit la fonction définie par\ncos\ncos\nsur l’intervalle \n; \nécrire comme la\ncomposée de deux fonctions dérivables et calculer",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Fonction-Numeriques-TS1.pdf",
+        "filename": "Fonction-Numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ca7d9c1ca8415b80",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 833,
+      "end_line": 843
+    },
+    {
+      "text": "Exercice 11\n1) Montrer que quelque soit x, y  appartenant à\non a :\ncos\ncos\n2) Démontrer que pour tout réel a et b appartenant à\non a :\ncos\ntan\ntan\ncos",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Fonction-Numeriques-TS1.pdf",
+        "filename": "Fonction-Numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ca7d9c1ca8415b80",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 893,
+      "end_line": 903
+    },
+    {
+      "text": "Exercice 12\n1) Soit les fonctions et définis par :\nsin\ncos\nsin\nMontrer que et sont indéfiniment dérivables et  que\ncos\nsin\n2) soit f la fonction définie par\nsur\nl’intervalle \n. Calculer\n('''f\n(''f\n('f\nconjecturer\ndémontrer la par récurrence",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Fonction-Numeriques-TS1.pdf",
+        "filename": "Fonction-Numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ca7d9c1ca8415b80",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 984,
+      "end_line": 1000
+    },
+    {
+      "text": "Exercice 13\nSoit g la fonction définie par\nsur\nl’intervalle \n1) Montrer que g est dérivable sur \net calculer\npuis encadrer\nsur\n2) Déduisez en que pour tout x appartenant à\non a",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Fonction-Numeriques-TS1.pdf",
+        "filename": "Fonction-Numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ca7d9c1ca8415b80",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1055,
+      "end_line": 1064
+    },
+    {
+      "text": "Exercice 14\nOn admet qu’il existe une fonction f   dérivable qui vérifie\nsur IR :\n('f\ndont la courbe\nreprésentative (C) passe par l’origine O du repère.\n1) Déterminer une équation de la tangente (T) à (C) en 0.\n2) Montrer que (C) n’admet pas une tangente parallèle à la\ndroite \n3) Justifier l’existence de la dérivée seconde\n''f\nmontrer que\n('f\n(''f",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Fonction-Numeriques-TS1.pdf",
+        "filename": "Fonction-Numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ca7d9c1ca8415b80",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1101,
+      "end_line": 1114
+    },
+    {
+      "text": "Exercice 15\nSoit w une fonction  dérivable sur \nvérifiant :\n1) Etudier les variations de w sur l’intervalle \n2) On définie la fonction g sur l’intervalle  par\n. Comparer\nw et\ng puis w et g sur\n.  Montrer alors que w est majorée sur\net admet une limite L en  vérifiant :",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Fonction-Numeriques-TS1.pdf",
+        "filename": "Fonction-Numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ca7d9c1ca8415b80",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1167,
+      "end_line": 1176
+    },
+    {
+      "text": "Exercice 9\n1) Etablir, pour tout\nx \nl’encadrement :\n2) Etudier la limite éventuelle en\n3) Montrer que la fonction\ncos\nx \nadmet, sur\nune infinité d’extremums. Préciser les\nabscisses de ces extremums ainsi que leur nature.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Fonction-Numeriques-TS1.pdf",
+        "filename": "Fonction-Numeriques-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "ca7d9c1ca8415b80",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1241,
+      "end_line": 1251
+    }
+  ]
+}

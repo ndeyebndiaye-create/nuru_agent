@@ -1,0 +1,477 @@
+{
+  "source": "data/raw/exercices/Nombres-Complexe-TD1-TS1.pdf",
+  "timestamp": "2026-07-15T00:16:57.310774",
+  "chunks": [
+    {
+      "text": "Exercice 1\nSoit z un nombre complexe distinct de 1. On pose\nDéterminer la partie réelle X et la partie imaginaire\nY de Z en fonction de x et y.\nDéterminer et construire l’ensemble des points M\nd’affixe z tels que Z soit un réel.\nDéterminer et construire l’ensemble des points M\nd’affixe z tels que Z soit un nombre imaginaire pur.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Nombres-Complexe-TD1-TS1.pdf",
+        "filename": "Nombres-Complexe-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "2f4f5d10afbd6579",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "construire"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 32,
+      "end_line": 39
+    },
+    {
+      "text": "Exercice 2\nDéterminer et construire l’ensemble des points M\nd’affixe z tels que :\nsoit un nombre réel.\nsoit un nombre imaginaire pur.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Nombres-Complexe-TD1-TS1.pdf",
+        "filename": "Nombres-Complexe-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "2f4f5d10afbd6579",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "construire"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 60,
+      "end_line": 64
+    },
+    {
+      "text": "Exercice 3\nOn considère l’équation suivante :\nMontrer que (E) admet une unique racine\nimaginaire pure z1 que l’on précisera.\nDéterminer les autres racines z2 et z3 de (E).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Nombres-Complexe-TD1-TS1.pdf",
+        "filename": "Nombres-Complexe-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "2f4f5d10afbd6579",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 95,
+      "end_line": 99
+    },
+    {
+      "text": "Exercice 4\nOn considère l’équation suivante :\nMontrer que (E) admet une unique racine réelle z1\net unique racine imaginaire pure z2 que l’on\nprécisera.\nAchever la résolution de (E).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Nombres-Complexe-TD1-TS1.pdf",
+        "filename": "Nombres-Complexe-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "2f4f5d10afbd6579",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 133,
+      "end_line": 138
+    },
+    {
+      "text": "Exercice 5\nDéterminer la forme trigonométrique de chacun des\nnombres complexes suivants :\n.\nitg\nitg",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Nombres-Complexe-TD1-TS1.pdf",
+        "filename": "Nombres-Complexe-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "2f4f5d10afbd6579",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 183,
+      "end_line": 188
+    },
+    {
+      "text": "Exercice 6\nOn pose\nDéterminer la forme trigonométrique de z1 et de z2.\nDéterminer la forme algébrique et la forme\ntrigonométrique de z1z2.\nEn déduire la valeur de\ncos\nsin",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Nombres-Complexe-TD1-TS1.pdf",
+        "filename": "Nombres-Complexe-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "2f4f5d10afbd6579",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 220,
+      "end_line": 227
+    },
+    {
+      "text": "Exercice 7\nPar la méthode géométrique déterminer et construire\nl’ensemble des points M d’affixe z tels que :\nsoit un imaginaire pur.\nsoit un réel.\narg\n.\narg",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Nombres-Complexe-TD1-TS1.pdf",
+        "filename": "Nombres-Complexe-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "2f4f5d10afbd6579",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "construire"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 293,
+      "end_line": 300
+    },
+    {
+      "text": "Exercice 8\nSoit la suite des nombres complexes\n,...,\ndéfinie par\navec\nsin\ncos\nVérifier que\nMontrer que pour tout entier p tel que\np \nConstruire les images des nombres\nu p\nEn déduire, suivant la forme de n, la valeur de\n...\npuis calculer les expressions\ncos\nsin\nn ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Nombres-Complexe-TD1-TS1.pdf",
+        "filename": "Nombres-Complexe-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "2f4f5d10afbd6579",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "construire"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 428,
+      "end_line": 445
+    },
+    {
+      "text": "Exercice 9\nOn note α et α les racines de l’équation\nEcrire\nα et\nsous forme\ntrigonométrique et sous forme algébrique.\nCalculer",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Nombres-Complexe-TD1-TS1.pdf",
+        "filename": "Nombres-Complexe-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "2f4f5d10afbd6579",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 478,
+      "end_line": 484
+    },
+    {
+      "text": "Exercice 10\nDémontrer que pour que l’équation\nadmette deux racines conjuguées, distinctes ou\nnon, il faut que les coefficients b et c soient réels.\nSoit l’équation\noù α est\nparamètre complexe.\nMontrer qu’il existe une valeur unique de α pour\nlaquelle l’équation (E) admet deux racines\ncomplexes conjuguées. Calculer ces racines.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Nombres-Complexe-TD1-TS1.pdf",
+        "filename": "Nombres-Complexe-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "2f4f5d10afbd6579",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 512,
+      "end_line": 521
+    },
+    {
+      "text": "Exercice 11\nSoit ω une racine nième de l’unité\nMontrer l’égalité :\n...\nEn déduire la valeur des sommes :\ncos\n...\ncos\ncos\nsin\n...\nsin\nsin",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Nombres-Complexe-TD1-TS1.pdf",
+        "filename": "Nombres-Complexe-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "2f4f5d10afbd6579",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 591,
+      "end_line": 603
+    },
+    {
+      "text": "Exercice 12\nSoit x un nombre complexe distinct de 1 et z le nombre\ncomplexe égal à :\nsin\ncos\nDéterminer le module et un argument de z.\nDémontrer que\n\nest un nombre réel et\npréciser son signe.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Nombres-Complexe-TD1-TS1.pdf",
+        "filename": "Nombres-Complexe-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "2f4f5d10afbd6579",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 628,
+      "end_line": 637
+    },
+    {
+      "text": "Exercice 13\nRésoudre dans C l’équation :\n(1)\nMettre les solutions de l’équation (1) sous forme\ntrigonométrique.\nSoit p un entier naturel non nul. Résoudre dans C\nl’équation :\nz p\n(2)\nMettre les solutions de l’équation (2) sous\nforme trigonométrique.\nLes équations (1) et (2) peuvent-elles avoir des",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Nombres-Complexe-TD1-TS1.pdf",
+        "filename": "Nombres-Complexe-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "2f4f5d10afbd6579",
+        "chunk_type": "exercice",
+        "competences": [
+          "résoudre"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 654,
+      "end_line": 665
+    },
+    {
+      "text": "Exercice 14\nSoit u un nombre complexe, différent de – 1, de\nmodule 1 et d’argument θ.\nCalculer le module et un argument du nombre\ncomplexe\nEn déduire le module et un argument du nombre\ncomplexe z tel que\niz \nRésoudre dans C l’équation : ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Nombres-Complexe-TD1-TS1.pdf",
+        "filename": "Nombres-Complexe-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "2f4f5d10afbd6579",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "résoudre"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 696,
+      "end_line": 704
+    },
+    {
+      "text": "Exercice 15\nOn considère les sommes :\ncos\n...\ncos\ncos\nsin\n...\nsin\nsin\nOn pose\nsin\ncos\net l’on suppose\nMontrer que\nEn déduire que :\nsin\ncos\nsin\net que\nsin\nsin\nsin",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Nombres-Complexe-TD1-TS1.pdf",
+        "filename": "Nombres-Complexe-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "2f4f5d10afbd6579",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 781,
+      "end_line": 803
+    },
+    {
+      "text": "Exercice 16\nSoit\ntrois points du plan\ncomplexe.\nMontrer que les points A, B et C sont alignés si et\nseulement si\nMonter que ABC est un triangle rectangle et\nisocèle en B si, et seulement, si",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Nombres-Complexe-TD1-TS1.pdf",
+        "filename": "Nombres-Complexe-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "2f4f5d10afbd6579",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 884,
+      "end_line": 891
+    },
+    {
+      "text": "Exercice 17\nUne corde \nMN de longueur constante L varie dans\nun demi-cercle de diamètre \nAB de centre O et de\nrayon R\nOn note P, Q et J les projetés orthogonaux\nde M, N et I sur (AB) où I est le milieu de \nMN .\nMontrer que le triangle IPQ est isocèle en I.\nOn note\nθ \nα \nMontrer que α est constant lorsque la corde\nMN varie.\nDans le repère orthonormal direct \navec\nOB \n, déterminer les coordonnées\ndes points M, N et I en fonction de R, θ et .\nEn déduire que\ncos\ncos\nsin\nsin\ntan\nMontrer que les angles du triangle IPQ sont\nconstants lorsque la corde \nMN varie.\nBon courage !",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "D1",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Nombres-Complexe-TD1-TS1.pdf",
+        "filename": "Nombres-Complexe-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Droit",
+        "document_id": "2f4f5d10afbd6579",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 944,
+      "end_line": 973
+    }
+  ]
+}

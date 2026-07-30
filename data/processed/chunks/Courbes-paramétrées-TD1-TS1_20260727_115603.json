@@ -1,0 +1,340 @@
+{
+  "source": "data/raw/exercices/Courbes-paramétrées-TD1-TS1.pdf",
+  "timestamp": "2026-07-27T11:56:03.714817",
+  "chunks": [
+    {
+      "text": "Exercice 1\nSoit\nla courbe de représentation paramétrique :\nComparer les points\nQu’en déduisez –vous pour la\nEtudier les variations de x et y et tracer la courbe (C)\nDéterminer l’équation cartésienne de la tangente au point",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Courbes-paramétrées-TD1-TS1.pdf",
+        "filename": "Courbes-paramétrées-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "7117112cc82a295d",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "tracer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 9,
+      "end_line": 15
+    },
+    {
+      "text": "Exercice 2\n:   (Spiral logarithmique)\nSoit\nla courbe de représentation  paramétrique suivante\na) Etudier les variations de x et y pour\nb) construirez la partie  correspondante, notée C de la courbe\nQuelle transformation passe t- on de  M(t) à M(t+\n)  et à M(t-\nDéduisez-en  la partie de la courbe de\nconstituée des points M(t) pour\na) Déterminer un vecteur directeur\nde la tangente à\nau point M(t).\nb) Déduisez en que l’angle\nest indépendant du point M(t).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Courbes-paramétrées-TD1-TS1.pdf",
+        "filename": "Courbes-paramétrées-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "7117112cc82a295d",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "construire"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 21,
+      "end_line": 35
+    },
+    {
+      "text": "Exercice 3 (Courbe de Lissajous)\nSoit\nla courbe de représentation  paramétrique suivante\nDéterminer l’intervalle d’étude utile.\nEtudier les variations de\nMontrer que la courbe  est inscrite dans un carré de coté 2\nDéterminer  les points de contact avec ce carré et les tangentes en ces points.\nTracer la courbe",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Courbes-paramétrées-TD1-TS1.pdf",
+        "filename": "Courbes-paramétrées-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "7117112cc82a295d",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 41,
+      "end_line": 48
+    },
+    {
+      "text": "Exercice 4 (cycloïde)\nSoit\nla courbe de représentation  paramétrique suivante\n1) Comparer les coordonnées des points\net montrer que ces points ce\ncorrespondent dans une translation.\n2) Déduisez en l’intervalle d’étude utile\n3) Etudier les variations des fonctions x et y  et calculer le vecteur dérivée\n4) On suppose ici que t est non nul, montrer que la droite\nadmet un vecteur directeur\nDéterminer les limites des coordonnées de\net déduisez en la tangente en O à la courbe\n5) Construirez la courbe",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Courbes-paramétrées-TD1-TS1.pdf",
+        "filename": "Courbes-paramétrées-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "7117112cc82a295d",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "construire"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 51,
+      "end_line": 63
+    },
+    {
+      "text": "Exercice 5\nSoit\nun repère orthonormé. Un point A sur l’axe des abscisses et un point B sur l’axe des\nordonnées sont tels que\n. On note M le projeté orthogonal de O sur\nOn se propose de déterminer le lieu géométrique\nde M lorsque A et B se déplacent, chacun sur\nson axe.\n1) On note\nles coordonnées de M et t une mesure de l’angle\nMontrer que\nest l’ensemble des points\nde coordonnées\n2) Pour tout réel t, comparer la position des points\nEn déduire qu’il suffit de faire l’étude pour\net de construire la partie de courbe\ncorrespondante.\nIndiquer les transformations qui permettent de compléter la courbe.\n3) Etudier les variations des fonctions f  et  g  sur\n4) Tracer la courbe\nen précisant les points où la tangente est parallèle à l’un des axes, ainsi que les\ntangentes à l’origine.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Courbes-paramétrées-TD1-TS1.pdf",
+        "filename": "Courbes-paramétrées-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "7117112cc82a295d",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "tracer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 70,
+      "end_line": 91
+    },
+    {
+      "text": "Exercice 6\nDans le plan orienté, (C) est le cercle trigonométrique. A tout point m de (C) on associe le point M\nsymétrique du point A d’affixe 1 par rapport à la tangente en m  au cercle(C). On cherche à construire\nl’ensemble (Γ) des points M lorsque m décrit (C).\n1) Montrer que l’axe des abscisses est un axe de symétrie de (Γ).\n2) Pour un point m de (C), soit t une mesure de l’angle \nOA,\n. Montrer que les coordonnées x(t)\net y(t) de M sont telles que :\n3) On doit donc construire la courbe paramétrée (Γ) dont (1) est système d’équations paramétriques le\nréel t parcourant IR.\na) Etudier les variations de x(t) et de y(t) sur  \n0 \nb) Montrer que pour tout t≠0, un vecteur directeur de la tangente en M à (Γ)  est\nsin\ncos\nc) Soit M un point de (Γ) de paramètre t; a(t) le coefficient directeur de la droite (AM). Déterminer la\nlimite a0 de a(t) lorsque t tend vers 0. (On admettra que a0 est la pente de la tangente en A à (Γ))\nd) Déterminer tous les points où la tangente est parallèle à un des axes du repère.\n4) Tracer la courbe(Γ).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Courbes-paramétrées-TD1-TS1.pdf",
+        "filename": "Courbes-paramétrées-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "7117112cc82a295d",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "tracer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 109,
+      "end_line": 128
+    },
+    {
+      "text": "Exercice 1\nSoit () la courbe de représentation  paramétrique suivante\ncos\nsin\n0;2\ncos\nsin\n1) Montrer que  () est un cercle\n2) Représenter ()",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Courbes-paramétrées-TD1-TS1.pdf",
+        "filename": "Courbes-paramétrées-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "7117112cc82a295d",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 148,
+      "end_line": 156
+    },
+    {
+      "text": "Exercice 2(Cardioïde)\nLe plan est du repère orthonormal direct\n, ,\nO i j .\n1 cos\ncos\n1 cos\nsin\nx t\ny t\n1) En utilisant la parité et la périodicité des fonctions x(t) et y(t) réduisez l’intervalle d’étude\net déterminer les symétriques de la courbe (C)\n2) Etudier les variations des fonctions x(t) et y(t)\n3) a) Montrer que, si t\n, la droite\nOM  a pour vecteur directeur\ncos\nsin\nt i\nt j\nb) Déduisez en la tangente au pont\nM  de la courbe (C) puis tracer (C).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Courbes-paramétrées-TD1-TS1.pdf",
+        "filename": "Courbes-paramétrées-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "7117112cc82a295d",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 194,
+      "end_line": 215
+    },
+    {
+      "text": "Exercice 3 ( Spiral logarithmique)\nSoit \n la courbe de représentation  paramétrique suivante\ncos\nsin\nx t\ny t\n4) Par quelle transformation passe t-on de\nM t à M t\net à M t\n5) Etudier les variations\n( )\n( )\nx t\ny t\npour\n0;2\n6) Construire la courbe représentative de \nconstituée des points M(t) pour\n0;2\n7) Déduisez-en  la partie de la courbe de\nconstituée des points M(t) pour\n2 ;2",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Courbes-paramétrées-TD1-TS1.pdf",
+        "filename": "Courbes-paramétrées-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "7117112cc82a295d",
+        "chunk_type": "exercice",
+        "competences": [
+          "construire"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 269,
+      "end_line": 291
+    },
+    {
+      "text": "Exercice 4 ( courbe de lissajou)\nSoit ( )\n la courbe de représentation  paramétrique suivante\nsin\nx t\ny t\ncost\n6) Déterminer l’intervalle d’étude utile.\n7)  Etudier les variations de\nx t  ;\ny t\n8) Montrer que la courbe  est inscrite dans un carré de coté 2\n9) Déterminer  les points de contact avec ce carré et les tangentes en ces points.\n10) Tracer la courbe( )",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Courbes-paramétrées-TD1-TS1.pdf",
+        "filename": "Courbes-paramétrées-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "7117112cc82a295d",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "tracer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 307,
+      "end_line": 320
+    },
+    {
+      "text": "Exercice5 (cyloide)\nSoit \n la courbe de représentation  paramétrique suivante\n1 sin\nx t\ny t\ncost\n6) Comparer les coordonnées des points\nM t\nM t\net montrer que ces points ce\ncorrespondent dans une translation. Déduisez en l’intervalle d’étude utile\n7) Etudier les variations de\nx t  ;\ny t  et calculer le vecteur dérivée\nV t\n8) On suppose ici que t est non nul, montrer que la droite \nadmet un vecteur directeur\n1 cos\nsin\nu t\nt i\nt j\n.déterminer les limites des coordonnées de u  et déduisez\nen la tangente en O à la courbe",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Courbes-paramétrées-TD1-TS1.pdf",
+        "filename": "Courbes-paramétrées-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "7117112cc82a295d",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 372,
+      "end_line": 396
+    },
+    {
+      "text": "Exercice 6\nLe plan est du repère orthonormal direct \n. On considère le cercle C de centre I et\nde rayon 1 et la droite ( ) d’équation\n. Une droite variable (D) passant par O, coupe le\ncercle C en A. et la droite ( ) en A’.\nOn note M le point de (D) tel que\nOM \nLa courbe S, lieu des points M lorsque la droite (D) varie, est appelée Strophoïde droite.\n1) On note t la pente de la droite (D).\nMontrer que les coordonnées de M sont données par :\n2)   a. Vérifier que S admet l’axe des abscisses pour axe de symétrie.\nb. Etudier les variations des fonctions\n( )\n( )\nx t\ny t\npour\n, et\nconstruire la courbe S.\n3)  Calculer la distance de M à la droite ( ), puis la limite de cette distance lorsque\nInterpréter graphiquement.\nle plan est muni d’un repère orthonormé\n(Unité graphique 2 cm).\n1) Etude d’une courbe paramétrée.\non considère la courbe\ndéfinie paramétriquement par :\na) Etudier conjointement les variations sur\net  .\nb) Préciser les points de\noù la tangente est parallèle à l’un des axes de coordonnées.\nc) Préciser les points d’intersection de\navec chacun des axes et donner un vecteur directeur de la\ntangente en ces points.\n2) Nature de la courbe\na) Soit   l’application du plan complexe qui au point M d’affixe   associe le point M’ d’affixe\ntelle que\nDéterminer la nature et les éléments caractéristiques de  .\nb) Déterminer l’affixe\nde M’ sous la forme\nlorsque M est un de\nc) Soit\nl’image de\npar  . Déterminer une équation cartésienne de\nd) Déterminer alors la nature et les éléments caractéristiques de\n. En déduire la nature et les\néléments caractéristiques de\n. Construire géométriquement\n. On marquera les points identifiés\ndans les questions 1) b) et 1) c)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Courbes-paramétrées-TD1-TS1.pdf",
+        "filename": "Courbes-paramétrées-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "7117112cc82a295d",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 471,
+      "end_line": 520
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "source": "data/raw/exercices/Integrale-TD2-TS1.pdf",
+  "timestamp": "2026-07-15T00:34:37.171122",
+  "chunks": [
+    {
+      "text": "TS1                                                                                                                                                                             M.NDOYE\nCALCUL INTEGRAL",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "D2",
+        "source": "data/raw/exercices/Integrale-TD2-TS1.pdf",
+        "filename": "Integrale-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Économie",
+        "document_id": "4a89c501d6a29fbd",
+        "difficulty_level": "basic",
+        "chunk_category": "course"
+      },
+      "start_line": 2,
+      "end_line": 3
+    },
+    {
+      "text": "Exercice1\nCalculer les intégrales I suivantes :\n; b)\ntan dx\ncos\n; c)\n;   d)\n;   f)\ndt\n;  h)\ncos\ntan\n;  j)\nxdx\nsin\nsin\nsin\ncos\ncos\ntan\ntan",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "D2",
+        "source": "data/raw/exercices/Integrale-TD2-TS1.pdf",
+        "filename": "Integrale-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Économie",
+        "document_id": "4a89c501d6a29fbd",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 215,
+      "end_line": 235
+    },
+    {
+      "text": "Exercice 3\nCalculer en utilisant une ou des intégrations par parties.\na) I= \nxdx\ncos\n; b)\n;  c) I=\ncos\nd) I= \ntdt\n; e) I= \nxdx\nf) I= \n;g) I= \nln(\ntdt\nsin\ncos\n;  i)\nxdx\nsin\nExercise 4\nOn pose,\nn \ndx\na) Justifier l’existence de\nb) Démontrer que\nn \n2) On définit la suite (\n) et on pose\nn \na) Exprimer\nn \n en fonction de n et\nb) En déduire que\nU n ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "D2",
+        "source": "data/raw/exercices/Integrale-TD2-TS1.pdf",
+        "filename": "Integrale-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Économie",
+        "document_id": "4a89c501d6a29fbd",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 412,
+      "end_line": 447
+    },
+    {
+      "text": "Exercice 5\nOn donne\nCalculer\nI \n. En déduire la valeur de\nCalculer\nen fonction de n. En déduire\nComparer\nlorsque x\n. En\ndéduire sans calcul que (\n) est croissante.\nMontrer que,\nx \non a :\nx \nEn déduire un encadrement de\n. Quelle est la limite\nde (",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "D2",
+        "source": "data/raw/exercices/Integrale-TD2-TS1.pdf",
+        "filename": "Integrale-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Économie",
+        "document_id": "4a89c501d6a29fbd",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 549,
+      "end_line": 567
+    },
+    {
+      "text": "Exercice 7  Soit f la fonction numérique de la variable réelle\nx définie par\nln(\nEtudier les variations de f et tracer sa courbe.\nSoit un réel supérieur à 1 et D { M(x,y) ,\nCalculer l’aire\n) de\n. Etudier la limite de\nlorsque tend vers + ",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "D2",
+        "source": "data/raw/exercices/Integrale-TD2-TS1.pdf",
+        "filename": "Integrale-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Économie",
+        "document_id": "4a89c501d6a29fbd",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "tracer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 639,
+      "end_line": 647
+    },
+    {
+      "text": "Exercice 8\nOn pose\nsin\ncos\nsin\nsin\nCalculer\npuis\net en déduire I\nSoit\n2 xdx\ncos\n2 xdx\nsin\nCalculer I+J  et I-J en effectuant une intégration par\nparties.\nEn déduire I et J.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "D2",
+        "source": "data/raw/exercices/Integrale-TD2-TS1.pdf",
+        "filename": "Integrale-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Économie",
+        "document_id": "4a89c501d6a29fbd",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 706,
+      "end_line": 722
+    },
+    {
+      "text": "Exercice 9\nSoit\noù n est un entier naturel\nCalculer\nen intégrant par parties.\nCalculer la limite de\nquand n tend vers +\nOn désigne par n  Z et x IR  avec\nx>1\nCalculer\ntdt\nEn déduire le calcul de\n(ln\nCalculer\nCalculer\nlim",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "D2",
+        "source": "data/raw/exercices/Integrale-TD2-TS1.pdf",
+        "filename": "Integrale-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Économie",
+        "document_id": "4a89c501d6a29fbd",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 808,
+      "end_line": 823
+    },
+    {
+      "text": "Exercice 10\nSoit la fonction définie sur \npar\n2 \nOn se propose de trouver un encadrement de l’aire A de\nl’ensemble des points\ntels que\nEtudier f et tracer\nC .\nMonter que pour tout\nx \nCalculer\nEn déduire un encadrement de\npuis\nun encadrement de A.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "D2",
+        "source": "data/raw/exercices/Integrale-TD2-TS1.pdf",
+        "filename": "Integrale-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Économie",
+        "document_id": "4a89c501d6a29fbd",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "tracer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 916,
+      "end_line": 930
+    },
+    {
+      "text": "Exercice 11\nSoit la suite \ndéfinie par :\ncos\nxdx\nsin\ncos\nCalculer \nxdx\ncos\nsin\n. En déduire\nfonction de n.\nCalculer u1 ; en déduire u3 et u5.\nCalculer u0 (on pourra poser\ntan\nt \n) en déduire u2 et",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "D2",
+        "source": "data/raw/exercices/Integrale-TD2-TS1.pdf",
+        "filename": "Integrale-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Économie",
+        "document_id": "4a89c501d6a29fbd",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 980,
+      "end_line": 997
+    },
+    {
+      "text": "Exercice 12\nOn pose\nA l’aide d’une intégration par partie, établir la relation de\nrécurrence :\nEn déduire la valeur de\nen fonction de n.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "D2",
+        "source": "data/raw/exercices/Integrale-TD2-TS1.pdf",
+        "filename": "Integrale-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Économie",
+        "document_id": "4a89c501d6a29fbd",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1040,
+      "end_line": 1045
+    },
+    {
+      "text": "Exercice 13\nSoit\nCalculer I0.\nTrouver une formule de récurrence entre In et In-1\nCalculer In en fonction de n.\nEtudier la limite de la suite (In)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "D2",
+        "source": "data/raw/exercices/Integrale-TD2-TS1.pdf",
+        "filename": "Integrale-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Économie",
+        "document_id": "4a89c501d6a29fbd",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1066,
+      "end_line": 1071
+    },
+    {
+      "text": "Exercice 14\nOn pose\nPar une intégration par partie, calculer I1.\nMontrer que si p est un entier non nul, alors :\nEn déduire I2 puis I3.\nMontrer que la suite (Ip) est décroissante.\nEtablir la convergence de cette suite vers une limite\nque l’on ne cherchera pas à calculer.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "D2",
+        "source": "data/raw/exercices/Integrale-TD2-TS1.pdf",
+        "filename": "Integrale-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Économie",
+        "document_id": "4a89c501d6a29fbd",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1118,
+      "end_line": 1125
+    },
+    {
+      "text": "Exercice 15\nSoit n un entier naturel et fn la fonction définie sur\npar :\nsin\nsin\nMontrer que, pour tout n de IN, la fonction fn est\ncontinue sur\nOn pose :\nPour\nn \n, calculer\nMontrer que pour\nn \n...\nPour\np \n, calculer I2p+1 en fonction de p.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "D2",
+        "source": "data/raw/exercices/Integrale-TD2-TS1.pdf",
+        "filename": "Integrale-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Économie",
+        "document_id": "4a89c501d6a29fbd",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1232,
+      "end_line": 1248
+    },
+    {
+      "text": "Exercice 16\nSoit\net soit f la fonction\ndéfinie sur IR par :\nk x\nMontrer que l’on a :\nMontrer que pour tout\nl’on a :\nEn déduire que :\nMontrer que l’on a :\nEn déduire\nlim\npuis\nlim",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "D2",
+        "source": "data/raw/exercices/Integrale-TD2-TS1.pdf",
+        "filename": "Integrale-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Économie",
+        "document_id": "4a89c501d6a29fbd",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1381,
+      "end_line": 1394
+    },
+    {
+      "text": "Exercice 17\nSoit\nSoit p un élément de IN*. Utiliser la monotonie de la\nfonction ln pour, justifier que :\nxdx\nUtiliser 1) pour démontrer :\nxdx\nxdx\nDémontrer que (un) converge vers – 1.\nSoit\nnote\nMontrer que, pour tout n de IN*, on a :\nv \nEn déduire que (vn) converge vers e\n1 .",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Intégration",
+        "serie": "D2",
+        "source": "data/raw/exercices/Integrale-TD2-TS1.pdf",
+        "filename": "Integrale-TD2-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie_nom": "Économie",
+        "document_id": "4a89c501d6a29fbd",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 1524,
+      "end_line": 1538
+    }
+  ]
+}

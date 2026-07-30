@@ -1,0 +1,234 @@
+{
+  "source": "data/raw/exercices/Transformation-Spatiale-Ts1-TD1.pdf",
+  "timestamp": "2026-07-27T11:43:13.845371",
+  "chunks": [
+    {
+      "text": "Académie de Matam                             SÉRIE  D’EXERCICE                               Année : 06/07\nM°  TOURE",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Transformation-Spatiale-Ts1-TD1.pdf",
+        "filename": "Transformation-Spatiale-Ts1-TD1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "90df31f97c573d2b",
+        "difficulty_level": "basic",
+        "chunk_category": "course"
+      },
+      "start_line": 2,
+      "end_line": 3
+    },
+    {
+      "text": "Exercice\n: I\nDans l’espace orienté rapporté au repère orthonormé (O, i , j , k ), on considère l’application\naffine f de l’espace () dans lui-même définie analytiquement par :\n\n\n1) Démontrer que f est une rotation ; préciser son axe et une mesure de son angle.\n2) On considère les quatre points A(2, 0, 0), B(- 1,\n3 , 0), C(- 1, -\n3 , 0) et D(0, 0, 4) et on\npose F  = {A, B, C, D}\na) Vérifier que ABC est un triangle équilatéral de centre de gravité O.\nb) Vérifier que f laisse F  globalement invariant.\n3) Soit g une isométrie qui laisse F  globalement invariant.\na) Déterminer l’isobarycentre G de A, B, C et D. Calculer GA , GB , GC  et\nGD .\nb) En déduire que g laisse invariant G et D.\nc) En déduire l’ensemble (J ) des isométries de () qui laissent F   globalement invariant.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Transformation-Spatiale-Ts1-TD1.pdf",
+        "filename": "Transformation-Spatiale-Ts1-TD1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "90df31f97c573d2b",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "déterminer",
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 33,
+      "end_line": 50
+    },
+    {
+      "text": "Exercice\n: II\nSoit un nombre réel de l’intervalle ]0, 2\nπ ]. On désigne par f l’application affine de l’espace ()\ndans lui-même définie analytiquement par :\ncos\nsinα\ncos\nsin\nsinα\ncos\nsin\ncos\nQuels sont la nature et les éléments caractéristiques de f ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Transformation-Spatiale-Ts1-TD1.pdf",
+        "filename": "Transformation-Spatiale-Ts1-TD1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "90df31f97c573d2b",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 88,
+      "end_line": 101
+    },
+    {
+      "text": "Exercice\n: III\nDans l’espace orienté rapporté au repère orthonormé (O, i , j , k ), on considère l’application\naffine f de l’espace () dans lui-même définie analytiquement par :\n1) Montrer que f est une rotation ; quel est son axe ?\n2) Déterminer f o f. en déduire une mesure de l’angle de f.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Transformation-Spatiale-Ts1-TD1.pdf",
+        "filename": "Transformation-Spatiale-Ts1-TD1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "90df31f97c573d2b",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 129,
+      "end_line": 134
+    },
+    {
+      "text": "Exercice\n: IV\nSoient (D ) et (D’ ) deux droites sécantes de l’espace (). On note par s la demi tour d’axe (D ) et\npar s’ la demi tour d’axe (D’ ). Quelle est la nature de  s o s’ ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Transformation-Spatiale-Ts1-TD1.pdf",
+        "filename": "Transformation-Spatiale-Ts1-TD1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "90df31f97c573d2b",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 137,
+      "end_line": 140
+    },
+    {
+      "text": "Exercice\n: VI\nOn considère quatre points A, B, C et D de () et une sphère (S) de centre O et de rayon R.\nPour tout point M de (S) on note M’ le point de () tel que :\nMM'",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Transformation-Spatiale-Ts1-TD1.pdf",
+        "filename": "Transformation-Spatiale-Ts1-TD1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "90df31f97c573d2b",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 153,
+      "end_line": 157
+    },
+    {
+      "text": "Exercice\n: VII\nOn considère dans l’espace quatre points A, B, C et D tels que:\nAC = AB = BC = BD = AD = a  ( a réel positif donné).\n1) a)  I étant le milieu du segment [AB], montrer que les droites (IC) et (ID) sont\nperpendiculaires à la droite (AB).\nb) Montrer que IC = ID ;  exprimer cette longueur en fonction de a.\n2) Soit S1 réflexion de plan (ABC) et S2 réflexion de plan (ABD).\na) Quelle est la nature de la transformation R = S1 o S2 ?\nb) Déterminer en fonction de a la longueur x = CD pour que R soit une rotation d’angle plat.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Transformation-Spatiale-Ts1-TD1.pdf",
+        "filename": "Transformation-Spatiale-Ts1-TD1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "90df31f97c573d2b",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 163,
+      "end_line": 172
+    },
+    {
+      "text": "Exercice\n: VIII\nABCDEFGH est le cube ci – dessous représenté.\nO est son centre, I est le milieu de [AB], J le centre de gravité de la face DCGH.\n1) a)  Montrer que (ABC) est le plan médiateur des segments [ED] et [FC] ;\nb) On note par S1, S2 et S3 les réflexions de base respectives (ABG), (BCH) et (IOJ). Vérifier\nque ces réflexions laissent invariant le cube ABCDEFGH.\n2)  On considère l’application f telle que f = S1 o S2.\na) Prouver que f est une rotation d’axe (BH).\nb) En orientant le plan (ACF) par BH déterminer la restriction de f à ce plan. En déduire\nl’angle de f.\n3) Soit r le demi – tour d’axe (OI) et g l’application r o f.\na) En écrivant r comme la composée de 2 réflexions judicieusement choisies déterminer la\nnature de g.\nb) Déterminer les éléments caractéristiques de g.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Transformation-Spatiale-Ts1-TD1.pdf",
+        "filename": "Transformation-Spatiale-Ts1-TD1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "90df31f97c573d2b",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 175,
+      "end_line": 189
+    },
+    {
+      "text": "Exercice\n: IX\n(mouvement hélicoïdal ou hélice circulaire)\nDans l’espace orienté rapporté au repère orthonormé (O, i , j , k ), on considère la courbe (H) de\nl’espace () définie analytiquement par :\nsin\ncos\n, (R  0,   0,   0, tIR).\n1) Soit m(t) le projeté orthogonale de M(t) sur le plan de repère (O, i , j ). Quelle est la nature\ndu mouvement de m(t) ?\n2) Soit m’(t) le projeté orthogonale de M(t) sur la droite de repère (O, k ). Quelle est la nature\ndu mouvement de m’(t) ?\n3) Si M’désigne le point de paramètre ( t + 2). Montrer que MM' est vecteur constant. La\nnorme de ce vecteur constant est appelée le pas de l’hélice.\n4) Soit\nt\nle vecteur vitesse instantanée du mouvement.\na) Déterminer\net k .\nt\nb) En déduire que l’angle entre la tangente en un point M quelconque de (H), et d’une\ngénératrice du cylindre est constant, indépendant de M.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "serie": "Ts1",
+        "source": "data/raw/exercices/Transformation-Spatiale-Ts1-TD1.pdf",
+        "filename": "Transformation-Spatiale-Ts1-TD1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "90df31f97c573d2b",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 224,
+      "end_line": 245
+    }
+  ]
+}

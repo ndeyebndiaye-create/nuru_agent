@@ -1,0 +1,116 @@
+{
+  "source": "data/raw/exercices/S1-2017_compots2_iadiourbel.pdf",
+  "timestamp": "2026-07-15T00:16:57.593795",
+  "chunks": [
+    {
+      "text": "REPUBLIQUE DU SENEGAL\nUn Peuple – Un But – Une Foi\nMinistère De l’Education Nationale\n_________________________\nINSPECTION D’ACADEMIE DE DIOURBEL\nCentre Régional de Formation des Personnels de l´Education\nComposition de mathématiques du premier semestre TS2 DUREE : 4H",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "S1",
+        "annee": "2017",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/S1-2017_compots2_iadiourbel.pdf",
+        "filename": "S1-2017_compots2_iadiourbel.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "5e08946d615a4662",
+        "difficulty_level": "basic",
+        "chunk_category": "course"
+      },
+      "start_line": 2,
+      "end_line": 8
+    },
+    {
+      "text": "EXERCICE 1(4 points)\nDans la figure ci-dessus,   ∁1∪∁2est la représentation graphique Cf d’une fonction numérique f\ndéfinie et continue sur son ensemble de définition.\n1°) a) Donner l’ensemble de définition de la fonction f.   (0,25pt)\nb) f est-elle dérivable en 1? (Justifier la réponse). (0,25pt)\n2°) Donner les limites de f aux bornes de son ensemble de définition. (0,5pt)\n3°) Donner une équation de la droite (D). (0,25pt)\n4°) Préciser toutes les droites asymptotes à la courbe Cf. (0,5pt)\n5°) Dresser le tableau de variations de la fonction f. (0,5pt)\n6°) Donner une équation de chacune des demi-tangentes au point d’abscisse 1. (0,25pt)\n7°) Préciser les maximas et minima de la fonction f. (0,5pt)\nREPUBLIQUE DU SENEGAL\nUn Peuple – Un But – Une Foi\nMinistère De l’Education Nationale\n_________________________\nINSPECTION D’ACADEMIE DE DIOURBEL\nCentre Régional de Formation des Personnels de l´Education\n8°) Donner les solutions dans IR des équations:a)f(x) =0   b) f '(x) = 0. (0,5pt)\n9°) Pour quelles valeurs de mϵIR l’équation f(x) = m admet 4 solutions réelles distinctes.\n(0,5pt)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "S1",
+        "annee": "2017",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/S1-2017_compots2_iadiourbel.pdf",
+        "filename": "S1-2017_compots2_iadiourbel.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "5e08946d615a4662",
+        "chunk_type": "exercice",
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 13,
+      "end_line": 32
+    },
+    {
+      "text": "EXERCICE 2 : (05 points)\nLe plan complexe est muni d’un repère orthonormé direct (O, 𝑢⃗ , 𝑣 )\n1/ a/ Résoudre dans ℂ l’équation suivante sachant qu’elle admet une racine imaginaire pure :\n𝑧3 −2(1 + 𝑖)𝑧2 + 2(1 + 2𝑖)𝑧−4𝑖= 0 (𝐸) (1 pt)\nb/ On considère les points A, B et C d’affixes respectives 1 + 𝑖; 2𝑖 et 𝑖. (0,5 pt)\nPlacer les points A, B et C dans le repère (Unité graphique 2cm).\n2/ Pour tout nombre complexe z différent de 1 + 𝑖, on associe le nombre complexe z’ défini\npar : 𝑧′ =\n𝑧−2𝑖\n𝑧−1−𝑖\na/ Interpréter géométriquement |𝑧′| et arg(z’). (1 pt)\nb/ Déterminer puis construire l’ensemble (𝐸1) des points M d’affixe z tels que z’ soit\nimaginaire pur. (1 pt)\nc/ Déterminer puis construire l’ensemble (𝐸2) des points M d’affixe z tels que      | 𝑧′| = 2\n(1 pt)\nd/ Déterminer la nature du triangle ABC  (0,5 pt)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "S1",
+        "annee": "2017",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/S1-2017_compots2_iadiourbel.pdf",
+        "filename": "S1-2017_compots2_iadiourbel.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "5e08946d615a4662",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "résoudre",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 33,
+      "end_line": 48
+    },
+    {
+      "text": "PROBLEME (11points)\nSoit la fonction  h  définie par : \n1/ Etudier les variations de h. (établir le tableau de variations).                           (1 pt)\n2/ Montrer que l’équation \nadmet une unique solution réelle\n1,0\nque\n. En\ndéduire le signe  de \nsur \n.                                                                      (0,75 pt)\nSoit  f  la fonction définie par :\nREPUBLIQUE DU SENEGAL\nUn Peuple – Un But – Une Foi\nMinistère De l’Education Nationale\n_________________________\nINSPECTION D’ACADEMIE DE DIOURBEL\nCentre Régional de Formation des Personnels de l´Education\n3/ a/ Etudier la continuité de f en 0.                                                                           (0,25pt)\nb/  Etudier la dérivabilité de  f  en 0. Interpréter graphiquement les résultats obtenus. (0,5pt)\n4/ a/ Démontrer que l’ensemble de définition\nD de  f est IR puis calculer les limites de  f  aux\nbornes de\nD .                                                                                (0,75 pt)\nb/ Démontrer que la droite \n d’équation\ny \nest asymptote à \n.     (0,25 pt)\nc/ Etudier les positions relatives de\npar rapport à \n sur l’intervalle \n.       (0,5 pt)\nd/  Démontrer que la droite '\n d’équation\n2 \nest asymptote à \n.(0,25 p)\ne/  Etudier les positions relatives de\npar rapport à '\n sur l’intervalle \n.      (0,5 pt)\n5/ a/ Montrer que f est dérivable sur \nsur\net que\n(0,5 pt)       (1 pt)\nb/ Donner les sens de variations de f  puis dresser le tableau de variations de  f.     (1 pt)\nc/ Construire dans un repère orthonormal, d’unité graphique 1cm, la courbe \n.      (1,5 pts)\n6/ Soit g la restriction de  f  à\n0,\na/ Montrer que g réalise une bijection de  I  vers un intervalle  J  à préciser.                 (0,5 pt)\nb/ On note\nla bijection réciproque de g.\nMontrer que\nest  dérivable en 2, puis calculer \n\n.                                     (0,75 pt)\nc/ Expliciter\ng 1\n.                                                                                                         (0,5 pt)\nd/ Dans le même repère que \n, construire \n.                                                     (0,5 pt)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "serie": "S1",
+        "annee": "2017",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/S1-2017_compots2_iadiourbel.pdf",
+        "filename": "S1-2017_compots2_iadiourbel.pdf",
+        "extension": ".pdf",
+        "serie_nom": "Sciences Mathématiques",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "chapitre": "Non spécifié",
+        "document_id": "5e08946d615a4662",
+        "chunk_type": "exercice",
+        "competences": [
+          "calculer",
+          "montrer",
+          "démontrer",
+          "construire"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 244,
+      "end_line": 307
+    }
+  ]
+}

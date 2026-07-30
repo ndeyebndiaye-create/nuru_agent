@@ -1,0 +1,313 @@
+{
+  "source": "data\\raw\\cours\\03_Limites_et_continuite.pdf",
+  "timestamp": "2026-07-16T20:39:08.998139",
+  "chunks": [
+    {
+      "text": "Limites et continuité : rappels et compléments\nClasse : Terminale S\nRappels\n1.1\nLimites\nLimites à l’infini (définitions).\nlim\nx→+∞f(x) = +∞⇐⇒∀A > 0, ∃B > 0 : x ≥B ⇒f(x) ≥A,\nlim\nx→+∞f(x) = ℓ⇐⇒∀ε > 0, ∃A > 0 : x ≥A ⇒|f(x) −ℓ| ≤ε.\n(Définitions analogues en −∞.)\nLimites en x0.\nlim\nx→x+\nf(x) = +∞⇐⇒∀A > 0, ∃α > 0 : x0 < x ≤x0 + α ⇒f(x) ≥A.",
+      "chunk_type": "text",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data\\raw\\cours\\03_Limites_et_continuite.pdf",
+        "filename": "03_Limites_et_continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "f22e334d5e1a333c",
+        "difficulty_level": "intermediate",
+        "chunk_category": "course"
+      },
+      "start_line": 4,
+      "end_line": 18
+    },
+    {
+      "text": "Théorème 1. Si f n’est pas définie en x0, alors f admet une limite en x0 si, et seulement si,\nlim\nx→x+\nf(x) = lim\nx→x−\nf(x) = ℓ∈R.\n1.2\nOpérations sur les limites\nSomme :\nlim f\nlim g\nlim(f + g)\nℓ+ ℓ′\nF.I.\nProduit :\nlim f\nℓ> 0\nℓ< 0\nlim g\nlim(f × g)\nℓℓ′\n(règle des signes)\nF.I.\nQuotient : lim f\ng = ℓ\nℓ′ si ℓ′̸ = 0 ; les cas ∞\n∞, ℓ\n0, etc. se traitent par la règle des signes, sauf ∞\net 0\n0 qui sont indéterminés.\nRemarque 1. Les quatre formes indéterminées sont :\n∞−∞,\n0 × ∞,\n1.3\nLevée d’une indétermination",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data\\raw\\cours\\03_Limites_et_continuite.pdf",
+        "filename": "03_Limites_et_continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "f22e334d5e1a333c",
+        "chunk_type": "theoreme",
+        "difficulty_level": "intermediate",
+        "chunk_category": "concept"
+      },
+      "start_line": 52,
+      "end_line": 86
+    },
+    {
+      "text": "Théorème 2. La limite à l’infini d’un polynôme est celle de son monôme de plus haut degré. La\nlimite à l’infini d’une fraction rationnelle est celle du quotient des monômes de plus haut degré.\nOn peut aussi factoriser par (x −x0), multiplier par l’expression conjuguée, ou utiliser les",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data\\raw\\cours\\03_Limites_et_continuite.pdf",
+        "filename": "03_Limites_et_continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "f22e334d5e1a333c",
+        "chunk_type": "theoreme",
+        "competences": [
+          "factoriser"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 87,
+      "end_line": 89
+    },
+    {
+      "text": "Théorème 3 (Comparaison). Au voisinage de x0, si f(x) ≤g(x) : si lim f = +∞alors lim g =\n+∞; si lim g = −∞alors lim f = −∞.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data\\raw\\cours\\03_Limites_et_continuite.pdf",
+        "filename": "03_Limites_et_continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "f22e334d5e1a333c",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 95,
+      "end_line": 96
+    },
+    {
+      "text": "Théorème 4 (Théorème des gendarmes). Si g(x) ≤f(x) ≤h(x) au voisinage de x0 et lim\nx→x0 g =\nlim\nx→x0 h = ℓ, alors lim\nx→x0 f = ℓ.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data\\raw\\cours\\03_Limites_et_continuite.pdf",
+        "filename": "03_Limites_et_continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "f22e334d5e1a333c",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 97,
+      "end_line": 101
+    },
+    {
+      "text": "Théorème 5 (Composée). Si lim\nx→x0 f(x) = ℓ′ et lim\nx→ℓ′ g(x) = ℓ, alors lim\nx→x0 g ◦f(x) = ℓ.\nContinuité\n2.1",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data\\raw\\cours\\03_Limites_et_continuite.pdf",
+        "filename": "03_Limites_et_continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "f22e334d5e1a333c",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 103,
+      "end_line": 108
+    },
+    {
+      "text": "Définition\nf est continue en x0 si lim\nx→x0 f(x) = f(x0) (continuité à gauche et à droite avec limx→x−\n0 f =\nlimx→x+\n0 f = f(x0)).\n2.2\nOpérations\nSi f est continue sur I et g sur J, alors f + g et fg sont continues sur I ∩J, et f\ng est continue\nlà où g ne s’annule pas. La composée g ◦f (avec f(I) ⊂J) est continue sur I.\nRemarque 2. Sont continues sur leur domaine : les fonctions polynômes (sur R), rationnelles,\n√f, |f|, sin, cos, et tan sur R \\ {π\n2 + kπ}.\n2.3\nProlongement par continuité\nSi x0 /∈Df et lim\nx→x0 f(x) = ℓ∈R, alors f est prolongeable par continuité en x0 par\nf1(x) =\nf(x)\nsi x̸ = x0\nsi x = x0.\nCompléments\n3.1\nImage d’un intervalle par une fonction continue\n— L’image d’un intervalle I par une fonction continue est un intervalle J = f(I).\n— L’image d’un intervalle fermé borné [a, b] est un intervalle fermé borné [α, β] avec α =\nmin[a,b] f et β = max[a,b] f.",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data\\raw\\cours\\03_Limites_et_continuite.pdf",
+        "filename": "03_Limites_et_continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "f22e334d5e1a333c",
+        "chunk_type": "definition",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 112,
+      "end_line": 139
+    },
+    {
+      "text": "Exercice d’application.\nf est définie sur R∗par le tableau de variation :\n−∞↗\n2 ↘\n−4 ↗\n+∞∥+ ∞↘\n0 ↗\n4 ↘\nDéterminer les images des intervalles indiqués.\nRésolution.\nf(] −∞; −4]) = ] −∞; 2],\nf(] −∞; −3]) = ] −∞; 2],\nf(] −∞; 0[) = R,\nf([−4; −3]) = [−4; 2],\nf([1; +∞[) = [0; 4],\nf([−4; 0]) = [−4; +∞[,\nf([0; +∞[) = [0; +∞[,\nf(]0; 2]) = [0; +∞[.\n3.2",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data\\raw\\cours\\03_Limites_et_continuite.pdf",
+        "filename": "03_Limites_et_continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "f22e334d5e1a333c",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 154,
+      "end_line": 172
+    },
+    {
+      "text": "Théorème 6. Si f est continue sur I et f(I) = J, alors pour tout y ∈J il existe au moins un\nx0 ∈I tel que f(x0) = y.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data\\raw\\cours\\03_Limites_et_continuite.pdf",
+        "filename": "03_Limites_et_continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "f22e334d5e1a333c",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 174,
+      "end_line": 175
+    },
+    {
+      "text": "Théorème 7 (Corollaire). Si f est continue sur [a, b] et f(a)×f(b) < 0, alors l’équation f(x) = 0\nadmet au moins une solution c ∈]a, b[.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data\\raw\\cours\\03_Limites_et_continuite.pdf",
+        "filename": "03_Limites_et_continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "f22e334d5e1a333c",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 176,
+      "end_line": 177
+    },
+    {
+      "text": "Théorème 8 (Bijection). Si f est continue et strictement monotone sur I, alors f réalise une\nbijection de I sur f(I) : pour tout y0 ∈f(I), il existe un unique x0 ∈I tel que f(x0) = y0.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data\\raw\\cours\\03_Limites_et_continuite.pdf",
+        "filename": "03_Limites_et_continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "f22e334d5e1a333c",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 178,
+      "end_line": 179
+    },
+    {
+      "text": "Exercice d’application.\nSoit f(x) = x3 −3x + 1. 1) Dresser le tableau de variation. 2) Déterminer le nombre de",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data\\raw\\cours\\03_Limites_et_continuite.pdf",
+        "filename": "03_Limites_et_continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "f22e334d5e1a333c",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 180,
+      "end_line": 181
+    },
+    {
+      "text": "solutions de f(x) = 0.\nRésolution.\n1) f′(x) = 3(x −1)(x + 1) ; f(−1) = 3, f(1) = −1, lim−∞f = −∞, lim+∞f = +∞.\n+ 0 −\n0 +\n−∞↗\n↗+∞\n2) Sur ] −∞; −1], f(] −∞; −1]) = ] −∞; 3] ∋0 : une unique solution x0 < −1. Sur [−1; 1],\nf(−1)f(1) = −3 < 0 : une unique solution x1 ∈]−1; 1[. Sur [1; +∞[, f bijective sur [−1; +∞[∋0 :\nune unique solution x2 > 1. Donc f(x) = 0 admet trois solutions :\nx0 < −1 < x1 < 1 < x2.\nCours d’après Sunudaara — Limites et continuité — Terminale S. Figures extraites automatiquement du\nPDF source.",
+      "chunk_type": "solution",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Limites",
+        "source": "data\\raw\\cours\\03_Limites_et_continuite.pdf",
+        "filename": "03_Limites_et_continuite.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "f22e334d5e1a333c",
+        "chunk_type": "solution",
+        "difficulty_level": "intermediate",
+        "chunk_category": "solution"
+      },
+      "start_line": 193,
+      "end_line": 205
+    }
+  ]
+}

@@ -1,0 +1,561 @@
+{
+  "source": "data/raw/cours/08_Nombres_complexes.pdf",
+  "timestamp": "2026-07-27T11:56:01.641993",
+  "chunks": [
+    {
+      "text": "Définition et notations\nOn appelle ensemble des nombres complexes l’ensemble noté C qui :\n— contient R ;\nR ⊂C ;\n— muni de l’addition et de la multiplication, possède les mêmes propriétés que R (commuta-\ntivité, associativité, élément neutre, élément opposé ou symétrique, distributivité, etc.) ;\n— contient un élément noté i vérifiant i2 = −1.\nTout élément z ∈C s’écrit, de façon algébrique,\nz = a + ib,\na, b ∈R.\n— a est la partie réelle de z, notée Re(z) = a ;\n— b est la partie imaginaire de z, notée Im(z) = b.\nAvec z = a + ib :\n— z est réel si, et seulement si, b = 0\n(Im(z) = 0) ;\n— z est imaginaire pur si, et seulement si, a = 0\n(Re(z) = 0) ;\n— z = a + ib = 0 ⇐⇒\na = 0\nb = 0\nRe(z) = 0\nIm(z) = 0\nSoient z = a + ib et z′ = a′ + ib′ deux nombres complexes. Alors\nz = z′ ⇐⇒\na = a′\nb = b′\nRe(z) = Re(z′)\nIm(z) = Im(z′)\nRemarque 1. Les identités remarquables de R restent valables dans C :\n(a + ib)2 = a2 −b2 + 2iab,\n(a −ib)2 = a2 −b2 −2iab.\nConjugué d’un nombre complexe\n2.1",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "definition",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 12,
+      "end_line": 44
+    },
+    {
+      "text": "Définition\nSoient a, b ∈R. On appelle conjugué du nombre complexe z = a+ib le nombre complexe noté\nz = a −ib.",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "definition",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 45,
+      "end_line": 47
+    },
+    {
+      "text": "Propriétés\n— z est réel ⇐⇒z = z ;\n— z est imaginaire pur ⇐⇒z = −z ;\n— Re(z) = z + z\nIm(z) = z −z\n— z + z′ = z + z′ ;\nz z′ = z × z′ ;\n= 1\nz ;\n\u0012 z\n= z\nz′ ;\n— pour p ∈Z : z p = z p.\nReprésentation graphique d’un nombre complexe\nSoit (O ; ⃗e1,⃗e2) un repère orthonormé direct.\nTout nombre complexe z = a + ib (a, b ∈R) peut être représenté dans le plan par un point\nM( a\nb ) ou par un vecteur ⃗u( a\nb ). On dit que M est le point image de z, noté M(z), ou que z est\nl’affixe de M, noté zM. De même ⃗u est le vecteur image de z et z est l’affixe de ⃗u.\nFigure 1 – Point image, conjugué et opposé : M(z), N(z) symétrique de M par rapport à (Ox),\net M′(−z) symétrique de M par rapport à O.\nSoient A( a1\na2 ) et B\ndeux points du plan ; alors zA = a1 + ia2, zB = b1 + ib2 et\nz−→\nAB = (b1 −a1) + i(b2 −a2) = (b1 + ib2) −(a1 + ia2) = zB −zA.\nDonc\nz−→\nAB = zB −zA .\nSi G est le barycentre de (A, α), (B, β), (C, γ) alors son affixe est\nzG = αzA + βzB + γzC\nα + β + γ\n— z est réel ⇐⇒M(z) ∈(x′Ox) ;\n— z est imaginaire pur ⇐⇒M(z) ∈(y′Oy) ;\n— M(z) et N(z) sont symétriques par rapport à (Ox) ;\n— M(z) et M′(−z) sont symétriques par rapport à O.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "theoreme",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 73,
+      "end_line": 109
+    },
+    {
+      "text": "Exercice d’application.\nLe plan est muni d’un repère orthonormé direct (O ; ⃗u,⃗v) et z = x + iy.\n1. Déterminer l’ensemble des points M(z) tels que z2 soit : a) réel ;\nb) imaginaire pur.\n2. Soient A\n\u0000 1\n\u0001, B( 0\n2 ) et M d’affixe z. On pose Z = z −1 + i\nz −2i .\na) Exprimer Re(Z) et Im(Z) en fonction de x et y.\nb) Déterminer l’ensemble des points M tels que Z soit réel, puis imaginaire pur.\nRésolution.\n1) On a z2 = x2 −y2 + 2ixy.\na) z2 est réel ⇐⇒2xy = 0 ⇐⇒x = 0 ou y = 0. L’ensemble cherché est la réunion des deux\naxes du repère.\nb) z2 est imaginaire pur ⇐⇒x2 −y2 = 0 ⇐⇒(x −y)(x + y) = 0 ⇐⇒x = y ou x = −y.\nL’ensemble cherché est la réunion des deux bissectrices du repère.\n2) a) On multiplie par le conjugué du dénominateur :\nZ = (x −1) + i(y + 1)\nx + i(y −2)\n\u0002(x −1) + i(y + 1)\n\u0003\u0002x −i(y −2)\nx2 + (y −2)2\nD’où\nRe(Z) = x2 + y2 −x −y −2\nx2 + (y −2)2\nIm(Z) =\n3x + y −2\nx2 + (y −2)2 .\nb) Z réel ⇐⇒Im(Z) = 0 ⇐⇒3x+y −2 = 0 avec x2 +(y −2)2 ̸= 0. L’ensemble est la droite\n∆: 3x + y −2 = 0 privée du point B(2i).\nZ imaginaire pur ⇐⇒Re(Z) = 0 ⇐⇒x2 + y2 −x −y −2 = 0, soit\nx −1\ny −1\n= 5\n2 =\navec x2 + (y −2)2 ̸= 0. L’ensemble est le cercle de centre I\n\u0010 1/2\n1/2\net de rayon\n2 , privé du point\nB(2i).\nFigure 2 – Ensembles des points M : réunion des axes et des bissectrices (question 1), droite ∆\net cercle de centre I (question 2).\nModule d’un nombre complexe\n4.1",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 135,
+      "end_line": 180
+    },
+    {
+      "text": "Définition\nOn appelle module du nombre complexe z = a + ib le réel positif\n|z| =\nz z =\na2 + b2.\nSi M( xy ) a pour affixe z, alors\n−−→\n= OM =\nx2 + y2 = |z|. De même, pour A et B d’affixes\nzA, zB :\n−−→\n= |z−→\nAB| = |zB −zA|.\n4.2",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "definition",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 190,
+      "end_line": 203
+    },
+    {
+      "text": "Propriétés\n— si z = a ∈R, alors |z| = |a| ;\n|ib| = |b| ;\n— |z| = |z| ;\n|λz| = |λ| |z| pour λ ∈R ;\n— |z z′| = |z| × |z′| ;\n= |z|\n|z′| (z′ ̸= 0) ;\n— |z p| = |z| p pour p ∈Z ;\n— |z + z′| ≤|z| + |z′|\n(inégalité triangulaire) ;\n— |zM −zA| = AM.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 207,
+      "end_line": 218
+    },
+    {
+      "text": "Exercice d’application.\nSoient A\n\u0000 1\n\u0001, B( 0\n2 ), M d’affixe z = x+iy et Z = z −1 + i\nz −2i . Déterminer l’ensemble des points\nM tels que : 1) |Z| = 1 ;\n2) |Z| = 2 ;\n3) (z −1 + i)(z −1 −i) = 16.\nRésolution.\n1) |Z| = 1 ⇐⇒|z −1 + i| = |z −2i|. Avec A(1 −i) et B(2i) : |zM −zA| = |zM −zB|, soit\nAM = BM. L’ensemble est la médiatrice de [AB].\n2) |Z| = 2 ⇐⇒MA = 2MB ⇐⇒MA2 −4MB2 = 0. Soit I le barycentre de (A, 1), (B, −2)\net J celui de (A, 1), (B, 2) ; alors\n\u0000−−→\nMA −2−−→\n\u0001 ·\n\u0000−−→\nMA + 2−−→\n\u0001 = 0, c’est-à-dire −−→\nMI · −−→\nMJ = 0.\nL’ensemble est le cercle de diamètre [IJ].\n3) En développant,\n(z −1 + i)(z −1 −i) = 16 ⇐⇒zz −(z + z) −i(z −z) + 2 = 16,\nsoit |z|2 −2 Re(z) + 2 Im(z) + 2 = 16, d’où x2 + y2 −2x + 2y + 2 = 16 et enfin\n(x −1)2 + (y + 1)2 = 42.\nL’ensemble est le cercle C(A, 4).\nArgument et forme trigonométrique\n5.1",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 223,
+      "end_line": 252
+    },
+    {
+      "text": "Définition\nSoit (O ; ⃗e1,⃗e2) un repère orthonormé direct et (C) le cercle de centre O et de rayon 1. Soit\nM( a\nb ) d’affixe z = a + ib (non nul).\n1er cas : |z| = 1. Alors OM = 1, donc M ∈C(O, 1) et il existe θ ∈R tel que\n\u0000⃗e1, −−→\n\u0001 = θ (2π).\nAvec M\n\u0000 cos θ\nsin θ\n\u0001 :\nz = cos θ + i sin θ,\nappelée forme trigonométrique de z, et θ =\n\u0000⃗e1, −−→\n\u0001 est un argument de z, noté arg z =\nθ (2π).\n2e cas : |z| ̸= 1. On pose Z = z\n|z|, alors |Z| = 1 et d’après le premier cas Z = cos θ + i sin θ,\nd’où\nz = |z|(cos θ + i sin θ).\nEn résumé, si |z| = r et arg z = θ (2π), alors\nz = r(cos θ + i sin θ)\nFigure 3 – Médiatrice de [AB], cercle de diamètre [IJ] et cercle C(A, 4).\nest la forme trigonométrique de z.",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "definition",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 259,
+      "end_line": 282
+    },
+    {
+      "text": "Exercice d’application.\nDéterminer la forme trigonométrique et un argument de : z1 = i,\nz2 = −i,\nz3 = −1,\nz4 = 1\n2 −i\n2 ,\nz5 = 2 −2i,\nz6 =\n6 −i\nz7 = 1 + cos θ −i sin θ.\nRésolution.\nz1 = cos π\n2 + i sin π\n2 ,\narg z1 = π\n2 (2π);\nz2 = cos\n\u0000−π\n\u0001 + i sin\n\u0000−π\narg z2 = −π\n2 (2π);\nz3 = cos π + i sin π,\narg z3 = π (2π);\nz4 = cos\n\u0000−π\n\u0001 + i sin\n\u0000−π\narg z4 = −π\n3 (2π).\nPour z5 : |z5| = √4 + 4 = 2\n2, donc z5 = 2\n\u0000 √\n2 −i\n\u0001 = 2\n\u0000cos(−π\n4 ) + i sin(−π\n4 )\n\u0001, donc\narg z5 = −π\n4 (2π).\nPour z6 : |z6| =\n6+2\n2, donc z6 =\n\u0000 √\n2 −i1\n\u0001 =\n\u0000cos(−π\n6 ) + i sin(−π\n6 )\n\u0001, donc\narg z6 = −π\n6 (2π).\nPour z7, en factorisant par les angles moitiés :\nz7 = 1 + cos θ −i sin θ = 2 cos2 θ\n2 −2i sin θ\n2 cos θ\n2 = 2 cos θ\ncos θ\n2 −i sin θ\nAinsi |z7| =\n2 cos θ\n— Si 0 ≤θ ≤π, alors cos θ\n2 ≥0, donc |z7| = 2 cos θ\n2 et arg z7 = −θ\n2 (2π).\n— Si π ≤θ ≤2π, alors cos θ\n2 ≤0, donc |z7| = −2 cos θ\n2 et arg z7 =\n\u0000π −θ\n\u0001 (2π).\n5.2",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 323,
+      "end_line": 395
+    },
+    {
+      "text": "Propriétés\nSoient z, z′ non nuls avec |z| = r, |z′| = r′, arg z = θ, arg z′ = θ′.\nFigure 4 – Module r = |z| = OM et argument θ = (⃗e1, −−→\nOM), sens direct.\n— z = z′ ⇐⇒\nr = r′\nθ = θ′ (2π)\n— arg(z z′) = θ + θ′ = arg z + arg z′ (2π) ;\n— arg 1\nz = −θ = −arg z (2π) ;\narg z\nz′ = arg z −arg z′ (2π) ;\n— arg(−z) = arg z + π (2π) ;\narg z = −arg z (2π) ;\n— arg z p = p arg z (2π) pour p ∈Z ;\n— arg z =\n\u0000⃗e1, −−→\n\u0001 ;\narg(zM −zA) =\n\u0000⃗e1, −−→\n\u0001 ;\n— z réel\narg z = 0 (π) ;\nz réel positif\narg z = 0 (2π) ;\nz réel négatif\narg z = π (2π) ;\n— z imaginaire pur\narg z = π\n2 (π) (partie imaginaire positive : +π\n2 (2π) ; négative :\n2 (2π)) ;\n— arg zM −zB\nzM −zA\n\u0000−−→\nMA, −−→\n\u0001 (2π).\nRemarque 2. A(a), B(b), C(c), D(d) sont cocycliques si, et seulement si, (b −d)(a −c)\n(a −d)(b −c) est réel.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "theoreme",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 410,
+      "end_line": 448
+    },
+    {
+      "text": "Exercice d’application.\nSoient A(2−i), B(1) et M d’affixe z. Déterminer l’ensemble des points M tels que Z = z −2 + i\nz −1\nsoit a) réel ; b) imaginaire pur.\nRésolution.\nOn a Z = z −zA\nz −zB\n, donc arg Z =\n\u0000−−→\nMA, −−→\na) Z réel ⇐⇒arg Z = 0 (π) ⇐⇒\n\u0000−−→\nMA, −−→\n\u0001 = 0 (π) : l’ensemble est la droite (AB) privée\nde A et B.\nb) Z imaginaire pur ⇐⇒arg Z = π\n2 (π) ⇐⇒\n\u0000−−→\nMA, −−→\n\u0001 = π\n2 (π) : l’ensemble est le cercle\nde diamètre [AB] privé de A et B.\nFormule de Moivre\n(cos θ + i sin θ)p = cos pθ + i sin pθ,\np ∈Z.\nApplication : cos nx et sin nx en fonction de cos x, sin x. De (cos x+i sin x)n = cos nx+i sin nx\non tire cos nx = Re\n\u0002(cos x + i sin x)n\u0003 et sin nx = Im\n\u0002(cos x + i sin x)n\u0003.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 453,
+      "end_line": 481
+    },
+    {
+      "text": "Exercice d’application.\nExprimer cos 4x et sin 4x en fonction de cos x et sin x.\nFigure 5 – Interprétation de l’argument par l’angle orienté (⃗e1, −−→\nOM).\nRésolution.\nEn développant (cos x + i sin x)4 et en identifiant avec cos 4x + i sin 4x :\ncos 4x = cos4 x −6 cos2 x sin2 x + sin4 x,\nsin 4x = 4 cos3 x sin x −4 cos x sin3 x.\nForme exponentielle\n6.1",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 487,
+      "end_line": 496
+    },
+    {
+      "text": "Définition\nSoit z non nul avec |z| = r et arg z = θ. On pose\neiθ = cos θ + i sin θ,\nd’où z = r(cos θ + i sin θ) = r eiθ, appelée forme exponentielle de z.",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "definition",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 497,
+      "end_line": 500
+    },
+    {
+      "text": "Exemples.\n1 = ei2kπ (k ∈Z),\n−1 = e−iπ,\ni = eiπ/2,\n−i = e−iπ/2,\nj = −1\n2 + i\n2 = ei2π/3,\nj = −1\n2 −i\n2 = ei4π/3.\n6.2",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "exemple",
+        "difficulty_level": "basic",
+        "chunk_category": "example"
+      },
+      "start_line": 505,
+      "end_line": 516
+    },
+    {
+      "text": "Propriétés\n\u0000eiθ\u0001p = eipθ (p ∈Z) ;\n— eiθ × eiθ′ = ei(θ+θ′) ;\neiθ\neiθ′ = ei(θ−θ′).\nFormules d’Euler\nAvec eiθ = cos θ + i sin θ et e−iθ = cos θ −i sin θ :\ncos θ = eiθ + e−iθ\nsin θ = eiθ −e−iθ",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "theoreme",
+        "difficulty_level": "basic",
+        "chunk_category": "concept"
+      },
+      "start_line": 522,
+      "end_line": 530
+    },
+    {
+      "text": "Exercice d’application.\nLinéariser cos5 x et sin5 x.\nRésolution.\nAvec la formule d’Euler et le binôme :\ncos5 x =\neix + e−ix\n= 1\n\u00002 cos 5x + 10 cos 3x + 20 cos x\n\u0001 = 1\n\u0000cos 5x + 5 cos 3x + 10 cos x\nsin5 x =\neix −e−ix\n= 1\n25i\n\u00002i sin 5x −10i sin 3x + 20i sin x\n\u0001 = 1\n\u0000sin 5x −5 sin 3x + 10 sin x\nÉquations dans C\n7.1\nÉquation az2 + bz + c = 0 avec a ̸= 0\nOn pose ∆= b2 −4ac.\n— Si ∆∈R∗\n+ : deux solutions distinctes z1 = −b −\n, z2 = −b +\n— Si ∆= 0 : une solution double z0 = −b\n2a .\n— Si ∆∈R∗\n−: deux solutions distinctes z1 = −b −i\n|∆|\n, z2 = −b + i\n|∆|",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 559,
+      "end_line": 589
+    },
+    {
+      "text": "Exemples : ∆= 6i = [\n3(1 + i)]2, ∆= −8i = [2(1 −i)]2.\n— Si ∆∈C : on cherche α, β ∈R tels que ∆= (α + iβ)2, c’est-à-dire (∆= x + iy) :\nα2 −β2 = x\n(1)\n2αβ = y\n(2)\nα2 + β2 =\nx2 + y2\n(3)\n(1) + (3) donne α, puis (2) donne β. Les solutions sont alors z1 = −b −(α + iβ)\net z2 =\n−b + (α + iβ)",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "exemple",
+        "difficulty_level": "basic",
+        "chunk_category": "example"
+      },
+      "start_line": 606,
+      "end_line": 618
+    },
+    {
+      "text": "Exercice d’application.\n1) Pour ∆= −3 + 4i, trouver α, β tels que ∆= (α + iβ)2.\n2) Résoudre dans C : z2 + (2 −\n3 −i)z + (\n3 −1)(−1 + i) = 0.\nRésolution.\n1) ∆= −3 + 4i = (α + iβ)2 donne\nα2 −β2 = −3\n(1)\n2αβ = 4\n(2)\nα2 + β2 = 5\n(3)\n(1) + (3) : 2α2 = 2, donc α = ±1. Avec (2) : si α = 1 alors β = 2, donc ∆= (1 + 2i)2 (de même\npour α = −1, β = −2).\n2) ∆= (2 −\n3 −i)2 −4(\n3 −1)(−1 + i) = 2 −2\n3 i. En posant ∆= (α + iβ)2 :\nα2 −β2 = 2\n2αβ = −2\nα2 + β2 = 4\n=⇒α2 = 3, α = ±\nAvec α =\n3, β = −1 :\nz1 = −2 +\n3 + i −(\n3 −i)\n= −1 + i,\nz2 = −2 +\n3 + i + (\n3 −i)\n= −1 +\nD’où SC = {−1 + i ; −1 +\n3} .\n7.2\nÉquation az3 + bz2 + cz + d = 0 avec a ̸= 0",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "exercice",
+        "competences": [
+          "résoudre"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 652,
+      "end_line": 688
+    },
+    {
+      "text": "Exercice d’application.\nSoit (E) : z3 −3z2 + (3 −i)z −2(1 −i) = 0. 1) Montrer que (E) admet une solution réelle. 2)\nRésoudre (E).\nRésolution.\n1) Soit z = a ∈R solution : a3 −3a2 + 3a −2 + i(2 −a) = 0, d’où\na3 −3a2 + 3a −2 = 0\n2 −a = 0\n=⇒a = 2,\net a = 2 vérifie bien la première équation. Donc 2 est la solution réelle.\n2) On factorise (méthode de Hörner) : (E) ⇐⇒(z−2)(z2−z+1−i) = 0. Pour z2−z+1−i = 0 :\n∆= 1 −4(1 −i) = −3 + 4i = (1 + 2i)2,\ndonc z = 1 −1 −2i\n= −i et z = 1 + 1 + 2i\n= 1 + i. Ainsi SC = {2 ; −i ; 1 + i} .\n7.3\nRacines n-ièmes de l’unité\nRésoudre zn = 1 :\nzn = 1 ⇐⇒\n|z|n = 1\nn arg z = 0 (2π)\n|z| = 1\narg z = 2kπ\nLes solutions sont\nzk = e i 2kπ\nn ,\nk ∈{0, 1, . . . , n −1}.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "résoudre"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 702,
+      "end_line": 727
+    },
+    {
+      "text": "Exercice d’application.\nDéterminer les racines cubiques de l’unité.\nRésolution.\nPour z3 = 1 : zk = ei 2kπ\n3 , k ∈{0, 1, 2}, soit z0 = 1, z1 = ei2π/3, z2 = ei4π/3. On constate que\nz1 = j, z2 = j, j2 = j et 1 + j + j2 = 0.\nFigure 6 – Racines cubiques de l’unité : les points images z0, z1, z2 forment un triangle équilatéral.\nRemarque 3. Les points images M0, M1, . . . , Mn−1 des solutions sont les sommets d’un polygone\nrégulier à n côtés. Pour n = 3, c’est un triangle équilatéral.\n7.4\nRacines n-ièmes d’un nombre complexe non nul\nRésoudre zn = b, b ∈C∗\\ {1}.\n1er cas (solution particulière connue). Si an = b, en posant Z = z\na on a Zn = 1, donc\nzk = a e i 2kπ\nn ,\nk ∈{0, 1, . . . , n −1}.\nLes solutions s’obtiennent en multipliant a par les racines n-ièmes de l’unité.\nCas général. Soit b = r eiθ (|b| = r, arg b = θ) :\nzn = b ⇐⇒\n|z|n = r\nn arg z = θ (2π)\n|z| =\nn√r\narg z = θ\nn + 2kπ\nLes solutions sont\nzk =\nn√r e i( θ\nn+ 2kπ\nn ),\nk ∈{0, 1, . . . , n −1}.\nRemarque 4. Les points images sont les sommets d’un polygone régulier à n côtés inscrit dans\nle cercle C\n\u0000O,\n|b|\nFigure 7 – Racines 5-ièmes : les points images z0, . . . , z4 forment un pentagone régulier inscrit\ndans le cercle de rayon\n|b|.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "résoudre"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 743,
+      "end_line": 781
+    },
+    {
+      "text": "Exemple. Résoudre z3 = i. Comme i = eiπ/2, on a |i| = 1 et arg i = π\n2 , donc\nzk = e i( π\n6 + 2kπ\n3 ),\nk ∈{0, 1, 2}.\nTransformations du plan et complexes\n8.1",
+      "chunk_type": "exemple",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "exemple",
+        "competences": [
+          "résoudre"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "example"
+      },
+      "start_line": 783,
+      "end_line": 790
+    },
+    {
+      "text": "Définition\nSoit f une transformation du plan qui, à tout point M d’affixe z, associe le point M′ d’affixe\nz′. L’expression de z′ en fonction de z est appelée écriture complexe de f.\n8.2\nTransformations usuelles\nLe plan est muni d’un repère orthonormé direct (O ; ⃗e1,⃗e2) ; b et ω sont des complexes, k et θ\ndes réels non nuls.\nTranslation de vecteur ⃗u(b)\nz′ = z + b\n(identité : z′ = z)\nRotation d’angle θ, centre Ω(ω)\nz′ −ω = eiθ(z −ω) i.e. z′ = eiθz + b\nHomothétie\nrapport\ncentre Ω(ω)\nz′ −ω = k(z −ω) i.e. z′ = kz + b\nRéflexion d’axe (Ox)\nz′ = z\nRéflexion d’axe (Oy)\nz′ = −z\nRéflexion d’axe ∆: y = x\nz′ = i z\nSymétrie centrale de centre O\nz′ = −z",
+      "chunk_type": "definition",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "definition",
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 797,
+      "end_line": 820
+    },
+    {
+      "text": "Exercice d’application.\nReconnaître les transformations et donner leurs éléments caractéristiques : 1) z′ = z + 3 −2i ;\n2) z′ =\n2 + i\n\u0001z.\nRésolution.\n1) Le coefficient de z vaut 1 : c’est une translation de vecteur ⃗u d’affixe 3 −2i.\n2) Le coefficient de z est −\n2 + i\n2 = ei3π/4 (module 1) : c’est une rotation d’angle 3π\n4 et de\ncentre O.\nCours d’après Sunudaara (Terminale S) — Auteurs : Diny Faye & Seyni Ndiaye. Figures extraites\nautomatiquement du PDF source.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "cours",
+        "chapitre": "Nombres complexes",
+        "source": "data/raw/cours/08_Nombres_complexes.pdf",
+        "filename": "08_Nombres_complexes.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "course",
+        "classe": "Terminale",
+        "serie": "S",
+        "document_id": "67e691a7d8d908d5",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 832,
+      "end_line": 845
+    }
+  ]
+}

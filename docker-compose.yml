@@ -1,0 +1,65 @@
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    ports:
+      - "6333:6333"
+    volumes:
+      - qdrant_data:/qdrant/storage
+
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: nuru
+      POSTGRES_PASSWORD: nuru_password
+      POSTGRES_DB: nuru
+    ports:
+      - "5433:5432"   # port hôte 5433 (5432 déjà occupé par un autre projet) ; port interne inchangé
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  # Service Ollama en conteneur : désactivé par défaut (profil "ollama-docker").
+  # Non démarré par un simple "docker compose up". L'environnement local utilise
+  # l'Ollama natif de l'hôte (voir OLLAMA_HOST du service backend ci-dessous).
+  # Pour l'activer malgré tout : docker compose --profile ollama-docker up -d ollama
+  ollama:
+    image: ollama/ollama:latest
+    profiles: ["ollama-docker"]
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    environment:
+      QDRANT_URL: http://qdrant:6333
+      DATABASE_URL: postgresql+psycopg://nuru:nuru_password@postgres:5432/nuru
+      OLLAMA_MODEL: llama3.2:1b
+      # Ollama natif de l'hôte (Windows + Docker Desktop résout host.docker.internal
+      # automatiquement). Aucun conteneur Ollama n'est démarré par défaut.
+      OLLAMA_HOST: http://host.docker.internal:11434
+    depends_on:
+      - qdrant
+      - postgres
+    volumes:
+      - ./data:/app/data
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    ports:
+      - "7860:7860"
+    environment:
+      API_URL: http://backend:8080
+    depends_on:
+      - backend
+
+volumes:
+  qdrant_data:
+  postgres_data:
+  ollama_data:

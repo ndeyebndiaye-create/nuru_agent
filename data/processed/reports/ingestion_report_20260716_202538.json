@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-07-16T20:25:38.278603",
+  "total_files": 1,
+  "processed": 1,
+  "success": 1,
+  "failed": 0,
+  "skipped": 0,
+  "elapsed_time": 12.336966514587402,
+  "files": [
+    {
+      "file": "data\\raw\\cours\\01_Revisions_trigonometrie.pdf",
+      "status": "success",
+      "error": null,
+      "timestamp": "2026-07-16T20:25:26.216123"
+    }
+  ],
+  "pipeline_stats": {
+    "chunks_created": 1,
+    "indexed_chunks": 1,
+    "graph_nodes": 6,
+    "graph_relations": 0
+  }
+}

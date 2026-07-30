@@ -1,0 +1,459 @@
+{
+  "source": "data/raw/exercices/Calcul-Vectoriel.pdf",
+  "timestamp": "2026-07-19T16:56:33.296896",
+  "chunks": [
+    {
+      "text": "Exercice 1\nOn considère, dans l'espace, les points A(0 ; −1 ; −1), B(6 ; 1 ; 9) et C(1 ; 0 ; 0)\n1. Déterminer une équation cartésienne du plan P, passant par A et dont un vecteur normal est n\n(3 ; 1 ; 4).\n2. Déterminer une équation de la sphère de diamètre [AB]. Préciser les coordonnées de son centre Ω et son\nrayon R.\n3. Soit G le barycentre du système {(A, 1) ; (B, 1) ; (C, 2)}\na) Déterminer les coordonnées du point G.\nb) Déterminer l'ensemble E des points M tels que les vecteurs MA\n+ MB\n+ 2 MC\net MA\nsoient colinéaires.\nc) Donner une représentation paramétrique de E.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Calcul-Vectoriel.pdf",
+        "filename": "Calcul-Vectoriel.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2acb16cd2ddb17b4",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 10,
+      "end_line": 23
+    },
+    {
+      "text": "Exercice 2\nSoit (O, i\n, j\n, k\n) un repère orthonormal direct de l'espace.\nOn donne les points A(1 ; 2 ; −3), B(0 ; −1 ; 2) et C(3 ; 1 ; −1)\n1. Déterminer une équation du plan P passant par A, B et C.\n2. Déterminer une équation de la sphère S de diamètre [AB].\n3. On considère l'équation x2 + y2 + z2 − 2x + 4y + 6z − 11 = 0. Cette équation définit-elle une sphère ? Si oui,\npréciser son centre et son rayon.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Calcul-Vectoriel.pdf",
+        "filename": "Calcul-Vectoriel.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2acb16cd2ddb17b4",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 27,
+      "end_line": 36
+    },
+    {
+      "text": "Exercice 3\nABCD est un rectangle du plan, de diagonales [AC] et [DB] de longueur a.\n1. m est un réel non nul. Gm est le barycentre de {(A, m), (B, −1), (C, 1)}\na) Préciser la position de G1.\nb) Quel est l'ensemble\n\u0000  des points Gm lorsque m décrit \u0001 ?\n2. Quel est l'ensemble\n\u0001  des points M du plan tel que || MA\n− MB\n+ MC\n|| = a ?\n3. Quel est l'ensemble\n\u0001\u0003\u0002 des points M du plan tels que le vecteur MA\n− MB\n+ MC\nsoit colinéaire à AB\n4. Faire une figure et représenter les ensembles\n\u0000 ,\n\u0001  et\n\u0001\u0003\u0002.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Calcul-Vectoriel.pdf",
+        "filename": "Calcul-Vectoriel.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2acb16cd2ddb17b4",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 45,
+      "end_line": 64
+    },
+    {
+      "text": "Exercice 4\nABCD est un carré.\n1. Quel est l'ensemble E des points M du plan tels que || 2 MA\n−MB\n+ MC\n|| = || AB\n|| ?\n2. Quel est l'ensemble E' des points M du plan tels que les vecteurs  2 MA\n−MB\n+ MC\net MA\n+ 2 MB\n− MC\nsoient colinéaires ?\n3. Quel est l'ensemble E'' des points M du plan tels que || 2 MA\n−MB\n+ MC\n|| = || MA\n+ 2 MB\n− MC\n|| ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Calcul-Vectoriel.pdf",
+        "filename": "Calcul-Vectoriel.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2acb16cd2ddb17b4",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 84,
+      "end_line": 104
+    },
+    {
+      "text": "Exercice 5\nOn considère, dans le plan ℘, un triangle ABC non aplati. B' désigne le milieu de [AC], C' le milieu de [AB], D le\nest le barycentre du système {(A, 3), (B, 2)} et I le barycentre du système {(A, 2), (B, 2), (A, 1), (C, 1)}.\n1. Montrer que I est le barycentre du système {(B', 1), (C', 2) } et également du système {(D, 5), (C, 1)}\nEn déduire que I est le point d'intersection des droites (B'C') et (CD).\n2. La droite (AI) coupe la droite (BC) en E. Déterminer la position de E sur la droite (BC).\n3. B et C restent fixes. Le point A se déplace dans le plan ℘, le segment [AE], où E est le point défini par dans\nla question 2, conservant une longueur constante. Déterminer les lieux géométriques des point I et D. (On\npourra faire apparaître des homothéties).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Calcul-Vectoriel.pdf",
+        "filename": "Calcul-Vectoriel.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2acb16cd2ddb17b4",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 108,
+      "end_line": 116
+    },
+    {
+      "text": "Exercice 6 Théorème des trois perpendiculaires\nSoit d une droite contenue dans un plan P. Un point A extérieur à P se projette orthogonalement en B sur P. On\nnote C le projeté orthogonale de B sur d. Démontrer que (AC) et d sont perpendiculaires.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Calcul-Vectoriel.pdf",
+        "filename": "Calcul-Vectoriel.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2acb16cd2ddb17b4",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 117,
+      "end_line": 119
+    },
+    {
+      "text": "Exercice 7 Tétraèdre orthocentrique\nPréliminaire : démontrer la relation d'Euler : pour tous points A, B, C et D de l'espace :\n. BC\n+ DB\n. CA\n+ DC\n. AB\n= 0\nEn déduire que si dans un tétraèdre, deux paires d'arêtes opposées sont orthogonales, alors les deux arêtes\nrestantes sont orthogonales.\nUn tétraèdre qui a ses arêtes opposées orthogonales est dit orthocentrique.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Calcul-Vectoriel.pdf",
+        "filename": "Calcul-Vectoriel.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2acb16cd2ddb17b4",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 127,
+      "end_line": 137
+    },
+    {
+      "text": "Propriété du tétraèdre orthocentrique :\nSoit ABCD un tétraèdre. On note A', B', C' et D' les projetés orthogonaux de A, B, C et D sur les faces opposées.\n(Les droites (AA'), (BB'), (CC') et (DD') sont les hauteurs du tétraèdre)\n1. On suppose que ABCD est un tétraèdre orthocentrique.\na) Démontrer que (CD) est perpendiculaire au plan (ABA'). En déduire que les droites (CD) et (BA') sont\nperpendiculaires. On notera K leur intersection.\nb) Démontrer, de même que les droites (BC) et (DA') sont perpendiculaires. En déduire que A' est\nl'orthocentre du triangle BCD.\nc) Démontrer, de même, que B' est l'orthocentre du triangle ACD.\nd) Démontrer que (AB') passe par K. (Utiliser le théorème des trois perpendiculaires)\nEn déduire que les droites (AA') et (BB') sont concourantes. (On notera H leur intersection)\ne) Démontrer que les quatre hauteurs du tétraèdre sont concourantes en H.\n(Le point H s'appelle l'orthocentre du tétraèdre)\n2. Étude d'une réciproque : on suppose que A' est l'orthocentre du triangle ABCD. Démontrer que le tétraèdre\nABCD est orthocentrique.",
+      "chunk_type": "theoreme",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Calcul-Vectoriel.pdf",
+        "filename": "Calcul-Vectoriel.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2acb16cd2ddb17b4",
+        "chunk_type": "theoreme",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "concept"
+      },
+      "start_line": 141,
+      "end_line": 155
+    },
+    {
+      "text": "Exercice 8\nOn considère les deux plans (P) et (Q) dont les équations sont données ci-dessous :\n(P) : −2x + 6y − 2z + 3 = 0\n(Q) : 3x − 9y + 3z + 6 = 0\n1. Donner un vecteur normal n\nau plan (P) et un vecteur normal m\nau plan (Q).\n2. Les plans (P) et (Q) sont-ils parallèles ou non ? (Justifier)\n3. Soit A(1 ; 1 ; 0). Le point A est-il dans (P) ? Dans (Q) ? Qu'en déduisez vous sur les plans (P) et (Q) ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Calcul-Vectoriel.pdf",
+        "filename": "Calcul-Vectoriel.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2acb16cd2ddb17b4",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 160,
+      "end_line": 168
+    },
+    {
+      "text": "Exercice 9\nOn considère trois plans (P), (Q) et (R) dont les équations sont données ci-dessous :\n(P) : x + y − z + 1 = 0\n(Q) : 2x − y + z + 2 = 0\n(R) : x − 2y − z = 0\n1. Les plans (P) et (Q) sont-ils perpendiculaires ?\n2. Les plans (P) et (R) sont-ils perpendiculaires ?\n3. Les plans (Q) et (R) sont-ils perpendiculaires ?\n4. Déterminer les coordonnées du point A d'intersection des trois plans (P), (Q) et (R).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Calcul-Vectoriel.pdf",
+        "filename": "Calcul-Vectoriel.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2acb16cd2ddb17b4",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 169,
+      "end_line": 177
+    },
+    {
+      "text": "Exercice 10\nDans un repère orthogonal (O,\n\u0000\u0001\u0000\u0000i j k\n, ,\n) de l'espace, on considère les points suivants :\nA(6 ; 0 ; 0), B(0 ; 6 ; 0), C(0 ; 0 ; 4), D(4 ; 0 ; 0), E(0 ; 4 ; 0) et F(0 ; 0 ; 8) représentés ci-dessous.\n1. Déterminer une équation du plan (ABC) sachant qu'un\nde ses vecteurs normaux est n\n(2 ; 2 ; 3).\n2. On veut déterminer une équation du plan (DEF). Mais\non ne connaît pas de vecteur normal au plan (DEF).\nDéterminer des réels a, b et c tels que l'équation :\nax + by + cz = 8\nsoit une équation du plan (DEF).\n3. Démontrer que les plans (ABC) et (DEF) sont sécants.\n4. Résoudre le système suivant :\nOn notera S l'ensemble de tous ses triplets solutions.\n5. À quoi correspond géométriquement l'ensemble S ?\n6. Les points I(0 ; 3 ; 2) et J(3 ; 0 ; 2) sont-ils des éléments\nde S ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Calcul-Vectoriel.pdf",
+        "filename": "Calcul-Vectoriel.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2acb16cd2ddb17b4",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "montrer",
+          "démontrer",
+          "résoudre"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 217,
+      "end_line": 236
+    },
+    {
+      "text": "Exercice 11\nDans un repère orthonormé direct de l'espace, on considère les points :\nA(0 ; 0 ; 0),  B(1 ; 0 ; 0), C(1 ; 1 ; 0), D(0 ; 1 ; 0)\nE(0 ; 0 ; 1), F(1 ; 0 ; 1), G(1 ; 1 ; 1), H(0 ; 1 ; 1)\nAinsi, ABCDEFGH est un cube de côté 1.\nOn note I le milieu de [AB] et J le milieu de [BC].\nLe but principal de l'exercice est d'étudier l'intersection des plans (CFH) et (IJG)\n1) Sans justifications, donner les équations des plans (ABCD), (ABFE) et (ADHE).\n2) Étude du plan (CFH).\na) Déterminer une équation cartésienne du plan (CFH).\nb) En déduire que AG\nest un vecteur normal au plan (CFH).\n3) Étude du plan (IJG)\na) Déterminer une équation cartésienne du plan (IJG).\nb) Le point E appartient-il au plan (IJG) ?\n4) Étude de l'intersection des plans (CFH) et (IJG)\na) Résoudre le système\n0 . On notera S l'ensemble de ses solutions. Que représente S ?\nb) Les points U( 1\n2 ; 1\n2 ; 1) et V(1 ; 2\n3 ; 1\n3 ) sont-ils des éléments de S ?\nc) Représenter l'ensemble S.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Calcul-Vectoriel.pdf",
+        "filename": "Calcul-Vectoriel.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2acb16cd2ddb17b4",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "résoudre"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 288,
+      "end_line": 311
+    },
+    {
+      "text": "Exercice 12\nDans un repère orthonormé (O, i\n, j\n, k\n) de l'espace, on considère les points :\nA(0 ; 2 ; 5), B(3 ; 0 ; 5) et C(3 ; 2 ; 0)\n1. Placer les points dans le repère. (On dessinera le repère avec des unités au choix)\n2. Déterminer une équation du plan (ABC).\n3. Déterminer une équation du plan (P) passant par C et de vecteur normal AB",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Calcul-Vectoriel.pdf",
+        "filename": "Calcul-Vectoriel.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2acb16cd2ddb17b4",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 319,
+      "end_line": 327
+    },
+    {
+      "text": "Exercice 13\nOn considère les deux plans (P) et (Q) dont les équations sont données ci-dessous :\n(P) : x + 3y − z + 1 = 0\n(Q) : 2x + 6y + αz + 5 = 0\n1. Donner un vecteur normal n\nau plan (P) et un vecteur normal m\nau plan (Q).\n2. Comment choisir α pour avoir (P) et (Q) perpendiculaires ?\n3. Comment choisir α pour avoir (P) et (Q) parallèles ? Les plans (P) et (Q) sont-ils alors confondus ?\n4. Dans cette question, on suppose que α = 1. Les plans (P) et (Q) sont donc sécants suivant une droite (D).\nRésoudre le système\n0 .\nDéterminer deux points A et B de la droite (D). En déduire un vecteur directeur v\nde la droite (D).",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Calcul-Vectoriel.pdf",
+        "filename": "Calcul-Vectoriel.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2acb16cd2ddb17b4",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer",
+          "résoudre"
+        ],
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 356,
+      "end_line": 369
+    },
+    {
+      "text": "Exercice 14\nOn considère trois plans (P), (Q) et (R) dont les équations sont données ci-dessous :\n(P) : 2x − y + 3z − 1 = 0\n(Q) : 3x + 2y − z + 2 = 0\n(R) : x − 3y + 2z − 3 = 0\nOn admet que ces trois plans se coupent en unique point A. Déterminer les coordonnées de A.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Calcul-Vectoriel.pdf",
+        "filename": "Calcul-Vectoriel.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2acb16cd2ddb17b4",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 370,
+      "end_line": 375
+    },
+    {
+      "text": "Exercice 15\nSoit (P) un plan de vecteur normal n\net (D) une droite de vecteur directeur v\n1. Dans cette question, on suppose que la droite (D) est parallèle au plan (P). Que vaut n\n. v\n? Illustrer.\n2. On suppose maintenant que n\n. v\n≠ 0. Que peut-on en déduire sur la position relative de la droite (D) et du\nplan (P) ? Illustrer.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Calcul-Vectoriel.pdf",
+        "filename": "Calcul-Vectoriel.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2acb16cd2ddb17b4",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 386,
+      "end_line": 395
+    },
+    {
+      "text": "Exercice 16\nLe but de cet exercice est d'étudier les différentes positions relatives de trois plans dans l'espace.\nOn note S le système constitué des équations des trois plans (P), (Q) et (R).\nExaminer chacune des quatre situations ci-dessous et indiquer (par une brève explication) si le système S admet\naucun, un seul ou une infinité de triplet(s) solution(s).\n(R)\n(Q)\n(P)\n(R)\n(Q)\n(P)\nSITUATION A\nPlan (R) sécant à deux plans (P) et (Q) strictement\nparallèles\nSITUATION B :\nDeux plans (Q) et (R) sécants suivant une droite (D)\nelle-même sécante à un plan (P)\nSITUATION D\nTrois plans sécants deux à deux suivant trois droites\nstrictement parallèles\nSITUATION C\nTrois plans sécants suivant une même droite (D)\n(Q)\n(R)\n(P)\n(D)\n(R)\n(Q)\n(P)\n(D)",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "exercices",
+        "source": "data/raw/exercices/Calcul-Vectoriel.pdf",
+        "filename": "Calcul-Vectoriel.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "serie": "S1",
+        "chapitre": "Non spécifié",
+        "serie_nom": "Sciences Mathématiques",
+        "document_id": "2acb16cd2ddb17b4",
+        "chunk_type": "exercice",
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 399,
+      "end_line": 428
+    }
+  ]
+}

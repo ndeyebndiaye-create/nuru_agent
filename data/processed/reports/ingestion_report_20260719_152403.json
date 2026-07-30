@@ -1,0 +1,633 @@
+{
+  "timestamp": "2026-07-19T15:24:03.759874",
+  "total_files": 103,
+  "processed": 103,
+  "success": 0,
+  "failed": 2,
+  "skipped": 101,
+  "elapsed_time": 0.7828354835510254,
+  "files": [
+    {
+      "file": "data/raw/cours/01_Revisions_trigonometrie.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:02.979009"
+    },
+    {
+      "file": "data/raw/cours/02_Derivabilite.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:02.981092"
+    },
+    {
+      "file": "data/raw/cours/03_Limites_et_continuite.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:02.982780"
+    },
+    {
+      "file": "data/raw/cours/04_Fonctions_exponentielles.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:02.984781"
+    },
+    {
+      "file": "data/raw/cours/05_Fonctions_logarithmes.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:02.986929"
+    },
+    {
+      "file": "data/raw/cours/06_Calcul_integral.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:02.988991"
+    },
+    {
+      "file": "data/raw/cours/07_Suites_numeriques.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:02.990438"
+    },
+    {
+      "file": "data/raw/cours/08_Nombres_complexes.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:02.993691"
+    },
+    {
+      "file": "data/raw/cours/09_Similitudes_planes_directes.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:02.995463"
+    },
+    {
+      "file": "data/raw/cours/10_Probabilites.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:02.997494"
+    },
+    {
+      "file": "data/raw/cours/11_Denombrement.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:02.999232"
+    },
+    {
+      "file": "data/raw/cours/12_Courbes_parametrees.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.001315"
+    },
+    {
+      "file": "data/raw/cours/13_Arithmetique.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.003195"
+    },
+    {
+      "file": "data/raw/cours/14_Equations_differentielles.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.005259"
+    },
+    {
+      "file": "data/raw/cours/15_Geometrie_dans_espace.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.007129"
+    },
+    {
+      "file": "data/raw/cours/16_Transformations_isometries.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.009736"
+    },
+    {
+      "file": "data/raw/cours/17_Les_angles.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.011711"
+    },
+    {
+      "file": "data/raw/cours/18_Fonctions_scalaires_vectorielles_Leibniz.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.013955"
+    },
+    {
+      "file": "data/raw/cours/19_Coniques.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.015377"
+    },
+    {
+      "file": "data/raw/cours/20_Etude_de_fonction.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.017202"
+    },
+    {
+      "file": "data/raw/cours/21_Limites_Continuite.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.019060"
+    },
+    {
+      "file": "data/raw/cours/22_Primitive.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.020399"
+    },
+    {
+      "file": "data/raw/cours/23_Derivation_etudes_de_fonctions.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.022062"
+    },
+    {
+      "file": "data/raw/exercices/APPLICATION-AFF.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.022855"
+    },
+    {
+      "file": "data/raw/exercices/Arithmetique.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.028174"
+    },
+    {
+      "file": "data/raw/exercices/BARYCENTRE-ET-ANGLE-ORIENTE-TD2-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.031499"
+    },
+    {
+      "file": "data/raw/exercices/Barycente-TD-1-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.034386"
+    },
+    {
+      "file": "data/raw/exercices/Barycentre-TD4-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.035189"
+    },
+    {
+      "file": "data/raw/exercices/Barycentre-TD5-TS1-1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.036044"
+    },
+    {
+      "file": "data/raw/exercices/Barycentre-TD5-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.036926"
+    },
+    {
+      "file": "data/raw/exercices/Barycentre-TD6-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.038249"
+    },
+    {
+      "file": "data/raw/exercices/Barycentre-et-angles-orientés-TD3-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.038995"
+    },
+    {
+      "file": "data/raw/cours/COURS-Maths-TS2-Tle-D.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.050167"
+    },
+    {
+      "file": "data/raw/exercices/Calcul-Vectoriel.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.050903"
+    },
+    {
+      "file": "data/raw/exercices/Coniques-et-Equations-parametriques.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.052039"
+    },
+    {
+      "file": "data/raw/cours/Coniques.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.055400"
+    },
+    {
+      "file": "data/raw/exercices/Courbe-Parametres-3.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.056743"
+    },
+    {
+      "file": "data/raw/exercices/Courbes-Parametres-2.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.057623"
+    },
+    {
+      "file": "data/raw/exercices/Courbes-paramétrées-TD1-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.058921"
+    },
+    {
+      "file": "data/raw/cours/Cours-TS2-Mr-Babacar-DJITTE.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.064941"
+    },
+    {
+      "file": "data/raw/exercices/Denombrement-TD1-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.066328"
+    },
+    {
+      "file": "data/raw/exercices/Denombrement-TD2-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.067255"
+    },
+    {
+      "file": "data/raw/exercices/Devoirs-TS-1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.072848"
+    },
+    {
+      "file": "data/raw/exercices/Devoirs-TS-Analyse.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.078540"
+    },
+    {
+      "file": "data/raw/exercices/Devoirs-TS-Divers-1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.083468"
+    },
+    {
+      "file": "data/raw/exercices/EXO-APPLICATION-AFF.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.084666"
+    },
+    {
+      "file": "data/raw/exercices/Equation-Differentielle-TS1-TD.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.085652"
+    },
+    {
+      "file": "data/raw/exercices/Equations-Differentielle-TS-.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.087220"
+    },
+    {
+      "file": "data/raw/exercices/Etude-Fonctions-Continues.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.088680"
+    },
+    {
+      "file": "data/raw/exercices/Etude-Fonctions-Definies-Par-intervalle.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.089872"
+    },
+    {
+      "file": "data/raw/exercices/Etude-Fonctions-Derivables.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.092181"
+    },
+    {
+      "file": "data/raw/exercices/Etude-Fonctions-Primitives-TD1-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.093478"
+    },
+    {
+      "file": "data/raw/exercices/Etude-Fonctions-derivations-7.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.094374"
+    },
+    {
+      "file": "data/raw/exercices/Etudes-Fonctions-Exponentielles-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.095456"
+    },
+    {
+      "file": "data/raw/exercices/Exercices-arithmetiques-site-.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.102592"
+    },
+    {
+      "file": "data/raw/exercices/Fasicule_TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.109666"
+    },
+    {
+      "file": "data/raw/cours/Fasicule_TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.118570"
+    },
+    {
+      "file": "data/raw/cours/FicheTS.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.121351"
+    },
+    {
+      "file": "data/raw/exercices/Fonction-Numeriques-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.122344"
+    },
+    {
+      "file": "data/raw/exercices/GEOMETRIE-DANS-Lespace-TD2.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.122890"
+    },
+    {
+      "file": "data/raw/cours/GU_MATHS_10_OCT.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.127350"
+    },
+    {
+      "file": "data/raw/exercices/Geometrie-Dans-Lespace-Ts1-TD3.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.129210"
+    },
+    {
+      "file": "data/raw/exercices/Geometrie-Spatiale-TD5.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.129724"
+    },
+    {
+      "file": "data/raw/exercices/INTEGRALE-TD3.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.131216"
+    },
+    {
+      "file": "data/raw/exercices/Integrale-1S1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.135363"
+    },
+    {
+      "file": "data/raw/exercices/Integrale-TD1-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.136747"
+    },
+    {
+      "file": "data/raw/exercices/Integrale-TD2-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.137960"
+    },
+    {
+      "file": "data/raw/exercices/Integrales-5-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.139055"
+    },
+    {
+      "file": "data/raw/exercices/Integrales-7.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.140130"
+    },
+    {
+      "file": "data/raw/exercices/Nombres-Complexe-TD1-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.141341"
+    },
+    {
+      "file": "data/raw/exercices/Probabilité-TD1-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.142201"
+    },
+    {
+      "file": "data/raw/exercices/Problemes-integrales-1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.143159"
+    },
+    {
+      "file": "data/raw/exercices/Problème-1-1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.144226"
+    },
+    {
+      "file": "data/raw/exercices/Produit-Vectoriel-.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.145697"
+    },
+    {
+      "file": "data/raw/cours/Programme_Maths-LS.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.149965"
+    },
+    {
+      "file": "data/raw/exercices/S1-2017_compots1_ljfkennedy.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.154045"
+    },
+    {
+      "file": "data/raw/exercices/S1-2017_compots1_ljfkennedy_2.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.158017"
+    },
+    {
+      "file": "data/raw/exercices/S1-2017_compots1_ts3_iastlouis.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.161762"
+    },
+    {
+      "file": "data/raw/exercices/S1-2017_compots2_iadiourbel.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.167743"
+    },
+    {
+      "file": "data/raw/exercices/S1-Bac-Blanc-LBD-2017.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.170440"
+    },
+    {
+      "file": "data/raw/exercices/S1-Bac-Blanc-LPA-2017.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.175098"
+    },
+    {
+      "file": "data/raw/exercices/S1-Bac-Blanc-MEMB-2017.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.178922"
+    },
+    {
+      "file": "data/raw/exercices/S1-Composition-IA-AMB-KOLDA-2017.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.184522"
+    },
+    {
+      "file": "data/raw/exercices/S1-Composition-IA-Diourbel-2017.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.188241"
+    },
+    {
+      "file": "data/raw/exercices/Similitudes-3.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.189056"
+    },
+    {
+      "file": "data/raw/exercices/Suites-Numeriques-1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.190207"
+    },
+    {
+      "file": "data/raw/exercices/Suites-Numeriques-3.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.191283"
+    },
+    {
+      "file": "data/raw/exercices/TD1-Nombres-complexes-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.199944"
+    },
+    {
+      "file": "data/raw/exercices/TD1-Probabilite-Corrige-TS1.pdf",
+      "status": "failed",
+      "error": "Aucun chunk créé",
+      "timestamp": "2026-07-19T15:24:03.576893"
+    },
+    {
+      "file": "data/raw/exercices/TD1-Probabilite-Exercices-TS1.pdf",
+      "status": "failed",
+      "error": "Aucun chunk créé",
+      "timestamp": "2026-07-19T15:24:03.620838"
+    },
+    {
+      "file": "data/raw/exercices/TD1-Suites-numeriques-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.632814"
+    },
+    {
+      "file": "data/raw/exercices/TD2-Fonction-exponentielle-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.650308"
+    },
+    {
+      "file": "data/raw/exercices/TD3-Fonction-ln-TS1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.678897"
+    },
+    {
+      "file": "data/raw/exercices/Transformation-Spatiale-Ts1-TD1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.681077"
+    },
+    {
+      "file": "data/raw/exercices/Transformation-de-l-espae-TD6.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.682292"
+    },
+    {
+      "file": "data/raw/cours/cours-ts1-IA-SEHDIOU.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.738768"
+    },
+    {
+      "file": "data/raw/exercices/isométrie-5.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.740636"
+    },
+    {
+      "file": "data/raw/exercices/isométrie-du-plan-et-application-affine-from-dialla.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.742271"
+    },
+    {
+      "file": "data/raw/exercices/isométrieplane.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.743835"
+    },
+    {
+      "file": "data/raw/exercices/problemes-Syntese-2-1.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.745713"
+    },
+    {
+      "file": "data/raw/exercices/recueil-dannales-sur-les-suites-num.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.748380"
+    },
+    {
+      "file": "data/raw/exercices/schema-decisionel-denombrement-ou-analyse-combinatoire.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.749789"
+    },
+    {
+      "file": "data/raw/cours/sujet-bac-s1-s1a-s3-maths-2023-senegal.pdf",
+      "status": "skipped",
+      "error": null,
+      "timestamp": "2026-07-19T15:24:03.759746"
+    }
+  ],
+  "pipeline_stats": {
+    "chunks_created": 0,
+    "indexed_chunks": 0
+  }
+}

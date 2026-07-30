@@ -1,0 +1,279 @@
+{
+  "source": "data/raw/exercices/Denombrement-TD1-TS1.pdf",
+  "timestamp": "2026-07-19T16:56:34.208019",
+  "chunks": [
+    {
+      "text": "Exercice 1 :\nDans une classe de 25 élèves, 20 élèves étudient l’anglais 15 étudient l’ italien, 17 étudient\nallemand. Sachant que chaque élève étudie au moins deux de ces trois langues vivantes et de\nplus chacun étudie au moins l’ une des deux langues anglo-saxonnes, déterminer combien d’\nélèves étudient les deux langues.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Dénombrement",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Denombrement-TD1-TS1.pdf",
+        "filename": "Denombrement-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "0570848f3932e03c",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 4,
+      "end_line": 8
+    },
+    {
+      "text": "Exercice 2\n1. Décomposer 360 en facteurs premiers\n2. Soient les ensembles  A = {1 ; 2 ; 22 ; 23 } , B = {1 ; 3 ; 32 } et C = {1 ; 5 }\nMontrer que tout diviseur de 360 est un élément  de A×B×C. Quelle est le nombre de\ndiviseurs de 360.\n3. Généralisation : le nombre N se décomposant en facteurs premiers sous forme :\nN =\n. Combien de diviseurs admet – il ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Dénombrement",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Denombrement-TD1-TS1.pdf",
+        "filename": "Denombrement-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "0570848f3932e03c",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 15,
+      "end_line": 22
+    },
+    {
+      "text": "Exercice 3\na) Un groupe de 10 personnes, se présente à un concours. Quelle est le nombre de sélections\ndifférentes qu’ on peut faire ?\nb) Une  personne entre dans une pâtisserie ne sachant pas si les gâteaux qu’ elle verra lui\nconviendront. Elle observe 10 types de gâteaux . Combien de choix différents peut - elle\nfaire ?\nc) On  veut ranger sept objets dans trois tiroirs  A , B , C.  Combien de rangements différents\npeut -on faire ? ( un tiroir pouvant contenir 0, 1 ou plusieurs objets)\nd) On tape au hasard  sur le clavier d’ un ordinateur  des mots de 4 lettres . Quelle est le\nnombre de mots différents qu’ on peut former?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Dénombrement",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Denombrement-TD1-TS1.pdf",
+        "filename": "Denombrement-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "0570848f3932e03c",
+        "chunk_type": "exercice",
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 23,
+      "end_line": 32
+    },
+    {
+      "text": "Exercice 4\n1. Une classe  d’ un établissement scolaire groupe 32 élèves. Un cours facultatif de latin est\norganisé, de combien de façons différentes  peut être constitué le groupe des élèves assistant à\nce cours ?\n2. En fin d’ année, on affecte ces élèves à d’ autres  établissements pour y passer leurs\nexamens.  Trois  établissements  sont  susceptibles  d’être  choisis.  Quel  est  le  nombre  d’\naffectations différentes qu’ on peut faire ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Dénombrement",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Denombrement-TD1-TS1.pdf",
+        "filename": "Denombrement-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "0570848f3932e03c",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 33,
+      "end_line": 39
+    },
+    {
+      "text": "Exercice 5\nSoit  les  arrangements  de  3 chiffres  différentes  choisie  parmi  les  dix  symboles  de la\nnumérotation décimale.\n1. Combien d’ arrangements peut on ainsi faire ?\n2. Ces  arrangements sont utilisés pour numéroter les billets d’ une loterie dont tous les billets\nsont vendues :seul les billets dont les numéros se  terminent par 02 ; 60 et 80 gagnent un lot.\na.   Quel est le nombre de billets gagnants ?\nb. Quel est le nombre de billets comportant le  chiffre 0 ?\nc.  Une personne achète 2 billets dont les numéros contiennent le chiffre 0. Quel est le\nnombre de choix lui permettant de gagner un lot et un seul ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Dénombrement",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Denombrement-TD1-TS1.pdf",
+        "filename": "Denombrement-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "0570848f3932e03c",
+        "chunk_type": "exercice",
+        "difficulty_level": "advanced",
+        "chunk_category": "exercise"
+      },
+      "start_line": 40,
+      "end_line": 49
+    },
+    {
+      "text": "Exercice 6\nUn sac contient 3 jetons blanches et 2 jetons noirs. De combien de façons différentes peut -on\nextraire simultanément du sac 3 jetons pour que ces 3 jetons comptent :\n1) un jeton noir et un seul           2) deux jetons noirs                    3) au moins un jeton noir\n4) au plus deux jetons blanches  5) exactement deux jetons blanches  6) aucune jeton noir.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Dénombrement",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Denombrement-TD1-TS1.pdf",
+        "filename": "Denombrement-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "0570848f3932e03c",
+        "chunk_type": "exercice",
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 54,
+      "end_line": 58
+    },
+    {
+      "text": "Exercice 7\n1. On tire successivement et sans remise quatre boules d’un sac contenant dix boules : trois\nvertes et sept jaunes.  Déterminer le nombre de tirages permettant d’obtenir :\na) 4 boules jaunes          b)  4 boules vertes         c) 3 jaunes et 1 verte dans cet ordre\nd) 3 jaunes et 1 verte      d) 2 jaunes et 2 vertes dans cet ordre   e)  2 jaunes et 2 vertes\nau moins 3 vertes     g) au plus 3 jaunes\n2. Reprendre les questions  en supposant que le tirage est effectué avec remise.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Dénombrement",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Denombrement-TD1-TS1.pdf",
+        "filename": "Denombrement-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "0570848f3932e03c",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 60,
+      "end_line": 66
+    },
+    {
+      "text": "Exercice  8\nOn place cinq lettres adresser à 5 destinataires deux à deux distincts dans cinq enveloppes\ncontenant déjà leurs adresses. Quelle est le nombre de répartitions telles qu’aucune personne\nne reçoive la lette qui lui est destinée ?",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Dénombrement",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Denombrement-TD1-TS1.pdf",
+        "filename": "Denombrement-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "0570848f3932e03c",
+        "chunk_type": "exercice",
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 67,
+      "end_line": 70
+    },
+    {
+      "text": "Exercice  9\n1) en calculant de deux manières différentes le nombre de tirages simultanés de n boules\ndans une urne contenant  n boules rouges et n boules blanches, démontrer que :\n2) Démontrer les relations  suivantes.\np k\nn k\nn k\np k",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Dénombrement",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Denombrement-TD1-TS1.pdf",
+        "filename": "Denombrement-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "0570848f3932e03c",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 172,
+      "end_line": 179
+    },
+    {
+      "text": "Exercice  10\n1) Démontrer que :\nEn déduire les formules sommatoires suivantes :\n1)(2\nn n\nn n\nn n\n2) Démontrer que :\np c\n1 ! 1\n3) en utilisant l’ identité \np q\noù p et q sont des entiers naturels, pour\ndémontrer que\np i\np q\nc c",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Dénombrement",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Denombrement-TD1-TS1.pdf",
+        "filename": "Denombrement-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "0570848f3932e03c",
+        "chunk_type": "exercice",
+        "competences": [
+          "montrer",
+          "démontrer"
+        ],
+        "difficulty_level": "basic",
+        "chunk_category": "exercise"
+      },
+      "start_line": 299,
+      "end_line": 315
+    },
+    {
+      "text": "Exercice 11\nOn considère le damier suivant et on dispose de trois\nmachines M1 , M2 et M3 qui placent des jetons dans les\ncases du damier .\nM1 place au hasard un jeton dans une case libre\nM2 place au hasard un jeton dans une autre case libre\nM3 place au hasard un jeton dans une autre case libre\n1) Au terme de cette opération, déterminer le nombre\nde façon d’ avoir trois jetons non alignés.\n2) On suppose que M1 est en panne partielle et ne peut\nplacer que dans des cases situées aux coins du damier ; Quelle est le nombre de façons\nd’ avoir trois jetons non alignés.",
+      "chunk_type": "exercice",
+      "metadata": {
+        "discipline": "mathématiques",
+        "pays": "Sénégal",
+        "langue": "français",
+        "type_document": "TD",
+        "chapitre": "Dénombrement",
+        "serie": "TS1",
+        "source": "data/raw/exercices/Denombrement-TD1-TS1.pdf",
+        "filename": "Denombrement-TD1-TS1.pdf",
+        "extension": ".pdf",
+        "type_document_normalized": "exercise",
+        "classe": "Terminale",
+        "document_id": "0570848f3932e03c",
+        "chunk_type": "exercice",
+        "competences": [
+          "déterminer"
+        ],
+        "difficulty_level": "intermediate",
+        "chunk_category": "exercise"
+      },
+      "start_line": 317,
+      "end_line": 328
+    }
+  ]
+}
